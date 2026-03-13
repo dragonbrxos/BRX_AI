@@ -302,17 +302,37 @@
       "a1cf28b5466954fe",
       "8877e1636fb0daeb",
       "3668856c3eaae432"
+    ],
+    "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao": [
+      "387ba028ce2b5ba3",
+      "56035d301939d665",
+      "fddd494ddcfd2853",
+      "8e4b815136a1f3ef",
+      "f49370fcf9709c39",
+      "fd32900b19bfe730",
+      "fb7d5af28da054ea",
+      "5befcafa9b362377",
+      "eab3d9908b578b08",
+      "b4f160cd2adc34d3",
+      "34d836fb8cb4868a",
+      "45552b3b328ef8b0",
+      "b69d2586899a32cb",
+      "1e072d93e75830d6",
+      "95877163a42915fc",
+      "211c70239dccbf08",
+      "2fa89d61df131db7",
+      "83e5031751d819a9"
     ]
   },
   "estatisticas": {
-    "ciclos": 12,
-    "nascimentos": 277,
+    "ciclos": 13,
+    "nascimentos": 295,
     "mortes": 0,
-    "refinamentos": 48,
-    "pesquisas_realizadas": 12,
+    "refinamentos": 51,
+    "pesquisas_realizadas": 13,
     "arquivos_gerados": 7
   },
-  "topico_atual": "inteligencia artificial explicavel algoritmos implementacao",
+  "topico_atual": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -325,7 +345,8 @@
     "sistemas multiagentes",
     "sistemas multiagentes desafios limitacoes",
     "inteligencia artificial explicavel",
-    "inteligencia artificial explicavel algoritmos implementacao"
+    "inteligencia artificial explicavel algoritmos implementacao",
+    "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao"
   ],
-  "timestamp": "2026-03-13T13:44:36.124745"
+  "timestamp": "2026-03-13T13:45:02.175751"
 }
