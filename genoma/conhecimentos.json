@@ -2497,5 +2497,222 @@
       "https://pt.wikipedia.org/wiki/Ética",
       "https://www.dicio.com.br/etica/"
     ]
+  },
+  {
+    "id": "01cc47df2ffc141c",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: etica IA responsavel\n\nEvolucao: ## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ........\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:00.455239",
+    "modificado": "2026-03-13T14:01:01.403523",
+    "conexoes": [
+      {
+        "para": "06d16174290b8d16",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "etica IA responsavel",
+        "etica IA responsavel fundamentos",
+        "etica IA responsavel algoritmos",
+        "etica IA responsavel aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: etica IA responsavel",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:01.403258",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:01.403351",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:01.403407",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: .....",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:01.403464",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: etica IA responsavel\n\nEvolucao: ## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n\nConsoli...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:01.403516",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "https://www.significados.com.br/etica/",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "1ca342a3e083c824",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: processamento linguagem natural BERT\n\nEvolucao: ## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:01.405094",
+    "modificado": "2026-03-13T14:01:01.919338",
+    "conexoes": [
+      {
+        "para": "df8b2d05002b6a0a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "fase": "coleta",
+      "fontes_count": 24,
+      "queries": [
+        "processamento linguagem natural BERT fundamentos",
+        "processamento linguagem natural BERT",
+        "processamento linguagem natural BERT aplicacoes",
+        "processamento linguagem natural BERT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: processamento linguagem natural BERT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:01.918944",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial: 220 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:01.919064",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 9.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 9 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:01.919149",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:01.919247",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: processamento linguagem natural BERT\n\nEvolucao: ## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 9.2 conexoes/celula\nClusters identificados:\n\n\nFo...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:01.919325",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "https://www.sinonimos.com.br/processamento/",
+      "https://www.dicio.com.br/processamento/",
+      "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "https://www.dicionario.info/processamento/",
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "https://www.tjsp.jus.br/UPJ",
+      "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+    ]
+  },
+  {
+    "id": "05233a9fd9f3545e",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: redes neurais recorrentes LSTM\n\nEvolucao: ## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexo......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 14 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:01.920784",
+    "modificado": "2026-03-13T14:01:02.668608",
+    "conexoes": [
+      {
+        "para": "884985a58356618e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "redes neurais recorrentes LSTM",
+        "redes neurais recorrentes LSTM fundamentos",
+        "redes neurais recorrentes LSTM aplicacoes",
+        "redes neurais recorrentes LSTM algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: redes neurais recorrentes LSTM",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:02.668140",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:02.668274",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 14 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:02.668371",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexo...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:02.668497",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 14 re...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:02.668594",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores",
+      "https://www.ibm.com/br-pt/think/topics/networking",
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime",
+      "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "https://www.gaap.deqm.puc-rio.br/en/",
+      "https://brainly.com.br/tarefa/55731941",
+      "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
   }
 ]
