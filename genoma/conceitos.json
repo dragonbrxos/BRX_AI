@@ -1319,6 +1319,16 @@
         "para": "5f7c07a05247297a",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1336,7 +1346,9 @@
       "https://www.ibm.com/br-pt/think/topics/generative-ai",
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
       "https://aws.amazon.com/pt/what-is/generative-ai/",
-      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/",
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
     ]
   },
   {
@@ -1390,6 +1402,11 @@
         "para": "686f7b397f227d0a",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1406,7 +1423,8 @@
       "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
       "https://www.ibm.com/br-pt/think/topics/generative-ai",
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
-      "https://aws.amazon.com/pt/what-is/generative-ai/"
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
     ]
   },
   {
@@ -4699,6 +4717,452 @@
     "profundidade": 0,
     "fontes": [
       "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "71a07b5441677009",
+    "tipo": "conceito",
+    "conteudo": "avançado",
+    "criado": "2026-03-13T13:42:47.820198",
+    "modificado": "2026-03-13T13:42:47.820198",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+    ]
+  },
+  {
+    "id": "49ecad51fa0d9631",
+    "tipo": "conceito",
+    "conteudo": "capacidades",
+    "criado": "2026-03-13T13:42:47.820606",
+    "modificado": "2026-03-13T13:42:47.820606",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+    ]
+  },
+  {
+    "id": "cb3790d7a60ee18a",
+    "tipo": "conceito",
+    "conteudo": "poder",
+    "criado": "2026-03-13T13:42:47.821033",
+    "modificado": "2026-03-13T13:42:47.821033",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "14b4ed081b964356",
+    "tipo": "conceito",
+    "conteudo": "reforço",
+    "criado": "2026-03-13T13:42:47.821465",
+    "modificado": "2026-03-13T13:42:47.821465",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "8acd5aace13f4cdb",
+    "tipo": "conceito",
+    "conteudo": "combina",
+    "criado": "2026-03-13T13:42:47.821889",
+    "modificado": "2026-03-13T13:42:47.821889",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+    ]
+  },
+  {
+    "id": "4a628f067ea7f6ac",
+    "tipo": "conceito",
+    "conteudo": "decisão",
+    "criado": "2026-03-13T13:42:47.822779",
+    "modificado": "2026-03-13T13:42:47.822779",
+    "conexoes": [
+      {
+        "para": "4b4fcb17a77fc5aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+    ]
+  },
+  {
+    "id": "108983c4fd6a7def",
+    "tipo": "conceito",
+    "conteudo": "redes",
+    "criado": "2026-03-13T13:42:47.923739",
+    "modificado": "2026-03-13T13:42:47.923739",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "4dc1a52158a30321",
+    "tipo": "conceito",
+    "conteudo": "ótimas",
+    "criado": "2026-03-13T13:42:47.924033",
+    "modificado": "2026-03-13T13:42:47.924033",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "361bc7634ed13613",
+    "tipo": "conceito",
+    "conteudo": "complexos",
+    "criado": "2026-03-13T13:42:47.924309",
+    "modificado": "2026-03-13T13:42:47.924309",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "78cf750c70a4dc47",
+    "tipo": "conceito",
+    "conteudo": "neurais",
+    "criado": "2026-03-13T13:42:47.924585",
+    "modificado": "2026-03-13T13:42:47.924585",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "8c420f231228619b",
+    "tipo": "conceito",
+    "conteudo": "aprendam",
+    "criado": "2026-03-13T13:42:47.925085",
+    "modificado": "2026-03-13T13:42:47.925085",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "29e3946fa92239ef",
+    "tipo": "conceito",
+    "conteudo": "ambientes",
+    "criado": "2026-03-13T13:42:47.925317",
+    "modificado": "2026-03-13T13:42:47.925317",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "2e65eaea59ea043b",
+    "tipo": "conceito",
+    "conteudo": "profundas",
+    "criado": "2026-03-13T13:42:47.925536",
+    "modificado": "2026-03-13T13:42:47.925536",
+    "conexoes": [
+      {
+        "para": "e62fd74821b14f1b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "502228c82f7aa942",
+    "tipo": "conceito",
+    "conteudo": "moderna",
+    "criado": "2026-03-13T13:42:48.027239",
+    "modificado": "2026-03-13T13:42:48.027239",
+    "conexoes": [
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "148a86cd9428ba67",
+    "tipo": "conceito",
+    "conteudo": "fascinantes",
+    "criado": "2026-03-13T13:42:48.029335",
+    "modificado": "2026-03-13T13:42:48.029335",
+    "conexoes": [
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "8874fa4ccc449868",
+    "tipo": "conceito",
+    "conteudo": "áreas",
+    "criado": "2026-03-13T13:42:48.029952",
+    "modificado": "2026-03-13T13:42:48.029952",
+    "conexoes": [
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
     ]
   }
 ]
