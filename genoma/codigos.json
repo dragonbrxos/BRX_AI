@@ -1279,5 +1279,89 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "c3a77c9629aecf97",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: inteligencia artificial explicavel",
+    "criado": "2026-03-13T14:03:53.914723",
+    "modificado": "2026-03-13T14:03:53.914723",
+    "conexoes": [
+      {
+        "para": "eb40a4e52ccbe36f",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "arquivo": "mod_dafefd1d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "entenderem",
+        "produção"
+      ]
+    },
+    "origem": "eb40a4e52ccbe36f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "da59493883e56c74",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T14:03:54.710782",
+    "modificado": "2026-03-13T14:03:54.710782",
+    "conexoes": [
+      {
+        "para": "9ce360b975df38f4",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "9ce360b975df38f4",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "00086061ceff4178",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado transferencia transfer learn",
+    "criado": "2026-03-13T14:03:55.473841",
+    "modificado": "2026-03-13T14:03:55.473841",
+    "conexoes": [
+      {
+        "para": "ec4b4271fd6560f9",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "arquivo": "mod_3f2ee707_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "ec4b4271fd6560f9",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
