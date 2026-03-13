@@ -3157,5 +3157,209 @@
       "https://www.dicio.com.br/sistema/",
       "https://sistemas.cvm.gov.br/"
     ]
+  },
+  {
+    "id": "a6e11c362cf69a79",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado transferencia transfer learning\n\nEvolucao: ## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoe......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:03:03.254332",
+    "modificado": "2026-03-13T14:03:03.916034",
+    "conexoes": [
+      {
+        "para": "109ab13ac83c1f60",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado transferencia transfer learning",
+        "aprendizado transferencia transfer learning algoritmos",
+        "aprendizado transferencia transfer learning aplicacoes",
+        "aprendizado transferencia transfer learning fundamentos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado transferencia transfer learning",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:03:03.915626",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 236 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:03.915809",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 11.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:03.915911",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoe...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:03.915981",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 11.8 conexoes/celula\nClusters iden...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:03.916027",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://www.dicio.com.br/aprendizado/",
+      "https://www.significados.com.br/aprendizagem/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "7124d4ef58e89776",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: etica IA responsavel\n\nEvolucao: ## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ........\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:03:03.917536",
+    "modificado": "2026-03-13T14:03:04.618042",
+    "conexoes": [
+      {
+        "para": "94d5b54357b8c591",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "etica IA responsavel",
+        "etica IA responsavel aplicacoes",
+        "etica IA responsavel fundamentos",
+        "etica IA responsavel algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: etica IA responsavel",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:03:04.617587",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:04.617749",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:04.617860",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: .....",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:04.617947",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: etica IA responsavel\n\nEvolucao: ## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n\nConsoli...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:04.618029",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://www.dicio.com.br/etica/",
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "a551548accc5644a",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:03:04.620154",
+    "modificado": "2026-03-13T14:03:05.367931",
+    "conexoes": [
+      {
+        "para": "7b5107d9dca95b77",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT algoritmos",
+        "modelos transformers GPT"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:03:05.367603",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:05.367730",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:03:05.367813",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:05.367870",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:03:05.367924",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/"
+    ]
   }
 ]
