@@ -2937,5 +2937,129 @@
     "fontes": [
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
     ]
+  },
+  {
+    "id": "9668d50763fb84e7",
+    "tipo": "memoria",
+    "conteudo": "Prolog ¶e a linguagem ideal para o processamento de linguagem natural [2]. Usando um recurso embutido no compilador, conhecido como nota»c~ao Dcg, podemos escrever gram¶aticas que …",
+    "criado": "2026-03-13T13:46:20.609065",
+    "modificado": "2026-03-13T13:46:20.609065",
+    "conexoes": [
+      {
+        "para": "80ffb4502f7f1613",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "385da76e0e3df0ef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f75f53f432b83267",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4d6bc0ff7bbda4a7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6f2d951d4652e3a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "fonte": "https://www.ime.usp.br/~slago/IA-pln.pdf",
+      "indice": 0
+    },
+    "origem": "2e589b0fddf0685b",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "17c1439940506515",
+    "tipo": "memoria",
+    "conteudo": "24 de ago. de 2023 · Este guia abordou os conceitos fundamentais do Processamento de Linguagem Natural, sua importância na área de tecnologia, técnicas e algoritmos utilizados, além de dicas e …",
+    "criado": "2026-03-13T13:46:20.711515",
+    "modificado": "2026-03-13T13:46:20.711515",
+    "conexoes": [
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "62db86228612a1c3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7fada83de133be27",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "fonte": "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
+      "indice": 0
+    },
+    "origem": "2e589b0fddf0685b",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+    ]
   }
 ]
