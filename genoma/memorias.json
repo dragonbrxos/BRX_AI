@@ -33857,5 +33857,5440 @@
     "fontes": [
       "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
     ]
+  },
+  {
+    "id": "8c52fd2f78a57116",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T14:00:18.063113",
+    "modificado": "2026-03-13T14:00:18.063113",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "fe241a73bf4238b9",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T14:00:18.074176",
+    "modificado": "2026-03-13T14:00:18.074176",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "83f159cc5b72ab41",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T14:00:18.074524",
+    "modificado": "2026-03-13T14:00:18.074524",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "da94c37a210336e8",
+    "tipo": "memoria",
+    "conteudo": "Palavras-Chave: Ações de Futebol; Classificação de Vídeos; Redes Neurais Convolucionais; Redes Neurais Recorrentes Abstract The extraction …",
+    "criado": "2026-03-13T14:00:18.074881",
+    "modificado": "2026-03-13T14:00:18.074881",
+    "conexoes": [
+      {
+        "para": "e4280bd81edbc5b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb0b14847f6296b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "549e18be439bd5e6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d32a460770e4c61b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39e0d7fd288331dc",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final"
+    ]
+  },
+  {
+    "id": "93e6e8ab259c76e1",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T14:00:18.075223",
+    "modificado": "2026-03-13T14:00:18.075223",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "020cbc8213c7bdba",
+    "tipo": "memoria",
+    "conteudo": "Redes Neurais Recorrentes (RNNs) são amplamente usadas em sistemas de reconhecimento de fala, onde elas convertem …",
+    "criado": "2026-03-13T14:00:18.075567",
+    "modificado": "2026-03-13T14:00:18.075567",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "10995533dc7f5b71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "808ac14b5020e830",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21bfbe88d6614568",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6397fe99b29d354",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fec2893e66b01525",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf4e95bc9a4af08b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97dc0c695210a470",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime"
+    ]
+  },
+  {
+    "id": "bcfe7273523308a1",
+    "tipo": "memoria",
+    "conteudo": "Diagrama simplificado de uma rede neural. Em ciência da computação e campos relacionados, redes neurais artificiais (português brasileiro) …",
+    "criado": "2026-03-13T14:00:18.075895",
+    "modificado": "2026-03-13T14:00:18.075895",
+    "conexoes": [
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5ee77bcdbb86b039",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42a49e43a5b8dc44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182ac833e0970a0e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f8f338511719b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0320e1de6e3c808",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0dbd25dbea00fae5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d3b91b3ec70b8aaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial"
+    ]
+  },
+  {
+    "id": "13ce364024e8b0f6",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T14:00:18.076182",
+    "modificado": "2026-03-13T14:00:18.076182",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "12f593cb9e545874",
+    "tipo": "memoria",
+    "conteudo": "Introdução Processamento de Linguagem Natural e Representações de Texto De One-Hot Encoding a Embeddings de Palavras Introdução a …",
+    "criado": "2026-03-13T14:00:18.409865",
+    "modificado": "2026-03-13T14:00:18.409865",
+    "conexoes": [
+      {
+        "para": "f4f1c1ecc5123b59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0d30a064e12127c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a5505c34461681",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
+    ]
+  },
+  {
+    "id": "e025413e1ba6793f",
+    "tipo": "memoria",
+    "conteudo": "São investigadas diferentes arquiteturas de modelos, incluindo abordagens baseadas em Transformers (BERT), redes neurais …",
+    "criado": "2026-03-13T14:00:18.508214",
+    "modificado": "2026-03-13T14:00:18.508214",
+    "conexoes": [
+      {
+        "para": "2f1c6c08b4a356db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "81c1c4739813f08c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4415c33d2e1a6444",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a961d97b83afc209",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5d7885a8daac502",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.gaap.deqm.puc-rio.br/en/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gaap.deqm.puc-rio.br/en/"
+    ]
+  },
+  {
+    "id": "bf326aae0772ef6f",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T14:00:18.508914",
+    "modificado": "2026-03-13T14:00:18.508914",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "470b48e27f62399a",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T14:00:18.538735",
+    "modificado": "2026-03-13T14:00:18.538735",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "142a6a7a9b11004f",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T14:00:18.570154",
+    "modificado": "2026-03-13T14:00:18.570154",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "1b8db5fb96e52ce8",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T14:00:18.599449",
+    "modificado": "2026-03-13T14:00:18.599449",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "1947bd69b9592ec7",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T14:00:18.600038",
+    "modificado": "2026-03-13T14:00:18.600038",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "70a3876f282cd055",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T14:00:18.622265",
+    "modificado": "2026-03-13T14:00:18.622265",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "a16301cb5a66b9bc",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T14:00:18.901170",
+    "modificado": "2026-03-13T14:00:18.901170",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "73840b33c0128817",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T14:00:18.942146",
+    "modificado": "2026-03-13T14:00:18.942146",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "5a36abdc8b0c9a17",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T14:00:18.952302",
+    "modificado": "2026-03-13T14:00:18.952302",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "9773a526bd392e13",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T14:00:18.967807",
+    "modificado": "2026-03-13T14:00:18.967807",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "318d31c55f44cef0",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T14:00:19.000434",
+    "modificado": "2026-03-13T14:00:19.000434",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "2b4d017baf0cea96",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T14:00:19.051563",
+    "modificado": "2026-03-13T14:00:19.051563",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "1bf6e0a618e0996e",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T14:00:19.061210",
+    "modificado": "2026-03-13T14:00:19.061210",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "c584bd8ce3ed545d",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T14:00:19.086678",
+    "modificado": "2026-03-13T14:00:19.086678",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "cf3c8a4240024ed6",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T14:00:19.336960",
+    "modificado": "2026-03-13T14:00:19.336960",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "091a9e7d60044a41",
+    "tipo": "memoria",
+    "conteudo": "24 de abr. de 2023 · PERGUNTA 6 O problema do desaparecimento ou explosão do gradiente é mais aparente em redes neurais recorrente do …",
+    "criado": "2026-03-13T14:00:19.366097",
+    "modificado": "2026-03-13T14:00:19.366097",
+    "conexoes": [
+      {
+        "para": "1e815729bec7eb49",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a584f088a80738",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "18ad3e9b4f25bcb9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b10e1031bfced92d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76e3308723de5582",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://brainly.com.br/tarefa/55731941",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brainly.com.br/tarefa/55731941"
+    ]
+  },
+  {
+    "id": "36961c78fee56705",
+    "tipo": "memoria",
+    "conteudo": "12 de set. de 2017 · Fonte: Understanding LSTM Networks. Referêcnias No momento em que escrevo, Redes Neurais Recorrentes são um dos tópicos mais efervescentes de Inteligência Artificial e Aprendizado de Máquina. Assim, é de se esperar que exista muito conteúdo explicando como elas funcionam.",
+    "criado": "2026-03-13T14:00:19.399520",
+    "modificado": "2026-03-13T14:00:19.399520",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f186754b7dc0d6d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c91a63e53a10c40f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0844c9158e894273",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8dcd15d6819ef8b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "039893bc5afc0730",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4deaa8a4e91b042b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://matheusfacure.github.io/2017/09/12/rnn/"
+    ]
+  },
+  {
+    "id": "a72ff6e052bac862",
+    "tipo": "memoria",
+    "conteudo": "Em razão das perdas e sequelas ocasionadas pelos casos e óbitos diários pela COVID-19 na região Centro-Oeste no Brasil, foram avaliados …",
+    "criado": "2026-03-13T14:00:19.403641",
+    "modificado": "2026-03-13T14:00:19.403641",
+    "conexoes": [
+      {
+        "para": "392d211a46474c21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5dbfc2abb84a6a7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92a655e09e5f2e58",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1faa8b1cecba052",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5fbcd0905a9c0c16",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f358ebc4e71b4825",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8116d05c760b256a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "353cadef04b6cc8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "079b0a545c0f12d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "195a99aa8523d611",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbae4b54e6c30ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "efec8aef39bf069b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
+  },
+  {
+    "id": "db46ee21bb9fd0bf",
+    "tipo": "memoria",
+    "conteudo": "30 de jan. de 2023 · Redes Neurais Recorrentes (LSTM e GRU) As redes neurais recorrentes (RNNs) são uma classe de redes neurais criadas especialmente para lidar com dados sequenciais. Elas são estruturadas para manter uma espécie de memória de informações vistas e usar essas informações para prever o próximo ponto de dados.",
+    "criado": "2026-03-13T14:00:19.437100",
+    "modificado": "2026-03-13T14:00:19.437100",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "07e63c1950a2ee04",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e765a685f30e21b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fec2893e66b01525",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb9f9ada9465ee2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "705754f3c3013c32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee699c61e977a8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/"
+    ]
+  },
+  {
+    "id": "7b02fe91c7db94bf",
+    "tipo": "memoria",
+    "conteudo": "Introdução Processamento de Linguagem Natural e Representações de Texto De One-Hot Encoding a Embeddings de Palavras Introdução a …",
+    "criado": "2026-03-13T14:00:19.467982",
+    "modificado": "2026-03-13T14:00:19.467982",
+    "conexoes": [
+      {
+        "para": "f4f1c1ecc5123b59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0d30a064e12127c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a5505c34461681",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
+    ]
+  },
+  {
+    "id": "778b9938b08c54cf",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:00:19.831647",
+    "modificado": "2026-03-13T14:00:19.831647",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "bc2e3198dcc9eb04",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:00:19.843068",
+    "modificado": "2026-03-13T14:00:19.843068",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "609ededa398e539b",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:00:19.843352",
+    "modificado": "2026-03-13T14:00:19.843352",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "e1064002937789d2",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:00:19.843572",
+    "modificado": "2026-03-13T14:00:19.843572",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "5c5dbb14efb6247d",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:00:19.843861",
+    "modificado": "2026-03-13T14:00:19.843861",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "f17ef387fd07f121",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:00:19.844054",
+    "modificado": "2026-03-13T14:00:19.844054",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "d37074291069674e",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:00:19.844231",
+    "modificado": "2026-03-13T14:00:19.844231",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "cd1091bddac662e4",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:00:19.844400",
+    "modificado": "2026-03-13T14:00:19.844400",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "3b92bca397b21999",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:00:20.152221",
+    "modificado": "2026-03-13T14:00:20.152221",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "73247187d46ce5b9",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:00:20.206767",
+    "modificado": "2026-03-13T14:00:20.206767",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "b59bc9104840b3ed",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:00:20.246053",
+    "modificado": "2026-03-13T14:00:20.246053",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "9390d050ab69e4b2",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:00:20.260481",
+    "modificado": "2026-03-13T14:00:20.260481",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "6eb5212a494f39da",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:00:20.282444",
+    "modificado": "2026-03-13T14:00:20.282444",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "161de81845bbcb35",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:00:20.306083",
+    "modificado": "2026-03-13T14:00:20.306083",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "0546c7497c63da64",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:00:20.373859",
+    "modificado": "2026-03-13T14:00:20.373859",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "a239521c557cd67d",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:00:20.438301",
+    "modificado": "2026-03-13T14:00:20.438301",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "e6aecde70ee5cc45",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:00:20.583892",
+    "modificado": "2026-03-13T14:00:20.583892",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "84f0cc0a99c0fc34",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:00:20.616905",
+    "modificado": "2026-03-13T14:00:20.616905",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "2d324be785fe9737",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:00:20.652939",
+    "modificado": "2026-03-13T14:00:20.652939",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "7f26298a473361e5",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:00:20.754017",
+    "modificado": "2026-03-13T14:00:20.754017",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "fdfb6db0943a0069",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:00:20.956367",
+    "modificado": "2026-03-13T14:00:20.956367",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "bedf519c66dd324f",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:00:20.968224",
+    "modificado": "2026-03-13T14:00:20.968224",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "8f65de6b5f121e86",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:00:20.969094",
+    "modificado": "2026-03-13T14:00:20.969094",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "417d6ff4ec03b969",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:00:20.969401",
+    "modificado": "2026-03-13T14:00:20.969401",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "c780982d094b8829",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:00:20.969727",
+    "modificado": "2026-03-13T14:00:20.969727",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "39d51b8666689a57",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:00:20.974541",
+    "modificado": "2026-03-13T14:00:20.974541",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "6c1447d01bace0b0",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:00:20.975071",
+    "modificado": "2026-03-13T14:00:20.975071",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "ce5b72cf9d1899b8",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:00:20.975443",
+    "modificado": "2026-03-13T14:00:20.975443",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "c9061342a11debc5",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:00:21.252055",
+    "modificado": "2026-03-13T14:00:21.252055",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "172c9ba5d7c1200c",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:00:21.276690",
+    "modificado": "2026-03-13T14:00:21.276690",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "686a9f644eee1ef0",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:00:21.327485",
+    "modificado": "2026-03-13T14:00:21.327485",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "bb68ceac315e7c8b",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:00:21.355163",
+    "modificado": "2026-03-13T14:00:21.355163",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "8f65ec19b2af428d",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:00:21.382650",
+    "modificado": "2026-03-13T14:00:21.382650",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "24bb93fa713e05c8",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:00:21.419507",
+    "modificado": "2026-03-13T14:00:21.419507",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "4ea6ca5797f0c25f",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:00:21.455088",
+    "modificado": "2026-03-13T14:00:21.455088",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "4b93dc1c3afbbef5",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:00:21.493753",
+    "modificado": "2026-03-13T14:00:21.493753",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "867d2146a70e643d",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:00:21.562815",
+    "modificado": "2026-03-13T14:00:21.562815",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "66cb0436d9b5deea",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:00:21.725007",
+    "modificado": "2026-03-13T14:00:21.725007",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "b08f104068a8fb9b",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:00:21.767563",
+    "modificado": "2026-03-13T14:00:21.767563",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "c50bffa00e7f8288",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:00:21.784914",
+    "modificado": "2026-03-13T14:00:21.784914",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
   }
 ]
