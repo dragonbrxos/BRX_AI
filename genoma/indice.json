@@ -183,17 +183,41 @@
       "bd07a7369ca84cd4",
       "6880b2f077d12abe",
       "faee5825fdc02ed2"
+    ],
+    "aprendizado por reforco profundo": [
+      "a1ed2b36b3de357d",
+      "4b4fcb17a77fc5aa",
+      "71a07b5441677009",
+      "49ecad51fa0d9631",
+      "cb3790d7a60ee18a",
+      "14b4ed081b964356",
+      "8acd5aace13f4cdb",
+      "4a628f067ea7f6ac",
+      "e62fd74821b14f1b",
+      "108983c4fd6a7def",
+      "4dc1a52158a30321",
+      "361bc7634ed13613",
+      "78cf750c70a4dc47",
+      "8c420f231228619b",
+      "29e3946fa92239ef",
+      "2e65eaea59ea043b",
+      "7fe2d1fa42dd3ca2",
+      "502228c82f7aa942",
+      "148a86cd9428ba67",
+      "8874fa4ccc449868",
+      "bd1b45f149888e84",
+      "4adaaf7d3322810d"
     ]
   },
   "estatisticas": {
-    "ciclos": 7,
-    "nascimentos": 168,
+    "ciclos": 8,
+    "nascimentos": 190,
     "mortes": 0,
-    "refinamentos": 33,
-    "pesquisas_realizadas": 7,
+    "refinamentos": 36,
+    "pesquisas_realizadas": 8,
     "arquivos_gerados": 7
   },
-  "topico_atual": "machine learning auto supervisionado desafios limitacoes",
+  "topico_atual": "aprendizado por reforco profundo",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -201,7 +225,8 @@
     "visao computacional",
     "visao computacional desafios limitacoes",
     "machine learning auto supervisionado",
-    "machine learning auto supervisionado desafios limitacoes"
+    "machine learning auto supervisionado desafios limitacoes",
+    "aprendizado por reforco profundo"
   ],
-  "timestamp": "2026-03-13T13:42:22.501168"
+  "timestamp": "2026-03-13T13:42:48.134955"
 }
