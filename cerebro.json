@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 26,
+    "ciclos": 27,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 208705
+    "caracteres_aprendidos": 229943
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9872,6 +9872,94 @@
       "criado": "2026-03-13T14:29:32.107119",
       "acessos": 1,
       "conexoes": []
+    },
+    "75a5d338dbd99a0c": {
+      "conteudo": "The future of building happens together Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform. Enter your email Sign up for GitHub Try GitHub Copilot free GitHub features A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet. Code Plan Collaborate Automate Secure Code Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features. GitHub customers American Airlines Duolingo Ernst and Young Ford InfoSys Mercado Libre Mercedes-Benz Shopify Philips Société Générale Spotify Vodafone American Airlines Duolingo Ernst and Young Ford InfoSys Mercado Libre Mercedes-Benz Shopify Philips Société Générale Spotify Vodafone A Copilot chat window with the 'Ask' mode enabled. The user switches from 'Ask' mode to 'Agent' mode from a dropdown menu, then sends the prompt 'Update the website to allow searching for running races by name.' Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results. Your AI partner everywhere. Copilot is ready to work with you at each step of the software development lifecycle. Explore GitHub Copilot Duolingo boosts developer speed by 25% with GitHub Copilot Read customer story 2025 Gartner® Magic Quadrant™ for AI Code Assistants Read industry report Automate your path to production Ship faster with secure, reliable CI/CD. Explore GitHub Actions Code instantly from anywhere Launch a full, cloud-based development environment in seconds. Explore GitHub Codespaces Keep momentum on the go Manage projects and assign tasks to Copilot, all from your mobile device. Explore GitHub Mobile Shape your toolchain Extend your stack with apps, actions, and AI models. Explore GitHub Marketplace Apply fixes in seconds. Spend less time debugging and more time building features with Copilot Autofix. Explore GitHub Advanced Security Security debt, solved. Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities. Learn about GitHub Code Security Dependencies you can depend on. Update vulnerable dependencies with supported fixes for breaking changes. Learn about Dependabot Your secrets, your business. Detect, prevent, and remediate leaked secrets across your organization. Learn about GitHub Secret Protection 70% MTTR reduction with Copilot Autofix 8.3M secret leaks stopped in the past 12 months with push protection Plan with clarity. Organize everything from high-level roadmaps to everyday tasks. Explore GitHub Projects It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work. Fabian Faulhaber Application manager at Mercedes-Benz Keep track of your tasks Create issues and manage projects with tools that adapt to your code. Explore GitHub Issues Share ideas and ask questions Create space for open-ended conversations alongside your project. Explore GitHub Discussions Review code changes together Assign initial reviews to Copilot for greater speed and quality. Explore code review Fund open source projects Become an open source partner and support the tools and libraries that power your work. Explore GitHub Sponsors By industry By size By use case By industry Technology Figma streamlines development and strengthens security Read customer story Automotive Mercedes-Benz standardizes source code and automates onboarding Read customer story Financial services Mercado Libre cuts coding time by 50% Read customer story Explore customer stories View all solutions Millions of developers and businesses call GitHub home Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next. Enter your email Sign up for GitHub Try GitHub Copilot free",
+      "tipo": "codigo",
+      "fontes": [
+        "https://github.com/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:31:30.379557",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "ad4f0965ff4a91ea": {
+      "conteudo": "TITULO: GitHub · Change is constant. GitHub keeps you ahead. · GitHub\nCONTEUDO: The future of building happens together Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform. Enter your email Sign up for GitHub Try GitHub Copilot free GitHub features A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet. Code Plan Collaborate Automate Secure Code Write, test,...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://github.com/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:31:30.379985",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "0116c4c6c3da46e7": {
+      "conteudo": "Popular repositories Loading git git Public Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documen… C 59.7k 27.6k git-scm.com git-scm.com Public The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community. HTML 2.4k 1.4k git-reference git-reference Public Online Git Reference at http://git.github.io/git-reference/ HTML 1k 371 git.github.io git.github.io Public Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) CSS 364 317 gitscm-old gitscm-old Public archive Git homepage that rocks - from the git.or.cz awesomeness HTML 177 79 htmldocs htmldocs Public Pre-built HTML Git documentation HTML 134 95 Repositories Loading Type All Public Sources Forks Archived Mirrors Templates Language All C CSS HTML Sort Last updated Name Stars Showing 9 of 9 repositories git Public Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget ( https://gitgitgadget.github.io/ ). Please follow Documentation/SubmittingPatches procedure for any of your improvements. git/git’s past year of commit activity C 59,656 27,644 7 350 Updated Mar 13, 2026 htmldocs Public Pre-built HTML Git documentation git/htmldocs’s past year of commit activity HTML 134 95 0 3 Updated Mar 12, 2026 git-scm.com Public The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community git/git-scm.com’s past year of commit activity HTML 2,355 MIT 1,385 16 11 Updated Mar 12, 2026 git.github.io Public Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community git/git.github.io’s past year of commit activity CSS 364 318 24 2 Updated Mar 9, 2026 git-merge Public Notes and schedule for Git Merge 2024. git/git-merge’s past year of commit activity 16 13 0 1 Updated Sep 26, 2024 book.git-scm.com Public A simple redirect site pointing to the ProGit book git/book.git-scm.com’s past year of commit activity 8 MIT 1 1 0 Updated Sep 25, 2024 git-reference Public Online Git Reference at http://git.github.io/git-reference/ git/git-reference’s past year of commit activity HTML 1,014 371 14 8 Updated Mar 22, 2023 gitscm-old Public archive Git homepage that rocks - from the git.or.cz awesomeness git/gitscm-old’s past year of commit activity HTML 177 79 2 0 Updated Nov 16, 2018 sha1collisiondetection Public Marc Stevens's sha1collisiondetection, for use by git.git as its submodule git/sha1collisiondetection’s past year of commit activity C 36 28 1 0 Updated May 23, 2017 People Top languages HTML C CSS Most used topics Loading… Uh oh! There was an error while loading. Please reload this page",
+      "tipo": "texto",
+      "fontes": [
+        "https://github.com/git"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:31:32.135932",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "8b1b7a10f27a7fc5": {
+      "conteudo": "TITULO: Git · GitHub\nCONTEUDO: Popular repositories Loading git git Public Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documen… C 59.7k 27.6k git-scm.com git-scm.com Public The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community. HTML 2.4k 1.4k git-reference git-reference Public Online Git Referenc...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://github.com/git"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:31:32.136331",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "c81451f3ca585417": {
+      "conteudo": "Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Install Git How to install Git on any OS Git can be installed on the most common operating systems like Windows, Mac, and Linux. In fact, Git comes installed by default on most Mac and Linux machines! Checking for Git To see if you already have Git installed, open up your terminal application. If you're on a Mac, look for a command prompt application called \"Terminal\". If you're on a Windows machine, open the windows command prompt or \"Git Bash\". Once you've opened your terminal application, type git version . The output will either tell you which version of Git is installed, or it will alert you that git is an unknown command. If it's an unknown command, read further and find out how to install Git. Install Git Using GitHub Desktop Installing GitHub Desktop will also install the latest version of Git if you don't already have it. With GitHub Desktop, you get a command-line version of Git with a robust GUI. Regardless of if you have Git installed or not, GitHub Desktop offers a simple collaboration tool for Git. You can learn more here Install Git on Windows Navigate to the latest Git for Windows installer and download the latest version. Once the installer has started, follow the instructions as provided in the Git Setup wizard screen until the installation is complete. Open the windows command prompt (or Git Bash if you selected not to use the standard Git Windows Command Prompt during the Git installation). Type git version to verify Git was installed. Note: git-scm is a popular and recommended resource for downloading Git for Windows. The advantage of downloading Git from git-scm is that your download automatically starts with the latest version of Git included with the recommended command prompt, Git Bash . The download source is the same Git for Windows installer as referenced in the steps above. Install Git on Windows through Visual Studio Code GitHub integration is provided through the GitHub Pull Requests and Issues extension To get started with the GitHub in VS Code, you'll need to create an account and install the GitHub Pull Requests and Issues extension. Once you've installed the GitHub Pull Requests and Issues extension , you'll need to sign in. Follow the prompts to authenticate with GitHub and return to VS Code. Note: You can perform actions like, you can search for and clone a repository from GitHub using the Git: Clone command in the Command Palette (Ctrl+Shift+P) or by using the Clone Repository button in the Source Control view (available when you have no folder open). Learn more here Install Git on Mac Most versions of MacOS will already have Git installed, and you can activate it through the terminal with git version . However, if you don't have Git installed for whatever reason, you can install the latest version of Git using one of several popular methods as listed below: Install Git From an Installer Navigate to the latest macOS Git Installer and download the latest version. Once the installer has started, follow the instructions as provided until the installation is complete. Open the command prompt \"terminal\" and type git version to verify Git was installed. Note: git-scm is a popular and recommended resource for downloading Git on a Mac. The advantage of downloading Git from git-scm is that your download automatically starts with the latest version of Git. The download source is the same macOS Git Installer as referenced in the steps above. Install Git from Homebrew Homebrew is a popular package manager for macOS. If you already have Homebrew installed, you can follow the below steps to install Git: Open up a terminal window and install Git using the following command: brew install git Once the command output has been completed, you can verify the installation by typing: git version Install Git on Linux Fun fact: Git was originally developed to version the Linux operating system! So, it only makes sense that it is easy to configure to run on Linux. You can install Git on Linux through the package management tool that comes with your distribution. Debian/Ubuntu Git packages are available using apt It's a good idea to make sure you're running the latest version. To do so, Navigate to your command prompt shell and run the following command to make sure everything is up-to-date: sudo apt-get update To install Git, run the following command: sudo apt-get install git-all Once the command output has been completed, you can verify the installation by typing: git version Fedora Git packages are available using dnf To install Git, navigate to your command prompt shell and run the following command: sudo dnf install git-all Once the command output has been completed, you can verify the installation by typing: git version Note: You can download the proper Git versions and read more about how to install on specific Linux systems, like installing Git on Ubuntu or Fedora, in git-scm's documentation Other Methods of Installing Git Looking to install Git via the source code? Learn more here Contribute to this article on GitHub. Get started with git and GitHub Review code, manage projects, and build software alongside 40 million developers. Sign up for GitHub Sign in",
+      "tipo": "codigo",
+      "fontes": [
+        "https://github.com/git-guides/install-git"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:31:33.623471",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "b734cca537f5beff": {
+      "conteudo": "TITULO: Git Guides - install git · GitHub\nCONTEUDO: Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Install Git How to install Git on any OS Git can be installed on the most common operating systems like Windows, Mac, and Linux. In fact, Git comes installed by default on most Mac and Linux machines! Checking for Git To see if you already have Git installed, open up your terminal application. If you're on a Mac, look for a command prompt application called \"Terminal\". If you're on a Windows machine, open the windows co...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://github.com/git-guides/install-git"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:31:33.623894",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "4263343f5723c911": {
+      "conteudo": "git git Public Notifications You must be signed in to change notification settings Fork 27.6k Star 59.7k master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 80,133 Commits 80,133 Commits .github .github Documentation Documentation bin-wrappers bin-wrappers block-sha1 block-sha1 builtin builtin ci ci compat compat compiler-tricks compiler-tricks contrib contrib ewah ewah git-gui git-gui gitk-git gitk-git gitweb gitweb mergetools mergetools negotiator negotiator odb odb oss-fuzz oss-fuzz perl perl po po refs refs reftable reftable sha1 sha1 sha1collisiondetection @ 855827c sha1collisiondetection @ 855827c sha1dc sha1dc sha256 sha256 src src subprojects subprojects t t templates templates trace2 trace2 xdiff xdiff .cirrus.yml .cirrus.yml .clang-format .clang-format .editorconfig .editorconfig .gitattributes .gitattributes .gitignore .gitignore .gitlab-ci.yml .gitlab-ci.yml .gitmodules .gitmodules .mailmap .mailmap .tsan-suppressions .tsan-suppressions CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md COPYING COPYING Cargo.toml Cargo.toml GIT-BUILD-OPTIONS.in GIT-BUILD-OPTIONS.in GIT-VERSION-FILE.in GIT-VERSION-FILE.in GIT-VERSION-GEN GIT-VERSION-GEN INSTALL INSTALL LGPL-2.1 LGPL-2.1 Makefile Makefile README.md README.md RelNotes RelNotes SECURITY.md SECURITY.md abspath.c abspath.c abspath.h abspath.h aclocal.m4 aclocal.m4 add-interactive.c add-interactive.c add-interactive.h add-interactive.h add-patch.c add-patch.c advice.c advice.c advice.h advice.h alias.c alias.c alias.h alias.h alloc.c alloc.c alloc.h alloc.h apply.c apply.c apply.h apply.h archive-tar.c archive-tar.c archive-zip.c archive-zip.c archive.c archive.c archive.h archive.h attr.c attr.c attr.h attr.h banned.h banned.h base85.c base85.c base85.h base85.h bisect.c bisect.c bisect.h bisect.h blame.c blame.c blame.h blame.h blob.c blob.c blob.h blob.h bloom.c bloom.c bloom.h bloom.h branch.c branch.c branch.h branch.h build.rs build.rs builtin.h builtin.h bundle-uri.c bundle-uri.c bundle-uri.h bundle-uri.h bundle.c bundle.c bundle.h bundle.h cache-tree.c cache-tree.c cache-tree.h cache-tree.h cbtree.c cbtree.c cbtree.h cbtree.h chdir-notify.c chdir-notify.c chdir-notify.h chdir-notify.h check-builtins.sh check-builtins.sh checkout.c checkout.c checkout.h checkout.h View all files Repository files navigation Git - fast, scalable, distributed revision control system Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Git is an Open Source project covered by the GNU General Public License version 2 (some parts of it are under different licenses, compatible with the GPLv2). It was originally written by Linus Torvalds with help of a group of hackers around the net. Please read the file INSTALL for installation instructions. Many Git online resources are accessible from https://git-scm.com/ including full documentation and Git related tools. See Documentation/gittutorial.adoc to get started, then see Documentation/giteveryday.adoc for a useful minimum set of commands, and Documentation/git-<commandname>.adoc for documentation of each command. If git has been correctly installed, then the tutorial can also be read with man gittutorial or git help tutorial , and the documentation of each command with man git-<commandname> or git help <commandname> CVS users may also want to read Documentation/gitcvs-migration.adoc man gitcvs-migration or git help cvs-migration if git is installed). The user discussion and development of Git take place on the Git mailing list -- everyone is welcome to post bug reports, feature requests, comments and patches to git@vger.kernel.org (read Documentation/SubmittingPatches for instructions on patch submission and Documentation/CodingGuidelines Those wishing to help with error message, usage and informational message string translations (localization l10) should see po/README.md (a po file is a Portable Object file that holds the translations). To subscribe to the list, send an email to git+subscribe@vger.kernel.org (see https://subspace.kernel.org/subscribing.html for details). The mailing list archives are available at https://lore.kernel.org/git/ https://marc.info/?l=git and other archival sites. Issues which are security relevant should be disclosed privately to the Git Security mailing list git-security@googlegroups.com The maintainer frequently sends the \"What's cooking\" reports that list the current status of various development topics to the mailing list. The discussion following them give a good reference for project status, development direction and remaining tasks. The name \"git\" was given by Linus Torvalds when he wrote the very first version. He described the tool as \"the stupid content tracker\" and the name as (depending on your mood): random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of \"get\" may or may not be relevant. stupid. contemptible and despicable. simple. Take your pick from the dictionary of slang. \"global information tracker\": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room. \"goddamn idiotic truckload of sh*t\": when it breaks About Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget ( https://gitgitgadget.github.io/ ). Please follow Documentation/SubmittingPatches procedure for any of your improvements. Topics c shell hacktoberfest Resources Readme License View license Code of conduct Code of conduct Contributing Contributing Security policy Security policy Uh oh! There was an error while loading. Please reload this page Activity Custom properties Stars 59.7k stars Watchers 2.5k watching Forks 27.6k forks Report repository Releases 1,000 tags Packages 0 Uh oh! There was an error while loading. Please reload this page Uh oh! There was an error while loading. Please reload this page Contributors 1,825 + 1,811 contributors Languages C 50.5% Shell 38.3% Perl 4.4% Tcl 3.6% Python 0.8% Makefile 0.7% Other 1.7%",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://github.com/git/git"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:31:35.640617",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "e9b87086091506eb": {
+      "conteudo": "TITULO: GitHub - git/git: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. · GitHub\nCONTEUDO: git git Public Notifications You must be signed in to change notification settings Fork 27.6k Star 59.7k master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 80,133 Commits 80,133 Commits .github .github Documentation Documentation bin-wrappers bin-wrappers block-sha1 block-sha1 builtin builtin ci ci compat compat compiler-tricks compiler-tricks contrib contrib ewah ewah git-gui git-gui gitk-git gitk-gi...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://github.com/git/git"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:31:35.641146",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10054,6 +10142,30 @@
       "texto_completo": "31 de outubro de 2025 FCamara Cloud & Cibersegurança Antes vista como uma solução voltada apenas para empresas de tecnologia, a computação em nuvem se tornou indispensável para praticamente qualquer negócio de médio ou grande porte . E não é pra menos: em uma realidade na qual dados são um dos bens mais valiosos, gerir e encontrar o melhor custo de armazenamento em cloud pode ser uma grande vantagem. Mas como escolher o melhor player do mercado para lidar com soluções em nuvem corporativas (cloud computing)? Pensando em te ajudar nessa escolha, falaremos sobre a AWS e Azure, duas das mais conhecidas plataformas quando o assunto é solução em nuvem corporativa e excelentes ferramentas para negócios que buscam adotar tecnologias emergentes. Não existe uma resposta que sirva para todas as empresas, mas, para chegar à melhor decisão, três fatores devem ser levados em conta. Estágio digital da sua empresa; Integrações necessárias; Estratégias de longo prazo; Acompanhe o artigo, fique por dentro de tudo sobre os dois gigantes da nuvem e veja qual melhor se adapta para seu negócio. AWS e Azure: conhecendo os gigantes da nuvem Escolher entre AWS e Azure vai muito além de uma decisão técnica. Envolve estratégia, orçamento e o nível de dependência que o negócio está disposto a ter em relação a um ecossistema. Ambas as plataformas de cloud sustentam operações globais, mas, como dissemos, se diferenciam na forma como entregam valor, o que muda totalmente a equação de custo, flexibilidade e controle para o board. AWS: diversidade de serviços Pioneira em computação em nuvem desde o começo dos anos 2000, a Amazon Web Services (AWS) assumiu a liderança de marketing share em 2006 e oferece uma das soluções em nuvem mais completas e maduras do mercado. Seu portfólio ultrapassa 200 serviços, cobrindo praticamente tudo: de machine learning a bancos de dados sob demanda. Essa abrangência, porém, tem um custo. Para equipes em fase inicial de adoção, a curva de aprendizado tende a ser mais longa, especialmente quando a governança e a arquitetura ainda não estão bem estruturadas. Azure: integração com o ecossistema Microsoft Mesmo chegando no mercado oito anos após sua principal concorrente, a Azure se consolidou como uma solução em nuvem híbrida , que se integra ao ecossistema Microsoft que boa parte das empresas já usa: Windows Server, Active Directory, Office 365. Esse alinhamento reduz fricção e custo. Afinal, a possibilidade de aproveitar licenças e políticas existentes simplifica a transição para a nuvem e evita retrabalho . Por isso, a Azure se tornou a escolha natural para empresas que operam ambientes híbridos ou já estão mergulhadas no universo Microsoft. No fim, a decisão não depende de qual provedor é “melhor”, mas de qual se alinha à estratégia, à estrutura e às prioridades do negócio. Principais diferenças entre AWS e Azure AWS e Azure oferecem soluções similares, mas o modo como entregam valor e se integram à operação muda a equação para o negócio . Custos, integração com sistemas existentes, curva de adoção e vocação setorial são fatores que influenciam a decisão e merecem análise detalhada pelo board. Custo e flexibilidade A diferença entre as duas líderes em computação em nuvem começa no valor e nos formatos de pagamento. Ambas possuem modalidade de cobrança sob demanda e opções de desconto sazonais. No entanto, a Azure tende a ter preço mais competitivo quando falamos de usuários do sistema Microsoft. Por outro lado, a AWS é notada pela maior flexibilidade e diversidade para aqueles que buscam performance pura. Capacidade de lidar com inteligência artificial e dados Para machine learning , big data e IA generativa, a AWS tem ferramentas consolidadas . A Azure , contudo, se destaca na integração com Power BI e no Azure OpenAI Service , facilitando o uso de inteligência de negócios de forma direta e rápida, principalmente para empresas que já trabalham com dados no universo Microsoft. Setores de destaque para AWS e Azure Cada plataforma demonstra suas forças em setores diferentes. A AWS se destaca em startups e empresas digitais que buscam escalar rapidamente e com flexibilidade . A Azure , por sua vez, se adequa melhor a ambientes híbridos e a setores regulados, como saúde e governo , assegurando alinhamento com regras de compliance e políticas corporativas. Equivalência de serviços entre AWS e Azure Quando a alta gestão precisa decidir qual plataforma adotar, a discussão envolve entender como cada uma se encaixa na operação existente e nos objetivos estratégicos da organização. Comparar AWS e Azure por categoria ajuda a visualizar rapidamente onde há equivalência, onde há gaps e quais soluções podem acelerar projetos críticos, reduzir retrabalho ou otimizar custos. Confira: Categoria AWS Azure Computação EC2 (Elastic Compute Cloud); Lambda; ECS (Elastic Container Service); EKS (Elastic Kubernetes Service) Azure Virtual Machines; Azure Functions; Azure Container Instances; Azure Kubernetes Service (AKS) Armazenamento S3 (Simple Storage Service); EBS (Elastic Block Store); EFS (Elastic File System); Glacier Azure Blob Storage; Azure Disk Storage; Azure Files; Azure Archive Storage Banco de Dados RDS (Relational Database Service); DynamoDB; Aurora; Redshift Azure SQL Database; Azure Cosmos DB; Azure Database for MySQL/PostgreSQL; Azure Synapse Analytics Machine Learning SageMaker; Rekognition Azure Machine Learning; Azure Cognitive Services Rede VPC (Virtual Private Cloud); Route 53; CloudFront Azure Virtual Network (VNet); Azure DNS; Azure CDN (Content Delivery Network) Gerenciamento CloudFormation; CloudWatch; IAM (Identity and Access Management) Azure Resource Manager (ARM); Azure Monitor; Azure Active Directory (AAD) Diferença de preço entre o Azure e a Amazon Web Services (AWS) Para qualquer diretoria, o custo de nuvem impacta diretamente no planejamento financeiro e na alocação de recursos para inovação. Tanto Azure quanto AWS possuem modelos de cobrança sob demanda e opções de desconto, mas cada plataforma segue uma lógica diferente na forma de estruturar serviços e licenças. Confira, a seguir, as características de cada uma e como elas se alinham à operação e à estratégia da sua empresa. Características dos pacotes de computação em nuvem Amazon Web Services (AWS): Licenciamento adicional pago em dólar para SQL Server e Windows Server; Máquinas Virtuais (VMs) tem cobrança sob demanda, instância reservada ou em camadas; Bancos de Dados têm preço em dólar, sem benefícios diretos para SQL Server; Custos de atualizações de segurança variam de acordo com as licenças utilizadas; Cobrança baseada no uso, instâncias reservadas ou camadas de armazenamento; Microsoft Azure: Permite reaproveitamento de licenças existentes da Microsoft, reduzindo o custo em até 5x; Máquinas Virtuais (VMs) possuem taxas reduzidas para clientes Microsoft; cobrança por consumo; Redução significativa no SQL Database graças ao modelo híbrido; Atualizações de segurança gratuitas por 3 anos em migrações; Única nuvem que oferece economia nos modelos de PaaS e IaaS; Modelo de cobrança baseado no uso, com flexibilidade para otimização de custos; Portanto, no Azure, clientes pagam taxas reduzidas para utilizar VMs e banco de dados Outro diferencial está nos três anos de atualizações de segurança gratuitas em migrações. E para aqueles que possuem uso reduzido, a solução em cloud da Azure tem modelo de cobrança baseado no uso Além disso, mais um fator importante é a Azure ser a única plataforma que oferece economia tanto em PaaS quanto em IaaS. Com auxílio de diferentes tipos de nuvem , elas reduzem significativamente os custos associados ao uso do Banco de Dados SQL. Por outro lado, na AWS Cloud, os custos de segurança e licenciamento variam conforme o valor em dólar de ferramentas como SQL Server Standard e Windows Server Standard (Open NL ERP). Contudo, o pagamento pode ser feito sob demanda , via instâncias reservadas ou em camadas, dependendo do volume e do tempo de armazenamento dos dados. Comparativo do custo mensal estimado: AWS vs Azure A performance de ambas é um tópico que não pode ser deixado de lado antes de realizar um investimento assim. Nesse sentido, considerando um cenário típico de uso de máquinas virtuais de médio porte (2 vCPUs, 8 GB RAM, 100 GB SSD), a visão geral de custo mensal entre AWS e Azure é: AWS (EC2): sob demanda Linux possui custo mensal aproximado entre R$ 350 – R$ 380/mês AWS (EC2 Windows): sob demanda Windows possui custo mensal aproximado entre R$ 550 – R$ 600/mês Azure (VM): sob demanda Linux possui custo mensal aproximado entre R$ 400 – R$ 420/mês Azure (VM Windows): sob demanda Windows possui custo mensal aproximado entre R$ 600 – R$ 650/mês Os valores estimados consideram preços médios em dólar (US$ 0,10–0,12/h para Linux; US$ 0,15–0,18/h para Windows) com câmbio de R$ 5,50. Além disso, não incluem custos adicionais, como transferência de dados, suporte, licenciamento extra ou armazenamento além do SSD básico. Contratos reservados de 1 a 3 anos podem reduzir o custo entre 40% e 60% em ambas as plataformas. O Azure tende a apresentar valores mais altos em instâncias sob demanda, mas pode se tornar mais vantajoso para empresas que já possuem licenças Microsoft. AWS ou Azure: qual é a melhor escolha? Escolher entre AWS e Azure é uma daquelas decisões que todo C-level já teve de enfrentar em algum momento. Não dá pra errar, mas também não existe resposta única. A questão não é qual é “melhor”, e sim qual faz mais sentido para o contexto da sua operação: estrutura, licenciamento, modelo de negócio e ritmo de crescimento. AWS: costuma ser a favorita de quem busca escala, inovação e liberdade total de configuração. É o caminho natural para empresas digitais, startups ou negócios que precisam testar, validar e crescer rápido, s em esbarrar em limitações técnicas. Azure: tende a ser a escolha de corporações com ambientes híbridos ou forte presença Microsoft . Se sua empresa já roda soluções como Windows Server, SQL Serve",
       "data_acesso": "2026-03-13T14:29:32.104622",
       "tamanho": 17215
+    },
+    "https://github.com/": {
+      "titulo": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+      "texto_completo": "The future of building happens together Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform. Enter your email Sign up for GitHub Try GitHub Copilot free GitHub features A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet. Code Plan Collaborate Automate Secure Code Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features. GitHub customers American Airlines Duolingo Ernst and Young Ford InfoSys Mercado Libre Mercedes-Benz Shopify Philips Société Générale Spotify Vodafone American Airlines Duolingo Ernst and Young Ford InfoSys Mercado Libre Mercedes-Benz Shopify Philips Société Générale Spotify Vodafone A Copilot chat window with the 'Ask' mode enabled. The user switches from 'Ask' mode to 'Agent' mode from a dropdown menu, then sends the prompt 'Update the website to allow searching for running races by name.' Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results. Your AI partner everywhere. Copilot is ready to work with you at each step of the software development lifecycle. Explore GitHub Copilot Duolingo boosts developer speed by 25% with GitHub Copilot Read customer story 2025 Gartner® Magic Quadrant™ for AI Code Assistants Read industry report Automate your path to production Ship faster with secure, reliable CI/CD. Explore GitHub Actions Code instantly from anywhere Launch a full, cloud-based development environment in seconds. Explore GitHub Codespaces Keep momentum on the go Manage projects and assign tasks to Copilot, all from your mobile device. Explore GitHub Mobile Shape your toolchain Extend your stack with apps, actions, and AI models. Explore GitHub Marketplace Apply fixes in seconds. Spend less time debugging and more time building features with Copilot Autofix. Explore GitHub Advanced Security Security debt, solved. Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities. Learn about GitHub Code Security Dependencies you can depend on. Update vulnerable dependencies with supported fixes for breaking changes. Learn about Dependabot Your secrets, your business. Detect, prevent, and remediate leaked secrets across your organization. Learn about GitHub Secret Protection 70% MTTR reduction with Copilot Autofix 8.3M secret leaks stopped in the past 12 months with push protection Plan with clarity. Organize everything from high-level roadmaps to everyday tasks. Explore GitHub Projects It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work. Fabian Faulhaber Application manager at Mercedes-Benz Keep track of your tasks Create issues and manage projects with tools that adapt to your code. Explore GitHub Issues Share ideas and ask questions Create space for open-ended conversations alongside your project. Explore GitHub Discussions Review code changes together Assign initial reviews to Copilot for greater speed and quality. Explore code review Fund open source projects Become an open source partner and support the tools and libraries that power your work. Explore GitHub Sponsors By industry By size By use case By industry Technology Figma streamlines development and strengthens security Read customer story Automotive Mercedes-Benz standardizes source code and automates onboarding Read customer story Financial services Mercado Libre cuts coding time by 50% Read customer story Explore customer stories View all solutions Millions of developers and businesses call GitHub home Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next. Enter your email Sign up for GitHub Try GitHub Copilot free",
+      "data_acesso": "2026-03-13T14:31:30.379195",
+      "tamanho": 4319
+    },
+    "https://github.com/git": {
+      "titulo": "Git · GitHub",
+      "texto_completo": "Popular repositories Loading git git Public Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documen… C 59.7k 27.6k git-scm.com git-scm.com Public The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community. HTML 2.4k 1.4k git-reference git-reference Public Online Git Reference at http://git.github.io/git-reference/ HTML 1k 371 git.github.io git.github.io Public Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community) CSS 364 317 gitscm-old gitscm-old Public archive Git homepage that rocks - from the git.or.cz awesomeness HTML 177 79 htmldocs htmldocs Public Pre-built HTML Git documentation HTML 134 95 Repositories Loading Type All Public Sources Forks Archived Mirrors Templates Language All C CSS HTML Sort Last updated Name Stars Showing 9 of 9 repositories git Public Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget ( https://gitgitgadget.github.io/ ). Please follow Documentation/SubmittingPatches procedure for any of your improvements. git/git’s past year of commit activity C 59,656 27,644 7 350 Updated Mar 13, 2026 htmldocs Public Pre-built HTML Git documentation git/htmldocs’s past year of commit activity HTML 134 95 0 3 Updated Mar 12, 2026 git-scm.com Public The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community git/git-scm.com’s past year of commit activity HTML 2,355 MIT 1,385 16 11 Updated Mar 12, 2026 git.github.io Public Git Developer Pages (This is NOT the place to discuss Git issues. See: https://git-scm.com/community git/git.github.io’s past year of commit activity CSS 364 318 24 2 Updated Mar 9, 2026 git-merge Public Notes and schedule for Git Merge 2024. git/git-merge’s past year of commit activity 16 13 0 1 Updated Sep 26, 2024 book.git-scm.com Public A simple redirect site pointing to the ProGit book git/book.git-scm.com’s past year of commit activity 8 MIT 1 1 0 Updated Sep 25, 2024 git-reference Public Online Git Reference at http://git.github.io/git-reference/ git/git-reference’s past year of commit activity HTML 1,014 371 14 8 Updated Mar 22, 2023 gitscm-old Public archive Git homepage that rocks - from the git.or.cz awesomeness git/gitscm-old’s past year of commit activity HTML 177 79 2 0 Updated Nov 16, 2018 sha1collisiondetection Public Marc Stevens's sha1collisiondetection, for use by git.git as its submodule git/sha1collisiondetection’s past year of commit activity C 36 28 1 0 Updated May 23, 2017 People Top languages HTML C CSS Most used topics Loading… Uh oh! There was an error while loading. Please reload this page",
+      "data_acesso": "2026-03-13T14:31:32.135245",
+      "tamanho": 2935
+    },
+    "https://github.com/git-guides/install-git": {
+      "titulo": "Git Guides - install git · GitHub",
+      "texto_completo": "Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Install Git How to install Git on any OS Git can be installed on the most common operating systems like Windows, Mac, and Linux. In fact, Git comes installed by default on most Mac and Linux machines! Checking for Git To see if you already have Git installed, open up your terminal application. If you're on a Mac, look for a command prompt application called \"Terminal\". If you're on a Windows machine, open the windows command prompt or \"Git Bash\". Once you've opened your terminal application, type git version . The output will either tell you which version of Git is installed, or it will alert you that git is an unknown command. If it's an unknown command, read further and find out how to install Git. Install Git Using GitHub Desktop Installing GitHub Desktop will also install the latest version of Git if you don't already have it. With GitHub Desktop, you get a command-line version of Git with a robust GUI. Regardless of if you have Git installed or not, GitHub Desktop offers a simple collaboration tool for Git. You can learn more here Install Git on Windows Navigate to the latest Git for Windows installer and download the latest version. Once the installer has started, follow the instructions as provided in the Git Setup wizard screen until the installation is complete. Open the windows command prompt (or Git Bash if you selected not to use the standard Git Windows Command Prompt during the Git installation). Type git version to verify Git was installed. Note: git-scm is a popular and recommended resource for downloading Git for Windows. The advantage of downloading Git from git-scm is that your download automatically starts with the latest version of Git included with the recommended command prompt, Git Bash . The download source is the same Git for Windows installer as referenced in the steps above. Install Git on Windows through Visual Studio Code GitHub integration is provided through the GitHub Pull Requests and Issues extension To get started with the GitHub in VS Code, you'll need to create an account and install the GitHub Pull Requests and Issues extension. Once you've installed the GitHub Pull Requests and Issues extension , you'll need to sign in. Follow the prompts to authenticate with GitHub and return to VS Code. Note: You can perform actions like, you can search for and clone a repository from GitHub using the Git: Clone command in the Command Palette (Ctrl+Shift+P) or by using the Clone Repository button in the Source Control view (available when you have no folder open). Learn more here Install Git on Mac Most versions of MacOS will already have Git installed, and you can activate it through the terminal with git version . However, if you don't have Git installed for whatever reason, you can install the latest version of Git using one of several popular methods as listed below: Install Git From an Installer Navigate to the latest macOS Git Installer and download the latest version. Once the installer has started, follow the instructions as provided until the installation is complete. Open the command prompt \"terminal\" and type git version to verify Git was installed. Note: git-scm is a popular and recommended resource for downloading Git on a Mac. The advantage of downloading Git from git-scm is that your download automatically starts with the latest version of Git. The download source is the same macOS Git Installer as referenced in the steps above. Install Git from Homebrew Homebrew is a popular package manager for macOS. If you already have Homebrew installed, you can follow the below steps to install Git: Open up a terminal window and install Git using the following command: brew install git Once the command output has been completed, you can verify the installation by typing: git version Install Git on Linux Fun fact: Git was originally developed to version the Linux operating system! So, it only makes sense that it is easy to configure to run on Linux. You can install Git on Linux through the package management tool that comes with your distribution. Debian/Ubuntu Git packages are available using apt It's a good idea to make sure you're running the latest version. To do so, Navigate to your command prompt shell and run the following command to make sure everything is up-to-date: sudo apt-get update To install Git, run the following command: sudo apt-get install git-all Once the command output has been completed, you can verify the installation by typing: git version Fedora Git packages are available using dnf To install Git, navigate to your command prompt shell and run the following command: sudo dnf install git-all Once the command output has been completed, you can verify the installation by typing: git version Note: You can download the proper Git versions and read more about how to install on specific Linux systems, like installing Git on Ubuntu or Fedora, in git-scm's documentation Other Methods of Installing Git Looking to install Git via the source code? Learn more here Contribute to this article on GitHub. Get started with git and GitHub Review code, manage projects, and build software alongside 40 million developers. Sign up for GitHub Sign in",
+      "data_acesso": "2026-03-13T14:31:33.623118",
+      "tamanho": 5250
+    },
+    "https://github.com/git/git": {
+      "titulo": "GitHub - git/git: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. · GitHub",
+      "texto_completo": "git git Public Notifications You must be signed in to change notification settings Fork 27.6k Star 59.7k master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 80,133 Commits 80,133 Commits .github .github Documentation Documentation bin-wrappers bin-wrappers block-sha1 block-sha1 builtin builtin ci ci compat compat compiler-tricks compiler-tricks contrib contrib ewah ewah git-gui git-gui gitk-git gitk-git gitweb gitweb mergetools mergetools negotiator negotiator odb odb oss-fuzz oss-fuzz perl perl po po refs refs reftable reftable sha1 sha1 sha1collisiondetection @ 855827c sha1collisiondetection @ 855827c sha1dc sha1dc sha256 sha256 src src subprojects subprojects t t templates templates trace2 trace2 xdiff xdiff .cirrus.yml .cirrus.yml .clang-format .clang-format .editorconfig .editorconfig .gitattributes .gitattributes .gitignore .gitignore .gitlab-ci.yml .gitlab-ci.yml .gitmodules .gitmodules .mailmap .mailmap .tsan-suppressions .tsan-suppressions CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md COPYING COPYING Cargo.toml Cargo.toml GIT-BUILD-OPTIONS.in GIT-BUILD-OPTIONS.in GIT-VERSION-FILE.in GIT-VERSION-FILE.in GIT-VERSION-GEN GIT-VERSION-GEN INSTALL INSTALL LGPL-2.1 LGPL-2.1 Makefile Makefile README.md README.md RelNotes RelNotes SECURITY.md SECURITY.md abspath.c abspath.c abspath.h abspath.h aclocal.m4 aclocal.m4 add-interactive.c add-interactive.c add-interactive.h add-interactive.h add-patch.c add-patch.c advice.c advice.c advice.h advice.h alias.c alias.c alias.h alias.h alloc.c alloc.c alloc.h alloc.h apply.c apply.c apply.h apply.h archive-tar.c archive-tar.c archive-zip.c archive-zip.c archive.c archive.c archive.h archive.h attr.c attr.c attr.h attr.h banned.h banned.h base85.c base85.c base85.h base85.h bisect.c bisect.c bisect.h bisect.h blame.c blame.c blame.h blame.h blob.c blob.c blob.h blob.h bloom.c bloom.c bloom.h bloom.h branch.c branch.c branch.h branch.h build.rs build.rs builtin.h builtin.h bundle-uri.c bundle-uri.c bundle-uri.h bundle-uri.h bundle.c bundle.c bundle.h bundle.h cache-tree.c cache-tree.c cache-tree.h cache-tree.h cbtree.c cbtree.c cbtree.h cbtree.h chdir-notify.c chdir-notify.c chdir-notify.h chdir-notify.h check-builtins.sh check-builtins.sh checkout.c checkout.c checkout.h checkout.h View all files Repository files navigation Git - fast, scalable, distributed revision control system Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Git is an Open Source project covered by the GNU General Public License version 2 (some parts of it are under different licenses, compatible with the GPLv2). It was originally written by Linus Torvalds with help of a group of hackers around the net. Please read the file INSTALL for installation instructions. Many Git online resources are accessible from https://git-scm.com/ including full documentation and Git related tools. See Documentation/gittutorial.adoc to get started, then see Documentation/giteveryday.adoc for a useful minimum set of commands, and Documentation/git-<commandname>.adoc for documentation of each command. If git has been correctly installed, then the tutorial can also be read with man gittutorial or git help tutorial , and the documentation of each command with man git-<commandname> or git help <commandname> CVS users may also want to read Documentation/gitcvs-migration.adoc man gitcvs-migration or git help cvs-migration if git is installed). The user discussion and development of Git take place on the Git mailing list -- everyone is welcome to post bug reports, feature requests, comments and patches to git@vger.kernel.org (read Documentation/SubmittingPatches for instructions on patch submission and Documentation/CodingGuidelines Those wishing to help with error message, usage and informational message string translations (localization l10) should see po/README.md (a po file is a Portable Object file that holds the translations). To subscribe to the list, send an email to git+subscribe@vger.kernel.org (see https://subspace.kernel.org/subscribing.html for details). The mailing list archives are available at https://lore.kernel.org/git/ https://marc.info/?l=git and other archival sites. Issues which are security relevant should be disclosed privately to the Git Security mailing list git-security@googlegroups.com The maintainer frequently sends the \"What's cooking\" reports that list the current status of various development topics to the mailing list. The discussion following them give a good reference for project status, development direction and remaining tasks. The name \"git\" was given by Linus Torvalds when he wrote the very first version. He described the tool as \"the stupid content tracker\" and the name as (depending on your mood): random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of \"get\" may or may not be relevant. stupid. contemptible and despicable. simple. Take your pick from the dictionary of slang. \"global information tracker\": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room. \"goddamn idiotic truckload of sh*t\": when it breaks About Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget ( https://gitgitgadget.github.io/ ). Please follow Documentation/SubmittingPatches procedure for any of your improvements. Topics c shell hacktoberfest Resources Readme License View license Code of conduct Code of conduct Contributing Contributing Security policy Security policy Uh oh! There was an error while loading. Please reload this page Activity Custom properties Stars 59.7k stars Watchers 2.5k watching Forks 27.6k forks Report repository Releases 1,000 tags Packages 0 Uh oh! There was an error while loading. Please reload this page Uh oh! There was an error while loading. Please reload this page Contributors 1,825 + 1,811 contributors Languages C 50.5% Shell 38.3% Perl 4.4% Tcl 3.6% Python 0.8% Makefile 0.7% Other 1.7%",
+      "data_acesso": "2026-03-13T14:31:35.640072",
+      "tamanho": 6252
     }
   },
   "indices": {
@@ -10498,7 +10610,8 @@
         "6cb9dd3ec0aa8739",
         "59c1f7af031c6db5",
         "dd7e384a921fc225",
-        "6ab1d04c7b4b949f"
+        "6ab1d04c7b4b949f",
+        "0116c4c6c3da46e7"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10530,7 +10643,11 @@
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
         "5ded4e12b42ae651",
-        "8e7082345d2edf03"
+        "8e7082345d2edf03",
+        "ad4f0965ff4a91ea",
+        "8b1b7a10f27a7fc5",
+        "b734cca537f5beff",
+        "e9b87086091506eb"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10542,7 +10659,8 @@
         "60885b3930f0a187",
         "1d4e81d94c23b2c2",
         "c89318b0e0615d97",
-        "0e103e53f9552598"
+        "0e103e53f9552598",
+        "4263343f5723c911"
       ],
       "codigo": [
         "026f23a1d4ac4177",
@@ -10555,7 +10673,9 @@
         "0897ec52374a6727",
         "95e3a5b592935fe3",
         "b850a0f81ab34e71",
-        "4ee54da053c5a92b"
+        "4ee54da053c5a92b",
+        "75a5d338dbd99a0c",
+        "c81451f3ca585417"
       ]
     },
     "por_fonte": {
@@ -11221,6 +11341,22 @@
       "https://fcamara.com/blog/aws-vs-azure/": [
         "4ee54da053c5a92b",
         "8e7082345d2edf03"
+      ],
+      "https://github.com/": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "https://github.com/git": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "https://github.com/git-guides/install-git": [
+        "c81451f3ca585417",
+        "b734cca537f5beff"
+      ],
+      "https://github.com/git/git": [
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ]
     },
     "por_palavra": {
@@ -11239,7 +11375,12 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "c81451f3ca585417",
+        "b734cca537f5beff",
+        "e9b87086091506eb"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -11276,7 +11417,12 @@
         "4caa16206e5fd138",
         "b850a0f81ab34e71",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "75a5d338dbd99a0c",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "4263343f5723c911"
       ],
       "computer": [
         "76e1b1a09f317aa1",
@@ -11313,7 +11459,14 @@
         "69480fe95ce24a31",
         "0897ec52374a6727",
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "blog": [
         "76e1b1a09f317aa1",
@@ -11342,12 +11495,15 @@
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "75a5d338dbd99a0c",
+        "c81451f3ca585417"
       ],
       "systems": [
         "76e1b1a09f317aa1",
         "0e103e53f9552598",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "b734cca537f5beff"
       ],
       "more": [
         "76e1b1a09f317aa1",
@@ -11357,7 +11513,8 @@
         "b8f86559bf96fa79",
         "9d3eef28d73f90e5",
         "cc6901ebb1f7f3e7",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "c81451f3ca585417"
       ],
       "with": [
         "76e1b1a09f317aa1",
@@ -11375,11 +11532,19 @@
         "95e3a5b592935fe3",
         "b850a0f81ab34e71",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "4263343f5723c911"
       ],
       "user": [
         "76e1b1a09f317aa1",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "what": [
         "76e1b1a09f317aa1",
@@ -11399,7 +11564,9 @@
         "869ef110cbcdc27e",
         "4b178bdc59da544a",
         "cb214497609573a8",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "these": [
         "76e1b1a09f317aa1"
@@ -11412,7 +11579,8 @@
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
         "cc6901ebb1f7f3e7",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "c81451f3ca585417"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -11470,7 +11638,11 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "95e3a5b592935fe3",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -11485,7 +11657,10 @@
       ],
       "install": [
         "76e1b1a09f317aa1",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "c81451f3ca585417",
+        "b734cca537f5beff",
+        "4263343f5723c911"
       ],
       "known": [
         "76e1b1a09f317aa1"
@@ -11509,7 +11684,8 @@
       ],
       "default": [
         "76e1b1a09f317aa1",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "b734cca537f5beff"
       ],
       "authentication": [
         "76e1b1a09f317aa1"
@@ -11551,7 +11727,11 @@
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
         "5ded4e12b42ae651",
-        "8e7082345d2edf03"
+        "8e7082345d2edf03",
+        "ad4f0965ff4a91ea",
+        "8b1b7a10f27a7fc5",
+        "b734cca537f5beff",
+        "e9b87086091506eb"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11588,7 +11768,11 @@
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
         "5ded4e12b42ae651",
-        "8e7082345d2edf03"
+        "8e7082345d2edf03",
+        "ad4f0965ff4a91ea",
+        "8b1b7a10f27a7fc5",
+        "b734cca537f5beff",
+        "e9b87086091506eb"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11694,7 +11878,8 @@
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4263343f5723c911"
       ],
       "video": [
         "869ef110cbcdc27e"
@@ -11728,10 +11913,14 @@
         "8ed8baff7acd22b8",
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
       ],
       "security": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "75a5d338dbd99a0c",
+        "4263343f5723c911"
       ],
       "2012": [
         "fe0a23e029896722"
@@ -11744,18 +11933,23 @@
       ],
       "files": [
         "fe0a23e029896722",
-        "242d8505c4a22160"
+        "242d8505c4a22160",
+        "4263343f5723c911"
       ],
       "help": [
         "fe0a23e029896722",
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4263343f5723c911"
       ],
       "public": [
         "fe0a23e029896722",
         "7a07f2ff806d1129",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
       ],
       "learn": [
         "fe0a23e029896722",
@@ -11768,14 +11962,19 @@
         "4caa16206e5fd138",
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "75a5d338dbd99a0c",
+        "c81451f3ca585417"
       ],
       "about": [
         "fe0a23e029896722",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "75a5d338dbd99a0c"
       ],
       "community": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
       ],
       "hsin": [
         "fe0a23e029896722"
@@ -11796,7 +11995,8 @@
       ],
       "collaboration": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "ad4f0965ff4a91ea"
       ],
       "national": [
         "fe0a23e029896722",
@@ -11820,7 +12020,9 @@
         "fe0a23e029896722",
         "cc6901ebb1f7f3e7",
         "b850a0f81ab34e71",
-        "6ab1d04c7b4b949f"
+        "6ab1d04c7b4b949f",
+        "ad4f0965ff4a91ea",
+        "c81451f3ca585417"
       ],
       "federal": [
         "fe0a23e029896722"
@@ -11884,10 +12086,13 @@
         "7a07f2ff806d1129"
       ],
       "american": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "75a5d338dbd99a0c"
       ],
       "secure": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "shared": [
         "7a07f2ff806d1129"
@@ -11906,7 +12111,9 @@
         "1b875cbff8d9d6f0",
         "890e6f3385756921",
         "9d3eef28d73f90e5",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "play": [
         "7a07f2ff806d1129"
@@ -12015,7 +12222,11 @@
         "28507d9dd792b9d2",
         "a572412ab66c4013",
         "837db61bcf100381",
-        "59c1f7af031c6db5"
+        "59c1f7af031c6db5",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "edit": [
         "581c8fb845bd6d65",
@@ -12052,7 +12263,9 @@
         "17ce6e361a1d01ee",
         "026f23a1d4ac4177",
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "paid": [
         "581c8fb845bd6d65",
@@ -12097,7 +12310,10 @@
       "only": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
       ],
       "might": [
         "581c8fb845bd6d65",
@@ -12153,11 +12369,14 @@
       ],
       "version": [
         "581c8fb845bd6d65",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "c81451f3ca585417",
+        "4263343f5723c911"
       ],
       "here": [
         "581c8fb845bd6d65",
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "c81451f3ca585417"
       ],
       "comparisontabl": [
         "581c8fb845bd6d65"
@@ -12227,7 +12446,9 @@
         "b8f86559bf96fa79",
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
-        "0e103e53f9552598"
+        "0e103e53f9552598",
+        "75a5d338dbd99a0c",
+        "4263343f5723c911"
       ],
       "started": [
         "b8f86559bf96fa79",
@@ -12239,7 +12460,8 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "c81451f3ca585417"
       ],
       "creating": [
         "b8f86559bf96fa79",
@@ -12288,7 +12510,8 @@
         "b8f86559bf96fa79"
       ],
       "customer": [
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "75a5d338dbd99a0c"
       ],
       "review": [
         "b8f86559bf96fa79"
@@ -12316,7 +12539,9 @@
         "111b3fbd6b950047",
         "66af99b6e8fa3152",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "libcontainer": [
         "3ba7175038ddccc0",
@@ -12392,7 +12617,9 @@
         "3ba7175038ddccc0",
         "e00a2380f9e7254a",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "service": [
         "3ba7175038ddccc0",
@@ -12509,7 +12736,8 @@
         "3e417395659575d0",
         "e21f689f4d1500b8",
         "28507d9dd792b9d2",
-        "4ee54da053c5a92b"
+        "4ee54da053c5a92b",
+        "b734cca537f5beff"
       ],
       "誉祥祥知识": [
         "1b875cbff8d9d6f0",
@@ -12536,7 +12764,8 @@
       ],
       "2024": [
         "1b875cbff8d9d6f0",
-        "890e6f3385756921"
+        "890e6f3385756921",
+        "0116c4c6c3da46e7"
       ],
       "誉祥生活": [
         "1b875cbff8d9d6f0",
@@ -12664,7 +12893,11 @@
       "into": [
         "1b875cbff8d9d6f0",
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "ad4f0965ff4a91ea",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
       ],
       "以及远程操控和监控的设备": [
         "1b875cbff8d9d6f0"
@@ -12967,10 +13200,13 @@
       "html": [
         "a572412ab66c4013",
         "837db61bcf100381",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
       ],
       "http": [
-        "a572412ab66c4013"
+        "a572412ab66c4013",
+        "0116c4c6c3da46e7"
       ],
       "github": [
         "a572412ab66c4013",
@@ -12979,7 +13215,15 @@
         "59c1f7af031c6db5",
         "66af99b6e8fa3152",
         "c89318b0e0615d97",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "b734cca537f5beff",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "algorithms": [
         "a572412ab66c4013",
@@ -13235,7 +13479,8 @@
       ],
       "installer": [
         "17380aa1e75c8e1c",
-        "b742dc8a21aec10c"
+        "b742dc8a21aec10c",
+        "c81451f3ca585417"
       ],
       "搜索并安装与你的stm32微控制器型号相对应的stm32": [
         "17380aa1e75c8e1c",
@@ -13518,7 +13763,8 @@
         "f542a8a92a748193",
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "0116c4c6c3da46e7"
       ],
       "pelo": [
         "8ed8baff7acd22b8",
@@ -13685,7 +13931,8 @@
       ],
       "desktop": [
         "f4274a87f70b7a9c",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "c81451f3ca585417"
       ],
       "será": [
         "f4274a87f70b7a9c"
@@ -13905,7 +14152,8 @@
         "60885b3930f0a187",
         "91e38248c22bb7fb",
         "59c1f7af031c6db5",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "b734cca537f5beff"
       ],
       "sair": [
         "60885b3930f0a187",
@@ -14093,7 +14341,8 @@
       "mercado": [
         "6fddd04117eaedbc",
         "f542a8a92a748193",
-        "8e7082345d2edf03"
+        "8e7082345d2edf03",
+        "75a5d338dbd99a0c"
       ],
       "possui": [
         "6fddd04117eaedbc"
@@ -14305,7 +14554,9 @@
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -14378,7 +14629,8 @@
         "026f23a1d4ac4177"
       ],
       "archive": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "4263343f5723c911"
       ],
       "database": [
         "026f23a1d4ac4177",
@@ -14433,7 +14685,8 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "0116c4c6c3da46e7"
       ],
       "mature": [
         "026f23a1d4ac4177"
@@ -14609,7 +14862,8 @@
         "1d4e81d94c23b2c2"
       ],
       "through": [
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "c81451f3ca585417"
       ],
       "migration": [
         "1d4e81d94c23b2c2",
@@ -14842,7 +15096,8 @@
         "4b178bdc59da544a",
         "cb214497609573a8",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "ad4f0965ff4a91ea"
       ],
       "foco": [
         "4b178bdc59da544a",
@@ -15080,16 +15335,23 @@
       "branch": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4263343f5723c911"
       ],
       "pull": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "b734cca537f5beff",
+        "e9b87086091506eb"
       ],
       "changes": [
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "75a5d338dbd99a0c"
       ],
       "branches": [
         "9d3eef28d73f90e5",
@@ -15100,22 +15362,29 @@
         "91e38248c22bb7fb",
         "6cb9dd3ec0aa8739",
         "59c1f7af031c6db5",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "0116c4c6c3da46e7",
+        "b734cca537f5beff",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "remote": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "59c1f7af031c6db5"
+        "59c1f7af031c6db5",
+        "b734cca537f5beff"
       ],
       "work": [
         "9d3eef28d73f90e5",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "75a5d338dbd99a0c"
       ],
       "push": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "59c1f7af031c6db5"
+        "59c1f7af031c6db5",
+        "b734cca537f5beff"
       ],
       "request": [
         "9d3eef28d73f90e5",
@@ -15131,28 +15400,40 @@
         "9d3eef28d73f90e5"
       ],
       "repository": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
       ],
       "like": [
         "9d3eef28d73f90e5",
         "0c698dccfe6ccd1c",
         "b850a0f81ab34e71",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "commits": [
         "9d3eef28d73f90e5",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "e9b87086091506eb"
       ],
       "merge": [
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "0116c4c6c3da46e7"
       ],
       "working": [
         "9d3eef28d73f90e5"
       ],
       "requests": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
       ],
       "getting": [
         "9d3eef28d73f90e5",
@@ -15161,7 +15442,10 @@
       "open": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "75a5d338dbd99a0c",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "local": [
         "9d3eef28d73f90e5",
@@ -15171,17 +15455,22 @@
         "9d3eef28d73f90e5",
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "4263343f5723c911"
       ],
       "important": [
         "9d3eef28d73f90e5"
       ],
       "developers": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "name": [
         "9d3eef28d73f90e5",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "back": [
         "9d3eef28d73f90e5",
@@ -15192,7 +15481,8 @@
       "time": [
         "9d3eef28d73f90e5",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "75a5d338dbd99a0c"
       ],
       "means": [
         "9d3eef28d73f90e5"
@@ -15200,7 +15490,9 @@
       "should": [
         "9d3eef28d73f90e5",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
       ],
       "many": [
         "9d3eef28d73f90e5",
@@ -15208,16 +15500,24 @@
         "b850a0f81ab34e71"
       ],
       "guides": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "b734cca537f5beff"
       ],
       "init": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "b734cca537f5beff"
       ],
       "clone": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "sign": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "advanced": [
         "91e38248c22bb7fb"
@@ -15260,7 +15560,8 @@
         "91e38248c22bb7fb"
       ],
       "collaborate": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "ad4f0965ff4a91ea"
       ],
       "controle": [
         "6cb9dd3ec0aa8739",
@@ -15432,7 +15733,8 @@
       ],
       "kernel": [
         "111b3fbd6b950047",
-        "66af99b6e8fa3152"
+        "66af99b6e8fa3152",
+        "4263343f5723c911"
       ],
       "operacional": [
         "111b3fbd6b950047"
@@ -15484,7 +15786,9 @@
         "59c1f7af031c6db5"
       ],
       "terminal": [
-        "59c1f7af031c6db5"
+        "59c1f7af031c6db5",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "precisamos": [
         "59c1f7af031c6db5"
@@ -15647,7 +15951,9 @@
         "08b5b3a969983ea5"
       ],
       "where": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "join": [
         "08b5b3a969983ea5",
@@ -15780,7 +16086,8 @@
       "build": [
         "0c698dccfe6ccd1c",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "4263343f5723c911"
       ],
       "solve": [
         "0c698dccfe6ccd1c"
@@ -15825,7 +16132,9 @@
       "tools": [
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "monitoring": [
         "d44db2d70aa038be",
@@ -15995,7 +16304,11 @@
       "list": [
         "242d8505c4a22160",
         "95e3a5b592935fe3",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "sort": [
         "242d8505c4a22160"
@@ -16101,7 +16414,9 @@
       ],
       "reference": [
         "242d8505c4a22160",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
       ],
       "quiz": [
         "242d8505c4a22160"
@@ -16114,7 +16429,8 @@
       ],
       "output": [
         "69480fe95ce24a31",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "c81451f3ca585417"
       ],
       "print": [
         "69480fe95ce24a31",
@@ -16186,7 +16502,10 @@
       ],
       "documentation": [
         "cc6901ebb1f7f3e7",
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "0116c4c6c3da46e7",
+        "4263343f5723c911",
+        "e9b87086091506eb"
       ],
       "library": [
         "cc6901ebb1f7f3e7",
@@ -16202,7 +16521,8 @@
         "cc6901ebb1f7f3e7"
       ],
       "function": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "ad4f0965ff4a91ea"
       ],
       "arguments": [
         "cc6901ebb1f7f3e7",
@@ -16224,7 +16544,12 @@
         "4caa16206e5fd138"
       ],
       "source": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "75a5d338dbd99a0c",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "e9b87086091506eb"
       ],
       "other": [
         "cc6901ebb1f7f3e7",
@@ -16238,7 +16563,8 @@
         "cc6901ebb1f7f3e7"
       ],
       "error": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "4263343f5723c911"
       ],
       "history": [
         "cc6901ebb1f7f3e7",
@@ -16423,7 +16749,8 @@
       ],
       "compiler": [
         "95e3a5b592935fe3",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "e9b87086091506eb"
       ],
       "nested": [
         "95e3a5b592935fe3"
@@ -16433,7 +16760,9 @@
         "b850a0f81ab34e71"
       ],
       "change": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "ad4f0965ff4a91ea",
+        "e9b87086091506eb"
       ],
       "value": [
         "dd7e384a921fc225"
@@ -16447,7 +16776,8 @@
         "b850a0f81ab34e71"
       ],
       "provided": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "c81451f3ca585417"
       ],
       "execute": [
         "dd7e384a921fc225"
@@ -16468,7 +16798,8 @@
       ],
       "development": [
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "75a5d338dbd99a0c"
       ],
       "environment": [
         "dd7e384a921fc225",
@@ -16478,7 +16809,8 @@
         "dd7e384a921fc225"
       ],
       "following": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "c81451f3ca585417"
       ],
       "conventional": [
         "dd7e384a921fc225"
@@ -16497,7 +16829,8 @@
         "6ab1d04c7b4b949f"
       ],
       "verify": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "c81451f3ca585417"
       ],
       "result": [
         "dd7e384a921fc225"
@@ -16528,11 +16861,15 @@
       ],
       "features": [
         "b850a0f81ab34e71",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
       ],
       "windows": [
         "b850a0f81ab34e71",
-        "4ee54da053c5a92b"
+        "4ee54da053c5a92b",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "databases": [
         "b850a0f81ab34e71"
@@ -16544,7 +16881,9 @@
         "73c30f0c4a60b045"
       ],
       "application": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "setup": [
         "73c30f0c4a60b045",
@@ -16552,7 +16891,8 @@
         "62f1bd97f2f5f854"
       ],
       "type": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "c81451f3ca585417"
       ],
       "unicode": [
         "73c30f0c4a60b045"
@@ -16589,7 +16929,9 @@
       ],
       "installed": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "c81451f3ca585417",
+        "b734cca537f5beff"
       ],
       "playlist": [
         "6ab1d04c7b4b949f",
@@ -16613,7 +16955,8 @@
       ],
       "installing": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "c81451f3ca585417"
       ],
       "just": [
         "6ab1d04c7b4b949f",
@@ -16711,7 +17054,8 @@
         "0e103e53f9552598"
       ],
       "tree": [
-        "0e103e53f9552598"
+        "0e103e53f9552598",
+        "4263343f5723c911"
       ],
       "planning": [
         "0e103e53f9552598"
@@ -16959,12 +17303,431 @@
       ],
       "clou": [
         "8e7082345d2edf03"
+      ],
+      "copilot": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "explore": [
+        "75a5d338dbd99a0c"
+      ],
+      "mercedes": [
+        "75a5d338dbd99a0c"
+      ],
+      "benz": [
+        "75a5d338dbd99a0c"
+      ],
+      "story": [
+        "75a5d338dbd99a0c"
+      ],
+      "projects": [
+        "75a5d338dbd99a0c"
+      ],
+      "tasks": [
+        "75a5d338dbd99a0c"
+      ],
+      "together": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "duolingo": [
+        "75a5d338dbd99a0c"
+      ],
+      "libre": [
+        "75a5d338dbd99a0c"
+      ],
+      "mode": [
+        "75a5d338dbd99a0c"
+      ],
+      "then": [
+        "75a5d338dbd99a0c"
+      ],
+      "industry": [
+        "75a5d338dbd99a0c"
+      ],
+      "autofix": [
+        "75a5d338dbd99a0c"
+      ],
+      "issues": [
+        "75a5d338dbd99a0c",
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "building": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "enter": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "chat": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "plan": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "automate": [
+        "75a5d338dbd99a0c",
+        "ad4f0965ff4a91ea"
+      ],
+      "constant": [
+        "ad4f0965ff4a91ea"
+      ],
+      "keeps": [
+        "ad4f0965ff4a91ea"
+      ],
+      "ahead": [
+        "ad4f0965ff4a91ea"
+      ],
+      "future": [
+        "ad4f0965ff4a91ea"
+      ],
+      "happens": [
+        "ad4f0965ff4a91ea"
+      ],
+      "trends": [
+        "ad4f0965ff4a91ea"
+      ],
+      "evolve": [
+        "ad4f0965ff4a91ea"
+      ],
+      "endures": [
+        "ad4f0965ff4a91ea"
+      ],
+      "agents": [
+        "ad4f0965ff4a91ea"
+      ],
+      "come": [
+        "ad4f0965ff4a91ea"
+      ],
+      "demonstration": [
+        "ad4f0965ff4a91ea"
+      ],
+      "animation": [
+        "ad4f0965ff4a91ea"
+      ],
+      "refactor": [
+        "ad4f0965ff4a91ea"
+      ],
+      "duplicated": [
+        "ad4f0965ff4a91ea"
+      ],
+      "logic": [
+        "ad4f0965ff4a91ea"
+      ],
+      "extract": [
+        "ad4f0965ff4a91ea"
+      ],
+      "reusable": [
+        "ad4f0965ff4a91ea"
+      ],
+      "given": [
+        "ad4f0965ff4a91ea"
+      ],
+      "snippet": [
+        "ad4f0965ff4a91ea"
+      ],
+      "updated": [
+        "0116c4c6c3da46e7"
+      ],
+      "past": [
+        "0116c4c6c3da46e7"
+      ],
+      "year": [
+        "0116c4c6c3da46e7"
+      ],
+      "activity": [
+        "0116c4c6c3da46e7"
+      ],
+      "loading": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "gitgitgadget": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
+      ],
+      "website": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "gitscm": [
+        "0116c4c6c3da46e7"
+      ],
+      "htmldocs": [
+        "0116c4c6c3da46e7"
+      ],
+      "repositories": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "please": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
+      ],
+      "book": [
+        "0116c4c6c3da46e7"
+      ],
+      "sha1collisiondetection": [
+        "0116c4c6c3da46e7"
+      ],
+      "mirror": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
+      ],
+      "publish": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
+      ],
+      "turned": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
+      ],
+      "patches": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "e9b87086091506eb"
+      ],
+      "mailing": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "4263343f5723c911",
+        "e9b87086091506eb"
+      ],
+      "follow": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417",
+        "e9b87086091506eb"
+      ],
+      "note": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417"
+      ],
+      "itself": [
+        "0116c4c6c3da46e7",
+        "8b1b7a10f27a7fc5"
+      ],
+      "pages": [
+        "0116c4c6c3da46e7"
+      ],
+      "place": [
+        "0116c4c6c3da46e7"
+      ],
+      "popular": [
+        "8b1b7a10f27a7fc5",
+        "c81451f3ca585417"
+      ],
+      "documen": [
+        "8b1b7a10f27a7fc5"
+      ],
+      "referenc": [
+        "8b1b7a10f27a7fc5"
+      ],
+      "command": [
+        "c81451f3ca585417",
+        "b734cca537f5beff",
+        "4263343f5723c911"
+      ],
+      "latest": [
+        "c81451f3ca585417"
+      ],
+      "prompt": [
+        "c81451f3ca585417",
+        "b734cca537f5beff"
+      ],
+      "once": [
+        "c81451f3ca585417"
+      ],
+      "download": [
+        "c81451f3ca585417"
+      ],
+      "installation": [
+        "c81451f3ca585417"
+      ],
+      "already": [
+        "c81451f3ca585417",
+        "b734cca537f5beff"
+      ],
+      "navigate": [
+        "c81451f3ca585417"
+      ],
+      "downloading": [
+        "c81451f3ca585417"
+      ],
+      "macos": [
+        "c81451f3ca585417"
+      ],
+      "bash": [
+        "c81451f3ca585417"
+      ],
+      "common": [
+        "b734cca537f5beff"
+      ],
+      "operating": [
+        "b734cca537f5beff"
+      ],
+      "fact": [
+        "b734cca537f5beff"
+      ],
+      "comes": [
+        "b734cca537f5beff"
+      ],
+      "machines": [
+        "b734cca537f5beff"
+      ],
+      "checking": [
+        "b734cca537f5beff"
+      ],
+      "look": [
+        "b734cca537f5beff"
+      ],
+      "called": [
+        "b734cca537f5beff"
+      ],
+      "bundle": [
+        "4263343f5723c911"
+      ],
+      "sha1": [
+        "4263343f5723c911",
+        "e9b87086091506eb"
+      ],
+      "builtin": [
+        "4263343f5723c911",
+        "e9b87086091506eb"
+      ],
+      "readme": [
+        "4263343f5723c911"
+      ],
+      "abspath": [
+        "4263343f5723c911"
+      ],
+      "advice": [
+        "4263343f5723c911"
+      ],
+      "alias": [
+        "4263343f5723c911"
+      ],
+      "alloc": [
+        "4263343f5723c911"
+      ],
+      "apply": [
+        "4263343f5723c911"
+      ],
+      "attr": [
+        "4263343f5723c911"
+      ],
+      "base85": [
+        "4263343f5723c911"
+      ],
+      "bisect": [
+        "4263343f5723c911"
+      ],
+      "blame": [
+        "4263343f5723c911"
+      ],
+      "blob": [
+        "4263343f5723c911"
+      ],
+      "bloom": [
+        "4263343f5723c911"
+      ],
+      "cache": [
+        "4263343f5723c911"
+      ],
+      "cbtree": [
+        "4263343f5723c911"
+      ],
+      "chdir": [
+        "4263343f5723c911"
+      ],
+      "notify": [
+        "4263343f5723c911"
+      ],
+      "checkout": [
+        "4263343f5723c911"
+      ],
+      "adoc": [
+        "4263343f5723c911"
+      ],
+      "message": [
+        "4263343f5723c911"
+      ],
+      "perl": [
+        "4263343f5723c911"
+      ],
+      "last": [
+        "e9b87086091506eb"
+      ],
+      "wrappers": [
+        "e9b87086091506eb"
+      ],
+      "block": [
+        "e9b87086091506eb"
+      ],
+      "compat": [
+        "e9b87086091506eb"
+      ],
+      "tricks": [
+        "e9b87086091506eb"
+      ],
+      "contrib": [
+        "e9b87086091506eb"
+      ],
+      "ewah": [
+        "e9b87086091506eb"
+      ],
+      "gitk": [
+        "e9b87086091506eb"
+      ],
+      "submittingpatches": [
+        "e9b87086091506eb"
+      ],
+      "procedure": [
+        "e9b87086091506eb"
+      ],
+      "improvements": [
+        "e9b87086091506eb"
+      ],
+      "notifications": [
+        "e9b87086091506eb"
+      ],
+      "must": [
+        "e9b87086091506eb"
+      ],
+      "signed": [
+        "e9b87086091506eb"
+      ],
+      "notification": [
+        "e9b87086091506eb"
+      ],
+      "settings": [
+        "e9b87086091506eb"
+      ],
+      "fork": [
+        "e9b87086091506eb"
+      ],
+      "star": [
+        "e9b87086091506eb"
+      ],
+      "master": [
+        "e9b87086091506eb"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 30,
-    "paginas_falhas": 100,
-    "total_caracteres": 191948
+    "paginas_baixadas": 34,
+    "paginas_falhas": 105,
+    "total_caracteres": 210704
   }
 }
