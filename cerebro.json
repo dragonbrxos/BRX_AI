@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 20,
+    "ciclos": 21,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 186937
+    "caracteres_aprendidos": 190910
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9828,6 +9828,28 @@
       "criado": "2026-03-13T14:27:20.591841",
       "acessos": 1,
       "conexoes": []
+    },
+    "0e103e53f9552598": {
+      "conteudo": "281 赞同 24 评论 594 收藏 前言 这学期因为得知是 Andy 教课, 特意选修了 15445/15645Intro to Database Systems . 总体来说体验还是非常不错的, 教授是真的懂数据库这个话题. 在教学基本知识的同时, 还能不时地给大家介绍和演示一下demo和业界的发展进度. 外加这学期有天神下凡的TA 迟先生 给BusTub做了很多改进. 连Andy都忍不住在 Twitter 上狂夸\"这可能是我遇到过最优秀的TA学生了\". Piazza上提问获得回答的速度也极快, 和本学期另一门用Ed来提问的课的磨叽模样形成了鲜明的对比. 简直是我的成功学导师了. 现在在家里准备迎接圣诞节 顺手总结一下这节课的四个实验 存活指北 . 由于在CMU一开始学ML/DL蹉跎了一年的岁月(不是)和补前置课 15213/15513 Intro to Computer System , 这学期才正式开始上System系列课, 悔恨! 下学期还得在这北美小衡水多呆一学期 . 代码仓库 由于新的学期的BusTub版本已经上线, 我可以公开我的旧版本的代码仓库了: GitHub - YukunJ/BusTub-DB 很欢迎大家提问和进行交流讨论 high-level 的设计和思路! 这学期的课程虽然已经结束了, 但四个实验中我其实做的时候还有罗列了一些 TODO 给自己, 学期中由于忙碌没时间处理完. 有什么问题可以留言区直接留言讨论! 我住在知乎上的~ ️ 实验概述 个人感觉, 从难度来说 P2 > P1 = P4 > P3 P1 (缓冲池 Buffer Pool Manager) : 为了更好的管理磁盘页和内存页之间的映射同步, 要求实现 可扩展哈希表(Extensible HashTable) 和 LRU-K置换 算法, 以便于把内部的缓冲池的页写到磁盘页和把磁盘页读入缓冲池. 单线程的版本并不难写, 但在引入多线程后, 我一开始经常 Pin 和 Unpin 页的次数不一致, 导致要么提前把内存页就丢到磁盘去了, 或者没能把内存页丢出去导致没可用的内存页了. 在优化方面, 重点主要是 LRU- K 置换算法. 一开始把两种页( 满K次读取 和 没满K次读取 的)一起管理, 使得容器size比较大. 后面发现其实有一种页的读取 In and Out 的频率特别高, 分开管理后效率高了不少. P2 (B+ Tree Index B+树索引) : 为了更快地检索和遍历数据表中的大量数据, 要求实现了一个支持并发的 B+树索引 和 迭代器 . 这个实验还特意分成了2阶段来帮助大家实现, 但从单线程阶段就已经很折磨了. 我是读了好几遍教科书 <Database System Concepts> 里关于B+ 树实现的伪代码, 然后严格按照伪代码来实现的. 一开始总是被Max和Min的除以二操作究竟是向上取整还是向下取整折磨. 不过这学期我们的天神TA 迟先生 为 B+ 树提供了 网页可视化界面 , 大家可以对着可视化界面一步一步来Debug. 优化的话, 其实后来和我的室友交流了一下发现, 正是因为我太严格的遵守伪代码, 而错失了一些优化的机会. 比如我在删除函数里当这个B树Node大小 下溢 时, 总是做4步: 1.试图和右边Coalesce, 2.试图和左边Coalese, 3.试图和右边Merge, 4.试图和左边Merge. 但是其实, 除非是最右边的Node, 只需要要么试图和右边Coalesce, 要么和右边Merge就可以了. 因为Coalesce的条件和Merge的条件 并集 起来就是 全集 了. 这里理论上就可以在删除函数需要调整节点时 节省一半 的时间. P3 (查询执行 Query Execution) : 为支持SQL查询(天神TA 迟先生 为 BusTub 增加了基础SQL语句的Parse和Query Planning), 要求实现了 顺序扫描,索引扫描,插入 删除 投影 过滤 嵌套循环join 索引join 哈希join 聚合 排序 limit top-N 等核心执行功能. 在排行榜优化阶段, 还通过 谓词下推(predicate pushdown) 重排序join 分解过滤条件 列修剪 等实现计划优化. 这是我认为最简单的实验, 只要一开始花点时间看明白这整个系统在做 Query Planning 时是有哪些信息是available的, 以及参考一些已经实现的功能, 模仿一下抄抄改改, 只要写出第一个, 后面就很自然的就都能轻松过了 . 但是, 优化排行榜的那些 Optimizations 其实还是很难的, 课程里要求难度比较低, 只要我们写出针对已经给出的一个SQL语句的优化方案就行了. 但即使这样, 在一堆深层嵌套的 If/Else 语句里还是很容易犯错的, 有太多的可能性需要去take care of. 但是可想而知, 在真实环境中, 在 Query 语句比较复杂时候, 要想写出个没Bug且有用的优化器是非常非常难的. P4 (并发事务管理 Lock Manager) : 为了管理并发事务, 要求实现 资源锁管理器 来根据不同的事务 授予/阻塞 资源锁请求.它支持 READ_UNCOMMITED READ_COMMITTED 和 REPEATABLE_READ 作为事务隔离级别和分层的资源锁. 此外, 要求一个 死锁检测器 线程会单独定时运行, 监测并中止任何限于 资源死锁 中的事务. 这个实验加强了我对于不同事务隔离级别的理解, 知道了比如说 脏读(dirty read) 不可重复读(unrepeatable read) 幽灵???(phantom) 在哪种隔离级别会可能出现. 在实现的时候其实难度还好, 由于在代码头文件里已经很贴心的给了很多提示和不同锁级别和隔离级别所要做的检查, 代码其实最后就是很多 If/Else 检查+ wait /用 condition_variable 唤醒沉睡的事务线程. 死锁检测器是一个非常基础的深度优先搜索构图并找出环形入口即可. 同时还要修改一下P3中的 插入 删除 和 扫描 执行器, 根据事务的隔离级别, 要在进行这些有副作用的 write 操作时拿上合适的锁才行 . 在排行榜优化方面, 这次给定的SQL语句是需要我们去设计出 更新(Update) 执行器来代替 一次删除+一次新插入 . 同时提前捕捉过滤条件并把它载入 索引扫描 和 线性扫描 执行器中, 使得在扫描时直接进行过滤, 减少了向上传递的数据数量, 一步到位. 但我在最后没能想出来如何加快那个 Count QPS . CMU排行榜里有两个同学把这一个指标也从 10+ 提升到了 7, 8万 . 根据他们的说法, 他们是自己手动 track 了这些Count而不是每次都去真的运行那个SQL Query, 从而降低了 资源锁之间的竞争 . 好吧其实现在告诉我了, 我也还是不太明白到底是怎么实现的(大家有谁想出来了可以踹我一下, 让我学习一下). 实验结果 & 排行榜 总体来说, 我在实验一 Buffer Pool Manager 和实验二 B+ Tree Index 时候比较的挣扎. 一开始的很多设计不是很合理, 导致很容易出现Bugs (一些C++新语法杀我 ). 每次看着 segmentation fault 就一捂脸 . 所以对于排行榜的优化上就没有花很多时间. 到了实验三 Query Execution 和实验四 Lock Manager , 感觉做起来比较得心应手了, 所以做完后就在排行榜上花了比较多的时间优化. 这几天刚发现竟然还有个公开的 非CMU 版本的 gradescope . 把代码复制下来在上面跑了一下. 在两个 gradescopes 上的跑分分别如下: (保密起见, 隐去了 CMU 版本所有人的名字) 非CMU版本 P4 CMU版本 P4 非CMU版本 P3 CMU版本 P3 非CMU版本 P2 CMU版本 P2 非CMU版本 P1 CMU版本 P1 欢迎大家指出不足或错误, 进行提问和讨论. 编辑于 2023-05-29 · 著作权归作者所有",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://www.zhihu.com/tardis/bd/art/592782024"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:28:56.798021",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "5ded4e12b42ae651": {
+      "conteudo": "TITULO: CMU 15445/15645 Database Systems 存活指北\nCONTEUDO: 281 赞同 24 评论 594 收藏 前言 这学期因为得知是 Andy 教课, 特意选修了 15445/15645Intro to Database Systems . 总体来说体验还是非常不错的, 教授是真的懂数据库这个话题. 在教学基本知识的同时, 还能不时地给大家介绍和演示一下demo和业界的发展进度. 外加这学期有天神下凡的TA 迟先生 给BusTub做了很多改进. 连Andy都忍不住在 Twitter 上狂夸\"这可能是我遇到过最优秀的TA学生了\". Piazza上提问获得回答的速度也极快, 和本学期另一门用Ed来提问的课的磨叽模样形成了鲜明的对比. 简直是我的成功学导师了. 现在在家里准备迎接圣诞节 顺手总结一下这节课的四个实验 存活指北 . 由于在CMU一开始学ML/DL蹉跎了一年的岁月(不是)和补前置课 15213/15513 Intro to Computer System , 这学期才正式开始上System系列课, 悔恨! 下学期还得在这北美小衡水多呆一学期 . 代码仓库 由于新的学期的BusTub版本已经上线, 我可以公开我的旧版本的代码仓库了: GitHub -...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.zhihu.com/tardis/bd/art/592782024"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:28:56.798948",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9998,6 +10020,12 @@
       "texto_completo": "So yeah, I ended up installing Winamp in Wine on my Linux setup just to see if it would still work, and it actually does. I am running Ubuntu Server 25.10 with KDE Plasma, made a dedicated Wine prefix for Winamp, installed it there, and it started up without much drama. Classic skin, playlist editor, media library, the whole old-school setup. It plays fine and honestly looks exactly like it should. The weird part is not that it works. The weird part is how instantly familiar it feels. The second I saw that layout again, it was like getting punched in the face by pure early-2000s nostalgia. Same buttons, same playlist window, same look, same whole vibe. And now I am sitting here on a modern Linux system using Winamp through Wine like some time traveler that missed the exit ramp back to 2004. It works, and I am not even going to pretend it is the most logical thing I have installed on Linux. But damn, I feel old as fox using this again. Still, there is something kind of beautiful about seeing Winamp alive and working on Linux in 2026.",
       "data_acesso": "2026-03-13T14:27:20.591414",
       "tamanho": 1048
+    },
+    "https://www.zhihu.com/tardis/bd/art/592782024": {
+      "titulo": "CMU 15445/15645 Database Systems 存活指北",
+      "texto_completo": "281 赞同 24 评论 594 收藏 前言 这学期因为得知是 Andy 教课, 特意选修了 15445/15645Intro to Database Systems . 总体来说体验还是非常不错的, 教授是真的懂数据库这个话题. 在教学基本知识的同时, 还能不时地给大家介绍和演示一下demo和业界的发展进度. 外加这学期有天神下凡的TA 迟先生 给BusTub做了很多改进. 连Andy都忍不住在 Twitter 上狂夸\"这可能是我遇到过最优秀的TA学生了\". Piazza上提问获得回答的速度也极快, 和本学期另一门用Ed来提问的课的磨叽模样形成了鲜明的对比. 简直是我的成功学导师了. 现在在家里准备迎接圣诞节 顺手总结一下这节课的四个实验 存活指北 . 由于在CMU一开始学ML/DL蹉跎了一年的岁月(不是)和补前置课 15213/15513 Intro to Computer System , 这学期才正式开始上System系列课, 悔恨! 下学期还得在这北美小衡水多呆一学期 . 代码仓库 由于新的学期的BusTub版本已经上线, 我可以公开我的旧版本的代码仓库了: GitHub - YukunJ/BusTub-DB 很欢迎大家提问和进行交流讨论 high-level 的设计和思路! 这学期的课程虽然已经结束了, 但四个实验中我其实做的时候还有罗列了一些 TODO 给自己, 学期中由于忙碌没时间处理完. 有什么问题可以留言区直接留言讨论! 我住在知乎上的~ ️ 实验概述 个人感觉, 从难度来说 P2 > P1 = P4 > P3 P1 (缓冲池 Buffer Pool Manager) : 为了更好的管理磁盘页和内存页之间的映射同步, 要求实现 可扩展哈希表(Extensible HashTable) 和 LRU-K置换 算法, 以便于把内部的缓冲池的页写到磁盘页和把磁盘页读入缓冲池. 单线程的版本并不难写, 但在引入多线程后, 我一开始经常 Pin 和 Unpin 页的次数不一致, 导致要么提前把内存页就丢到磁盘去了, 或者没能把内存页丢出去导致没可用的内存页了. 在优化方面, 重点主要是 LRU- K 置换算法. 一开始把两种页( 满K次读取 和 没满K次读取 的)一起管理, 使得容器size比较大. 后面发现其实有一种页的读取 In and Out 的频率特别高, 分开管理后效率高了不少. P2 (B+ Tree Index B+树索引) : 为了更快地检索和遍历数据表中的大量数据, 要求实现了一个支持并发的 B+树索引 和 迭代器 . 这个实验还特意分成了2阶段来帮助大家实现, 但从单线程阶段就已经很折磨了. 我是读了好几遍教科书 <Database System Concepts> 里关于B+ 树实现的伪代码, 然后严格按照伪代码来实现的. 一开始总是被Max和Min的除以二操作究竟是向上取整还是向下取整折磨. 不过这学期我们的天神TA 迟先生 为 B+ 树提供了 网页可视化界面 , 大家可以对着可视化界面一步一步来Debug. 优化的话, 其实后来和我的室友交流了一下发现, 正是因为我太严格的遵守伪代码, 而错失了一些优化的机会. 比如我在删除函数里当这个B树Node大小 下溢 时, 总是做4步: 1.试图和右边Coalesce, 2.试图和左边Coalese, 3.试图和右边Merge, 4.试图和左边Merge. 但是其实, 除非是最右边的Node, 只需要要么试图和右边Coalesce, 要么和右边Merge就可以了. 因为Coalesce的条件和Merge的条件 并集 起来就是 全集 了. 这里理论上就可以在删除函数需要调整节点时 节省一半 的时间. P3 (查询执行 Query Execution) : 为支持SQL查询(天神TA 迟先生 为 BusTub 增加了基础SQL语句的Parse和Query Planning), 要求实现了 顺序扫描,索引扫描,插入 删除 投影 过滤 嵌套循环join 索引join 哈希join 聚合 排序 limit top-N 等核心执行功能. 在排行榜优化阶段, 还通过 谓词下推(predicate pushdown) 重排序join 分解过滤条件 列修剪 等实现计划优化. 这是我认为最简单的实验, 只要一开始花点时间看明白这整个系统在做 Query Planning 时是有哪些信息是available的, 以及参考一些已经实现的功能, 模仿一下抄抄改改, 只要写出第一个, 后面就很自然的就都能轻松过了 . 但是, 优化排行榜的那些 Optimizations 其实还是很难的, 课程里要求难度比较低, 只要我们写出针对已经给出的一个SQL语句的优化方案就行了. 但即使这样, 在一堆深层嵌套的 If/Else 语句里还是很容易犯错的, 有太多的可能性需要去take care of. 但是可想而知, 在真实环境中, 在 Query 语句比较复杂时候, 要想写出个没Bug且有用的优化器是非常非常难的. P4 (并发事务管理 Lock Manager) : 为了管理并发事务, 要求实现 资源锁管理器 来根据不同的事务 授予/阻塞 资源锁请求.它支持 READ_UNCOMMITED READ_COMMITTED 和 REPEATABLE_READ 作为事务隔离级别和分层的资源锁. 此外, 要求一个 死锁检测器 线程会单独定时运行, 监测并中止任何限于 资源死锁 中的事务. 这个实验加强了我对于不同事务隔离级别的理解, 知道了比如说 脏读(dirty read) 不可重复读(unrepeatable read) 幽灵???(phantom) 在哪种隔离级别会可能出现. 在实现的时候其实难度还好, 由于在代码头文件里已经很贴心的给了很多提示和不同锁级别和隔离级别所要做的检查, 代码其实最后就是很多 If/Else 检查+ wait /用 condition_variable 唤醒沉睡的事务线程. 死锁检测器是一个非常基础的深度优先搜索构图并找出环形入口即可. 同时还要修改一下P3中的 插入 删除 和 扫描 执行器, 根据事务的隔离级别, 要在进行这些有副作用的 write 操作时拿上合适的锁才行 . 在排行榜优化方面, 这次给定的SQL语句是需要我们去设计出 更新(Update) 执行器来代替 一次删除+一次新插入 . 同时提前捕捉过滤条件并把它载入 索引扫描 和 线性扫描 执行器中, 使得在扫描时直接进行过滤, 减少了向上传递的数据数量, 一步到位. 但我在最后没能想出来如何加快那个 Count QPS . CMU排行榜里有两个同学把这一个指标也从 10+ 提升到了 7, 8万 . 根据他们的说法, 他们是自己手动 track 了这些Count而不是每次都去真的运行那个SQL Query, 从而降低了 资源锁之间的竞争 . 好吧其实现在告诉我了, 我也还是不太明白到底是怎么实现的(大家有谁想出来了可以踹我一下, 让我学习一下). 实验结果 & 排行榜 总体来说, 我在实验一 Buffer Pool Manager 和实验二 B+ Tree Index 时候比较的挣扎. 一开始的很多设计不是很合理, 导致很容易出现Bugs (一些C++新语法杀我 ). 每次看着 segmentation fault 就一捂脸 . 所以对于排行榜的优化上就没有花很多时间. 到了实验三 Query Execution 和实验四 Lock Manager , 感觉做起来比较得心应手了, 所以做完后就在排行榜上花了比较多的时间优化. 这几天刚发现竟然还有个公开的 非CMU 版本的 gradescope . 把代码复制下来在上面跑了一下. 在两个 gradescopes 上的跑分分别如下: (保密起见, 隐去了 CMU 版本所有人的名字) 非CMU版本 P4 CMU版本 P4 非CMU版本 P3 CMU版本 P3 非CMU版本 P2 CMU版本 P2 非CMU版本 P1 CMU版本 P1 欢迎大家指出不足或错误, 进行提问和讨论. 编辑于 2023-05-29 · 著作权归作者所有",
+      "data_acesso": "2026-03-13T14:28:56.796970",
+      "tamanho": 3414
     }
   },
   "indices": {
@@ -10472,7 +10500,8 @@
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "5ded4e12b42ae651"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10483,7 +10512,8 @@
         "8ed8baff7acd22b8",
         "60885b3930f0a187",
         "1d4e81d94c23b2c2",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "0e103e53f9552598"
       ],
       "codigo": [
         "026f23a1d4ac4177",
@@ -11153,6 +11183,10 @@
       "https://www.linux.org/whats-new/": [
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854"
+      ],
+      "https://www.zhihu.com/tardis/bd/art/592782024": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ]
     },
     "por_palavra": {
@@ -11211,14 +11245,18 @@
         "62f1bd97f2f5f854"
       ],
       "computer": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ],
       "passwords": [
         "76e1b1a09f317aa1"
       ],
       "system": [
         "76e1b1a09f317aa1",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ],
       "risks": [
         "76e1b1a09f317aa1"
@@ -11273,7 +11311,9 @@
         "b850a0f81ab34e71"
       ],
       "systems": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ],
       "more": [
         "76e1b1a09f317aa1",
@@ -11475,7 +11515,8 @@
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "5ded4e12b42ae651"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11510,7 +11551,8 @@
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "5ded4e12b42ae651"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -12146,7 +12188,8 @@
       "read": [
         "b8f86559bf96fa79",
         "cc6901ebb1f7f3e7",
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "0e103e53f9552598"
       ],
       "started": [
         "b8f86559bf96fa79",
@@ -12354,7 +12397,8 @@
       ],
       "execution": [
         "3ba7175038ddccc0",
-        "e00a2380f9e7254a"
+        "e00a2380f9e7254a",
+        "0e103e53f9552598"
       ],
       "driver": [
         "3ba7175038ddccc0",
@@ -12892,7 +12936,8 @@
         "91e38248c22bb7fb",
         "59c1f7af031c6db5",
         "66af99b6e8fa3152",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "5ded4e12b42ae651"
       ],
       "algorithms": [
         "a572412ab66c4013",
@@ -12932,7 +12977,8 @@
         "a572412ab66c4013",
         "08b5b3a969983ea5",
         "0c698dccfe6ccd1c",
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "0e103e53f9552598"
       ],
       "rosulek": [
         "a572412ab66c4013"
@@ -14260,7 +14306,9 @@
         "1d4e81d94c23b2c2",
         "08b5b3a969983ea5",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ],
       "search": [
         "026f23a1d4ac4177",
@@ -14909,7 +14957,8 @@
         "06412b81f68bbfee"
       ],
       "manager": [
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "0e103e53f9552598"
       ],
       "mostrar": [
         "06412b81f68bbfee"
@@ -15317,7 +15366,8 @@
         "111b3fbd6b950047"
       ],
       "pool": [
-        "111b3fbd6b950047"
+        "111b3fbd6b950047",
+        "0e103e53f9552598"
       ],
       "talentos": [
         "111b3fbd6b950047"
@@ -15557,7 +15607,8 @@
       ],
       "query": [
         "08b5b3a969983ea5",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "0e103e53f9552598"
       ],
       "slow": [
         "08b5b3a969983ea5",
@@ -15996,7 +16047,9 @@
       ],
       "intro": [
         "69480fe95ce24a31",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
       ],
       "statements": [
         "69480fe95ce24a31",
@@ -16549,12 +16602,164 @@
       "instantly": [
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854"
+      ],
+      "非cmu版本": [
+        "0e103e53f9552598"
+      ],
+      "cmu版本": [
+        "0e103e53f9552598"
+      ],
+      "bustub": [
+        "0e103e53f9552598"
+      ],
+      "buffer": [
+        "0e103e53f9552598"
+      ],
+      "要求实现": [
+        "0e103e53f9552598"
+      ],
+      "tree": [
+        "0e103e53f9552598"
+      ],
+      "planning": [
+        "0e103e53f9552598"
+      ],
+      "索引扫描": [
+        "0e103e53f9552598"
+      ],
+      "else": [
+        "0e103e53f9552598"
+      ],
+      "lock": [
+        "0e103e53f9552598"
+      ],
+      "这学期因为得知是": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "andy": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "特意选修了": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "15445": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "15645intro": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "总体来说体验还是非常不错的": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "教授是真的懂数据库这个话题": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "在教学基本知识的同时": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "还能不时地给大家介绍和演示一下demo和业界的发展进度": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "外加这学期有天神下凡的ta": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "给bustub做了很多改进": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "连andy都忍不住在": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "twitter": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "这可能是我遇到过最优秀的ta学生了": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "piazza上提问获得回答的速度也极快": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "和本学期另一门用ed来提问的课的磨叽模样形成了鲜明的对比": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "简直是我的成功学导师了": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "现在在家里准备迎接圣诞节": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "顺手总结一下这节课的四个实验": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "存活指北": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "由于在cmu一开始学ml": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "dl蹉跎了一年的岁月": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "和补前置课": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "15213": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "15513": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "这学期才正式开始上system系列课": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "下学期还得在这北美小衡水多呆一学期": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "代码仓库": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "由于新的学期的bustub版本已经上线": [
+        "0e103e53f9552598",
+        "5ded4e12b42ae651"
+      ],
+      "15645": [
+        "5ded4e12b42ae651"
+      ],
+      "我可以公开我的旧版本的代码仓库了": [
+        "5ded4e12b42ae651"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 28,
-    "paginas_falhas": 68,
-    "total_caracteres": 171319
+    "paginas_baixadas": 29,
+    "paginas_falhas": 76,
+    "total_caracteres": 174733
   }
 }
