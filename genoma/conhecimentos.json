@@ -988,5 +988,223 @@
       "https://www.alura.com.br/artigos/transformers",
       "https://huggingface.co/learn/llm-course/pt/chapter1/4"
     ]
+  },
+  {
+    "id": "d7b63b374b406eaa",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: transformers processamento linguagem\n\nEvolucao: ## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 10\nBase empirica: 21 observacoes\nRede inicia......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:52:45.154654",
+    "modificado": "2026-03-13T13:52:45.461608",
+    "conexoes": [
+      {
+        "para": "02b1ef9574bc920d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "fase": "coleta",
+      "fontes_count": 25,
+      "queries": [
+        "transformers processamento linguagem",
+        "transformers processamento linguagem fundamentos",
+        "transformers processamento linguagem aplicacoes",
+        "transformers processamento linguagem algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: transformers processamento linguagem",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:52:45.459615",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 10\nBase empirica: 21 observacoes\nRede inicial: 1167 conexoes\n\nTermos chave: size, tough, disso, redefinindo, versáteis",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:52:45.460660",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 12.2 conexoes/celula\nClusters identificados:\n- outros: relentlessly, loyal, queen\n- tecnico: redefinindo\n\nFontes: 9 referen...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:52:45.460978",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 10\nBase empirica: 21 observacoes\nRede inicia...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:52:45.461300",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: transformers processamento linguagem\n\nEvolucao: ## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 12.2 conexoes/celula\nClusters identificados:\n- o...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:52:45.461570",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+    ]
+  },
+  {
+    "id": "4714f9fe9ed8ae28",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: machine learning nao supervisionado\n\nEvolucao: ## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial:......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 15 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:53:05.124245",
+    "modificado": "2026-03-13T13:53:05.403617",
+    "conexoes": [
+      {
+        "para": "1595e9259ab6bba0",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "machine learning nao supervisionado fundamentos",
+        "machine learning nao supervisionado",
+        "machine learning nao supervisionado algoritmos",
+        "machine learning nao supervisionado aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: machine learning nao supervisionado",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:53:05.402140",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial: 853 conexoes\n\nTermos chave: pessoa, simac, documento, odontológicas, iden...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:53:05.402994",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 8.3 conexoes/celula\nClusters identificados:\n- outros: steam, child, dias\n- dados: processamos, reinforcement\n\nFontes: 15 ref...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:53:05.403217",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial:...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:53:05.403403",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: machine learning nao supervisionado\n\nEvolucao: ## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 8.3 conexoes/celula\nClusters identificados:\n- outr...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:53:05.403596",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389",
+      "https://www.zhihu.com/question/1933486708491530514",
+      "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "https://zhidao.baidu.com/question/341255177978476405.html",
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "https://www.hashtagtreinamentos.com/area-de-dados",
+      "https://www.zhihu.com/question/1900776580537619430",
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/"
+    ]
+  },
+  {
+    "id": "c4f31fcb04baa782",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado transferencia transfer learning\n\nEvolucao: ## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 10\nBase empirica: 20 observaco......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:53:27.131926",
+    "modificado": "2026-03-13T13:53:27.563784",
+    "conexoes": [
+      {
+        "para": "35b00159a1657718",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado transferencia transfer learning",
+        "aprendizado transferencia transfer learning fundamentos",
+        "aprendizado transferencia transfer learning aplicacoes",
+        "aprendizado transferencia transfer learning algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado transferencia transfer learning",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:53:27.562663",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 667 conexoes\n\nTermos chave: sistemática, construindo, motivação, ...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:53:27.563228",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 12.6 conexoes/celula\nClusters identificados:\n- outros: intencional, ocorre, acontece\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:53:27.563406",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 10\nBase empirica: 20 observaco...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:53:27.563574",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 12.6 conexoes/celula\nClusters iden...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:53:27.563761",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://www.dicio.com.br/aprendizado/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
   }
 ]
