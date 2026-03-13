@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 14,
+    "ciclos": 15,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 96032
+    "caracteres_aprendidos": 149490
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9547,6 +9547,138 @@
       "criado": "2026-03-13T14:25:48.622641",
       "acessos": 1,
       "conexoes": []
+    },
+    "9d3eef28d73f90e5": {
+      "conteudo": "Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Git Guide Everything you need to know about Git, from getting started to advanced commands and workflows. Quick links: What is Git? What is Git Written in? Why Use Git? Speed Merge conflicts Cheap branches Ease of roll back How Do I Use Git? Learning Git Basics Getting Started With the Git Workflow Create a branch Make changes (and make a commit) Push your changes to the remote Open a pull request Collaborate Merge into main Getting Started With GitHub What is Git? Git is a distributed version control software. Version control is a way to save changes over time without overwriting previous versions. Being distributed means that every developer working with a Git repository has a copy of that entire repository – every commit, every branch, every file. If you're used to working with centralized version control systems, this is a big difference! Whether or not you've worked with version control before, there are a few things you should know before getting started with Git: Branches are lightweight and cheap, so it's OK to have many of them Git stores changes in SHA hashes, which work by compressing text files. That makes Git a very good version control system (VCS) for software programming, but not so good for binary files like images or videos. Git repositories can be connected, so you can work on one locally on your own machine, and connect it to a shared repository. This way, you can push and pull changes to a repository and easily collaborate with others. What is Git Written in? The tools that make up the core Git distribution are written in C, Shell, Perl, and Tcl. You can find Git's source code on GitHub under git/git Why Use Git? Version control is very important – without it, you risk losing your work. With Git, you can make a \"commit\", or a save point, as often as you'd like. You can also go back to previous commits. This takes the pressure off of you while you're working. Commit often and commit early, and you'll never have that gut-sinking feeling of overwriting or losing changes. There are many version control systems out there – but Git has some major advantages. Speed Like we mentioned above, Git uses SHA compression, which makes it very fast. Merge conflicts Git can handle merge conflicts, which means that it's OK for multiple people to work on the same file at the same time . This opens up the world of development in a way that isn't possible with centralized version control. You have access to the entire project, and if you're working on a branch, you can do whatever you need to and know that your changes are safe. Cheap branches Speaking of branches, Git offers a lot of flexibility and opportunity for collaboration with branches. By using branches, developers can make changes in a safe sandbox. Instead of only committing code that is 100% sure to succeed, developers can commit code that might still need help. Then, they can push that code to the remote and get fast feedback from integrated tests or peer review. Without sharing the code through branches, this would never be possible. Ease of roll back If you make a mistake, it's OK! Commits are immutable, meaning they can't be changed. ( Note: You can change history, but it will create new replacement commits instead of editing the existing commits. More on that later! ) This means that if you do make a mistake, even on an important branch, like main , it's OK You can easily revert that change, or roll back the branch pointer to the commit where everything was fine. The benefits of this can't be overstated. Not only does it create a safer environment for the project and code, but it fosters a development environment where developers can be braver, trusting that Git has their back. How Do I Use Git? Learning Git Basics If you're getting started with Git, a great place to learn the basic commands is the Git Cheat sheet . It's translated into many languages, open source as a part of the github/training-kit repository , and a great starting place for the fundamentals on the command line. Some of the most important and most used commands that you'll find there are: git clone [url] Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits. git status : Always a good idea, this command shows you what branch you're on, what files are in the working or staging directory, and any other important information. git branch : This shows the existing branches in your local repository. You can also use git branch [branch-name] to create a branch from your current location, or git branch --all to see all branches, both the local ones on your machine, and the remote tracking branches stored from the last git pull or git fetch from the remote. git checkout [branch-name] : Switches to the specified branch and updates the working directory. git add [file] : Snapshots the file in preparation for versioning, adding it to the staging area. git commit -m \"descriptive message\" : Records file snapshots permanently in the version history. git pull : Updates your current local working branch with all new commits from the corresponding remote branch on GitHub. git pull is a combination of git fetch and git merge git push : Uploads all local branch commits to the remote. git log : Browse and inspect the evolution of project files. git remote -v : Show the associated remote repositories and their stored name, like origin If you're looking for more GitHub-specific technical guidance, check out GitHub's help documentation or our GitHub for Developers series on YouTube. Getting Started With the Git Workflow Depending on your operating system, you may already have Git installed . But, getting started means more than having the software! To get started, it's important to know the basics of how Git works. You may choose to do the actual work within a terminal, an app like GitHub Desktop, or through GitHub.com. ( Note: while you can interact with Git through GitHub.com, your experience may be limited. Many local tools can give you access to the most widely used Git functionalities, though only the terminal will give you access to them all. There are many ways to use Git, which doesn't necessarily make it easier! But, the fundamental Git workflow has a few main steps. You can practice all of these in the Introduction to GitHub Learning Lab course Create a branch The main branch is usually called main . We want to work on another branch, so we can make a pull request and make changes safely. To get started, create a branch off of main . Name it however you'd like – but we recommend naming branches based on the function or feature that will be the focus of this branch. One person may have several branches, and one branch may have several people collaborate on it – branches are for a purpose, not a person. Wherever you currently \"are\" (wherever HEAD is pointing, or whatever branch you're currently \"checked out\" to) will be the parent of the branch you create. That means you can create branches from other branches, tags, or any commit! But, the most typical workflow is to create a branch from main – which represents the most current production code. Make changes (and make a commit) Once you've created a branch, and moved the HEAD pointer to it by \"checking out\" to that branch, you're ready to get to work. Make the changes in your repository using your favorite text editor or IDE. Next, save your changes. You're ready to start the commit! To start your commit , you need to let Git know what changes you'd like to include with git add [file] Once you've saved and staged the changes, you're ready to make the commit with git commit -m \"descriptive commit message\" Push your changes to the remote So far, if you've made a commit locally, you're the only one that can see it. To let others see your work and begin collaboration, you should \"push\" your changes using git push . If you're pushing from a branch for the first time that you've created locally, you may need to give Git some more information. git push -u origin [branch-name] tells Git to push the current branch, and create a branch on the remote that matches it with the same name – and also, create a relationship with that branch so that git push will be enough information in the future. By default, git push only pushes the branch that you've currently checked out to. Sometimes, if there has been a new commit on the branch on the remote , you may be blocked from pushing. Don't worry! Start with a simple git pull to incorporate the changes on the remote into your own local branch, resolve any conflicts or finish the merge from the remote into the local branch, and then try the push again. Open a pull request Pushing a branch, or new commits, to a remote repository is enough if a pull request already exists, but if it's the first time you're pushing that branch, you should open a new pull request. A pull request is a comparison of two branches – typically main , or the branch that the feature branch was created from, and the feature branch. This way, like branches, pull requests are scoped around a specific function or addition of work, rather than the person making the changes or the amount of time the changes will take. Pull requests are the powerhouse of GitHub. Integrated tests can automatically run on pull requests, giving you immediate feedback on your code. Peers can give detailed code reviews, letting you know if there are changes to make, or if it's ready to go. Make sure you start your pull requests off with the right information. Put yourself in the shoes of your teammates, or even of your future self. Include information about what this change relates to, what prompted it, what is already done, what is left to do, and any specific asks for help or reviews. Include links to relevant work or conversations. Pull request templates can help make this process easy by automating the starting content of the body of pull requests. Collaborate Once the pull request is open, then the real fun starts. It's important to recognize that pull requests aren't meant to be open when work is finished . Pull requests should be open when work is beginning ! The earlier you open a pull request, the more visibility the entire team has to the work that you're doing. When you're ready for feedback, you can get it by integrating tests or requesting reviews from teammates. It's very likely that you will want to make more changes to your work. That's great! To do that, make more commits on the same branch. Once the new commits are present on the remote, the pull request will update and show the most recent version of your work. Merge into main Once you and your team decide that the pull request looks good, you can merge it. By merging, you integrate the feature branch into the other branch (most typically the main branch). Then, main will be updated with your changes, and your pull request will be closed. Don't forget to delete your branch! You won't need it anymore. Remember, branches are lightweight and cheap, and you should create a new one when you need it based on the most recent commit on the main branch. If you choose not to merge the pull request, you can also close pull requests with unmerged changes. Getting Started With GitHub If you're wondering where Git ends and GitHub begins, you're not alone. They are tied closely together to make working with them both a seamless experience. While Git takes care of the underlying version control, GitHub is the collaboration platform built on top of it. GitHub is the place for pull requests, comments, reviews, integrated tests, and so much more. Most developers work locally to develop and use GitHub for collaboration. That ranges from using GitHub to host the shared remote repository to working with colleagues and capitalizing on features like protected branches, code review, GitHub Actions, and more. The best place to practice using Git and GitHub is the Introduction to GitHub Learning Lab course If you already know Git and need to sign up for a GitHub account, head over to github.com Contribute to this article on GitHub. Get started with git and GitHub Review code, manage projects, and build software alongside 40 million developers. Sign up for GitHub Sign in",
+      "tipo": "codigo",
+      "fontes": [
+        "https://github.com/git-guides"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:01.549775",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "91e38248c22bb7fb": {
+      "conteudo": "TITULO: Git · GitHub\nCONTEUDO: Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Git Guide Everything you need to know about Git, from getting started to advanced commands and workflows. Quick links: What is Git? What is Git Written in? Why Use Git? Speed Merge conflicts Cheap branches Ease of roll back How Do I Use Git? Learning Git Basics Getting Started With the Git Workflow Create a branch Make changes (and make a commit) Push your changes to the remote Open a pull request Collaborate Merge into...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://github.com/git-guides"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:01.550693",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "6cb9dd3ec0aa8739": {
+      "conteudo": "O que é o Git? É o sistema moderno para controle de versões mais usado no mundo hoje. Além disso, é um projeto de código aberto sólido em atualização constante desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software usa o Git para controle de versão, incluindo projetos comerciais e de código aberto. Desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos disponíveis para desenvolvimento de software, e o Git funciona bem em uma ampla variedade de sistemas operacionais e ambientes de desenvolvimento integrado (IDEs, na sigla em inglês). Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, Sistema de Controle de Versão Distribuído). Em vez de ter apenas um único local para o histórico completo da versão do software, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, a cópia de trabalho de todo desenvolvedor do código também é um repositório que pode conter o histórico completo de todas as alterações. Além de ser distribuído, o Git foi projetado com desempenho, segurança e flexibilidade em mente. Desempenho As características brutas de desempenho do Git são muito fortes quando comparadas a muitas alternativas. Fazer o commit de novas alterações, branches, mesclagem e comparação de versões anteriores – tudo é otimizado para desempenho. Os algoritmos implementados no Git aproveitam o conhecimento profundo sobre atributos comuns de árvores de arquivos de código-fonte reais, como costumam ser modificados ao longo do tempo e quais são os padrões de acesso. Diferente de alguns softwares de controle de versão, o Git não se deixa enganar pelos nomes dos arquivos ao determinar qual deve ser o armazenamento e o histórico de versões da árvore de arquivos. Em vez disso, o Git se concentra no conteúdo do arquivo. Afinal, os arquivos de código-fonte são renomeados, divididos e reorganizados com frequência. O formato do objeto dos arquivos de repositório do Git usa uma combinação de codificação delta (armazenamento de diferenças de conteúdo) e compactação e armazena com clareza o conteúdo do diretório e os objetos de metadados da versão. A distribuição também oferece benefícios significativos de desempenho. Por exemplo, digamos que uma desenvolvedora, Alice, faça alterações no código-fonte, adicionando uma função para a próxima versão, 2.0, e faça o commit dessas alterações com mensagens descritivas. Ela então trabalha em uma segunda função e faz o commit dessas alterações também. Como esperado, eles são armazenados como peças de trabalho separadas no histórico de versões. Alice então muda para o branch da versão 1.3 do mesmo software para corrigir um erro que afeta apenas a versão mais antiga. O objetivo disso é permitir que a equipe de Alice lance uma versão de correção de bug, a versão 1.3.1, antes que a versão 2.0 esteja pronta. Alice pode retornar à ramificação 2.0 para continuar trabalhando nas novas funções da versão 2.0. Tudo isso pode ocorrer sem nenhum acesso à rede e, portanto, é um processo rápido e confiável. Ela poderia até fazer isso em um avião. Quando estiver pronta para fazer o commit de todas as alterações como itens individuais no repositório remoto, Alice vai poder enviar todas elas por push em um único comando. Segurança O Git foi projetado com a integridade do código-fonte gerenciado como uma prioridade. O conteúdo dos arquivos, bem como os verdadeiros relacionamentos entre arquivos e diretórios, versões, tags e commits, todos esses objetos no repositório do Git são protegidos com um algoritmo de hash de criptografia seguro chamado SHA1. Isso protege o código e o histórico de alterações contra alterações acidentais e maliciosas e garante que o histórico tenha rastreabilidade total. Com o Git, você pode ter certeza de ter um histórico de conteúdo autêntico do código-fonte. Alguns outros sistemas de controle de versão não têm proteções contra alterações secretas posteriores. Isso pode ser uma vulnerabilidade séria de segurança das informações para qualquer empresa que depende do desenvolvimento de software. Flexibilidade Um dos principais objetivos de design do Git é a flexibilidade. O Git é flexível em vários aspectos: suporte a vários tipos de fluxos de trabalho de desenvolvimento não lineares, em eficiência em projetos pequenos e grandes e em compatibilidade com muitos sistemas e protocolos existentes. O Git foi projetado para tratar os branches e tags como cidadãos de primeira classe (ao contrário do SVN) e operações que afetam branches e tags (como mesclagem ou reversão) também são armazenadas como parte do histórico de alterações. Nem todos os sistemas de controle de versão apresentam esse nível de rastreamento. Controle de versões com Git Hoje, o Git é a melhor escolha para a maioria das equipes de software. Embora cada equipe seja diferente e deva fazer a própria análise, aqui estão os principais motivos pelos quais o controle de versão com Git é preferido em vez de alternativas: O Git é bom O Git tem a funcionalidade, desempenho, segurança e flexibilidade que a maioria das equipes e desenvolvedores individuais precisa. Esses atributos do Git são explicados acima. Nas comparações lado a lado com a maioria das outras alternativas, muitas equipes acham que o Git é muito favorável. Git é um padrão de fato O Git é a ferramenta mais adotada da categoria. Ele é atraente pelos seguintes motivos. Na Atlassian, quase todo código-fonte do projeto é gerenciado no Git. Um grande número de desenvolvedores já tem experiência com o Git e uma proporção significativa de recém-formados pode ter experiência apenas com o Git. Embora algumas empresas precisem escalar a curva de aprendizado ao migrar para o Git de outro sistema de controle de versão, muitos desenvolvedores existentes e futuros não precisam ser treinados no Git. Além de ter um grande conjunto de talentos, o Git já integra muitas ferramentas e serviços de software de terceiros, incluindo IDEs e as ferramentas da Atlassian, como o cliente de desktop DVCS Sourcetree , o software de rastreamento de itens e projetos, Jira , e o serviço de hospedagem de código, Bitbucket Se você é um desenvolvedor inexperiente que quer desenvolver habilidades valiosas em ferramentas de desenvolvimento de software, quando se trata de controle de versão, o Git deve ser um dos itens na lista. Git é um projeto de código aberto de qualidade O Git é um projeto de código aberto muito bem suportado, com mais de uma década de administração sólida. Os mantenedores do projeto mostraram um julgamento equilibrado e uma abordagem madura para atender às necessidades de longo prazo dos usuários, com lançamentos regulares que melhoram a usabilidade e a funcionalidade. É fácil examinar a qualidade do software de código aberto, e inúmeras empresas dependem muito dessa qualidade. O Git tem excelente suporte da comunidade e uma vasta base de usuários. A documentação é excelente e abundante, incluindo livros, tutoriais e sites dedicados. Existem também podcasts e tutoriais em vídeo. O código aberto reduz o custo para desenvolvedores amadores, pois eles podem usar o Git sem pagar uma taxa. Para uso em projetos de código aberto, o Git é sem dúvida o sucessor das gerações anteriores de sistemas bem-sucedidos de controle de versão de código aberto, SVN e CVS. Crítica ao Git Uma crítica comum ao Git é que pode ser difícil de aprender. Algumas das terminologias do Git vão ser novas para os iniciantes e, para usuários de outros sistemas, a terminologia do Git pode ser diferente, por exemplo, revert no Git tem um significado diferente do que no SVN ou CVS. No entanto, o Git é muito capaz e disponibiliza muitos recursos aos usuários. Aprender a usar esses recursos pode levar algum tempo. No entanto, uma vez aprendidos, podem ser usados pela equipe para aumentar a velocidade de desenvolvimento. Para as equipes que vêm de um VCS não distribuído, ter um repositório central pode parecer uma coisa boa que eles não querem perder. No entanto, embora o Git tenha sido projetado como um sistema de controle de versão distribuído (DVCS), com o Git, você ainda pode ter um repositório canônico oficial em que todas as alterações no software devem ser armazenadas. Com o Git, como o repositório de cada desenvolvedor está completo, o trabalho não precisa ser restringido pela disponibilidade e desempenho do servidor \"central\". Durante interrupções ou quando offline, os desenvolvedores ainda podem consultar o histórico completo do projeto. Como o Git é flexível e está sendo distribuído, você pode trabalhar da maneira que está acostumado, mas obter os benefícios adicionais do Git, alguns dos quais você nem percebe que está perdendo. Agora que você entende o que é o controle de versão, o que é o Git e por que as equipes de software deveriam optar por ele, continue lendo para descobrir os benefícios que o Git pode proporcionar a uma empresa. Recomendado para você Blog do Bitbucket Saiba mais Caminho de aprendizagem de DevOps Saiba mais Saiba mais sobre o Git Encontre mais guias e recursos de Git neste hub. Leia mais",
+      "tipo": "texto",
+      "fontes": [
+        "https://www.atlassian.com/br/git/tutorials/what-is-git"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:26:03.795140",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "111b3fbd6b950047": {
+      "conteudo": "TITULO: O que é o Git? | Tutorial da Atlassian sobre o Git\nCONTEUDO: O que é o Git? É o sistema moderno para controle de versões mais usado no mundo hoje. Além disso, é um projeto de código aberto sólido em atualização constante desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software usa o Git para controle de versão, incluindo projetos comerciais e de código aberto. Desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos disponíveis para desen...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.atlassian.com/br/git/tutorials/what-is-git"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:03.795860",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "59c1f7af031c6db5": {
+      "conteudo": "Tradutor: Daniel Rosa Autor: freeCodeCamp.org (em inglês) Artigo original: The beginner’s guide to Git & GitHub Escrito por: Thanoshan MV O que é Git? O Git é um software de controle de versão gratuito e de código aberto. Foi criado por Linus Torvalds em 2005. Essa ferramenta é um sistema de controle de versão que foi inicialmente desenvolvido para trabalhar com vários desenvolvedores no kernel do Linux. Basicamente, isso significa que o Git é um rastreador de conteúdo. Então, o Git pode ser usado para armazenar conteúdo — e é principalmente usado para armazenar código por causa das outras funcionalidades que ele fornece. Projetos da vida real geralmente têm diversos desenvolvedores trabalhando em paralelo. Assim, eles precisam de um sistema de controle de versão como o Git para garantir que não ocorram conflitos de código entre eles. Além disso, os requisitos de tais projetos mudam frequentemente. Por isso, um sistema de controle de versão permite que os desenvolvedores revertam e voltem a uma versão anterior do seu código. O sistema de branches no Git permite que os desenvolvedores trabalhem individualmente em uma tarefa (por exemplo: uma branch -> uma tarefa OU uma branch -> um desenvolvedor). Basicamente, pense no Git como uma pequena aplicação de software que controla sua base de código, se você for um desenvolvedor. Funcionamento do Git Repositórios do Git Se quisermos começar a usar o Git, precisamos saber onde hospedar nossos repositórios. Um repositório (ou \" repo \", para abreviar) é um projeto que contém diversos arquivos. No nosso caso, um repositório conterá arquivos baseados em código. Existem duas maneiras de hospedar seus repositórios. Uma é on-line (na nuvem) e a outra é off-line (instalado no seu servidor). Existem três serviços populares de hospedagem do Git: GitHub (pertencente à Microsoft), GitLab (pertencente ao GitLab) e BitBucket. Usaremos o GitHub como nosso serviço de hospedagem. Antes de usar o Git, devemos saber por que precisamos dele O Git facilita a contribuição para projetos de código aberto Quase todos os projetos de código aberto usam o GitHub para gerenciar seus projetos. Usar o GitHub é gratuito se o seu projeto for de código aberto, e inclui uma wiki e um rastreador de problemas que facilita a inclusão de documentação mais detalhada e o recebimento de feedback sobre seu projeto. Se você quiser contribuir, você apenas faz o fork (uma cópia) de um projeto, faz suas alterações e, em seguida, envia ao projeto um pull request usando a interface da web do GitHub. Esse pull request é sua maneira de dizer ao projeto que você está pronto para que revisem suas alterações. Documentação Ao usar o GitHub, você facilita a obtenção de excelente documentação. A seção de ajuda e os guias deles têm artigos sobre praticamente qualquer tópico relacionado ao Git que você possa imaginar. Opções de integração O GitHub pode se integrar com plataformas comuns como Amazon e Google Cloud, com serviços como Code Climate para acompanhar seu feedback, e pode realçar a sintaxe em mais de 200 linguagens de programação diferentes. Acompanhe as alterações no seu código entre versões Quando várias pessoas colaboram em um projeto, é difícil acompanhar as revisões — quem mudou o que, quando e onde esses arquivos estão armazenados. O GitHub cuida desse problema ao acompanhar todas as alterações que foram enviadas ao repositório. Muito parecido com o uso do Microsoft Word ou do Google Drive, você pode ter um histórico de versões do seu código para que versões anteriores não sejam perdidas a cada iteração. É fácil voltar à versão anterior e contribuir com seu trabalho. Exibir seu trabalho Você é um desenvolvedor que deseja atrair recrutadores? O GitHub é a melhor ferramenta em que você pode confiar para isso. Hoje, ao procurarem por novos recrutas para seus projetos, a maioria das empresas olha para perfis do GitHub. Se o seu perfil estiver disponível, você terá uma maior chance de ser recrutado, mesmo se não for de uma universidade ou faculdade renomada. Aprendendo a usar o Git e o GitHub Criação de conta no GitHub Para criar sua conta, você precisa ir ao site do GitHub e preencher o formulário de registro. Página oficial do GitHub Instalação do Git Agora, precisamos instalar as ferramentas do Git em nosso computador. Usaremos a CLI (interface de linha de comando) para nos comunicarmos com o GitHub. Para o Linux: Primeiro, atualize seus pacotes. sudo apt update Em seguida, instale o Git e o GitHub com apt-get sudo apt-get install git Finalmente, verifique se o Git está instalado corretamente git --version Execute os seguintes comandos com suas informações para definir um nome de usuário e e-mail padrão quando você for salvar seu trabalho. git config --global user.name \"seu_nome_de_usuario_aqui\" git config --global user.email \"exemplo@e-mail.com\" Trabalhando com projetos no GitHub Trabalharemos com projetos no GitHub de dois modos. Modo 1: crie o repositório, clone-o para o seu PC e trabalhe nele. (recomendado) O modo 1 envolve criar um repositório do zero no GitHub, cloná-lo para o nosso computador, trabalhar em nosso projeto e enviá-lo de volta. Crie um repositório clicando no botão \"New repository\" na página da web do GitHub. Perfeito! Seu primeiro repositório no GitHub foi criado. Sua primeira missão é obter uma cópia do repositório no seu computador. Para fazer isso, você precisa \"clonar\" o repositório no seu computador. Clonar um repositório significa que você está pegando um repositório que está no servidor e clonando-o para o seu computador - assim como baixá-lo. Na página do repositório, você precisa obter o endereço \"HTTPS\". Depois de obter o endereço do repositório, você precisa usar seu terminal. Utilize o seguinte comando no terminal. Quando estiver pronto, você pode inserir isto: git clone [ENDEREÇO HTTPS] Esse comando fará uma cópia local do repositório hospedado no endereço fornecido. Mensagem de saída do comando \"git clone\" Agora, o repositório está no seu computador. Você precisa entrar nele com o seguinte comando. cd [NOME DO REPOSITÓRIO] Como você pode ver na imagem acima, o nome do meu repositório é \"My-GitHub-Project\" e esse comando me fez ir para esse diretório específico. OBSERVAÇÃO: quando você clona, o Git criará um repositório no seu computador. Se quiser, você pode acessar seu projeto com a interface do usuário do computador em vez de usar o comando 'cd' no terminal. Agora, naquela pasta, podemos criar arquivos, trabalhar neles e salvá-los localmente. Para salvá-los remotamente — como no GitHub — temos que fazer um processo chamado \" commit \". Para fazer isso, volte ao seu terminal. Se o tiver fechado, como mencionei anteriormente, use o comando 'cd'. cd [NOME DO REPOSITÓRIO] Agora, no terminal, você está no diretório do seu repositório. Existem 4 etapas em um commit: 'status', 'add', 'commit' e 'push'. Todos os passos seguintes devem ser realizados dentro do seu projeto. Vamos passar por eles um por um. \"status\": a primeira coisa que você precisa fazer é verificar os arquivos que você modificou. Para fazer isso, você pode digitar o seguinte comando para exibir uma lista de mudanças. git status \"add\": com a ajuda da lista de mudanças, você pode adicionar todos os arquivos que deseja enviar com o seguinte comando, git add [NOME DO ARQUIVO] [NOME DO ARQUIVO] [...] No nosso caso, vamos adicionar um arquivo HTML simples. git add sample.html \"commit\": agora que adicionamos os arquivos da nossa escolha, precisamos escrever uma mensagem para explicar o que fizemos. Essa mensagem pode ser útil mais tarde se quisermos verificar o histórico de alterações. Aqui está um exemplo do que podemos colocar no nosso caso. git commit -m \"Adicionado arquivo HTML de amostra que contém sintaxe básica\" \"push\": agora podemos colocar nosso trabalho no GitHub. Para fazer isso, temos que fazer o 'push' de nossos arquivos para remote remote é uma instância duplicada do nosso repositório que vive em algum lugar em um servidor remoto. Para fazer isso, devemos saber o nome do remote (na maioria das vezes o remote é chamado de origin ). Para descobrir esse nome, digite o seguinte comando. git remote Como você pode ver na imagem acima, é dito que o nome do nosso remote é origin . Agora, podemos fazer o 'push' do nosso trabalho com segurança pelo seguinte comando. git push origin master Agora, se formos ao nosso repositório na página web do GitHub, podemos ver o arquivo sample.html que enviamos para o remoto — que é o GitHub! OBSERVAÇÃO : às vezes, quando você está usando comandos Git no terminal, isso pode levar você ao editor de texto VIM (um editor de texto baseado em CLI). Para se livrar dele, você tem que digitar :q e ENTER. Descrição de como pull e push funcionam Fazer o ' pull ' é o ato de receber do GitHub. Fazer o ' push ' é o ato de enviar para o GitHub. Modo 2: trabalhe no seu projeto localmente e depois crie o repositório no GitHub e envie-o para o remoto. O modo 2 permite que você crie um repositório a partir de uma pasta existente no seu computador e o envie para o GitHub. Em muitos casos, você pode já ter criado algo no seu computador que deseja, de repente, transformar em um repositório no GitHub. Vou explicar isso para você com um projeto de formulário de pesquisa que fiz anteriormente que não foi adicionado ao GitHub. Como já mencionei, ao executar quaisquer comandos do Git, temos que garantir que estamos no diretório correto no terminal. Por padrão, qualquer diretório no nosso computador não é um repositório do Git – mas podemos transformá-lo em um repositório do Git executando o seguinte comando no terminal. Após converter nosso diretório para um repositório do Git, a primeira coisa que precisamos fazer é verificar os arquivos que temos usando o seguinte comando. git status Então, há dois arquivos nesse diretório que precisamos \"adicionar\" ao nosso repositório. git add [NOME_DO_ARQUIVO] [NOME_DO_ARQUIVO] [...] OBSERVAÇÃO : para \"adicionar\" todos os arquivos no nosso repositório, podemos usar o seguinte comando: git add . Após a área de stage (o processo de adição) estar completa, podemos verificar se os arquivos foram adicionados com sucesso executando o git status Se esses arquivos específicos estiverem em verde, como na imagem abaixo, você fez seu trabalho! Então, temos que fazer o \" commit \" com uma descrição. git commit -m \"Adicionando formulário de pesquisa web\" Se meu repositório começou no GitHub e se eu o clonar para meu computador, um remote já estará anexado a ele (modo 1). Se, no entanto, eu estiver começando o repositório no meu computador, ele não tem um remote associado a ele, então eu preciso adicionar esse remote (modo 2). Para adicionar esse remote , precisamos ir ao GitHub primeiro. Crie um repositório e nomeie-o como quiser para armazená-lo no GitHub. Em seguida, clique no botão \"Create repository\". OBSERVAÇÃO : no modo 2, não inicialize o repositório com um arquivo README ao criar um repositório na página web do GitHub. Depois de clicar no botão \"Create repository\", você verá a imagem abaixo como uma página da web. Copie o endereço HTTPS. Agora, vamos criar o remote para nosso repositório. git remote add origin [ENDEREÇO HTTPS] Após executar esse comando, podemos verificar se adicionamos o remote com sucesso usando o seguinte comando: git remote Se ele exibir \" origin \", você adicionou o remote ao seu projeto. OBSERVAÇÃO : lembre-se de que podemos indicar qualquer nome para o remote alterando o nome \" origin \". Por exemplo: git remote add [NOME_DO_REMOTO] [ENDEREÇO HTTPS] Agora, podemos enviar nosso projeto para o GitHub sem problemas! git push origin master Após completar essas etapas uma por uma, se você for ao GitHub, encontrará seu repositório com os arquivos! Conclusão Obrigado a todos por lerem. Expliquei apenas o básico de Git e GitHub. Recomendo fortemente que todos leiam mais artigos relacionados a Git e GitHub. Espero que este artigo tenha ajudado. Confira o artigo original (em inglês) no Medium. Boa programação para você! Tradutor: Daniel Rosa Um profissional dos idiomas humanos apaixonado por linguagens de computador. | A world languages professional in love with computer languages. Autor: freeCodeCamp.org (em inglês) Learn to code. Build projects. Earn certifications—All for free. Se você leu até aqui, agradeça ao autor para mostrar que você se importa com o trabalho. Agradeça Aprenda a programar gratuitamente. O plano de estudos em código aberto do freeCodeCamp já ajudou mais de 40.000 pessoas a obter empregos como desenvolvedores. Comece agora ANÚNCIO",
+      "tipo": "texto",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-guia-do-iniciante-para-o-git-e-o-github/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:26:05.408583",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "66af99b6e8fa3152": {
+      "conteudo": "TITULO: O guia do iniciante para o Git e o GitHub\nCONTEUDO: Tradutor: Daniel Rosa Autor: freeCodeCamp.org (em inglês) Artigo original: The beginner’s guide to Git & GitHub Escrito por: Thanoshan MV O que é Git? O Git é um software de controle de versão gratuito e de código aberto. Foi criado por Linus Torvalds em 2005. Essa ferramenta é um sistema de controle de versão que foi inicialmente desenvolvido para trabalhar com vários desenvolvedores no kernel do Linux. Basicamente, isso significa que o Git é um rastreador de conteúdo. Então, o Git pode ser usa...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-guia-do-iniciante-para-o-git-e-o-github/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:05.410138",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "c89318b0e0615d97": {
+      "conteudo": "Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios O que é Git? Comentários O Git tornou-se o padrão mundial para controle de versão. Então, o que exatamente é isso? O Git é um sistema de controle de versão distribuído, o que significa que um clone local do projeto é um repositório de controle de versão completo. Esses repositórios locais totalmente funcionais facilitam o trabalho offline ou remotamente. Os desenvolvedores confirmam seu trabalho localmente e sincronizam a cópia do repositório com a cópia no servidor. Esse paradigma difere do controle de versão centralizado em que os clientes devem sincronizar o código com um servidor antes de criar novas versões de código. A flexibilidade e a popularidade do Git fazem dele uma ótima opção para qualquer equipe. Muitos desenvolvedores e universitários já sabem como usar o Git. A comunidade de usuários do Git criou recursos para treinar desenvolvedores e a popularidade do Git facilita a obtenção de ajuda quando necessário. Quase todos os ambientes de desenvolvimento têm suporte do Git e ferramentas de linha de comando git implementadas em todos os sistemas operacionais principais. Noções básicas do Git Sempre que o trabalho é salvo, o Git cria uma confirmação. Um commit é um instantâneo de todos os arquivos em um determinado momento. Se um arquivo não tiver sido alterado de uma confirmação para a próxima, o Git usará o arquivo armazenado anteriormente. Esse design difere de outros sistemas que armazenam uma versão inicial de um arquivo e mantêm um registro de deltas ao longo do tempo. Commits criam links para outros commits, formando um grafo do histórico de desenvolvimento. É possível reverter o código para uma confirmação anterior, inspecionar como os arquivos foram alterados de uma confirmação para outra e examinar informações como onde e quando as alterações foram feitas. As confirmações são identificadas no Git por um hash criptográfico exclusivo do conteúdo da confirmação. Como tudo é hash, é impossível fazer alterações, perder informações ou arquivos corrompidos sem que o Git a detecte. Ramificações Cada desenvolvedor salva alterações em seu próprio repositório de código local. Como resultado, pode haver muitas alterações diferentes baseadas no mesmo commit. O Git fornece ferramentas para isolar as alterações e, posteriormente, mesclá-las novamente. Os branches, que são ponteiros leves para trabalho em progresso, gerenciam essa separação. Depois que o trabalho criado em um branch for concluído, ele poderá ser mesclado de volta ao branch principal (ou tronco) da equipe. Arquivos e confirmações Os arquivos no Git estão em um dos três estados: modificados, preparados ou confirmados. Quando um arquivo é modificado pela primeira vez, as alterações existem apenas no diretório de trabalho. Eles ainda não fazem parte de um commit ou do histórico de desenvolvimento. O desenvolvedor deve preparar os arquivos alterados para serem incluídos no commit. A área de stage contém todas as alterações a serem incluídas no próximo commit. Depois que o desenvolvedor estiver satisfeito com os arquivos em etapas, os arquivos serão empacotados como uma confirmação com uma mensagem que descreve o que mudou. Essa confirmação se torna parte do histórico de desenvolvimento. O Staging permite que os desenvolvedores escolham quais alterações de arquivo salvar em um commit para dividir grandes mudanças em uma série de commits menores. Ao reduzir o escopo de confirmações, é mais fácil examinar o histórico de confirmação para encontrar alterações específicas de arquivo. Benefícios do Git Os benefícios do Git são muitos. Desenvolvimento simultâneo Todos têm uma cópia local de código e podem trabalhar simultaneamente em suas próprias ramificações. O Git funciona offline, pois quase todas as operações são locais. Lançamentos mais rápidos As ramificações permitem o desenvolvimento flexível e simultâneo. O branch principal contém código estável e de alta qualidade, a partir do qual você realiza lançamentos. As ramificações de funcionalidades contêm trabalho em andamento, que são mesclados na ramificação principal após a conclusão. Ao separar o branch de lançamento do desenvolvimento em andamento, fica mais fácil gerenciar código estável e enviar atualizações mais rapidamente. Integração interna Devido à sua popularidade, o Git integra-se à maioria das ferramentas e produtos. Cada IDE principal tem suporte interno do Git e muitas ferramentas dão suporte à integração contínua, implantação contínua, teste automatizado, acompanhamento de itens de trabalho, métricas e integração de recursos de relatório com o Git. Essa integração simplifica o fluxo de trabalho diário. Forte apoio da comunidade O Git é de software livre e tornou-se o padrão de fato para controle de versão. Não faltam ferramentas e recursos disponíveis para as equipes aproveitarem. O volume de suporte da comunidade para Git em comparação com outros sistemas de controle de versão facilita a obtenção de ajuda quando necessário. O Git funciona com qualquer equipe Usar o Git com uma ferramenta de gerenciamento de código-fonte aumenta a produtividade de uma equipe incentivando a colaboração, impondo políticas, automatizando processos e melhorando a visibilidade e a rastreabilidade do trabalho. A equipe pode optar por ferramentas individuais para controle de versão, rastreamento de itens de trabalho e integração e implantação contínuas. Ou podem escolher uma solução como o GitHub ou o Azure DevOps que dá suporte a todas essas tarefas em um só lugar. Solicitações de pull Use solicitações de pull para discutir alterações de código com a equipe antes de mesclá-las no branch principal. As discussões em solicitações de pull são inestimáveis para garantir a qualidade do código e aumentar o conhecimento em toda a sua equipe. Plataformas como o GitHub e o Azure DevOps oferecem uma experiência de solicitação de pull avançada em que os desenvolvedores podem procurar alterações de arquivo, deixar comentários, inspecionar confirmações, exibir builds e votar para aprovar o código. Políticas de branch O Teams pode configurar o GitHub e o Azure DevOps para impor fluxos de trabalho e processos consistentes em toda a equipe. Eles podem configurar políticas de branch para garantir que as solicitações de pull atendam aos requisitos antes da conclusão. As políticas de ramificação protegem branches importantes evitando pushes diretos, exigindo revisores e garantindo builds limpos. Próximas etapas Instalar e configurar o Git Comentários Esta página foi útil? Yes No No Precisa de ajuda com este tópico? Quer experimentar o Pergunte e Aprenda para esclarecer ou guiar você neste tópico? Pergunte ao Learn Pergunte ao Learn Sugerir uma correção? Recursos adicionais Last updated on 2025-10-27",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:06.886370",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "cb214497609573a8": {
+      "conteudo": "TITULO: O que é Git? - Azure DevOps | Microsoft Learn\nCONTEUDO: Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios O que é Git? Comentários O Git tornou-se o padrão mundial para controle de versão. Então, o que exatamente é isso? O Git...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:06.887230",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "08b5b3a969983ea5": {
+      "conteudo": "Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React How to Optimize SQL Queries What you’ll build or solve You’ll speed up slow SELECT queries by measuring performance, improving index usage, reducing scanned rows, and simplifying costly operations like joins and aggregation. When this approach works best This approach works best when: Learn SQL on Mimo CAREER PATH Back-End Developer Become a back-end developer. Learn SQL, databases, server-side programming, and APIs to build scalable applications Beginner friendly COURSE SQL Master database queries. Learn SELECT, JOIN, aggregations, and database design Beginner friendly A dashboard or API endpoint feels slow and relies on database queries. A query scans a large table but returns a small result set. You see long query times in logs or monitoring tools. Skip this if performance issues come from network latency, application code, or tiny datasets where changes won’t matter. Prerequisites Access to a SQL database such as MySQL, PostgreSQL, SQL Server, or SQLite Permission to create indexes Basic understanding of SELECT WHERE JOIN , and GROUP BY Step-by-step instructions These steps are not a checklist you must follow in order. Treat them as techniques. Pick the ones that match what your query is doing, then measure again. Step 1: Measure the current performance Start by measuring the query so you know what to fix. Option A, most common: Open in Mimo Open in Mimo Copy Code EXPLAIN SELECT* FROM orders WHERE user_id 42 Option B in PostgreSQL: Open in Mimo Open in Mimo Copy Code EXPLAIN ANALYZE SELECT* FROM orders WHERE user_id 42 What to look for If you see Seq Scan or Full Table Scan on a large table, the database reads every row. That’s often the first target. Look for: Estimated vs actual rows Cost numbers Whether indexes are used Always measure before and after changes. Step 2: Select only the columns you need Fetching unnecessary columns increases work and data transfer. Less efficient: Open in Mimo Open in Mimo Copy Code SELECT* FROM users WHERE active 1 More efficient: Open in Mimo Open in Mimo Copy Code SELECT id, name, email FROM users WHERE active 1 This matters most for wide tables or queries that return many rows. Step 3: Add indexes for frequent filters and joins Indexes help the database find rows without scanning the whole table. If you frequently filter by user_id Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Re-check the plan: Open in Mimo Open in Mimo Copy Code EXPLAIN SELECT* FROM orders WHERE user_id 42 You want to see an Index Scan instead of a full scan. Focus on columns used often in: WHERE JOIN ORDER BY Too many indexes can slow down writes, so add them intentionally. Step 4: Write WHERE clauses that can use indexes Certain patterns block index usage. Less efficient: CSS Open in Mimo Open in Mimo Copy Code SELECT FROM users WHEREYEAR(created_at)= 2025 Better: SQL Open in Mimo Open in Mimo Copy Code SELECT FROM users WHERE created_at '2025-01-01' AND created_at '2026-01-01' Avoid leading wildcards: SQL Open in Mimo Open in Mimo Copy Code -- Slower WHERE emailLIKE '%@example.com' Prefer anchored patterns: SQL Open in Mimo Open in Mimo Copy Code -- Faster WHERE emailLIKE 'admin%@example.com' Leading wildcards often force full scans. Step 5: Filter early to reduce work Apply filters before expensive operations so fewer rows flow into joins, sorts, and aggregation. Filter before joins: Open in Mimo Open in Mimo Copy Code SELECT users.id, users.name, filtered_orders.total FROM users JOIN SELECT user_id, total FROM orders WHERE total> 500 AS filtered_orders ON users.id= filtered_orders.user_id; Filter before aggregation: SQL Open in Mimo Open in Mimo Copy Code SELECT user_id, COUNT AS order_count FROM orders WHERE created_at '2026-01-01' GROUPBY user_id; Use LIMIT when you do not need all rows: CSS Open in Mimo Open in Mimo Copy Code SELECT id, user_id, total, created_at FROM orders ORDERBY created_atDESC LIMIT20; Filtering and limiting early reduces total work. Step 6: Simplify joins Each join adds work, especially on large tables. Join only what you need. Less efficient: Open in Mimo Open in Mimo Copy Code SELECT users.name, orders.total, products.name FROM users JOIN ordersON users.id = orders.user_id JOIN productsON orders.product_id = products.id If product data is not required: Open in Mimo Open in Mimo Copy Code SELECT users.name, orders.total FROM users JOIN ordersON users.id = orders.user_id Index join keys when tables are large: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Examples you can copy Example 1: Speed up user lookup by email Before: Open in Mimo Open in Mimo Copy Code SELECT* FROM users WHERE email 'ana@example.com' Add an index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_users_email ON users (email) Then fetch only what you need: Open in Mimo Open in Mimo Copy Code SELECT id, name FROM users WHERE email 'ana@example.com' Example 2: Optimize recent completed orders Before: Open in Mimo Open in Mimo Copy Code SELECT* FROM orders WHERE status 'completed' ORDERBY created_atDESC Add a composite index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_status_created ON orders (status, created_at) Improved query: Open in Mimo Open in Mimo Copy Code SELECT id, user_id, total FROM orders WHERE status 'completed' ORDERBY created_atDESC LIMIT50 Example 3: Optimize a reporting query with a date filter Before: SQL Open in Mimo Open in Mimo Copy Code SELECT users.name, SUM (orders.total) AS total_spent FROM users JOIN ordersON users.id orders.user_id GROUPBY users.name; Add an index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Filter early: SQL Open in Mimo Open in Mimo Copy Code SELECT users.name, SUM (orders.total) AS total_spent FROM users JOIN ordersON users.id orders.user_id WHERE orders.created_at '2026-01-01' GROUPBY users.name; Common mistakes and how to fix them Mistake 1: Adding too many indexes You might add indexes on every column. Why it breaks: Writes get slower because the database must update each index on INSERT and UPDATE Correct approach: Add indexes only for columns used often in WHERE JOIN , and ORDER BY Mistake 2: Using functions on indexed columns You might write: SQL Open in Mimo Open in Mimo Copy Code SELECT FROM orders WHERE LOWER (status) 'completed' Why it breaks: The function can prevent index usage. Correct approach: Open in Mimo Open in Mimo Copy Code SELECT* FROM orders WHERE status 'completed' If you need case-insensitive matching, use a case-insensitive collation or data type when supported. Mistake 3: Skipping execution plans You might change queries without checking the plan. Why it breaks: You may optimize the wrong part. Correct approach: Open in Mimo Open in Mimo Copy Code EXPLAIN ANALYZE SELECT* FROM orders WHERE user_id 42 Measure before and after each change. Troubleshooting If EXPLAIN still shows a full table scan, confirm the filtered column has an index and the table is large enough for the planner to prefer it. If performance does not improve after adding an index, check for functions on the filtered column or mismatched data types. If sorting is slow, ensure ORDER BY columns align with an index and add LIMIT when you only need top results. If joins are slow, index the join keys on both sides and filter the larger table before joining. If results look wrong after optimization, confirm that refactoring did not change join types or filter logic. Quick recap Use EXPLAIN or EXPLAIN ANALYZE to find bottlenecks. Select only the columns you need. Add indexes for frequent filters and join keys. Write WHERE clauses that can use indexes. Filter and limit early before joins, sorts, and aggregation. Remove unnecessary joins and re-measure after changes. Join 35M+ people learning for free on Mimo 35M+ CAREER PATH Back-End Developer Become a back-end developer. Learn SQL, databases, server-side programming, and APIs to build scalable applications Beginner friendly COURSE SQL Master database queries. Learn SELECT, JOIN, aggregations, and database design Beginner friendly 4.8 out of 5 across 1M+ reviews Check us out on Apple AppStore Google Play Store , and Trustpilot",
+      "tipo": "codigo",
+      "fontes": [
+        "https://mimo.org/tutorials/sql/how-to-optimize-sql-queries"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:17.219833",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "0c698dccfe6ccd1c": {
+      "conteudo": "TITULO: How to Optimize SQL Queries\nCONTEUDO: Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React How to Optimize SQL Queries What you’ll build or solve You’ll speed up slow SELECT queries by measuring performance, improving index usage, reducing scanned rows, and simplifying costly operations like joins and aggregation. When this approach works best This approach works best when: Learn SQL on Mimo CAREER PATH Back-End Developer Become a back-end devel...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://mimo.org/tutorials/sql/how-to-optimize-sql-queries"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:17.220517",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "d44db2d70aa038be": {
+      "conteudo": "Monitor & Protect Idera SQL SQL Server monitoring, backups, and performance tools. Webyog MySQL database management with real-time monitoring tools. Data Modeling & Management Aqua Data Studio Multifunction Enterprise IDE- Code, Model, BI, AI Assist. ER/Studio Enterprise data modeling, metadata and governance tools. WhereScape Data automation tools to build and manage warehouses. Migration & Intelligence BitTitan Simplify Microsoft & Google migrations with MigrationWiz. Perspectium ServiceNow data replication, integration, archiving and backups. Yellowfin Embedded analytics and dashboards to drive insight.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.idera.com/blogs/sql-query-optimization/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:20.106666",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "d21e1b2bed9eebaa": {
+      "conteudo": "TITULO: SQL Query Optimization: 23 Proven Techniques | IDERA\nCONTEUDO: Monitor & Protect Idera SQL SQL Server monitoring, backups, and performance tools. Webyog MySQL database management with real-time monitoring tools. Data Modeling & Management Aqua Data Studio Multifunction Enterprise IDE- Code, Model, BI, AI Assist. ER/Studio Enterprise data modeling, metadata and governance tools. WhereScape Data automation tools to build and manage warehouses. Migration & Intelligence BitTitan Simplify Microsoft & Google migrations with MigrationWiz. Perspectium ServiceNow da...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.idera.com/blogs/sql-query-optimization/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:20.106841",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9651,6 +9783,42 @@
       "texto_completo": "Permitir JavaScript en un navegador En este artículo se explica cómo permitir JavaScript en Google Chrome, que es necesario para mostrar algunos elementos multimedia, incluidos algunos anuncios de Google. También encontrarás enlaces a la documentación para activar JavaScript en otros navegadores populares. Secciones de esta página: Activar JavaScript en Google Chrome Activar JavaScript en otros navegadores Activar JavaScript en Google Chrome Puedes definir permisos en Google Chrome para todos los sitios o para los sitios que elijas. Sigue estas instrucciones para activar JavaScript en tu ordenador Android y dispositivo Apple En ordenadores Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en el ordenador. En la parte superior derecha, haz clic en y, a continuación, en Configuración Haga clic en Privacidad y seguridad Vaya a \"Privacidad y seguridad\" y haga clic en Configuración de sitios Vaya a \"Contenido\" y, a continuación, haga clic en JavaScript Seleccione \"Los sitios pueden usar JavaScript\" como comportamiento predeterminado. Desde esta pantalla, también puedes añadir sitios a los que no se les permite usar JavaScript o seleccionar \"No permitir que los sitios usen JavaScript\" como comportamiento predeterminado y, a continuación, elegir los sitios específicos que quieres que se permitan. En teléfonos o tablets Android Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en un teléfono o tablet Android. En la parte superior derecha, toca Más Configuración En \"Configuración avanzada\", toca Configuración de sitios JavaScript Activa JavaScript. En iPhones y iPads JavaScript está activado de forma predeterminada en los dispositivos iPhone y iPad. Activar JavaScript en otros navegadores Si utilizas un navegador admitido que no es Chrome, consulta tu página de asistencia para obtener instrucciones sobre cómo activar JavaScript y para saber si lo admite. Sigue las instrucciones específicas de tu navegador: Microsoft Edge Mozilla Firefox Apple Safari Opera Factores que pueden afectar a la configuración de JavaScript en un navegador Las actualizaciones del navegador, el software de seguridad o los parches pueden cambiar la configuración de JavaScript. Si tienes problemas para ver los anuncios de Google, comprueba que JavaScript esté permitido en tu navegador. Algunos navegadores le permiten configurar JavaScript de forma que, cuando estos necesiten usarlo, se muestre una advertencia al usuario. En estos casos, si un anuncio de Google requiere JavaScript, los usuarios pueden dar permiso para cargar el contenido. Si sigues teniendo problemas, usa la herramienta para solucionar problemas con el servicio de anuncios ¿Te ha resultado útil esta información? ¿Cómo podemos mejorar esta página? Sí No Enviar",
       "data_acesso": "2026-03-13T14:25:48.621618",
       "tamanho": 2772
+    },
+    "https://github.com/git-guides": {
+      "titulo": "Git · GitHub",
+      "texto_completo": "Git Guides Git Install Init Clone Add Commit Remote Status Pull Push Sign up Git Guide Everything you need to know about Git, from getting started to advanced commands and workflows. Quick links: What is Git? What is Git Written in? Why Use Git? Speed Merge conflicts Cheap branches Ease of roll back How Do I Use Git? Learning Git Basics Getting Started With the Git Workflow Create a branch Make changes (and make a commit) Push your changes to the remote Open a pull request Collaborate Merge into main Getting Started With GitHub What is Git? Git is a distributed version control software. Version control is a way to save changes over time without overwriting previous versions. Being distributed means that every developer working with a Git repository has a copy of that entire repository – every commit, every branch, every file. If you're used to working with centralized version control systems, this is a big difference! Whether or not you've worked with version control before, there are a few things you should know before getting started with Git: Branches are lightweight and cheap, so it's OK to have many of them Git stores changes in SHA hashes, which work by compressing text files. That makes Git a very good version control system (VCS) for software programming, but not so good for binary files like images or videos. Git repositories can be connected, so you can work on one locally on your own machine, and connect it to a shared repository. This way, you can push and pull changes to a repository and easily collaborate with others. What is Git Written in? The tools that make up the core Git distribution are written in C, Shell, Perl, and Tcl. You can find Git's source code on GitHub under git/git Why Use Git? Version control is very important – without it, you risk losing your work. With Git, you can make a \"commit\", or a save point, as often as you'd like. You can also go back to previous commits. This takes the pressure off of you while you're working. Commit often and commit early, and you'll never have that gut-sinking feeling of overwriting or losing changes. There are many version control systems out there – but Git has some major advantages. Speed Like we mentioned above, Git uses SHA compression, which makes it very fast. Merge conflicts Git can handle merge conflicts, which means that it's OK for multiple people to work on the same file at the same time . This opens up the world of development in a way that isn't possible with centralized version control. You have access to the entire project, and if you're working on a branch, you can do whatever you need to and know that your changes are safe. Cheap branches Speaking of branches, Git offers a lot of flexibility and opportunity for collaboration with branches. By using branches, developers can make changes in a safe sandbox. Instead of only committing code that is 100% sure to succeed, developers can commit code that might still need help. Then, they can push that code to the remote and get fast feedback from integrated tests or peer review. Without sharing the code through branches, this would never be possible. Ease of roll back If you make a mistake, it's OK! Commits are immutable, meaning they can't be changed. ( Note: You can change history, but it will create new replacement commits instead of editing the existing commits. More on that later! ) This means that if you do make a mistake, even on an important branch, like main , it's OK You can easily revert that change, or roll back the branch pointer to the commit where everything was fine. The benefits of this can't be overstated. Not only does it create a safer environment for the project and code, but it fosters a development environment where developers can be braver, trusting that Git has their back. How Do I Use Git? Learning Git Basics If you're getting started with Git, a great place to learn the basic commands is the Git Cheat sheet . It's translated into many languages, open source as a part of the github/training-kit repository , and a great starting place for the fundamentals on the command line. Some of the most important and most used commands that you'll find there are: git clone [url] Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits. git status : Always a good idea, this command shows you what branch you're on, what files are in the working or staging directory, and any other important information. git branch : This shows the existing branches in your local repository. You can also use git branch [branch-name] to create a branch from your current location, or git branch --all to see all branches, both the local ones on your machine, and the remote tracking branches stored from the last git pull or git fetch from the remote. git checkout [branch-name] : Switches to the specified branch and updates the working directory. git add [file] : Snapshots the file in preparation for versioning, adding it to the staging area. git commit -m \"descriptive message\" : Records file snapshots permanently in the version history. git pull : Updates your current local working branch with all new commits from the corresponding remote branch on GitHub. git pull is a combination of git fetch and git merge git push : Uploads all local branch commits to the remote. git log : Browse and inspect the evolution of project files. git remote -v : Show the associated remote repositories and their stored name, like origin If you're looking for more GitHub-specific technical guidance, check out GitHub's help documentation or our GitHub for Developers series on YouTube. Getting Started With the Git Workflow Depending on your operating system, you may already have Git installed . But, getting started means more than having the software! To get started, it's important to know the basics of how Git works. You may choose to do the actual work within a terminal, an app like GitHub Desktop, or through GitHub.com. ( Note: while you can interact with Git through GitHub.com, your experience may be limited. Many local tools can give you access to the most widely used Git functionalities, though only the terminal will give you access to them all. There are many ways to use Git, which doesn't necessarily make it easier! But, the fundamental Git workflow has a few main steps. You can practice all of these in the Introduction to GitHub Learning Lab course Create a branch The main branch is usually called main . We want to work on another branch, so we can make a pull request and make changes safely. To get started, create a branch off of main . Name it however you'd like – but we recommend naming branches based on the function or feature that will be the focus of this branch. One person may have several branches, and one branch may have several people collaborate on it – branches are for a purpose, not a person. Wherever you currently \"are\" (wherever HEAD is pointing, or whatever branch you're currently \"checked out\" to) will be the parent of the branch you create. That means you can create branches from other branches, tags, or any commit! But, the most typical workflow is to create a branch from main – which represents the most current production code. Make changes (and make a commit) Once you've created a branch, and moved the HEAD pointer to it by \"checking out\" to that branch, you're ready to get to work. Make the changes in your repository using your favorite text editor or IDE. Next, save your changes. You're ready to start the commit! To start your commit , you need to let Git know what changes you'd like to include with git add [file] Once you've saved and staged the changes, you're ready to make the commit with git commit -m \"descriptive commit message\" Push your changes to the remote So far, if you've made a commit locally, you're the only one that can see it. To let others see your work and begin collaboration, you should \"push\" your changes using git push . If you're pushing from a branch for the first time that you've created locally, you may need to give Git some more information. git push -u origin [branch-name] tells Git to push the current branch, and create a branch on the remote that matches it with the same name – and also, create a relationship with that branch so that git push will be enough information in the future. By default, git push only pushes the branch that you've currently checked out to. Sometimes, if there has been a new commit on the branch on the remote , you may be blocked from pushing. Don't worry! Start with a simple git pull to incorporate the changes on the remote into your own local branch, resolve any conflicts or finish the merge from the remote into the local branch, and then try the push again. Open a pull request Pushing a branch, or new commits, to a remote repository is enough if a pull request already exists, but if it's the first time you're pushing that branch, you should open a new pull request. A pull request is a comparison of two branches – typically main , or the branch that the feature branch was created from, and the feature branch. This way, like branches, pull requests are scoped around a specific function or addition of work, rather than the person making the changes or the amount of time the changes will take. Pull requests are the powerhouse of GitHub. Integrated tests can automatically run on pull requests, giving you immediate feedback on your code. Peers can give detailed code reviews, letting you know if there are changes to make, or if it's ready to go. Make sure you start your pull requests off with the right information. Put yourself in the shoes of your teammates, or even of your future self. Include information about what this change relates to, what prompted it, what is already done, what is left to do, and any specific asks for help or reviews. Include links to relevant work or conversations. Pull request templates can help make this process easy by automating the starting content of the body",
+      "data_acesso": "2026-03-13T14:26:01.549049",
+      "tamanho": 12323
+    },
+    "https://www.atlassian.com/br/git/tutorials/what-is-git": {
+      "titulo": "O que é o Git? | Tutorial da Atlassian sobre o Git",
+      "texto_completo": "O que é o Git? É o sistema moderno para controle de versões mais usado no mundo hoje. Além disso, é um projeto de código aberto sólido em atualização constante desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de software usa o Git para controle de versão, incluindo projetos comerciais e de código aberto. Desenvolvedores que trabalharam com o Git estão bem representados no pool de talentos disponíveis para desenvolvimento de software, e o Git funciona bem em uma ampla variedade de sistemas operacionais e ambientes de desenvolvimento integrado (IDEs, na sigla em inglês). Tendo uma arquitetura distribuída, o Git é um exemplo de DVCS (portanto, Sistema de Controle de Versão Distribuído). Em vez de ter apenas um único local para o histórico completo da versão do software, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, a cópia de trabalho de todo desenvolvedor do código também é um repositório que pode conter o histórico completo de todas as alterações. Além de ser distribuído, o Git foi projetado com desempenho, segurança e flexibilidade em mente. Desempenho As características brutas de desempenho do Git são muito fortes quando comparadas a muitas alternativas. Fazer o commit de novas alterações, branches, mesclagem e comparação de versões anteriores – tudo é otimizado para desempenho. Os algoritmos implementados no Git aproveitam o conhecimento profundo sobre atributos comuns de árvores de arquivos de código-fonte reais, como costumam ser modificados ao longo do tempo e quais são os padrões de acesso. Diferente de alguns softwares de controle de versão, o Git não se deixa enganar pelos nomes dos arquivos ao determinar qual deve ser o armazenamento e o histórico de versões da árvore de arquivos. Em vez disso, o Git se concentra no conteúdo do arquivo. Afinal, os arquivos de código-fonte são renomeados, divididos e reorganizados com frequência. O formato do objeto dos arquivos de repositório do Git usa uma combinação de codificação delta (armazenamento de diferenças de conteúdo) e compactação e armazena com clareza o conteúdo do diretório e os objetos de metadados da versão. A distribuição também oferece benefícios significativos de desempenho. Por exemplo, digamos que uma desenvolvedora, Alice, faça alterações no código-fonte, adicionando uma função para a próxima versão, 2.0, e faça o commit dessas alterações com mensagens descritivas. Ela então trabalha em uma segunda função e faz o commit dessas alterações também. Como esperado, eles são armazenados como peças de trabalho separadas no histórico de versões. Alice então muda para o branch da versão 1.3 do mesmo software para corrigir um erro que afeta apenas a versão mais antiga. O objetivo disso é permitir que a equipe de Alice lance uma versão de correção de bug, a versão 1.3.1, antes que a versão 2.0 esteja pronta. Alice pode retornar à ramificação 2.0 para continuar trabalhando nas novas funções da versão 2.0. Tudo isso pode ocorrer sem nenhum acesso à rede e, portanto, é um processo rápido e confiável. Ela poderia até fazer isso em um avião. Quando estiver pronta para fazer o commit de todas as alterações como itens individuais no repositório remoto, Alice vai poder enviar todas elas por push em um único comando. Segurança O Git foi projetado com a integridade do código-fonte gerenciado como uma prioridade. O conteúdo dos arquivos, bem como os verdadeiros relacionamentos entre arquivos e diretórios, versões, tags e commits, todos esses objetos no repositório do Git são protegidos com um algoritmo de hash de criptografia seguro chamado SHA1. Isso protege o código e o histórico de alterações contra alterações acidentais e maliciosas e garante que o histórico tenha rastreabilidade total. Com o Git, você pode ter certeza de ter um histórico de conteúdo autêntico do código-fonte. Alguns outros sistemas de controle de versão não têm proteções contra alterações secretas posteriores. Isso pode ser uma vulnerabilidade séria de segurança das informações para qualquer empresa que depende do desenvolvimento de software. Flexibilidade Um dos principais objetivos de design do Git é a flexibilidade. O Git é flexível em vários aspectos: suporte a vários tipos de fluxos de trabalho de desenvolvimento não lineares, em eficiência em projetos pequenos e grandes e em compatibilidade com muitos sistemas e protocolos existentes. O Git foi projetado para tratar os branches e tags como cidadãos de primeira classe (ao contrário do SVN) e operações que afetam branches e tags (como mesclagem ou reversão) também são armazenadas como parte do histórico de alterações. Nem todos os sistemas de controle de versão apresentam esse nível de rastreamento. Controle de versões com Git Hoje, o Git é a melhor escolha para a maioria das equipes de software. Embora cada equipe seja diferente e deva fazer a própria análise, aqui estão os principais motivos pelos quais o controle de versão com Git é preferido em vez de alternativas: O Git é bom O Git tem a funcionalidade, desempenho, segurança e flexibilidade que a maioria das equipes e desenvolvedores individuais precisa. Esses atributos do Git são explicados acima. Nas comparações lado a lado com a maioria das outras alternativas, muitas equipes acham que o Git é muito favorável. Git é um padrão de fato O Git é a ferramenta mais adotada da categoria. Ele é atraente pelos seguintes motivos. Na Atlassian, quase todo código-fonte do projeto é gerenciado no Git. Um grande número de desenvolvedores já tem experiência com o Git e uma proporção significativa de recém-formados pode ter experiência apenas com o Git. Embora algumas empresas precisem escalar a curva de aprendizado ao migrar para o Git de outro sistema de controle de versão, muitos desenvolvedores existentes e futuros não precisam ser treinados no Git. Além de ter um grande conjunto de talentos, o Git já integra muitas ferramentas e serviços de software de terceiros, incluindo IDEs e as ferramentas da Atlassian, como o cliente de desktop DVCS Sourcetree , o software de rastreamento de itens e projetos, Jira , e o serviço de hospedagem de código, Bitbucket Se você é um desenvolvedor inexperiente que quer desenvolver habilidades valiosas em ferramentas de desenvolvimento de software, quando se trata de controle de versão, o Git deve ser um dos itens na lista. Git é um projeto de código aberto de qualidade O Git é um projeto de código aberto muito bem suportado, com mais de uma década de administração sólida. Os mantenedores do projeto mostraram um julgamento equilibrado e uma abordagem madura para atender às necessidades de longo prazo dos usuários, com lançamentos regulares que melhoram a usabilidade e a funcionalidade. É fácil examinar a qualidade do software de código aberto, e inúmeras empresas dependem muito dessa qualidade. O Git tem excelente suporte da comunidade e uma vasta base de usuários. A documentação é excelente e abundante, incluindo livros, tutoriais e sites dedicados. Existem também podcasts e tutoriais em vídeo. O código aberto reduz o custo para desenvolvedores amadores, pois eles podem usar o Git sem pagar uma taxa. Para uso em projetos de código aberto, o Git é sem dúvida o sucessor das gerações anteriores de sistemas bem-sucedidos de controle de versão de código aberto, SVN e CVS. Crítica ao Git Uma crítica comum ao Git é que pode ser difícil de aprender. Algumas das terminologias do Git vão ser novas para os iniciantes e, para usuários de outros sistemas, a terminologia do Git pode ser diferente, por exemplo, revert no Git tem um significado diferente do que no SVN ou CVS. No entanto, o Git é muito capaz e disponibiliza muitos recursos aos usuários. Aprender a usar esses recursos pode levar algum tempo. No entanto, uma vez aprendidos, podem ser usados pela equipe para aumentar a velocidade de desenvolvimento. Para as equipes que vêm de um VCS não distribuído, ter um repositório central pode parecer uma coisa boa que eles não querem perder. No entanto, embora o Git tenha sido projetado como um sistema de controle de versão distribuído (DVCS), com o Git, você ainda pode ter um repositório canônico oficial em que todas as alterações no software devem ser armazenadas. Com o Git, como o repositório de cada desenvolvedor está completo, o trabalho não precisa ser restringido pela disponibilidade e desempenho do servidor \"central\". Durante interrupções ou quando offline, os desenvolvedores ainda podem consultar o histórico completo do projeto. Como o Git é flexível e está sendo distribuído, você pode trabalhar da maneira que está acostumado, mas obter os benefícios adicionais do Git, alguns dos quais você nem percebe que está perdendo. Agora que você entende o que é o controle de versão, o que é o Git e por que as equipes de software deveriam optar por ele, continue lendo para descobrir os benefícios que o Git pode proporcionar a uma empresa. Recomendado para você Blog do Bitbucket Saiba mais Caminho de aprendizagem de DevOps Saiba mais Saiba mais sobre o Git Encontre mais guias e recursos de Git neste hub. Leia mais",
+      "data_acesso": "2026-03-13T14:26:03.793833",
+      "tamanho": 9180
+    },
+    "https://www.freecodecamp.org/portuguese/news/o-guia-do-iniciante-para-o-git-e-o-github/": {
+      "titulo": "O guia do iniciante para o Git e o GitHub",
+      "texto_completo": "Tradutor: Daniel Rosa Autor: freeCodeCamp.org (em inglês) Artigo original: The beginner’s guide to Git & GitHub Escrito por: Thanoshan MV O que é Git? O Git é um software de controle de versão gratuito e de código aberto. Foi criado por Linus Torvalds em 2005. Essa ferramenta é um sistema de controle de versão que foi inicialmente desenvolvido para trabalhar com vários desenvolvedores no kernel do Linux. Basicamente, isso significa que o Git é um rastreador de conteúdo. Então, o Git pode ser usado para armazenar conteúdo — e é principalmente usado para armazenar código por causa das outras funcionalidades que ele fornece. Projetos da vida real geralmente têm diversos desenvolvedores trabalhando em paralelo. Assim, eles precisam de um sistema de controle de versão como o Git para garantir que não ocorram conflitos de código entre eles. Além disso, os requisitos de tais projetos mudam frequentemente. Por isso, um sistema de controle de versão permite que os desenvolvedores revertam e voltem a uma versão anterior do seu código. O sistema de branches no Git permite que os desenvolvedores trabalhem individualmente em uma tarefa (por exemplo: uma branch -> uma tarefa OU uma branch -> um desenvolvedor). Basicamente, pense no Git como uma pequena aplicação de software que controla sua base de código, se você for um desenvolvedor. Funcionamento do Git Repositórios do Git Se quisermos começar a usar o Git, precisamos saber onde hospedar nossos repositórios. Um repositório (ou \" repo \", para abreviar) é um projeto que contém diversos arquivos. No nosso caso, um repositório conterá arquivos baseados em código. Existem duas maneiras de hospedar seus repositórios. Uma é on-line (na nuvem) e a outra é off-line (instalado no seu servidor). Existem três serviços populares de hospedagem do Git: GitHub (pertencente à Microsoft), GitLab (pertencente ao GitLab) e BitBucket. Usaremos o GitHub como nosso serviço de hospedagem. Antes de usar o Git, devemos saber por que precisamos dele O Git facilita a contribuição para projetos de código aberto Quase todos os projetos de código aberto usam o GitHub para gerenciar seus projetos. Usar o GitHub é gratuito se o seu projeto for de código aberto, e inclui uma wiki e um rastreador de problemas que facilita a inclusão de documentação mais detalhada e o recebimento de feedback sobre seu projeto. Se você quiser contribuir, você apenas faz o fork (uma cópia) de um projeto, faz suas alterações e, em seguida, envia ao projeto um pull request usando a interface da web do GitHub. Esse pull request é sua maneira de dizer ao projeto que você está pronto para que revisem suas alterações. Documentação Ao usar o GitHub, você facilita a obtenção de excelente documentação. A seção de ajuda e os guias deles têm artigos sobre praticamente qualquer tópico relacionado ao Git que você possa imaginar. Opções de integração O GitHub pode se integrar com plataformas comuns como Amazon e Google Cloud, com serviços como Code Climate para acompanhar seu feedback, e pode realçar a sintaxe em mais de 200 linguagens de programação diferentes. Acompanhe as alterações no seu código entre versões Quando várias pessoas colaboram em um projeto, é difícil acompanhar as revisões — quem mudou o que, quando e onde esses arquivos estão armazenados. O GitHub cuida desse problema ao acompanhar todas as alterações que foram enviadas ao repositório. Muito parecido com o uso do Microsoft Word ou do Google Drive, você pode ter um histórico de versões do seu código para que versões anteriores não sejam perdidas a cada iteração. É fácil voltar à versão anterior e contribuir com seu trabalho. Exibir seu trabalho Você é um desenvolvedor que deseja atrair recrutadores? O GitHub é a melhor ferramenta em que você pode confiar para isso. Hoje, ao procurarem por novos recrutas para seus projetos, a maioria das empresas olha para perfis do GitHub. Se o seu perfil estiver disponível, você terá uma maior chance de ser recrutado, mesmo se não for de uma universidade ou faculdade renomada. Aprendendo a usar o Git e o GitHub Criação de conta no GitHub Para criar sua conta, você precisa ir ao site do GitHub e preencher o formulário de registro. Página oficial do GitHub Instalação do Git Agora, precisamos instalar as ferramentas do Git em nosso computador. Usaremos a CLI (interface de linha de comando) para nos comunicarmos com o GitHub. Para o Linux: Primeiro, atualize seus pacotes. sudo apt update Em seguida, instale o Git e o GitHub com apt-get sudo apt-get install git Finalmente, verifique se o Git está instalado corretamente git --version Execute os seguintes comandos com suas informações para definir um nome de usuário e e-mail padrão quando você for salvar seu trabalho. git config --global user.name \"seu_nome_de_usuario_aqui\" git config --global user.email \"exemplo@e-mail.com\" Trabalhando com projetos no GitHub Trabalharemos com projetos no GitHub de dois modos. Modo 1: crie o repositório, clone-o para o seu PC e trabalhe nele. (recomendado) O modo 1 envolve criar um repositório do zero no GitHub, cloná-lo para o nosso computador, trabalhar em nosso projeto e enviá-lo de volta. Crie um repositório clicando no botão \"New repository\" na página da web do GitHub. Perfeito! Seu primeiro repositório no GitHub foi criado. Sua primeira missão é obter uma cópia do repositório no seu computador. Para fazer isso, você precisa \"clonar\" o repositório no seu computador. Clonar um repositório significa que você está pegando um repositório que está no servidor e clonando-o para o seu computador - assim como baixá-lo. Na página do repositório, você precisa obter o endereço \"HTTPS\". Depois de obter o endereço do repositório, você precisa usar seu terminal. Utilize o seguinte comando no terminal. Quando estiver pronto, você pode inserir isto: git clone [ENDEREÇO HTTPS] Esse comando fará uma cópia local do repositório hospedado no endereço fornecido. Mensagem de saída do comando \"git clone\" Agora, o repositório está no seu computador. Você precisa entrar nele com o seguinte comando. cd [NOME DO REPOSITÓRIO] Como você pode ver na imagem acima, o nome do meu repositório é \"My-GitHub-Project\" e esse comando me fez ir para esse diretório específico. OBSERVAÇÃO: quando você clona, o Git criará um repositório no seu computador. Se quiser, você pode acessar seu projeto com a interface do usuário do computador em vez de usar o comando 'cd' no terminal. Agora, naquela pasta, podemos criar arquivos, trabalhar neles e salvá-los localmente. Para salvá-los remotamente — como no GitHub — temos que fazer um processo chamado \" commit \". Para fazer isso, volte ao seu terminal. Se o tiver fechado, como mencionei anteriormente, use o comando 'cd'. cd [NOME DO REPOSITÓRIO] Agora, no terminal, você está no diretório do seu repositório. Existem 4 etapas em um commit: 'status', 'add', 'commit' e 'push'. Todos os passos seguintes devem ser realizados dentro do seu projeto. Vamos passar por eles um por um. \"status\": a primeira coisa que você precisa fazer é verificar os arquivos que você modificou. Para fazer isso, você pode digitar o seguinte comando para exibir uma lista de mudanças. git status \"add\": com a ajuda da lista de mudanças, você pode adicionar todos os arquivos que deseja enviar com o seguinte comando, git add [NOME DO ARQUIVO] [NOME DO ARQUIVO] [...] No nosso caso, vamos adicionar um arquivo HTML simples. git add sample.html \"commit\": agora que adicionamos os arquivos da nossa escolha, precisamos escrever uma mensagem para explicar o que fizemos. Essa mensagem pode ser útil mais tarde se quisermos verificar o histórico de alterações. Aqui está um exemplo do que podemos colocar no nosso caso. git commit -m \"Adicionado arquivo HTML de amostra que contém sintaxe básica\" \"push\": agora podemos colocar nosso trabalho no GitHub. Para fazer isso, temos que fazer o 'push' de nossos arquivos para remote remote é uma instância duplicada do nosso repositório que vive em algum lugar em um servidor remoto. Para fazer isso, devemos saber o nome do remote (na maioria das vezes o remote é chamado de origin ). Para descobrir esse nome, digite o seguinte comando. git remote Como você pode ver na imagem acima, é dito que o nome do nosso remote é origin . Agora, podemos fazer o 'push' do nosso trabalho com segurança pelo seguinte comando. git push origin master Agora, se formos ao nosso repositório na página web do GitHub, podemos ver o arquivo sample.html que enviamos para o remoto — que é o GitHub! OBSERVAÇÃO : às vezes, quando você está usando comandos Git no terminal, isso pode levar você ao editor de texto VIM (um editor de texto baseado em CLI). Para se livrar dele, você tem que digitar :q e ENTER. Descrição de como pull e push funcionam Fazer o ' pull ' é o ato de receber do GitHub. Fazer o ' push ' é o ato de enviar para o GitHub. Modo 2: trabalhe no seu projeto localmente e depois crie o repositório no GitHub e envie-o para o remoto. O modo 2 permite que você crie um repositório a partir de uma pasta existente no seu computador e o envie para o GitHub. Em muitos casos, você pode já ter criado algo no seu computador que deseja, de repente, transformar em um repositório no GitHub. Vou explicar isso para você com um projeto de formulário de pesquisa que fiz anteriormente que não foi adicionado ao GitHub. Como já mencionei, ao executar quaisquer comandos do Git, temos que garantir que estamos no diretório correto no terminal. Por padrão, qualquer diretório no nosso computador não é um repositório do Git – mas podemos transformá-lo em um repositório do Git executando o seguinte comando no terminal. Após converter nosso diretório para um repositório do Git, a primeira coisa que precisamos fazer é verificar os arquivos que temos usando o seguinte comando. git status Então, há dois arquivos nesse diretório que precisamos \"adicionar\" ao nosso repositório. git add [NOME_DO_ARQUIVO] [NOME_DO_ARQUIVO] [...] OBSERVAÇÃO : para \"adicionar\" todos os arquivos no nosso repositório, podemos usar o seguin",
+      "data_acesso": "2026-03-13T14:26:05.406025",
+      "tamanho": 12535
+    },
+    "https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git": {
+      "titulo": "O que é Git? - Azure DevOps | Microsoft Learn",
+      "texto_completo": "Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios O que é Git? Comentários O Git tornou-se o padrão mundial para controle de versão. Então, o que exatamente é isso? O Git é um sistema de controle de versão distribuído, o que significa que um clone local do projeto é um repositório de controle de versão completo. Esses repositórios locais totalmente funcionais facilitam o trabalho offline ou remotamente. Os desenvolvedores confirmam seu trabalho localmente e sincronizam a cópia do repositório com a cópia no servidor. Esse paradigma difere do controle de versão centralizado em que os clientes devem sincronizar o código com um servidor antes de criar novas versões de código. A flexibilidade e a popularidade do Git fazem dele uma ótima opção para qualquer equipe. Muitos desenvolvedores e universitários já sabem como usar o Git. A comunidade de usuários do Git criou recursos para treinar desenvolvedores e a popularidade do Git facilita a obtenção de ajuda quando necessário. Quase todos os ambientes de desenvolvimento têm suporte do Git e ferramentas de linha de comando git implementadas em todos os sistemas operacionais principais. Noções básicas do Git Sempre que o trabalho é salvo, o Git cria uma confirmação. Um commit é um instantâneo de todos os arquivos em um determinado momento. Se um arquivo não tiver sido alterado de uma confirmação para a próxima, o Git usará o arquivo armazenado anteriormente. Esse design difere de outros sistemas que armazenam uma versão inicial de um arquivo e mantêm um registro de deltas ao longo do tempo. Commits criam links para outros commits, formando um grafo do histórico de desenvolvimento. É possível reverter o código para uma confirmação anterior, inspecionar como os arquivos foram alterados de uma confirmação para outra e examinar informações como onde e quando as alterações foram feitas. As confirmações são identificadas no Git por um hash criptográfico exclusivo do conteúdo da confirmação. Como tudo é hash, é impossível fazer alterações, perder informações ou arquivos corrompidos sem que o Git a detecte. Ramificações Cada desenvolvedor salva alterações em seu próprio repositório de código local. Como resultado, pode haver muitas alterações diferentes baseadas no mesmo commit. O Git fornece ferramentas para isolar as alterações e, posteriormente, mesclá-las novamente. Os branches, que são ponteiros leves para trabalho em progresso, gerenciam essa separação. Depois que o trabalho criado em um branch for concluído, ele poderá ser mesclado de volta ao branch principal (ou tronco) da equipe. Arquivos e confirmações Os arquivos no Git estão em um dos três estados: modificados, preparados ou confirmados. Quando um arquivo é modificado pela primeira vez, as alterações existem apenas no diretório de trabalho. Eles ainda não fazem parte de um commit ou do histórico de desenvolvimento. O desenvolvedor deve preparar os arquivos alterados para serem incluídos no commit. A área de stage contém todas as alterações a serem incluídas no próximo commit. Depois que o desenvolvedor estiver satisfeito com os arquivos em etapas, os arquivos serão empacotados como uma confirmação com uma mensagem que descreve o que mudou. Essa confirmação se torna parte do histórico de desenvolvimento. O Staging permite que os desenvolvedores escolham quais alterações de arquivo salvar em um commit para dividir grandes mudanças em uma série de commits menores. Ao reduzir o escopo de confirmações, é mais fácil examinar o histórico de confirmação para encontrar alterações específicas de arquivo. Benefícios do Git Os benefícios do Git são muitos. Desenvolvimento simultâneo Todos têm uma cópia local de código e podem trabalhar simultaneamente em suas próprias ramificações. O Git funciona offline, pois quase todas as operações são locais. Lançamentos mais rápidos As ramificações permitem o desenvolvimento flexível e simultâneo. O branch principal contém código estável e de alta qualidade, a partir do qual você realiza lançamentos. As ramificações de funcionalidades contêm trabalho em andamento, que são mesclados na ramificação principal após a conclusão. Ao separar o branch de lançamento do desenvolvimento em andamento, fica mais fácil gerenciar código estável e enviar atualizações mais rapidamente. Integração interna Devido à sua popularidade, o Git integra-se à maioria das ferramentas e produtos. Cada IDE principal tem suporte interno do Git e muitas ferramentas dão suporte à integração contínua, implantação contínua, teste automatizado, acompanhamento de itens de trabalho, métricas e integração de recursos de relatório com o Git. Essa integração simplifica o fluxo de trabalho diário. Forte apoio da comunidade O Git é de software livre e tornou-se o padrão de fato para controle de versão. Não faltam ferramentas e recursos disponíveis para as equipes aproveitarem. O volume de suporte da comunidade para Git em comparação com outros sistemas de controle de versão facilita a obtenção de ajuda quando necessário. O Git funciona com qualquer equipe Usar o Git com uma ferramenta de gerenciamento de código-fonte aumenta a produtividade de uma equipe incentivando a colaboração, impondo políticas, automatizando processos e melhorando a visibilidade e a rastreabilidade do trabalho. A equipe pode optar por ferramentas individuais para controle de versão, rastreamento de itens de trabalho e integração e implantação contínuas. Ou podem escolher uma solução como o GitHub ou o Azure DevOps que dá suporte a todas essas tarefas em um só lugar. Solicitações de pull Use solicitações de pull para discutir alterações de código com a equipe antes de mesclá-las no branch principal. As discussões em solicitações de pull são inestimáveis para garantir a qualidade do código e aumentar o conhecimento em toda a sua equipe. Plataformas como o GitHub e o Azure DevOps oferecem uma experiência de solicitação de pull avançada em que os desenvolvedores podem procurar alterações de arquivo, deixar comentários, inspecionar confirmações, exibir builds e votar para aprovar o código. Políticas de branch O Teams pode configurar o GitHub e o Azure DevOps para impor fluxos de trabalho e processos consistentes em toda a equipe. Eles podem configurar políticas de branch para garantir que as solicitações de pull atendam aos requisitos antes da conclusão. As políticas de ramificação protegem branches importantes evitando pushes diretos, exigindo revisores e garantindo builds limpos. Próximas etapas Instalar e configurar o Git Comentários Esta página foi útil? Yes No No Precisa de ajuda com este tópico? Quer experimentar o Pergunte e Aprenda para esclarecer ou guiar você neste tópico? Pergunte ao Learn Pergunte ao Learn Sugerir uma correção? Recursos adicionais Last updated on 2025-10-27",
+      "data_acesso": "2026-03-13T14:26:06.884848",
+      "tamanho": 7090
+    },
+    "https://mimo.org/tutorials/sql/how-to-optimize-sql-queries": {
+      "titulo": "How to Optimize SQL Queries",
+      "texto_completo": "Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React Coding Tutorials HTML CSS JavaScript Python Swift TypeScript SQL React How to Optimize SQL Queries What you’ll build or solve You’ll speed up slow SELECT queries by measuring performance, improving index usage, reducing scanned rows, and simplifying costly operations like joins and aggregation. When this approach works best This approach works best when: Learn SQL on Mimo CAREER PATH Back-End Developer Become a back-end developer. Learn SQL, databases, server-side programming, and APIs to build scalable applications Beginner friendly COURSE SQL Master database queries. Learn SELECT, JOIN, aggregations, and database design Beginner friendly A dashboard or API endpoint feels slow and relies on database queries. A query scans a large table but returns a small result set. You see long query times in logs or monitoring tools. Skip this if performance issues come from network latency, application code, or tiny datasets where changes won’t matter. Prerequisites Access to a SQL database such as MySQL, PostgreSQL, SQL Server, or SQLite Permission to create indexes Basic understanding of SELECT WHERE JOIN , and GROUP BY Step-by-step instructions These steps are not a checklist you must follow in order. Treat them as techniques. Pick the ones that match what your query is doing, then measure again. Step 1: Measure the current performance Start by measuring the query so you know what to fix. Option A, most common: Open in Mimo Open in Mimo Copy Code EXPLAIN SELECT* FROM orders WHERE user_id 42 Option B in PostgreSQL: Open in Mimo Open in Mimo Copy Code EXPLAIN ANALYZE SELECT* FROM orders WHERE user_id 42 What to look for If you see Seq Scan or Full Table Scan on a large table, the database reads every row. That’s often the first target. Look for: Estimated vs actual rows Cost numbers Whether indexes are used Always measure before and after changes. Step 2: Select only the columns you need Fetching unnecessary columns increases work and data transfer. Less efficient: Open in Mimo Open in Mimo Copy Code SELECT* FROM users WHERE active 1 More efficient: Open in Mimo Open in Mimo Copy Code SELECT id, name, email FROM users WHERE active 1 This matters most for wide tables or queries that return many rows. Step 3: Add indexes for frequent filters and joins Indexes help the database find rows without scanning the whole table. If you frequently filter by user_id Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Re-check the plan: Open in Mimo Open in Mimo Copy Code EXPLAIN SELECT* FROM orders WHERE user_id 42 You want to see an Index Scan instead of a full scan. Focus on columns used often in: WHERE JOIN ORDER BY Too many indexes can slow down writes, so add them intentionally. Step 4: Write WHERE clauses that can use indexes Certain patterns block index usage. Less efficient: CSS Open in Mimo Open in Mimo Copy Code SELECT FROM users WHEREYEAR(created_at)= 2025 Better: SQL Open in Mimo Open in Mimo Copy Code SELECT FROM users WHERE created_at '2025-01-01' AND created_at '2026-01-01' Avoid leading wildcards: SQL Open in Mimo Open in Mimo Copy Code -- Slower WHERE emailLIKE '%@example.com' Prefer anchored patterns: SQL Open in Mimo Open in Mimo Copy Code -- Faster WHERE emailLIKE 'admin%@example.com' Leading wildcards often force full scans. Step 5: Filter early to reduce work Apply filters before expensive operations so fewer rows flow into joins, sorts, and aggregation. Filter before joins: Open in Mimo Open in Mimo Copy Code SELECT users.id, users.name, filtered_orders.total FROM users JOIN SELECT user_id, total FROM orders WHERE total> 500 AS filtered_orders ON users.id= filtered_orders.user_id; Filter before aggregation: SQL Open in Mimo Open in Mimo Copy Code SELECT user_id, COUNT AS order_count FROM orders WHERE created_at '2026-01-01' GROUPBY user_id; Use LIMIT when you do not need all rows: CSS Open in Mimo Open in Mimo Copy Code SELECT id, user_id, total, created_at FROM orders ORDERBY created_atDESC LIMIT20; Filtering and limiting early reduces total work. Step 6: Simplify joins Each join adds work, especially on large tables. Join only what you need. Less efficient: Open in Mimo Open in Mimo Copy Code SELECT users.name, orders.total, products.name FROM users JOIN ordersON users.id = orders.user_id JOIN productsON orders.product_id = products.id If product data is not required: Open in Mimo Open in Mimo Copy Code SELECT users.name, orders.total FROM users JOIN ordersON users.id = orders.user_id Index join keys when tables are large: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Examples you can copy Example 1: Speed up user lookup by email Before: Open in Mimo Open in Mimo Copy Code SELECT* FROM users WHERE email 'ana@example.com' Add an index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_users_email ON users (email) Then fetch only what you need: Open in Mimo Open in Mimo Copy Code SELECT id, name FROM users WHERE email 'ana@example.com' Example 2: Optimize recent completed orders Before: Open in Mimo Open in Mimo Copy Code SELECT* FROM orders WHERE status 'completed' ORDERBY created_atDESC Add a composite index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_status_created ON orders (status, created_at) Improved query: Open in Mimo Open in Mimo Copy Code SELECT id, user_id, total FROM orders WHERE status 'completed' ORDERBY created_atDESC LIMIT50 Example 3: Optimize a reporting query with a date filter Before: SQL Open in Mimo Open in Mimo Copy Code SELECT users.name, SUM (orders.total) AS total_spent FROM users JOIN ordersON users.id orders.user_id GROUPBY users.name; Add an index: Open in Mimo Open in Mimo Copy Code CREATE INDEX idx_orders_user_id ON orders (user_id) Filter early: SQL Open in Mimo Open in Mimo Copy Code SELECT users.name, SUM (orders.total) AS total_spent FROM users JOIN ordersON users.id orders.user_id WHERE orders.created_at '2026-01-01' GROUPBY users.name; Common mistakes and how to fix them Mistake 1: Adding too many indexes You might add indexes on every column. Why it breaks: Writes get slower because the database must update each index on INSERT and UPDATE Correct approach: Add indexes only for columns used often in WHERE JOIN , and ORDER BY Mistake 2: Using functions on indexed columns You might write: SQL Open in Mimo Open in Mimo Copy Code SELECT FROM orders WHERE LOWER (status) 'completed' Why it breaks: The function can prevent index usage. Correct approach: Open in Mimo Open in Mimo Copy Code SELECT* FROM orders WHERE status 'completed' If you need case-insensitive matching, use a case-insensitive collation or data type when supported. Mistake 3: Skipping execution plans You might change queries without checking the plan. Why it breaks: You may optimize the wrong part. Correct approach: Open in Mimo Open in Mimo Copy Code EXPLAIN ANALYZE SELECT* FROM orders WHERE user_id 42 Measure before and after each change. Troubleshooting If EXPLAIN still shows a full table scan, confirm the filtered column has an index and the table is large enough for the planner to prefer it. If performance does not improve after adding an index, check for functions on the filtered column or mismatched data types. If sorting is slow, ensure ORDER BY columns align with an index and add LIMIT when you only need top results. If joins are slow, index the join keys on both sides and filter the larger table before joining. If results look wrong after optimization, confirm that refactoring did not change join types or filter logic. Quick recap Use EXPLAIN or EXPLAIN ANALYZE to find bottlenecks. Select only the columns you need. Add indexes for frequent filters and join keys. Write WHERE clauses that can use indexes. Filter and limit early before joins, sorts, and aggregation. Remove unnecessary joins and re-measure after changes. Join 35M+ people learning for free on Mimo 35M+ CAREER PATH Back-End Developer Become a back-end developer. Learn SQL, databases, server-side programming, and APIs to build scalable applications Beginner friendly COURSE SQL Master database queries. Learn SELECT, JOIN, aggregations, and database design Beginner friendly 4.8 out of 5 across 1M+ reviews Check us out on Apple AppStore Google Play Store , and Trustpilot",
+      "data_acesso": "2026-03-13T14:26:17.219275",
+      "tamanho": 8358
+    },
+    "https://www.idera.com/blogs/sql-query-optimization/": {
+      "titulo": "SQL Query Optimization: 23 Proven Techniques | IDERA",
+      "texto_completo": "Monitor & Protect Idera SQL SQL Server monitoring, backups, and performance tools. Webyog MySQL database management with real-time monitoring tools. Data Modeling & Management Aqua Data Studio Multifunction Enterprise IDE- Code, Model, BI, AI Assist. ER/Studio Enterprise data modeling, metadata and governance tools. WhereScape Data automation tools to build and manage warehouses. Migration & Intelligence BitTitan Simplify Microsoft & Google migrations with MigrationWiz. Perspectium ServiceNow data replication, integration, archiving and backups. Yellowfin Embedded analytics and dashboards to drive insight.",
+      "data_acesso": "2026-03-13T14:26:20.106492",
+      "tamanho": 613
     }
   },
   "indices": {
@@ -10091,7 +10259,9 @@
         "e21f689f4d1500b8",
         "f4274a87f70b7a9c",
         "6fddd04117eaedbc",
-        "1af3e9801063ed28"
+        "1af3e9801063ed28",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10110,7 +10280,13 @@
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
         "4b178bdc59da544a",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "91e38248c22bb7fb",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152",
+        "cb214497609573a8",
+        "0c698dccfe6ccd1c",
+        "d21e1b2bed9eebaa"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10120,11 +10296,15 @@
         "17380aa1e75c8e1c",
         "8ed8baff7acd22b8",
         "60885b3930f0a187",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "c89318b0e0615d97"
       ],
       "codigo": [
         "026f23a1d4ac4177",
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "9d3eef28d73f90e5",
+        "08b5b3a969983ea5",
+        "d44db2d70aa038be"
       ]
     },
     "por_fonte": {
@@ -10736,6 +10916,30 @@
       "https://learn.microsoft.com/pt-br/azure/architecture/aws-professional/compute": [
         "aa95eaa70b67371b",
         "4b178bdc59da544a"
+      ],
+      "https://github.com/git-guides": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "https://www.atlassian.com/br/git/tutorials/what-is-git": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047"
+      ],
+      "https://www.freecodecamp.org/portuguese/news/o-guia-do-iniciante-para-o-git-e-o-github/": [
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152"
+      ],
+      "https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git": [
+        "c89318b0e0615d97",
+        "cb214497609573a8"
+      ],
+      "https://mimo.org/tutorials/sql/how-to-optimize-sql-queries": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "https://www.idera.com/blogs/sql-query-optimization/": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ]
     },
     "por_palavra": {
@@ -10747,7 +10951,9 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -10761,7 +10967,10 @@
       "software": [
         "76e1b1a09f317aa1",
         "60885b3930f0a187",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
       ],
       "malicious": [
         "76e1b1a09f317aa1"
@@ -10774,7 +10983,9 @@
       "that": [
         "76e1b1a09f317aa1",
         "869ef110cbcdc27e",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "9d3eef28d73f90e5",
+        "08b5b3a969983ea5"
       ],
       "computer": [
         "76e1b1a09f317aa1"
@@ -10797,7 +11008,11 @@
       "code": [
         "76e1b1a09f317aa1",
         "f4274a87f70b7a9c",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "9d3eef28d73f90e5",
+        "08b5b3a969983ea5",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "blog": [
         "76e1b1a09f317aa1",
@@ -10812,13 +11027,17 @@
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
         "026f23a1d4ac4177",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "0c698dccfe6ccd1c"
       ],
       "from": [
         "76e1b1a09f317aa1",
         "869ef110cbcdc27e",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5"
       ],
       "systems": [
         "76e1b1a09f317aa1"
@@ -10828,20 +11047,29 @@
         "fe0a23e029896722",
         "7a07f2ff806d1129",
         "581c8fb845bd6d65",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "9d3eef28d73f90e5"
       ],
       "with": [
         "76e1b1a09f317aa1",
         "fe0a23e029896722",
         "026f23a1d4ac4177",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "user": [
         "76e1b1a09f317aa1"
       ],
       "what": [
         "76e1b1a09f317aa1",
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -10850,7 +11078,9 @@
       "email": [
         "76e1b1a09f317aa1",
         "869ef110cbcdc27e",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8",
+        "08b5b3a969983ea5"
       ],
       "these": [
         "76e1b1a09f317aa1"
@@ -10860,7 +11090,8 @@
       ],
       "will": [
         "76e1b1a09f317aa1",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -10880,7 +11111,8 @@
       "there": [
         "76e1b1a09f317aa1",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "9d3eef28d73f90e5"
       ],
       "take": [
         "76e1b1a09f317aa1",
@@ -10906,7 +11138,10 @@
         "50d89ae937544a7e",
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -10919,7 +11154,8 @@
         "76e1b1a09f317aa1"
       ],
       "install": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "91e38248c22bb7fb"
       ],
       "known": [
         "76e1b1a09f317aa1"
@@ -10972,7 +11208,13 @@
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
         "4b178bdc59da544a",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "91e38248c22bb7fb",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152",
+        "cb214497609573a8",
+        "0c698dccfe6ccd1c",
+        "d21e1b2bed9eebaa"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -10996,7 +11238,13 @@
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
         "4b178bdc59da544a",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "91e38248c22bb7fb",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152",
+        "cb214497609573a8",
+        "0c698dccfe6ccd1c",
+        "d21e1b2bed9eebaa"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11032,7 +11280,9 @@
         "a572412ab66c4013",
         "837db61bcf100381",
         "026f23a1d4ac4177",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "access": [
         "869ef110cbcdc27e"
@@ -11061,7 +11311,8 @@
         "869ef110cbcdc27e"
       ],
       "everything": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "91e38248c22bb7fb"
       ],
       "internet": [
         "869ef110cbcdc27e",
@@ -11142,10 +11393,15 @@
       "learn": [
         "fe0a23e029896722",
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "c89318b0e0615d97",
+        "cb214497609573a8",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "about": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "91e38248c22bb7fb"
       ],
       "community": [
         "fe0a23e029896722"
@@ -11209,7 +11465,9 @@
         "fe0a23e029896722"
       ],
       "protect": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "bulletin": [
         "fe0a23e029896722"
@@ -11269,13 +11527,16 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "1b875cbff8d9d6f0",
-        "890e6f3385756921"
+        "890e6f3385756921",
+        "9d3eef28d73f90e5"
       ],
       "play": [
         "7a07f2ff806d1129"
       ],
       "when": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "simple": [
         "7a07f2ff806d1129"
@@ -11336,7 +11597,8 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "08b5b3a969983ea5"
       ],
       "provider": [
         "581c8fb845bd6d65",
@@ -11355,7 +11617,9 @@
       "know": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
       ],
       "https": [
         "581c8fb845bd6d65",
@@ -11363,14 +11627,17 @@
         "3e417395659575d0",
         "28507d9dd792b9d2",
         "a572412ab66c4013",
-        "837db61bcf100381"
+        "837db61bcf100381",
+        "59c1f7af031c6db5"
       ],
       "edit": [
         "581c8fb845bd6d65"
       ],
       "make": [
         "581c8fb845bd6d65",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
       ],
       "also": [
         "581c8fb845bd6d65",
@@ -11438,7 +11705,8 @@
       ],
       "only": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "08b5b3a969983ea5"
       ],
       "might": [
         "581c8fb845bd6d65",
@@ -11478,7 +11746,9 @@
         "026f23a1d4ac4177",
         "1d4e81d94c23b2c2",
         "1af3e9801063ed28",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "spreadsheets": [
         "581c8fb845bd6d65",
@@ -11491,7 +11761,8 @@
         "581c8fb845bd6d65"
       ],
       "version": [
-        "581c8fb845bd6d65"
+        "581c8fb845bd6d65",
+        "9d3eef28d73f90e5"
       ],
       "here": [
         "581c8fb845bd6d65"
@@ -11565,7 +11836,9 @@
       ],
       "started": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
       ],
       "creating": [
         "b8f86559bf96fa79",
@@ -11595,7 +11868,8 @@
       ],
       "total": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "08b5b3a969983ea5"
       ],
       "contains": [
         "b8f86559bf96fa79",
@@ -11637,7 +11911,9 @@
       ],
       "linux": [
         "3ba7175038ddccc0",
-        "e00a2380f9e7254a"
+        "e00a2380f9e7254a",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
       ],
       "libcontainer": [
         "3ba7175038ddccc0",
@@ -11792,7 +12068,8 @@
       ],
       "control": [
         "3ba7175038ddccc0",
-        "e00a2380f9e7254a"
+        "e00a2380f9e7254a",
+        "9d3eef28d73f90e5"
       ],
       "groups": [
         "3ba7175038ddccc0"
@@ -11979,7 +12256,9 @@
         "1b875cbff8d9d6f0"
       ],
       "into": [
-        "1b875cbff8d9d6f0"
+        "1b875cbff8d9d6f0",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
       ],
       "以及远程操控和监控的设备": [
         "1b875cbff8d9d6f0"
@@ -12026,7 +12305,8 @@
       "learning": [
         "3e417395659575d0",
         "e21f689f4d1500b8",
-        "28507d9dd792b9d2"
+        "28507d9dd792b9d2",
+        "91e38248c22bb7fb"
       ],
       "mathworks": [
         "3e417395659575d0",
@@ -12160,7 +12440,8 @@
         "3e417395659575d0"
       ],
       "optimization": [
-        "3e417395659575d0"
+        "3e417395659575d0",
+        "d21e1b2bed9eebaa"
       ],
       "中找到该工具箱": [
         "3e417395659575d0"
@@ -12273,13 +12554,19 @@
       ],
       "html": [
         "a572412ab66c4013",
-        "837db61bcf100381"
+        "837db61bcf100381",
+        "0c698dccfe6ccd1c"
       ],
       "http": [
         "a572412ab66c4013"
       ],
       "github": [
-        "a572412ab66c4013"
+        "a572412ab66c4013",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97"
       ],
       "algorithms": [
         "a572412ab66c4013",
@@ -12316,7 +12603,9 @@
         "a572412ab66c4013"
       ],
       "index": [
-        "a572412ab66c4013"
+        "a572412ab66c4013",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "rosulek": [
         "a572412ab66c4013"
@@ -12630,7 +12919,13 @@
         "f542a8a92a748193",
         "aa95eaa70b67371b",
         "1af3e9801063ed28",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "aplicativo": [
         "8ed8baff7acd22b8",
@@ -12645,7 +12940,8 @@
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "59c1f7af031c6db5"
       ],
       "como": [
         "8ed8baff7acd22b8",
@@ -12655,7 +12951,10 @@
         "60885b3930f0a187",
         "c6b34bef6d7f378b",
         "6fddd04117eaedbc",
-        "1af3e9801063ed28"
+        "1af3e9801063ed28",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
       ],
       "passo": [
         "8ed8baff7acd22b8",
@@ -12669,7 +12968,11 @@
         "60885b3930f0a187",
         "c6b34bef6d7f378b",
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "usar": [
         "8ed8baff7acd22b8",
@@ -12678,7 +12981,8 @@
         "6dff1d282dbafaf9",
         "60885b3930f0a187",
         "c6b34bef6d7f378b",
-        "1af3e9801063ed28"
+        "1af3e9801063ed28",
+        "59c1f7af031c6db5"
       ],
       "navegador": [
         "8ed8baff7acd22b8",
@@ -12706,17 +13010,26 @@
       "versão": [
         "8ed8baff7acd22b8",
         "f4274a87f70b7a9c",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "está": [
-        "8ed8baff7acd22b8"
+        "8ed8baff7acd22b8",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5"
       ],
       "entrar": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
         "60885b3930f0a187",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "dispositivos": [
         "8ed8baff7acd22b8",
@@ -12751,7 +13064,9 @@
       "fazer": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5"
       ],
       "instalar": [
         "8ed8baff7acd22b8",
@@ -12762,7 +13077,12 @@
       ],
       "código": [
         "8ed8baff7acd22b8",
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97"
       ],
       "pronto": [
         "8ed8baff7acd22b8"
@@ -12831,7 +13151,8 @@
       ],
       "tutorial": [
         "8ed8baff7acd22b8",
-        "357ae7ac9bd5d805"
+        "357ae7ac9bd5d805",
+        "111b3fbd6b950047"
       ],
       "fácil": [
         "8ed8baff7acd22b8",
@@ -12841,7 +13162,8 @@
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "59c1f7af031c6db5"
       ],
       "opção": [
         "8ed8baff7acd22b8",
@@ -12874,7 +13196,8 @@
         "357ae7ac9bd5d805"
       ],
       "completo": [
-        "357ae7ac9bd5d805"
+        "357ae7ac9bd5d805",
+        "6cb9dd3ec0aa8739"
       ],
       "seguir": [
         "357ae7ac9bd5d805"
@@ -12898,7 +13221,8 @@
         "357ae7ac9bd5d805"
       ],
       "vários": [
-        "357ae7ac9bd5d805"
+        "357ae7ac9bd5d805",
+        "66af99b6e8fa3152"
       ],
       "seja": [
         "357ae7ac9bd5d805",
@@ -12914,7 +13238,12 @@
         "6dff1d282dbafaf9",
         "60885b3930f0a187",
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "desktop": [
         "f4274a87f70b7a9c",
@@ -12947,7 +13276,8 @@
         "60885b3930f0a187"
       ],
       "número": [
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "111b3fbd6b950047"
       ],
       "oficial": [
         "f4274a87f70b7a9c",
@@ -12979,19 +13309,27 @@
       "compartilhar": [
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "texto": [
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9"
       ],
       "arquivos": [
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
       ],
       "mais": [
         "f4274a87f70b7a9c",
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
       ],
       "site": [
         "f4274a87f70b7a9c"
@@ -13001,7 +13339,10 @@
         "aa95eaa70b67371b",
         "4b178bdc59da544a",
         "1af3e9801063ed28",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "confira": [
         "6dff1d282dbafaf9"
@@ -13016,10 +13357,12 @@
         "6dff1d282dbafaf9"
       ],
       "precisa": [
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "59c1f7af031c6db5"
       ],
       "recursos": [
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "c89318b0e0615d97"
       ],
       "maior": [
         "6dff1d282dbafaf9"
@@ -13058,7 +13401,8 @@
       ],
       "muitas": [
         "6dff1d282dbafaf9",
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "6cb9dd3ec0aa8739"
       ],
       "lança": [
         "6dff1d282dbafaf9"
@@ -13113,11 +13457,15 @@
         "60885b3930f0a187"
       ],
       "status": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "91e38248c22bb7fb",
+        "59c1f7af031c6db5",
+        "08b5b3a969983ea5"
       ],
       "sair": [
         "60885b3930f0a187",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "possível": [
         "60885b3930f0a187"
@@ -13126,13 +13474,17 @@
         "60885b3930f0a187"
       ],
       "arquivo": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
       ],
       "conversa": [
         "60885b3930f0a187"
       ],
       "além": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047"
       ],
       "processo": [
         "60885b3930f0a187"
@@ -13156,7 +13508,9 @@
         "c6b34bef6d7f378b"
       ],
       "conteúdo": [
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "6cb9dd3ec0aa8739",
+        "66af99b6e8fa3152"
       ],
       "apoiado": [
         "c6b34bef6d7f378b"
@@ -13186,7 +13540,8 @@
         "c6b34bef6d7f378b"
       ],
       "mundo": [
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "111b3fbd6b950047"
       ],
       "assine": [
         "c6b34bef6d7f378b"
@@ -13204,7 +13559,8 @@
         "c6b34bef6d7f378b"
       ],
       "sobre": [
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "111b3fbd6b950047"
       ],
       "tecnologia": [
         "c6b34bef6d7f378b",
@@ -13249,7 +13605,8 @@
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "microsoft": [
         "6fddd04117eaedbc",
@@ -13258,14 +13615,18 @@
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "empresas": [
         "6fddd04117eaedbc",
         "f542a8a92a748193"
       ],
       "integração": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "c89318b0e0615d97"
       ],
       "infraestrutura": [
         "6fddd04117eaedbc",
@@ -13295,7 +13656,8 @@
         "4b178bdc59da544a"
       ],
       "muito": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "6cb9dd3ec0aa8739"
       ],
       "costuma": [
         "6fddd04117eaedbc",
@@ -13314,7 +13676,8 @@
         "aa95eaa70b67371b"
       ],
       "segurança": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "6cb9dd3ec0aa8739"
       ],
       "oferece": [
         "6fddd04117eaedbc"
@@ -13324,7 +13687,10 @@
       ],
       "quando": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
       ],
       "frequentemente": [
         "6fddd04117eaedbc",
@@ -13345,7 +13711,9 @@
         "6fddd04117eaedbc"
       ],
       "server": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "qual": [
         "6fddd04117eaedbc",
@@ -13462,7 +13830,8 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -13476,7 +13845,9 @@
         "026f23a1d4ac4177"
       ],
       "model": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "serverless": [
         "026f23a1d4ac4177"
@@ -13504,14 +13875,19 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "core": [
         "026f23a1d4ac4177"
       ],
       "need": [
         "026f23a1d4ac4177",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5"
       ],
       "lambda": [
         "026f23a1d4ac4177"
@@ -13527,7 +13903,10 @@
       ],
       "database": [
         "026f23a1d4ac4177",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "08b5b3a969983ea5",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "search": [
         "026f23a1d4ac4177"
@@ -13564,17 +13943,22 @@
       ],
       "guide": [
         "026f23a1d4ac4177",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "91e38248c22bb7fb",
+        "66af99b6e8fa3152"
       ],
       "developer": [
         "026f23a1d4ac4177",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
       ],
       "mature": [
         "026f23a1d4ac4177"
       ],
       "analytics": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "d44db2d70aa038be"
       ],
       "market": [
         "71a1a96eb62a2f10",
@@ -13615,7 +13999,8 @@
         "71a1a96eb62a2f10"
       ],
       "copy": [
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "08b5b3a969983ea5"
       ],
       "largest": [
         "71a1a96eb62a2f10"
@@ -13625,7 +14010,8 @@
       ],
       "integration": [
         "71a1a96eb62a2f10",
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "d44db2d70aa038be"
       ],
       "superior": [
         "71a1a96eb62a2f10",
@@ -13677,7 +14063,8 @@
       ],
       "which": [
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "9d3eef28d73f90e5"
       ],
       "native": [
         "1d4e81d94c23b2c2"
@@ -13728,7 +14115,8 @@
         "1d4e81d94c23b2c2"
       ],
       "devops": [
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "cb214497609573a8"
       ],
       "choose": [
         "1d4e81d94c23b2c2"
@@ -13740,7 +14128,9 @@
         "1d4e81d94c23b2c2"
       ],
       "migration": [
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
       ],
       "compliant": [
         "1d4e81d94c23b2c2"
@@ -13826,7 +14216,9 @@
         "aa95eaa70b67371b"
       ],
       "todas": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "6cb9dd3ec0aa8739",
+        "c89318b0e0615d97"
       ],
       "automático": [
         "aa95eaa70b67371b"
@@ -13842,7 +14234,9 @@
       ],
       "pergunte": [
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "máquinas": [
         "aa95eaa70b67371b"
@@ -13888,11 +14282,14 @@
       ],
       "adicionar": [
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "59c1f7af031c6db5",
+        "cb214497609573a8"
       ],
       "alterar": [
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "servidores": [
         "aa95eaa70b67371b"
@@ -13901,31 +14298,43 @@
         "aa95eaa70b67371b"
       ],
       "criar": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "59c1f7af031c6db5"
       ],
       "sumário": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "modo": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "59c1f7af031c6db5",
+        "cb214497609573a8"
       ],
       "acesso": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "essa": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "exige": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "autorização": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "tentar": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "diretórios": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "comparar": [
         "4b178bdc59da544a"
@@ -13937,37 +14346,51 @@
         "4b178bdc59da544a"
       ],
       "editor": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "foco": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "inglês": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "66af99b6e8fa3152",
+        "cb214497609573a8"
       ],
       "plano": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "facebook": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "linkedin": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "copiar": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "markdown": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "imprimir": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "cb214497609573a8"
       ],
       "observação": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "59c1f7af031c6db5",
+        "cb214497609573a8"
       ],
       "comentários": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
       ],
       "este": [
         "4b178bdc59da544a",
@@ -13975,7 +14398,8 @@
         "06412b81f68bbfee"
       ],
       "artigo": [
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "66af99b6e8fa3152"
       ],
       "compara": [
         "4b178bdc59da544a"
@@ -13988,7 +14412,8 @@
       ],
       "javascript": [
         "1af3e9801063ed28",
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "0c698dccfe6ccd1c"
       ],
       "sitios": [
         "1af3e9801063ed28"
@@ -14152,13 +14577,850 @@
         "06412b81f68bbfee"
       ],
       "todos": [
-        "06412b81f68bbfee"
+        "06412b81f68bbfee",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
+      ],
+      "branch": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "c89318b0e0615d97"
+      ],
+      "pull": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "c89318b0e0615d97"
+      ],
+      "changes": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "branches": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "commit": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
+      ],
+      "remote": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "59c1f7af031c6db5"
+      ],
+      "work": [
+        "9d3eef28d73f90e5"
+      ],
+      "push": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "59c1f7af031c6db5"
+      ],
+      "request": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "create": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5"
+      ],
+      "main": [
+        "9d3eef28d73f90e5"
+      ],
+      "repository": [
+        "9d3eef28d73f90e5"
+      ],
+      "like": [
+        "9d3eef28d73f90e5",
+        "0c698dccfe6ccd1c"
+      ],
+      "commits": [
+        "9d3eef28d73f90e5",
+        "c89318b0e0615d97"
+      ],
+      "merge": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "working": [
+        "9d3eef28d73f90e5"
+      ],
+      "requests": [
+        "9d3eef28d73f90e5"
+      ],
+      "getting": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb"
+      ],
+      "open": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5"
+      ],
+      "local": [
+        "9d3eef28d73f90e5",
+        "c89318b0e0615d97"
+      ],
+      "file": [
+        "9d3eef28d73f90e5"
+      ],
+      "important": [
+        "9d3eef28d73f90e5"
+      ],
+      "developers": [
+        "9d3eef28d73f90e5"
+      ],
+      "name": [
+        "9d3eef28d73f90e5",
+        "08b5b3a969983ea5"
+      ],
+      "back": [
+        "9d3eef28d73f90e5",
+        "91e38248c22bb7fb",
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "time": [
+        "9d3eef28d73f90e5",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "means": [
+        "9d3eef28d73f90e5"
+      ],
+      "should": [
+        "9d3eef28d73f90e5"
+      ],
+      "many": [
+        "9d3eef28d73f90e5"
+      ],
+      "guides": [
+        "91e38248c22bb7fb"
+      ],
+      "init": [
+        "91e38248c22bb7fb"
+      ],
+      "clone": [
+        "91e38248c22bb7fb"
+      ],
+      "sign": [
+        "91e38248c22bb7fb"
+      ],
+      "advanced": [
+        "91e38248c22bb7fb"
+      ],
+      "commands": [
+        "91e38248c22bb7fb"
+      ],
+      "workflows": [
+        "91e38248c22bb7fb"
+      ],
+      "quick": [
+        "91e38248c22bb7fb"
+      ],
+      "links": [
+        "91e38248c22bb7fb"
+      ],
+      "written": [
+        "91e38248c22bb7fb"
+      ],
+      "speed": [
+        "91e38248c22bb7fb",
+        "0c698dccfe6ccd1c"
+      ],
+      "conflicts": [
+        "91e38248c22bb7fb"
+      ],
+      "cheap": [
+        "91e38248c22bb7fb"
+      ],
+      "ease": [
+        "91e38248c22bb7fb"
+      ],
+      "roll": [
+        "91e38248c22bb7fb"
+      ],
+      "basics": [
+        "91e38248c22bb7fb"
+      ],
+      "workflow": [
+        "91e38248c22bb7fb"
+      ],
+      "collaborate": [
+        "91e38248c22bb7fb"
+      ],
+      "controle": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97",
+        "cb214497609573a8"
+      ],
+      "alterações": [
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
+      ],
+      "histórico": [
+        "6cb9dd3ec0aa8739",
+        "c89318b0e0615d97"
+      ],
+      "aberto": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152"
+      ],
+      "sistemas": [
+        "6cb9dd3ec0aa8739",
+        "c89318b0e0615d97"
+      ],
+      "repositório": [
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
+      ],
+      "desempenho": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "versões": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047"
+      ],
+      "projeto": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5"
+      ],
+      "desenvolvedores": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "c89318b0e0615d97"
+      ],
+      "desenvolvimento": [
+        "6cb9dd3ec0aa8739",
+        "c89318b0e0615d97"
+      ],
+      "também": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "fonte": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "sistema": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "projetos": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047",
+        "59c1f7af031c6db5"
+      ],
+      "distribuído": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "alice": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "equipes": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "trabalho": [
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "c89318b0e0615d97"
+      ],
+      "projetado": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "flexibilidade": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "diferente": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "isso": [
+        "6cb9dd3ec0aa8739",
+        "59c1f7af031c6db5",
+        "66af99b6e8fa3152",
+        "cb214497609573a8"
+      ],
+      "usuários": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "disso": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047"
+      ],
+      "incluindo": [
+        "6cb9dd3ec0aa8739",
+        "111b3fbd6b950047"
+      ],
+      "exemplo": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "dvcs": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "apenas": [
+        "6cb9dd3ec0aa8739"
+      ],
+      "desenvolvedor": [
+        "6cb9dd3ec0aa8739",
+        "c89318b0e0615d97"
+      ],
+      "atlassian": [
+        "111b3fbd6b950047"
+      ],
+      "moderno": [
+        "111b3fbd6b950047"
+      ],
+      "usado": [
+        "111b3fbd6b950047"
+      ],
+      "hoje": [
+        "111b3fbd6b950047"
+      ],
+      "sólido": [
+        "111b3fbd6b950047"
+      ],
+      "atualização": [
+        "111b3fbd6b950047"
+      ],
+      "constante": [
+        "111b3fbd6b950047"
+      ],
+      "desenvolvido": [
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "2005": [
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "linus": [
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "torvalds": [
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "famoso": [
+        "111b3fbd6b950047"
+      ],
+      "criador": [
+        "111b3fbd6b950047"
+      ],
+      "kernel": [
+        "111b3fbd6b950047",
+        "66af99b6e8fa3152"
+      ],
+      "operacional": [
+        "111b3fbd6b950047"
+      ],
+      "impressionante": [
+        "111b3fbd6b950047"
+      ],
+      "comerciais": [
+        "111b3fbd6b950047"
+      ],
+      "trabalharam": [
+        "111b3fbd6b950047"
+      ],
+      "estão": [
+        "111b3fbd6b950047"
+      ],
+      "representados": [
+        "111b3fbd6b950047"
+      ],
+      "pool": [
+        "111b3fbd6b950047"
+      ],
+      "talentos": [
+        "111b3fbd6b950047"
+      ],
+      "disponíveis": [
+        "111b3fbd6b950047"
+      ],
+      "desen": [
+        "111b3fbd6b950047"
+      ],
+      "nosso": [
+        "59c1f7af031c6db5"
+      ],
+      "comando": [
+        "59c1f7af031c6db5"
+      ],
+      "nome": [
+        "59c1f7af031c6db5"
+      ],
+      "podemos": [
+        "59c1f7af031c6db5"
+      ],
+      "seguinte": [
+        "59c1f7af031c6db5"
+      ],
+      "esse": [
+        "59c1f7af031c6db5"
+      ],
+      "terminal": [
+        "59c1f7af031c6db5"
+      ],
+      "precisamos": [
+        "59c1f7af031c6db5"
+      ],
+      "endereço": [
+        "59c1f7af031c6db5"
+      ],
+      "origin": [
+        "59c1f7af031c6db5"
+      ],
+      "diretório": [
+        "59c1f7af031c6db5"
+      ],
+      "crie": [
+        "59c1f7af031c6db5"
+      ],
+      "temos": [
+        "59c1f7af031c6db5"
+      ],
+      "verificar": [
+        "59c1f7af031c6db5"
+      ],
+      "guia": [
+        "66af99b6e8fa3152"
+      ],
+      "iniciante": [
+        "66af99b6e8fa3152"
+      ],
+      "tradutor": [
+        "66af99b6e8fa3152"
+      ],
+      "daniel": [
+        "66af99b6e8fa3152"
+      ],
+      "rosa": [
+        "66af99b6e8fa3152"
+      ],
+      "autor": [
+        "66af99b6e8fa3152"
+      ],
+      "freecodecamp": [
+        "66af99b6e8fa3152"
+      ],
+      "original": [
+        "66af99b6e8fa3152"
+      ],
+      "beginner": [
+        "66af99b6e8fa3152"
+      ],
+      "escrito": [
+        "66af99b6e8fa3152"
+      ],
+      "thanoshan": [
+        "66af99b6e8fa3152"
+      ],
+      "gratuito": [
+        "66af99b6e8fa3152"
+      ],
+      "criado": [
+        "66af99b6e8fa3152"
+      ],
+      "ferramenta": [
+        "66af99b6e8fa3152"
+      ],
+      "inicialmente": [
+        "66af99b6e8fa3152"
+      ],
+      "trabalhar": [
+        "66af99b6e8fa3152"
+      ],
+      "basicamente": [
+        "66af99b6e8fa3152"
+      ],
+      "significa": [
+        "66af99b6e8fa3152"
+      ],
+      "rastreador": [
+        "66af99b6e8fa3152"
+      ],
+      "então": [
+        "66af99b6e8fa3152",
+        "cb214497609573a8"
+      ],
+      "equipe": [
+        "c89318b0e0615d97"
+      ],
+      "confirmação": [
+        "c89318b0e0615d97"
+      ],
+      "ferramentas": [
+        "c89318b0e0615d97"
+      ],
+      "suporte": [
+        "c89318b0e0615d97"
+      ],
+      "principal": [
+        "c89318b0e0615d97"
+      ],
+      "confirmações": [
+        "c89318b0e0615d97"
+      ],
+      "ramificações": [
+        "c89318b0e0615d97"
+      ],
+      "podem": [
+        "c89318b0e0615d97"
+      ],
+      "políticas": [
+        "c89318b0e0615d97"
+      ],
+      "solicitações": [
+        "c89318b0e0615d97"
+      ],
+      "cópia": [
+        "c89318b0e0615d97"
+      ],
+      "antes": [
+        "c89318b0e0615d97"
+      ],
+      "popularidade": [
+        "c89318b0e0615d97"
+      ],
+      "comunidade": [
+        "c89318b0e0615d97"
+      ],
+      "ajuda": [
+        "c89318b0e0615d97"
+      ],
+      "outros": [
+        "c89318b0e0615d97"
+      ],
+      "tornou": [
+        "cb214497609573a8"
+      ],
+      "padrão": [
+        "cb214497609573a8"
+      ],
+      "mundial": [
+        "cb214497609573a8"
+      ],
+      "exatamente": [
+        "cb214497609573a8"
+      ],
+      "mimo": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "select": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "orders": [
+        "08b5b3a969983ea5"
+      ],
+      "users": [
+        "08b5b3a969983ea5"
+      ],
+      "where": [
+        "08b5b3a969983ea5"
+      ],
+      "join": [
+        "08b5b3a969983ea5"
+      ],
+      "user_id": [
+        "08b5b3a969983ea5"
+      ],
+      "indexes": [
+        "08b5b3a969983ea5"
+      ],
+      "before": [
+        "08b5b3a969983ea5"
+      ],
+      "filter": [
+        "08b5b3a969983ea5"
+      ],
+      "joins": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "step": [
+        "08b5b3a969983ea5"
+      ],
+      "queries": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "explain": [
+        "08b5b3a969983ea5"
+      ],
+      "columns": [
+        "08b5b3a969983ea5"
+      ],
+      "created_at": [
+        "08b5b3a969983ea5"
+      ],
+      "example": [
+        "08b5b3a969983ea5"
+      ],
+      "rows": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "query": [
+        "08b5b3a969983ea5",
+        "d21e1b2bed9eebaa"
+      ],
+      "slow": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "approach": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "large": [
+        "08b5b3a969983ea5"
+      ],
+      "measure": [
+        "08b5b3a969983ea5"
+      ],
+      "scan": [
+        "08b5b3a969983ea5"
+      ],
+      "after": [
+        "08b5b3a969983ea5"
+      ],
+      "completed": [
+        "08b5b3a969983ea5"
+      ],
+      "optimize": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "performance": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "aggregation": [
+        "08b5b3a969983ea5",
+        "0c698dccfe6ccd1c"
+      ],
+      "coding": [
+        "0c698dccfe6ccd1c"
+      ],
+      "tutorials": [
+        "0c698dccfe6ccd1c"
+      ],
+      "python": [
+        "0c698dccfe6ccd1c"
+      ],
+      "swift": [
+        "0c698dccfe6ccd1c"
+      ],
+      "typescript": [
+        "0c698dccfe6ccd1c"
+      ],
+      "react": [
+        "0c698dccfe6ccd1c"
+      ],
+      "works": [
+        "0c698dccfe6ccd1c"
+      ],
+      "build": [
+        "0c698dccfe6ccd1c",
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "solve": [
+        "0c698dccfe6ccd1c"
+      ],
+      "measuring": [
+        "0c698dccfe6ccd1c"
+      ],
+      "improving": [
+        "0c698dccfe6ccd1c"
+      ],
+      "usage": [
+        "0c698dccfe6ccd1c"
+      ],
+      "reducing": [
+        "0c698dccfe6ccd1c"
+      ],
+      "scanned": [
+        "0c698dccfe6ccd1c"
+      ],
+      "simplifying": [
+        "0c698dccfe6ccd1c"
+      ],
+      "costly": [
+        "0c698dccfe6ccd1c"
+      ],
+      "operations": [
+        "0c698dccfe6ccd1c"
+      ],
+      "career": [
+        "0c698dccfe6ccd1c"
+      ],
+      "path": [
+        "0c698dccfe6ccd1c"
+      ],
+      "become": [
+        "0c698dccfe6ccd1c"
+      ],
+      "devel": [
+        "0c698dccfe6ccd1c"
+      ],
+      "tools": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "monitoring": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "backups": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "management": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "modeling": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "studio": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "monitor": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "idera": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "webyog": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "mysql": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "real": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "aqua": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "multifunction": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "assist": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "metadata": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "governance": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "wherescape": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "automation": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "manage": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "warehouses": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "intelligence": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "bittitan": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "simplify": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "migrations": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "migrationwiz": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "perspectium": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "servicenow": [
+        "d44db2d70aa038be",
+        "d21e1b2bed9eebaa"
+      ],
+      "replication": [
+        "d44db2d70aa038be"
+      ],
+      "archiving": [
+        "d44db2d70aa038be"
+      ],
+      "yellowfin": [
+        "d44db2d70aa038be"
+      ],
+      "embedded": [
+        "d44db2d70aa038be"
+      ],
+      "dashboards": [
+        "d44db2d70aa038be"
+      ],
+      "drive": [
+        "d44db2d70aa038be"
+      ],
+      "insight": [
+        "d44db2d70aa038be"
+      ],
+      "proven": [
+        "d21e1b2bed9eebaa"
+      ],
+      "techniques": [
+        "d21e1b2bed9eebaa"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 17,
-    "paginas_falhas": 43,
-    "total_caracteres": 86490
+    "paginas_baixadas": 23,
+    "paginas_falhas": 44,
+    "total_caracteres": 136589
   }
 }
