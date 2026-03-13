@@ -359,5 +359,65 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "5dab6ffacc16817f",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'transformers processamento linguagem'. Estrutura conceitual com 75 nos e 1167 conexoes. Nucleo: about, more, deadly, ruthlessness, lack, evil, nemesis.",
+    "criado": "2026-03-13T13:52:45.464512",
+    "modificado": "2026-03-13T13:52:45.464512",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "arquivo": "transformers_processamento_lin_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "f1fd6383699558ec",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'machine learning nao supervisionado'. Estrutura conceitual com 73 nos e 853 conexoes. Nucleo: dias, gosta, Temos, vaga, você, equipe, suspeitas.",
+    "criado": "2026-03-13T13:53:05.406361",
+    "modificado": "2026-03-13T13:53:05.406361",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "arquivo": "machine_learning_nao_supervisi_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "40b6ac002e365bd5",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'aprendizado transferencia transfer learning'. Estrutura conceitual com 33 nos e 667 conexoes. Nucleo: aluno, intencional, externos, participa, professor, contexto, necessitando.",
+    "criado": "2026-03-13T13:53:27.566128",
+    "modificado": "2026-03-13T13:53:27.566128",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "arquivo": "aprendizado_transferencia_tran_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
