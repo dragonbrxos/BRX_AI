@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 8,
+    "ciclos": 9,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 29434
+    "caracteres_aprendidos": 32209
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9244,6 +9244,28 @@
       "criado": "2026-03-13T14:22:36.476670",
       "acessos": 1,
       "conexoes": []
+    },
+    "3ba7175038ddccc0": {
+      "conteudo": "1 赞同 一、Docker是什么？ Docker是一个开源的应用容器引擎，它基于go语言开发，并遵从Apache2.0开源协议。使用Docker可以让开发者封装他们的应用以及依赖包到一个可移植的容器中，然后发布到任意的 Linux 机器上运行。Docker 的核心思想打包装箱，每个箱子是互相隔离的，互不影响。 二、Docker 历史 2010 年，几个搞 IT 的年轻人，在美国旧金山成立了一家名叫 dotCloud 的公司。dotCloud 的平台即服务（Platform-as-a-Service, PaaS）提供商。dotCloud 平台底层利用了 Linux 的 LXC 容器技术。 什么是LXC？ LXC 是 Docker 的底层基石，但是在 Docker 0.9 版本的时候，Docker引入了基于 Go 语言构建的 Libcontainer 的 execution driver。有了 Libcontainer 这个项目，Docker 不再需要依赖于 Linux 部件（LXC，libvirt，systemd-nspawn...）就可以处理 namespaces、control groups、capabilities、apparmor profiles、network interfaces。LXC 逐渐沦为可选项。 后来为了方便创建和管理这些容器，dotCloud 基于 Google 公司推出的 Go 语言开发了一套内部工具，之后被命名为 Docker。Docker 就是这样诞生的。 Docker 1.8 版本 中 LXC 被 弃用，在Docker 1.10版本LXC 彻底离开Docker。Docker 官方推出的Libcontainer 集成了 Linux 内核中的很多特性，成为一个独立、稳定且不受制于 Linux 的 Library。 2013 年 3 月，dotCloud 公司的创始人之一28 岁的Solomon Hykes正式决定，将 Docker 项目开源。 开源当月发布了 Docker 0.1 版本。此后的每一个月， Docker 都会发布一个迭代版本。到 2014 年 6 月 9 日， Docker 1.0 版本正式发布了。 这个时候的 Docker已经成为行业里人气最火的开源技术、。Google、微软、Amazon、 VMware 这样的互联网巨头们都对它青睐有加，表示将全力支持。Docker 火了之后， dotCloud 公司干脆把公司名字也改成了 Docker Inc. 。 三、为什么选择 Docker 3.1 更高效的利用系统资源 由于容器不需要进行硬件虚拟以及运行完整操作系统等额外的开销，Docker 对系统资源的利用率比虚拟机更高。无论是应用执行速度、内存损耗或者文件存储，都要比传统虚拟机技术更高效。 3.2 更快速的启动时间 传统的虚拟机技术启动应用服务往往需要好几分钟， Docker 容器应用，由于直接运行于宿主内核，无需启动完整的操作系统，可以达到秒级、甚至毫秒级的启动时间。大大的节约了项目部署的时间。 3.3 保证一致的项目运行环境 开发过程中一个非常常见的问题是本地环境、测试环境、生产环境不一致。经常能碰到开发、测试环境运行正常而到了生产环境出现莫名其秒的问题。而 Docker 的镜像提供了除内核外完整的项目运行环境，确保了应用运行环境一致性，从而避免了因为开发环境不一致造成的部署问题。 3.4 持续交付和部署 对开发和运维（DevOps）人员来说，最理想的就是一次创建或配置，可以在任意服务器上正常运行。 使用 Docker 可以通过定制应用镜像来实现持续集成、持续交付、部署。开发人员可以通过 Dockerfile 来进行镜像构建，并结合持续集成（Continuous Integration）系统进行集成测试，而运维人员则可以直接在生产环境中快速部署该镜像，甚至结合持续部署（Continuous Delivery/Deployment）系统进行自动化部署。 而且使用 Dockerfile 使镜像构建透明化，不仅仅开发团队可以理解应用运行环境，也方便运维团队理解应用运行所需条件，帮助更好的在生产环境中部署该镜像。 3.5 更轻松的服务迁移 由于 Docker 确保了运行环境的一致性，使得应用的迁移更加容易。Docker 可以在很多平台上运行，无论是物理机、虚拟机、公有云、私有云，甚至是笔记本，其运行结果是一致的。因此用户可以很轻易地将在一个平台上运行的应用，迁移到另一个平台上，而不用担心运行环境的变化导致应用无法正常运行的情况。 3.6 更轻松的维护和扩展 Docker 使用的分层存储以及镜像的技术，使得应用重复部分的复用更为容易，也使得应用的维护更新更加简单，基于基础镜像进一步扩展镜像也变得非常简单。此外，Docker 团队同各个开源项目团队一起维护了一大批高质量的 官方镜像，既可以直接在生产环境使用，又可以作为基础进一步定制，大大降低了应用服务的镜像制作成本。 四、容器与虚拟机的比较 Docker 和传统虚拟化方式的不同，容器是在操作系统层面上实现虚拟化，直接复用本地主机的操作系统，而传统方式则是在硬件层面实现。 与传统的虚拟机相比，Docker 优势体现为启动速度快、占用体积小。 编辑于 2022-07-15 · 著作权归作者所有",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://www.zhihu.com/tardis/bd/art/541347187"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:22:53.862783",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "e00a2380f9e7254a": {
+      "conteudo": "TITULO: Docker基础：Docker是什么，为什么这么火？\nCONTEUDO: 1 赞同 一、Docker是什么？ Docker是一个开源的应用容器引擎，它基于go语言开发，并遵从Apache2.0开源协议。使用Docker可以让开发者封装他们的应用以及依赖包到一个可移植的容器中，然后发布到任意的 Linux 机器上运行。Docker 的核心思想打包装箱，每个箱子是互相隔离的，互不影响。 二、Docker 历史 2010 年，几个搞 IT 的年轻人，在美国旧金山成立了一家名叫 dotCloud 的公司。dotCloud 的平台即服务（Platform-as-a-Service, PaaS）提供商。dotCloud 平台底层利用了 Linux 的 LXC 容器技术。 什么是LXC？ LXC 是 Docker 的底层基石，但是在 Docker 0.9 版本的时候，Docker引入了基于 Go 语言构建的 Libcontainer 的 execution driver。有了 Libcontainer 这个项目，Docker 不再需要依赖于 Linux 部件（LXC，libvirt，systemd-nspawn...）就可以处理 namespaces、control gr...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.zhihu.com/tardis/bd/art/541347187"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:22:53.863328",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9270,6 +9292,12 @@
       "texto_completo": "Go to cloudstorage r/cloudstorage CookieDelivery I made a massive cloud storage comparison table! Feature & price comparison for 25+ cloud storage providers. I started creating this comparison table as I was researching this topic. It snowballed from there, and I think I've spent over 100 hours on this in total by now. The table contains 27 cloud storage providers, and compares every provider on the availability of basically any possible feature, as well as price for different amounts of storage space, customer review scores, and more. This way you can easily compare and find the best cloud storage provider for your use case. For every available feature, I've also included a link to more information, so you can see how it's implemented or can be used per storage provider. You can view it here: https://comparisontabl.es/cloud-storage/ If you've got any feedback, let me know! It's definitely possible I've missed something, or got something wrong. While I've tried/tested out the free version of every provider I've put in the comparison table, that only amounts to surface level experience with most of the mentioned services, whereas some of you might have been using a specific services for years. So if you spot an error, let me know. Also, if you're missing any providers or features from the list, let me know, and I'll see if I can add them. Thanks for checking it out, hope it's useful! Edit: just added a column for 'Unlimited' plans (make sure to read the notes to see the limitations), as well as an entire section for all lifetime cloud storage plans/deals that I could find. Read more Share",
       "data_acesso": "2026-03-13T14:22:36.476208",
       "tamanho": 1614
+    },
+    "https://www.zhihu.com/tardis/bd/art/541347187": {
+      "titulo": "Docker基础：Docker是什么，为什么这么火？",
+      "texto_completo": "1 赞同 一、Docker是什么？ Docker是一个开源的应用容器引擎，它基于go语言开发，并遵从Apache2.0开源协议。使用Docker可以让开发者封装他们的应用以及依赖包到一个可移植的容器中，然后发布到任意的 Linux 机器上运行。Docker 的核心思想打包装箱，每个箱子是互相隔离的，互不影响。 二、Docker 历史 2010 年，几个搞 IT 的年轻人，在美国旧金山成立了一家名叫 dotCloud 的公司。dotCloud 的平台即服务（Platform-as-a-Service, PaaS）提供商。dotCloud 平台底层利用了 Linux 的 LXC 容器技术。 什么是LXC？ LXC 是 Docker 的底层基石，但是在 Docker 0.9 版本的时候，Docker引入了基于 Go 语言构建的 Libcontainer 的 execution driver。有了 Libcontainer 这个项目，Docker 不再需要依赖于 Linux 部件（LXC，libvirt，systemd-nspawn...）就可以处理 namespaces、control groups、capabilities、apparmor profiles、network interfaces。LXC 逐渐沦为可选项。 后来为了方便创建和管理这些容器，dotCloud 基于 Google 公司推出的 Go 语言开发了一套内部工具，之后被命名为 Docker。Docker 就是这样诞生的。 Docker 1.8 版本 中 LXC 被 弃用，在Docker 1.10版本LXC 彻底离开Docker。Docker 官方推出的Libcontainer 集成了 Linux 内核中的很多特性，成为一个独立、稳定且不受制于 Linux 的 Library。 2013 年 3 月，dotCloud 公司的创始人之一28 岁的Solomon Hykes正式决定，将 Docker 项目开源。 开源当月发布了 Docker 0.1 版本。此后的每一个月， Docker 都会发布一个迭代版本。到 2014 年 6 月 9 日， Docker 1.0 版本正式发布了。 这个时候的 Docker已经成为行业里人气最火的开源技术、。Google、微软、Amazon、 VMware 这样的互联网巨头们都对它青睐有加，表示将全力支持。Docker 火了之后， dotCloud 公司干脆把公司名字也改成了 Docker Inc. 。 三、为什么选择 Docker 3.1 更高效的利用系统资源 由于容器不需要进行硬件虚拟以及运行完整操作系统等额外的开销，Docker 对系统资源的利用率比虚拟机更高。无论是应用执行速度、内存损耗或者文件存储，都要比传统虚拟机技术更高效。 3.2 更快速的启动时间 传统的虚拟机技术启动应用服务往往需要好几分钟， Docker 容器应用，由于直接运行于宿主内核，无需启动完整的操作系统，可以达到秒级、甚至毫秒级的启动时间。大大的节约了项目部署的时间。 3.3 保证一致的项目运行环境 开发过程中一个非常常见的问题是本地环境、测试环境、生产环境不一致。经常能碰到开发、测试环境运行正常而到了生产环境出现莫名其秒的问题。而 Docker 的镜像提供了除内核外完整的项目运行环境，确保了应用运行环境一致性，从而避免了因为开发环境不一致造成的部署问题。 3.4 持续交付和部署 对开发和运维（DevOps）人员来说，最理想的就是一次创建或配置，可以在任意服务器上正常运行。 使用 Docker 可以通过定制应用镜像来实现持续集成、持续交付、部署。开发人员可以通过 Dockerfile 来进行镜像构建，并结合持续集成（Continuous Integration）系统进行集成测试，而运维人员则可以直接在生产环境中快速部署该镜像，甚至结合持续部署（Continuous Delivery/Deployment）系统进行自动化部署。 而且使用 Dockerfile 使镜像构建透明化，不仅仅开发团队可以理解应用运行环境，也方便运维团队理解应用运行所需条件，帮助更好的在生产环境中部署该镜像。 3.5 更轻松的服务迁移 由于 Docker 确保了运行环境的一致性，使得应用的迁移更加容易。Docker 可以在很多平台上运行，无论是物理机、虚拟机、公有云、私有云，甚至是笔记本，其运行结果是一致的。因此用户可以很轻易地将在一个平台上运行的应用，迁移到另一个平台上，而不用担心运行环境的变化导致应用无法正常运行的情况。 3.6 更轻松的维护和扩展 Docker 使用的分层存储以及镜像的技术，使得应用重复部分的复用更为容易，也使得应用的维护更新更加简单，基于基础镜像进一步扩展镜像也变得非常简单。此外，Docker 团队同各个开源项目团队一起维护了一大批高质量的 官方镜像，既可以直接在生产环境使用，又可以作为基础进一步定制，大大降低了应用服务的镜像制作成本。 四、容器与虚拟机的比较 Docker 和传统虚拟化方式的不同，容器是在操作系统层面上实现虚拟化，直接复用本地主机的操作系统，而传统方式则是在硬件层面实现。 与传统的虚拟机相比，Docker 优势体现为启动速度快、占用体积小。 编辑于 2022-07-15 · 著作权归作者所有",
+      "data_acesso": "2026-03-13T14:22:53.861833",
+      "tamanho": 2227
     }
   },
   "indices": {
@@ -9712,7 +9740,11 @@
         "869ef110cbcdc27e",
         "7a07f2ff806d1129",
         "17ce6e361a1d01ee",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "e00a2380f9e7254a"
+      ],
+      "exemplo_numerico": [
+        "3ba7175038ddccc0"
       ]
     },
     "por_fonte": {
@@ -10273,6 +10305,10 @@
       "https://www.reddit.com/r/cloudstorage/comments/1ajmvcd/i_made_a_massive_cloud_storage_comparison_table/": [
         "b8f86559bf96fa79",
         "50d89ae937544a7e"
+      ],
+      "https://www.zhihu.com/tardis/bd/art/541347187": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
       ]
     },
     "por_palavra": {
@@ -10473,7 +10509,8 @@
         "869ef110cbcdc27e",
         "7a07f2ff806d1129",
         "17ce6e361a1d01ee",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "e00a2380f9e7254a"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -10484,7 +10521,8 @@
         "869ef110cbcdc27e",
         "7a07f2ff806d1129",
         "17ce6e361a1d01ee",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "e00a2380f9e7254a"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -10694,7 +10732,8 @@
         "fe0a23e029896722"
       ],
       "network": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "3ba7175038ddccc0"
       ],
       "critical": [
         "fe0a23e029896722"
@@ -10924,7 +10963,8 @@
       ],
       "google": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "3ba7175038ddccc0"
       ],
       "spreadsheets": [
         "581c8fb845bd6d65",
@@ -11065,12 +11105,201 @@
       ],
       "compare": [
         "b8f86559bf96fa79"
+      ],
+      "docker": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "dotcloud": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "linux": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "libcontainer": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "dockerfile": [
+        "3ba7175038ddccc0"
+      ],
+      "continuous": [
+        "3ba7175038ddccc0"
+      ],
+      "docker是什么": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "docker是一个开源的应用容器引擎": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "它基于go语言开发": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "并遵从apache2": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "0开源协议": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "使用docker可以让开发者封装他们的应用以及依赖包到一个可移植的容器中": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "然后发布到任意的": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "机器上运行": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "的核心思想打包装箱": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "每个箱子是互相隔离的": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "互不影响": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "2010": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "的年轻人": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "在美国旧金山成立了一家名叫": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "的平台即服务": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "platform": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "service": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "paas": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "平台底层利用了": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "容器技术": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "什么是lxc": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "的底层基石": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "版本的时候": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "docker引入了基于": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "语言构建的": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "execution": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "driver": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "这个项目": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "不再需要依赖于": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "libvirt": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "systemd": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "nspawn": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "就可以处理": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "namespaces": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "control": [
+        "3ba7175038ddccc0",
+        "e00a2380f9e7254a"
+      ],
+      "groups": [
+        "3ba7175038ddccc0"
+      ],
+      "capabilities": [
+        "3ba7175038ddccc0"
+      ],
+      "apparmor": [
+        "3ba7175038ddccc0"
+      ],
+      "profiles": [
+        "3ba7175038ddccc0"
+      ],
+      "interfaces": [
+        "3ba7175038ddccc0"
+      ],
+      "逐渐沦为可选项": [
+        "3ba7175038ddccc0"
+      ],
+      "后来为了方便创建和管理这些容器": [
+        "3ba7175038ddccc0"
+      ],
+      "docker基础": [
+        "e00a2380f9e7254a"
+      ],
+      "为什么这么火": [
+        "e00a2380f9e7254a"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 4,
-    "paginas_falhas": 5,
-    "total_caracteres": 27206
+    "paginas_baixadas": 5,
+    "paginas_falhas": 12,
+    "total_caracteres": 29433
   }
 }
