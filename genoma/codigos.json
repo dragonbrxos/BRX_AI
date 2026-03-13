@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c8e1b7a154b22c18",
+    "tipo": "codigo",
+    "conteudo": "Modulo generico: visao computacional desafios limitacoes",
+    "criado": "2026-03-13T13:41:27.894453",
+    "modificado": "2026-03-13T13:41:27.894453",
+    "conexoes": [
+      {
+        "para": "3bb4d8bab4b46504",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional desafios limitacoes",
+      "arquivo": "modulo_cf3e1d_generico.py",
+      "tipo": "generico",
+      "linhas": 28
+    },
+    "origem": "3bb4d8bab4b46504",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  }
+]
