@@ -10247,8 +10247,1370 @@
       "para": "689058b23ab694ed6cb2",
       "tipo": "mesma_pagina",
       "peso": 0.8
+    },
+    {
+      "de": "20b3143b92b3749f9c69",
+      "para": "b1f42bbc179264a87b5c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "20b3143b92b3749f9c69",
+      "para": "b4bf5d705a70546525a2",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b1f42bbc179264a87b5c",
+      "para": "b4bf5d705a70546525a2",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b1f42bbc179264a87b5c",
+      "para": "2b9469f50be214c11459",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b4bf5d705a70546525a2",
+      "para": "2b9469f50be214c11459",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b4bf5d705a70546525a2",
+      "para": "917d6b92452652ebb79c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2b9469f50be214c11459",
+      "para": "917d6b92452652ebb79c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2b9469f50be214c11459",
+      "para": "bac090be14b435f759ee",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "917d6b92452652ebb79c",
+      "para": "bac090be14b435f759ee",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "917d6b92452652ebb79c",
+      "para": "cb4585af83cc000d05c4",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bac090be14b435f759ee",
+      "para": "cb4585af83cc000d05c4",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bac090be14b435f759ee",
+      "para": "6e9a22f57835174a527b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "cb4585af83cc000d05c4",
+      "para": "6e9a22f57835174a527b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "cb4585af83cc000d05c4",
+      "para": "bdd4fbecaf0a5c6ab5fc",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6e9a22f57835174a527b",
+      "para": "bdd4fbecaf0a5c6ab5fc",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6e9a22f57835174a527b",
+      "para": "b81a8a974f130f71f0c2",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bdd4fbecaf0a5c6ab5fc",
+      "para": "b81a8a974f130f71f0c2",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bdd4fbecaf0a5c6ab5fc",
+      "para": "b05c334a1796f9b3c12c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b81a8a974f130f71f0c2",
+      "para": "b05c334a1796f9b3c12c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b81a8a974f130f71f0c2",
+      "para": "f1cee959f4a6f2277b6e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b05c334a1796f9b3c12c",
+      "para": "f1cee959f4a6f2277b6e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b05c334a1796f9b3c12c",
+      "para": "50c2efa135202ea071d6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f1cee959f4a6f2277b6e",
+      "para": "50c2efa135202ea071d6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f1cee959f4a6f2277b6e",
+      "para": "2b0d152d96b713e29e8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "50c2efa135202ea071d6",
+      "para": "2b0d152d96b713e29e8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "50c2efa135202ea071d6",
+      "para": "682433c8f3b98568c80d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2b0d152d96b713e29e8e",
+      "para": "682433c8f3b98568c80d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2b0d152d96b713e29e8e",
+      "para": "399c3bfaf9bcb66e7131",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "682433c8f3b98568c80d",
+      "para": "399c3bfaf9bcb66e7131",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "682433c8f3b98568c80d",
+      "para": "c567afd58276729b564c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "399c3bfaf9bcb66e7131",
+      "para": "c567afd58276729b564c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "399c3bfaf9bcb66e7131",
+      "para": "aa0ab7b1db4e35e96e8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c567afd58276729b564c",
+      "para": "aa0ab7b1db4e35e96e8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c567afd58276729b564c",
+      "para": "d3e147ac81f9a1aa98b1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "aa0ab7b1db4e35e96e8e",
+      "para": "d3e147ac81f9a1aa98b1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "aa0ab7b1db4e35e96e8e",
+      "para": "034a2dbce2eb3123116d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d3e147ac81f9a1aa98b1",
+      "para": "034a2dbce2eb3123116d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d3e147ac81f9a1aa98b1",
+      "para": "c299b1a959c251cdd6b7",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "034a2dbce2eb3123116d",
+      "para": "c299b1a959c251cdd6b7",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "034a2dbce2eb3123116d",
+      "para": "a9db81ad4b5ef507aa88",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c299b1a959c251cdd6b7",
+      "para": "a9db81ad4b5ef507aa88",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c299b1a959c251cdd6b7",
+      "para": "b9407ec57cbb686625a9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a9db81ad4b5ef507aa88",
+      "para": "b9407ec57cbb686625a9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a9db81ad4b5ef507aa88",
+      "para": "b0bc8e6464edc3691b27",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b9407ec57cbb686625a9",
+      "para": "b0bc8e6464edc3691b27",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b9407ec57cbb686625a9",
+      "para": "47166dba31f484564770",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b0bc8e6464edc3691b27",
+      "para": "47166dba31f484564770",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1cde3070d9a32e6f6c57",
+      "para": "5500b7d00e268270b695",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1cde3070d9a32e6f6c57",
+      "para": "31d5a530e3bf110477f8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5500b7d00e268270b695",
+      "para": "31d5a530e3bf110477f8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "980e7ef2e908de0e9189",
+      "para": "a6a121f2a8ad476a93fc",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "980e7ef2e908de0e9189",
+      "para": "467c99345a7ec9964040",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a6a121f2a8ad476a93fc",
+      "para": "467c99345a7ec9964040",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a6a121f2a8ad476a93fc",
+      "para": "cc80cf414b45fcb7c9a9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "467c99345a7ec9964040",
+      "para": "cc80cf414b45fcb7c9a9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "467c99345a7ec9964040",
+      "para": "14d5483041fd6228607d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "cc80cf414b45fcb7c9a9",
+      "para": "14d5483041fd6228607d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bac0c07701afecbfbe83",
+      "para": "dd1ff4fac7037469cb76",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bac0c07701afecbfbe83",
+      "para": "db9680674e6946520267",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "dd1ff4fac7037469cb76",
+      "para": "db9680674e6946520267",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "dd1ff4fac7037469cb76",
+      "para": "9d4ebdb1ef0789f57f64",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "db9680674e6946520267",
+      "para": "9d4ebdb1ef0789f57f64",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "67e5c439a7e3aae1cf75",
+      "para": "9386c7e2c252e365700e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "67e5c439a7e3aae1cf75",
+      "para": "d94386a979bc0ae34b26",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9386c7e2c252e365700e",
+      "para": "d94386a979bc0ae34b26",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9386c7e2c252e365700e",
+      "para": "34a802a4063a4641811f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d94386a979bc0ae34b26",
+      "para": "34a802a4063a4641811f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d94386a979bc0ae34b26",
+      "para": "2031062681cb92a6d291",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "34a802a4063a4641811f",
+      "para": "2031062681cb92a6d291",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "34a802a4063a4641811f",
+      "para": "fb0c3a765ecb87301ea5",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2031062681cb92a6d291",
+      "para": "fb0c3a765ecb87301ea5",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2031062681cb92a6d291",
+      "para": "6f8217ee7feebc401ce1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fb0c3a765ecb87301ea5",
+      "para": "6f8217ee7feebc401ce1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "de3bd4aa4485de434df8",
+      "para": "a25bfa5dc1e45a0ec46e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "288cfe9d5f02cd4b3310",
+      "para": "1bc3ae9b10ccfc8dad5a",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "288cfe9d5f02cd4b3310",
+      "para": "e52c033243127358b95b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1bc3ae9b10ccfc8dad5a",
+      "para": "e52c033243127358b95b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3984c61ecdf42ef86051",
+      "para": "8388a27f54c89e796843",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3984c61ecdf42ef86051",
+      "para": "a387e772d66097e7d23b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8388a27f54c89e796843",
+      "para": "a387e772d66097e7d23b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8388a27f54c89e796843",
+      "para": "4b40f920628971f67832",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a387e772d66097e7d23b",
+      "para": "4b40f920628971f67832",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a387e772d66097e7d23b",
+      "para": "3db92244097c324a8f3c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "4b40f920628971f67832",
+      "para": "3db92244097c324a8f3c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "4b40f920628971f67832",
+      "para": "90a1360c61edcb86e641",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3db92244097c324a8f3c",
+      "para": "90a1360c61edcb86e641",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3db92244097c324a8f3c",
+      "para": "0223eab87c67620b2329",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "90a1360c61edcb86e641",
+      "para": "0223eab87c67620b2329",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "90a1360c61edcb86e641",
+      "para": "ffd4e107b664759e0ff9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0223eab87c67620b2329",
+      "para": "ffd4e107b664759e0ff9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0223eab87c67620b2329",
+      "para": "6f7cd4df43d1b61d8a13",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ffd4e107b664759e0ff9",
+      "para": "6f7cd4df43d1b61d8a13",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ffd4e107b664759e0ff9",
+      "para": "28194039387b7d85b6a5",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6f7cd4df43d1b61d8a13",
+      "para": "28194039387b7d85b6a5",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6f7cd4df43d1b61d8a13",
+      "para": "1bdd22821316478af5c6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "28194039387b7d85b6a5",
+      "para": "1bdd22821316478af5c6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "28194039387b7d85b6a5",
+      "para": "c34d3d56d3784e4ccf71",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1bdd22821316478af5c6",
+      "para": "c34d3d56d3784e4ccf71",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1bdd22821316478af5c6",
+      "para": "81a47391a15867832dbe",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c34d3d56d3784e4ccf71",
+      "para": "81a47391a15867832dbe",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "074a2f832650173fe125",
+      "para": "1d529e5106986c63b333",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "074a2f832650173fe125",
+      "para": "fc7937f4c870bdbfcb7e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1d529e5106986c63b333",
+      "para": "fc7937f4c870bdbfcb7e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1d529e5106986c63b333",
+      "para": "651582cc976c5c9893d8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fc7937f4c870bdbfcb7e",
+      "para": "651582cc976c5c9893d8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fc7937f4c870bdbfcb7e",
+      "para": "35119d07e10f83cf5553",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "651582cc976c5c9893d8",
+      "para": "35119d07e10f83cf5553",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "651582cc976c5c9893d8",
+      "para": "347606573ae08e6227d1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "35119d07e10f83cf5553",
+      "para": "347606573ae08e6227d1",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "35119d07e10f83cf5553",
+      "para": "8f7c3390b7d23e7941a0",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "347606573ae08e6227d1",
+      "para": "8f7c3390b7d23e7941a0",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "347606573ae08e6227d1",
+      "para": "1416d23c9afab557b93d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8f7c3390b7d23e7941a0",
+      "para": "1416d23c9afab557b93d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8f7c3390b7d23e7941a0",
+      "para": "b1915a8eb281bfe72057",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1416d23c9afab557b93d",
+      "para": "b1915a8eb281bfe72057",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1416d23c9afab557b93d",
+      "para": "bbaf1d56385e100c88e3",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b1915a8eb281bfe72057",
+      "para": "bbaf1d56385e100c88e3",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b1915a8eb281bfe72057",
+      "para": "9b12c04cca47a1c7716c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bbaf1d56385e100c88e3",
+      "para": "9b12c04cca47a1c7716c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "bbaf1d56385e100c88e3",
+      "para": "48dad7ba8c357f2d5e97",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9b12c04cca47a1c7716c",
+      "para": "48dad7ba8c357f2d5e97",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9b12c04cca47a1c7716c",
+      "para": "1ed18ec3164b5f4d668b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "48dad7ba8c357f2d5e97",
+      "para": "1ed18ec3164b5f4d668b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "48dad7ba8c357f2d5e97",
+      "para": "5dcb869d7a7fd6b0c1bd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1ed18ec3164b5f4d668b",
+      "para": "5dcb869d7a7fd6b0c1bd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1ed18ec3164b5f4d668b",
+      "para": "0916c6097332eda9f138",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5dcb869d7a7fd6b0c1bd",
+      "para": "0916c6097332eda9f138",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5dcb869d7a7fd6b0c1bd",
+      "para": "8a2ad8d1df35a6fa108b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0916c6097332eda9f138",
+      "para": "8a2ad8d1df35a6fa108b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0916c6097332eda9f138",
+      "para": "00737e339aa814e05ecd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8a2ad8d1df35a6fa108b",
+      "para": "00737e339aa814e05ecd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8a2ad8d1df35a6fa108b",
+      "para": "78ca45661b5351b4bbe8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "00737e339aa814e05ecd",
+      "para": "78ca45661b5351b4bbe8",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "00737e339aa814e05ecd",
+      "para": "d849cae4add71bbb7dce",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "78ca45661b5351b4bbe8",
+      "para": "d849cae4add71bbb7dce",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "78ca45661b5351b4bbe8",
+      "para": "8be99d2602bffcb2630d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d849cae4add71bbb7dce",
+      "para": "8be99d2602bffcb2630d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d849cae4add71bbb7dce",
+      "para": "0a979c4c72eaf7bc7c32",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8be99d2602bffcb2630d",
+      "para": "0a979c4c72eaf7bc7c32",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8be99d2602bffcb2630d",
+      "para": "d57df729b70a44a2eccf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0a979c4c72eaf7bc7c32",
+      "para": "d57df729b70a44a2eccf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0a979c4c72eaf7bc7c32",
+      "para": "e0ed1fc366f16d9c737b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d57df729b70a44a2eccf",
+      "para": "e0ed1fc366f16d9c737b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d57df729b70a44a2eccf",
+      "para": "934b4ae644bd9af70ddf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e0ed1fc366f16d9c737b",
+      "para": "934b4ae644bd9af70ddf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e0ed1fc366f16d9c737b",
+      "para": "ec7e921a00d1ddf2722b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "934b4ae644bd9af70ddf",
+      "para": "ec7e921a00d1ddf2722b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "26b234ad116876ec5f25",
+      "para": "eb91ca5079777d08b51b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "26b234ad116876ec5f25",
+      "para": "d5d1c0d5777a4aa2a974",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "eb91ca5079777d08b51b",
+      "para": "d5d1c0d5777a4aa2a974",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "eb91ca5079777d08b51b",
+      "para": "914caea5fdf17b0a1606",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d5d1c0d5777a4aa2a974",
+      "para": "914caea5fdf17b0a1606",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d5d1c0d5777a4aa2a974",
+      "para": "879e74f49faac847d86c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "914caea5fdf17b0a1606",
+      "para": "879e74f49faac847d86c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "914caea5fdf17b0a1606",
+      "para": "edf4fd8989f6a0b7f2cf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "879e74f49faac847d86c",
+      "para": "edf4fd8989f6a0b7f2cf",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ac070df6672b610d2ad1",
+      "para": "b47536443b7ed65f85d5",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ac070df6672b610d2ad1",
+      "para": "c8d43168eaffc3c92aae",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b47536443b7ed65f85d5",
+      "para": "c8d43168eaffc3c92aae",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b47536443b7ed65f85d5",
+      "para": "a84591389ae278f45b3d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c8d43168eaffc3c92aae",
+      "para": "a84591389ae278f45b3d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c8d43168eaffc3c92aae",
+      "para": "b124e852f004625864c6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a84591389ae278f45b3d",
+      "para": "b124e852f004625864c6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a84591389ae278f45b3d",
+      "para": "0c5b610263fc52444e2e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b124e852f004625864c6",
+      "para": "0c5b610263fc52444e2e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b124e852f004625864c6",
+      "para": "5779687b68c9829e9ac9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0c5b610263fc52444e2e",
+      "para": "5779687b68c9829e9ac9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0c5b610263fc52444e2e",
+      "para": "b0a923e131e95f13bf65",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5779687b68c9829e9ac9",
+      "para": "b0a923e131e95f13bf65",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5779687b68c9829e9ac9",
+      "para": "fa3507b403443455db45",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b0a923e131e95f13bf65",
+      "para": "fa3507b403443455db45",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b0a923e131e95f13bf65",
+      "para": "8de6a287c4cf31c904cd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fa3507b403443455db45",
+      "para": "8de6a287c4cf31c904cd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fa3507b403443455db45",
+      "para": "233a8450b31046dbe397",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8de6a287c4cf31c904cd",
+      "para": "233a8450b31046dbe397",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8de6a287c4cf31c904cd",
+      "para": "c963273fec1775887973",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "233a8450b31046dbe397",
+      "para": "c963273fec1775887973",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "233a8450b31046dbe397",
+      "para": "e65aa86fdc21a6f3e213",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c963273fec1775887973",
+      "para": "e65aa86fdc21a6f3e213",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c963273fec1775887973",
+      "para": "f74ace2d6bbf4fe257b7",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e65aa86fdc21a6f3e213",
+      "para": "f74ace2d6bbf4fe257b7",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e65aa86fdc21a6f3e213",
+      "para": "c04e35e4b154eb845530",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f74ace2d6bbf4fe257b7",
+      "para": "c04e35e4b154eb845530",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f74ace2d6bbf4fe257b7",
+      "para": "891bf543e95f1b11756c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c04e35e4b154eb845530",
+      "para": "891bf543e95f1b11756c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c04e35e4b154eb845530",
+      "para": "7fdf93c6b5c0ea9fd23b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "891bf543e95f1b11756c",
+      "para": "7fdf93c6b5c0ea9fd23b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "891bf543e95f1b11756c",
+      "para": "e5c83b111b16a3acaa58",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7fdf93c6b5c0ea9fd23b",
+      "para": "e5c83b111b16a3acaa58",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7fdf93c6b5c0ea9fd23b",
+      "para": "f76235625416ebfa5694",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e5c83b111b16a3acaa58",
+      "para": "f76235625416ebfa5694",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e5c83b111b16a3acaa58",
+      "para": "b22ac00979449b4a8124",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f76235625416ebfa5694",
+      "para": "b22ac00979449b4a8124",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "f76235625416ebfa5694",
+      "para": "e30ed6c4087fe36c1745",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b22ac00979449b4a8124",
+      "para": "e30ed6c4087fe36c1745",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "b22ac00979449b4a8124",
+      "para": "a0e2f0c539e50c33349a",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e30ed6c4087fe36c1745",
+      "para": "a0e2f0c539e50c33349a",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e30ed6c4087fe36c1745",
+      "para": "129a50a2a1e92e7ee2d6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a0e2f0c539e50c33349a",
+      "para": "129a50a2a1e92e7ee2d6",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a0e2f0c539e50c33349a",
+      "para": "c4e5fb6c220b1284ab09",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "129a50a2a1e92e7ee2d6",
+      "para": "c4e5fb6c220b1284ab09",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "129a50a2a1e92e7ee2d6",
+      "para": "e9f837f892cdedd368fd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c4e5fb6c220b1284ab09",
+      "para": "e9f837f892cdedd368fd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d78f2e3dec8834923104",
+      "para": "7cbebfd971b0e8da2f3f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7e86a27fb771d7502c28",
+      "para": "76fe8d5982a4b30f1b08",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7e86a27fb771d7502c28",
+      "para": "0104060cb15577432024",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "76fe8d5982a4b30f1b08",
+      "para": "0104060cb15577432024",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "76fe8d5982a4b30f1b08",
+      "para": "4ad55e0b0dab69dd8e3c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0104060cb15577432024",
+      "para": "4ad55e0b0dab69dd8e3c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "0104060cb15577432024",
+      "para": "790d4f4128a3a61d9dce",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "4ad55e0b0dab69dd8e3c",
+      "para": "790d4f4128a3a61d9dce",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "4ad55e0b0dab69dd8e3c",
+      "para": "87cc98aa226c1f7404cd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "790d4f4128a3a61d9dce",
+      "para": "87cc98aa226c1f7404cd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "790d4f4128a3a61d9dce",
+      "para": "3d8ffa51739272a8d04b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "87cc98aa226c1f7404cd",
+      "para": "3d8ffa51739272a8d04b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "87cc98aa226c1f7404cd",
+      "para": "e7476559ff736795f605",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3d8ffa51739272a8d04b",
+      "para": "e7476559ff736795f605",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3d8ffa51739272a8d04b",
+      "para": "061830854cb27bfd609c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e7476559ff736795f605",
+      "para": "061830854cb27bfd609c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "e7476559ff736795f605",
+      "para": "cdf0ceeba02ecb95b98e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "061830854cb27bfd609c",
+      "para": "cdf0ceeba02ecb95b98e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6498331d3df9eba70536",
+      "para": "4118ad89d6f01c2a2aef",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6498331d3df9eba70536",
+      "para": "3f8eb237d6bc34515143",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "4118ad89d6f01c2a2aef",
+      "para": "3f8eb237d6bc34515143",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9a8435c8e6778f2fb169",
+      "para": "3b5216011ed257b1264c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9a8435c8e6778f2fb169",
+      "para": "7bc6e0dc6d8da92fbe8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3b5216011ed257b1264c",
+      "para": "7bc6e0dc6d8da92fbe8e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
     }
   ],
-  "total": 1708,
-  "atualizado": "2026-03-13T15:01:46"
+  "total": 1935,
+  "atualizado": "2026-03-13T15:02:37"
 }
