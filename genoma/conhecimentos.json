@@ -342,5 +342,53 @@
       "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
       "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
     ]
+  },
+  {
+    "id": "b63eb32bbc9b6002",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: machine learning auto supervisionado desafios limitacoes\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:42:22.190579",
+    "modificado": "2026-03-13T13:42:22.499316",
+    "conexoes": [
+      {
+        "para": "faee5825fdc02ed2",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 3,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: machine learning auto supervisionado desafios limitacoes",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:42:22.499050",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: machine learning auto supervisionado desafios limitacoes\nConceitos: dados, assinala, automóveis, funcionamento, padrões, explora\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:42:22.499176",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: machine learning auto supervisionado desafios limitacoes\nRede: 21 conexoes. Conceitos-chave: dados, assinala, automóveis.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:42:22.499291",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/",
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
   }
 ]
