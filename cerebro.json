@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 53,
+    "ciclos": 54,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 284980
+    "caracteres_aprendidos": 312779
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -10092,6 +10092,386 @@
       "criado": "2026-03-13T14:41:09.628265",
       "acessos": 1,
       "conexoes": []
+    },
+    "c18268c1929fa35e": {
+      "conteudo": "3. An Informal Introduction to Python — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 3. An Informal Introduction to Python Theme Auto Light Dark 3. An Informal Introduction to Python In the following examples, input and output are distinguished by the presence or absence of prompts ( and ): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are output from the interpreter. Note that a secondary prompt on a line by itself in an example means you must type a blank line; this is used to end a multi-line command. You can use the “Copy” button (it appears in the upper-right corner when hovering over or tapping a code example), which strips prompts and omits output, to copy and paste the input lines into your interpreter. Many of the examples in this manual, even those entered at the interactive prompt, include comments. Comments in Python start with the hash character, , and extend to the end of the physical line. A comment may appear at the start of a line or following whitespace or code, but not within a string literal. A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples. Some examples:",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.288060",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "dd687126eb7367e3",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "affbebb408ee0c70",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "dd687126eb7367e3": {
+      "conteudo": "This is not a comment because it's inside quotes.\" 3.1. Using Python as a Calculator Let’s try some simple Python commands. Start the interpreter and wait for the primary prompt, . (It shouldn’t take long.) 3.1.1. Numbers The interpreter acts as a simple calculator: you can type an expression into it and it will write the value. Expression syntax is straightforward: the operators and can be used to perform arithmetic; parentheses ( ) can be used for grouping. For example: 2 2 4 50 5 6 20 50 5 6 4 5.0 8 5",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.288365",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "affbebb408ee0c70",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "ea1004b3a713e118",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "affbebb408ee0c70": {
+      "conteudo": "division always returns a floating-point number 1.6 The integer numbers (e.g. 2 4 20 ) have type int the ones with a fractional part (e.g. 5.0 1.6 ) have type float . We will see more about numeric types later in the tutorial. Division ( ) always returns a float. To do floor division and get an integer result you can use the operator; to calculate the remainder you can use 17 3",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.288480",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "ea1004b3a713e118",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "43d8975edd1d52c6",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "ea1004b3a713e118": {
+      "conteudo": "2 to the power of 7 128 The equal sign ( ) is used to assign a value to a variable. Afterwards, no result is displayed before the next interactive prompt: width 20 height 5 9 width height 900 If a variable is not “defined” (assigned a value), trying to use it will give you an error: n",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.288584",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "43d8975edd1d52c6",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "4f7c658b5322e06d",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "43d8975edd1d52c6": {
+      "conteudo": "try to access an undefined variable Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> NameError name 'n' is not defined There is full support for floating point; operators with mixed type operands convert the integer operand to floating point: 4 3.75 1 14.0 In interactive mode, the last printed expression is assigned to the variable . This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example: tax 12.5 100 price 100.50 price tax 12.5625 price 113.0625 round 2 113.06 This variable should be treated as read-only by the user. Don’t explicitly assign a value to it — you would create an independent local variable with the same name masking the built-in variable with its magic behavior. In addition to int and float , Python supports other types of numbers, such as Decimal and Fraction Python also has built-in support for complex numbers and uses the j or J suffix to indicate the imaginary part (e.g. 3+5j 3.1.2. Text Python can manipulate text (represented by type str , so-called “strings”) as well as numbers. This includes characters “ ”, words rabbit ”, names “ Paris ”, sentences “ Got your back. ”, etc. Yay! ”. They can be enclosed in single quotes ( ) or double quotes ( ) with the same result 2 'spam eggs'",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.288790",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "4f7c658b5322e06d",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "e6fd0eb831e3c28b",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "4f7c658b5322e06d": {
+      "conteudo": "...or use double quotes instead \"doesn't\" '\"Yes,\" they said.' '\"Yes,\" they said.' Yes, they said.\" '\"Yes,\" they said.' '\"Isn t,\" they said.' '\"Isn\\'t,\" they said.' In the Python shell, the string definition and output string can look different. The print() function produces a more readable output, by omitting the enclosing quotes and by printing escaped and special characters: s 'First line. \\n Second line.'",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.288975",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "e6fd0eb831e3c28b",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "11649a153e119882",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "e6fd0eb831e3c28b": {
+      "conteudo": "with print(), special characters are interpreted, so \\n produces new line First line. Second line. If you don’t want characters prefaced by to be interpreted as special characters, you can use raw strings by adding an r before the first quote: print 'C: \\t his \\n ame'",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289085",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "11649a153e119882",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "28b8b9de31f5cadb",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "11649a153e119882": {
+      "conteudo": "note the r before the quote C:\\this\\name There is one subtle aspect to raw strings: a raw string may not end in an odd number of characters; see the FAQ entry for more information and workarounds. String literals can span multiple lines. One way is using triple-quotes: or . End-of-line characters are automatically included in the string, but it’s possible to prevent this by adding a at the end of the line. In the following example, the initial newline is not included: print Usage: thingy [OPTIONS] -h Display this usage message -H hostname Hostname to connect to Usage: thingy [OPTIONS] -h Display this usage message -H hostname Hostname to connect to Strings can be concatenated (glued together) with the operator, and repeated with",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289219",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "28b8b9de31f5cadb",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "752cf5e74acf00b4",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "28b8b9de31f5cadb": {
+      "conteudo": "3 times 'un', followed by 'ium' 3 'un' 'ium' 'unununium' Two or more string literals (i.e. the ones enclosed between quotes) next to each other are automatically concatenated. 'Py' 'thon' 'Python' This feature is particularly useful when you want to break long strings: text 'Put several strings within parentheses ' 'to have them joined together.' text 'Put several strings within parentheses to have them joined together.' This only works with two literals though, not with variables or expressions: prefix 'Py' prefix 'thon'",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289346",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "752cf5e74acf00b4",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "752cf5e74acf00b4": {
+      "conteudo": "can't concatenate a variable and a string literal File \"<stdin>\" , line 1 prefix 'thon' SyntaxError invalid syntax 'un' 3 'ium' File \"<stdin>\" , line 1 'un' 3 'ium' SyntaxError invalid syntax If you want to concatenate variables or a variable and a literal, use prefix 'thon' 'Python' Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one: word 'Python' word 0",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289448",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "943300b4da67886f": {
+      "conteudo": "second-last character 'o' word 6 'P' Note that since -0 is the same as 0, negative indices start from -1. In addition to indexing, slicing is also supported. While indexing is used to obtain individual characters, slicing allows you to obtain a substring: word 0 2",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289533",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "350fbd9ded26941f": {
+      "conteudo": "characters from position 2 (included) to 5 (excluded) 'tho' Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced. word 2",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289600",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "a097e618de3ed01d": {
+      "conteudo": "characters from the second-last (included) to the end 'on' Note how the start is always included, and the end always excluded. This makes sure that s[:i] s[i:] is always equal to s word 2 word 2 'Python' word 4 word 4 'Python' One way to remember how slices work is to think of the indices as pointing between characters, with the left edge of the first character numbered 0. Then the right edge of the last character of a string of n characters has index n , for example: +---+---+---+---+---+---+ P y t h o n +---+---+---+---+---+---+ 0 1 2 3 4 5 6 6 5 4 3 2 1 The first row of numbers gives the position of the indices 0…6 in the string; the second row gives the corresponding negative indices. The slice from i to j consists of all characters between the edges labeled i and j respectively. For non-negative indices, the length of a slice is the difference of the indices, if both are within bounds. For example, the length of word[1:3] is 2. Attempting to use an index that is too large will result in an error: word 42",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.289764",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "570616be0c9f7cd8": {
+      "conteudo": "the word only has 6 characters Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> IndexError string index out of range However, out of range slice indexes are handled gracefully when used for slicing: word 4 42 'on' word 42 Python strings cannot be changed — they are immutable Therefore, assigning to an indexed position in the string results in an error: word 0 'J' Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> TypeError 'str' object does not support item assignment word 2 'py' Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> TypeError 'str' object does not support item assignment If you need a different string, you should create a new one: 'J' word 1 'Jython' word 2 'py' 'Pypy' The built-in function len() returns the length of a string: s 'supercalifragilisticexpialidocious' len s 34 See also Text Sequence Type — str Strings are examples of sequence types , and support the common operations supported by such types. String Methods Strings support a large number of methods for basic transformations and searching. f-strings String literals that have embedded expressions. Format String Syntax Information about string formatting with str.format() printf-style String Formatting The old formatting operations invoked when strings are the left operand of the operator are described in more detail here. 3.1.3. Lists Python knows a number of compound data types, used to group together other values. The most versatile is the list , which can be written as a list of comma-separated values (items) between square brackets. Lists might contain items of different types, but usually the items all have the same type. squares 1 4 9 16 25 squares [1, 4, 9, 16, 25] Like strings (and all other built-in sequence types), lists can be indexed and sliced: squares 0",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.289954",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "ff9e56d5dd71a27e": {
+      "conteudo": "slicing returns a new list [9, 16, 25] Lists also support operations like concatenation: squares 36 49 64 81 100 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100] Unlike strings, which are immutable , lists are a mutable type, i.e. it is possible to change their content: cubes 1 8 27 65 125",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.290185",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "520a09954944c445": {
+      "conteudo": "and the cube of 7 cubes [1, 8, 27, 64, 125, 216, 343] Simple assignment in Python never copies data. When you assign a list to a variable, the variable refers to the existing list Any changes you make to the list through one variable will be seen through all other variables that refer to it.: rgb \"Red\" \"Green\" \"Blue\" rgba rgb id rgb id rgba",
+      "tipo": "texto",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:41:58.290259",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "a62ca3630b4c6371": {
+      "conteudo": "they reference the same object True rgba append \"Alph\" rgb [\"Red\", \"Green\", \"Blue\", \"Alph\"] All slice operations return a new list containing the requested elements. This means that the following slice returns a shallow copy of the list: correct_rgba rgba correct_rgba 1 \"Alpha\" correct_rgba [\"Red\", \"Green\", \"Blue\", \"Alpha\"] rgba [\"Red\", \"Green\", \"Blue\", \"Alph\"] Assignment to slices is also possible, and this can even change the size of the list or clear it entirely: letters 'a' 'b' 'c' 'd' 'e' 'f' 'g' letters ['a', 'b', 'c', 'd', 'e', 'f', 'g']",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.290326",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "7b50322b5a753f68": {
+      "conteudo": "clear the list by replacing all the elements with an empty list letters letters The built-in function len() also applies to lists: letters 'a' 'b' 'c' 'd' len letters 4 It is possible to nest lists (create lists containing other lists), for example: a 'a' 'b' 'c' n 1 2 3 x a n x [['a', 'b', 'c'], [1, 2, 3]] x 0 ['a', 'b', 'c'] x 0 1 'b' 3.2. First Steps Towards Programming Of course, we can use Python for more complicated tasks than adding two and two together. For instance, we can write an initial sub-sequence of the Fibonacci series as follows:",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.290416",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "bfc7a4d8c3bb62b7": {
+      "conteudo": "the sum of two elements defines the next a b 0 1 while a 10 print a a b b a b 0 1 1 2 3 5 8 This example introduces several new features. The first line contains a multiple assignment : the variables a and b simultaneously get the new values 0 and 1. On the last line this is used again, demonstrating that the expressions on the right-hand side are all evaluated first before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right. The while loop executes as long as the condition (here: a 10 remains true. In Python, like in C, any non-zero integer value is true; zero is false. The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false. The test used in the example is a simple comparison. The standard comparison operators are written the same as in C: (less than), (greater than), (equal to), (less than or equal to), (greater than or equal to) and (not equal to). The body of the loop is indented : indentation is Python’s way of grouping statements. At the interactive prompt, you have to type a tab or space(s) for each indented line. In practice you will prepare more complicated input for Python with a text editor; all decent text editors have an auto-indent facility. When a compound statement is entered interactively, it must be followed by a blank line to indicate completion (since the parser cannot guess when you have typed the last line). Note that each line within a basic block must be indented by the same amount. The print() function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings. Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this: i 256 256 print 'The value of i is' i The value of i is 65536 The keyword argument end can be used to avoid the newline after the output, or end the output with a different string: a b 0 1 while a 1000 print a end a b b a b 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987, Footnotes Table of Contents 3. An Informal Introduction to Python 3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists 3.2. First Steps Towards Programming Previous topic 2. Using the Python Interpreter Next topic 4. More Control Flow Tools This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 3. An Informal Introduction to Python Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:58.290564",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "c43fa8d7f1d5c752": {
+      "conteudo": "TITULO: 3. An Informal Introduction to Python — Python 3.14.3 documentation\nCONTEUDO: 3. An Informal Introduction to Python — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 3. An Informal Introduction to Python Theme Auto Light Dark 3. An Informal Introduction to Python In the following examples, input and output are distinguished by the presence or absence of prompts ( and ): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are outpu...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/introduction.html"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:41:58.290881",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "97fb7ceef896c7bb": {
+      "conteudo": "3.14.3 Documentation Navigation index modules Python 3.14.3 Documentation Theme Auto Light Dark Python 3.14.3 documentation Welcome! This is the official documentation for Python 3.14.3. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use Python Python HOWTOs In-depth topic manuals Installing Python modules Third-party modules and PyPI.org Distributing Python modules Publishing modules for use by other people Extending and embedding For C/C++ programmers Python's C API C API reference FAQs Frequently asked questions (with answers!) Deprecations Deprecated functionality Indices, glossary, and search: Global module index All modules and libraries General index All functions, classes, and terms Glossary Terms explained Search page Search this documentation Complete table of contents Lists all sections and subsections Project information: Reporting issues Contributing to docs Download the documentation History and license of Python Copyright About the documentation Download Download these documents Docs by version Python 3.15 (in development) Python 3.14 (stable) Python 3.13 (stable) Python 3.12 (security-fixes) Python 3.11 (security-fixes) Python 3.10 (security-fixes) Python 3.9 (EOL) Python 3.8 (EOL) Python 3.7 (EOL) Python 3.6 (EOL) Python 3.5 (EOL) Python 3.4 (EOL) Python 3.3 (EOL) Python 3.2 (EOL) Python 3.1 (EOL) Python 3.0 (EOL) Python 2.7 (EOL) Python 2.6 (EOL) All versions Other resources PEP Index Beginner's Guide Book List Audio/Visual Talks Python Developer’s Guide Navigation index modules Python 3.14.3 Documentation Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:59.375048",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "32fb397d927bda9c": {
+      "conteudo": "TITULO: 3.14.3 Documentation\nCONTEUDO: 3.14.3 Documentation Navigation index modules Python 3.14.3 Documentation Theme Auto Light Dark Python 3.14.3 documentation Welcome! This is the official documentation for Python 3.14.3. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use P...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://docs.python.org/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:41:59.375467",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "9a7c89f34880249e": {
+      "conteudo": "1. Whetting Your Appetite — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 1. Whetting Your Appetite Theme Auto Light Dark 1. Whetting Your Appetite If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a search-and-replace over a large number of text files, or rename and rearrange a bunch of photo files in a complicated way. Perhaps you’d like to write a small custom database, or a specialized GUI application, or a simple game. If you’re a professional software developer, you may have to work with several C/C++/Java libraries but find the usual write/compile/test/re-compile cycle is too slow. Perhaps you’re writing a test suite for such a library and find writing the testing code a tedious task. Or maybe you’ve written a program that could use an extension language, and you don’t want to design and implement a whole new language for your application. Python is just the language for you. You could write a Unix shell script or Windows batch files for some of these tasks, but shell scripts are best at moving around files and changing text data, not well-suited for GUI applications or games. You could write a C/C++/Java program, but it can take a lot of development time to get even a first-draft program. Python is simpler to use, available on Windows, macOS, and Unix operating systems, and will help you get the job done more quickly. Python is simple to use, but it is a real programming language, offering much more structure and support for large programs than shell scripts or batch files can offer. On the other hand, Python also offers much more error checking than C, and, being a very-high-level language , it has high-level data types built in, such as flexible arrays and dictionaries. Because of its more general data types Python is applicable to a much larger problem domain than Awk or even Perl, yet many things are at least as easy in Python as in those languages. Python allows you to split your program into modules that can be reused in other Python programs. It comes with a large collection of standard modules that you can use as the basis of your programs — or as examples to start learning to program in Python. Some of these modules provide things like file I/O, system calls, sockets, and even interfaces to graphical user interface toolkits like Tk. Python is an interpreted language, which can save you considerable time during program development because no compilation and linking is necessary. The interpreter can be used interactively, which makes it easy to experiment with features of the language, to write throw-away programs, or to test functions during bottom-up program development. It is also a handy desk calculator. Python enables programs to be written compactly and readably. Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons: the high-level data types allow you to express complex operations in a single statement; statement grouping is done by indentation instead of beginning and ending brackets; no variable or argument declarations are necessary. Python is extensible : if you know how to program in C it is easy to add a new built-in function or module to the interpreter, either to perform critical operations at maximum speed, or to link Python programs to libraries that may only be available in binary form (such as a vendor-specific graphics library). Once you are really hooked, you can link the Python interpreter into an application written in C and use it as an extension or command language for that application. By the way, the language is named after the BBC show “Monty Python’s Flying Circus” and has nothing to do with reptiles. Making references to Monty Python skits in documentation is not only allowed, it is encouraged! Now that you are all excited about Python, you’ll want to examine it in some more detail. Since the best way to learn a language is to use it, the tutorial invites you to play with the Python interpreter as you read. In the next chapter, the mechanics of using the interpreter are explained. This is rather mundane information, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through examples, beginning with simple expressions, statements and data types, through functions and modules, and finally touching upon advanced concepts like exceptions and user-defined classes. Previous topic The Python Tutorial Next topic 2. Using the Python Interpreter This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 1. Whetting Your Appetite Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/appetite.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:42:00.443432",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "6785f05bf642785f": {
+      "conteudo": "TITULO: 1. Whetting Your Appetite — Python 3.14.3 documentation\nCONTEUDO: 1. Whetting Your Appetite — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 1. Whetting Your Appetite Theme Auto Light Dark 1. Whetting Your Appetite If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a search-and-replace over a large number of text files, or rename and rearrange a bunch of photo files in a complicated way. Perhaps you’d like t...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/appetite.html"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:42:00.444390",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "eaa81f2af19b42d4": {
+      "conteudo": "The Python Language Reference — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Language Reference Theme Auto Light Dark The Python Language Reference This reference manual describes the syntax and “core semantics” of the language. It is terse, but attempts to be exact and complete. The semantics of non-essential built-in object types and of the built-in functions and modules are described in The Python Standard Library . For an informal introduction to the language, see The Python Tutorial . For C or C++ programmers, two additional manuals exist: Extending and Embedding the Python Interpreter describes the high-level picture of how to write a Python extension module, and the Python/C API reference manual describes the interfaces available to C/C++ programmers in detail. 1. Introduction 1.1. Alternate Implementations 1.2. Notation 2. Lexical analysis 2.1. Line structure 2.2. Other tokens 2.3. Names (identifiers and keywords) 2.4. Literals 2.5. String and Bytes literals 2.6. Numeric literals 2.7. Operators and delimiters 3. Data model 3.1. Objects, values and types 3.2. The standard type hierarchy 3.3. Special method names 3.4. Coroutines 4. Execution model 4.1. Structure of a program 4.2. Naming and binding 4.3. Exceptions 4.4. Runtime Components 5. The import system 5.1. importlib 5.2. Packages 5.3. Searching 5.4. Loading 5.5. The Path Based Finder 5.6. Replacing the standard import system 5.7. Package Relative Imports 5.8. Special considerations for __main__ 5.9. References 6. Expressions 6.1. Arithmetic conversions 6.2. Atoms 6.3. Primaries 6.4. Await expression 6.5. The power operator 6.6. Unary arithmetic and bitwise operations 6.7. Binary arithmetic operations 6.8. Shifting operations 6.9. Binary bitwise operations 6.10. Comparisons 6.11. Boolean operations 6.12. Assignment expressions 6.13. Conditional expressions 6.14. Lambdas 6.15. Expression lists 6.16. Evaluation order 6.17. Operator precedence 7. Simple statements 7.1. Expression statements 7.2. Assignment statements 7.3. The assert statement 7.4. The pass statement 7.5. The del statement 7.6. The return statement 7.7. The yield statement 7.8. The raise statement 7.9. The break statement 7.10. The continue statement 7.11. The import statement 7.12. The global statement 7.13. The nonlocal statement 7.14. The type statement 8. Compound statements 8.1. The if statement 8.2. The while statement 8.3. The for statement 8.4. The try statement 8.5. The with statement 8.6. The match statement 8.7. Function definitions 8.8. Class definitions 8.9. Coroutines 8.10. Type parameter lists 8.11. Annotations 9. Top-level components 9.1. Complete Python programs 9.2. File input 9.3. Interactive input 9.4. Expression input 10. Full Grammar specification Previous topic 8. Editors and IDEs Next topic 1. Introduction This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Language Reference Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/reference/index.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:42:01.626828",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "d325046e81e2049f": {
+      "conteudo": "TITULO: The Python Language Reference — Python 3.14.3 documentation\nCONTEUDO: The Python Language Reference — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Language Reference Theme Auto Light Dark The Python Language Reference This reference manual describes the syntax and “core semantics” of the language. It is terse, but attempts to be exact and complete. The semantics of non-essential built-in object types and of the built-in functions and modules are described in The Python Standard Library . For an informal ...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://docs.python.org/3/reference/index.html"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:42:01.627419",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10334,6 +10714,30 @@
       "texto_completo": "cyber security fundamentals Rating: 4.4 out of 5 4.4 (265 ratings) 18,441 students Preview this course cyber security fundamentals The right way to start your career in cybersecurity Created by Ahmed Zekraoui Last updated 3/2022 English English Preview this course What you'll learn How to start your career in cybersecurity Cybersecuity marketsize & statistics Cybersecuity laws (US, EU & Australia) Cybersecuity standards (NIST, ISO27001, PCI-DSS) Cybersecuity career pathway (including the certifications) Malwares Categories Hackers techniques & Motivations Hackers categories Cybersecurity killchain cyber security basics Explore related topics Cybersecurity Network & Security IT & Software Course content 4 sections 28 lectures 1h 29m total length Expand all sections Introduction 1 lecture 2min Course introduction Preview 2:27 cybersecurity path 9 lectures 32min Section introduction Preview 1:17 What is cybersecurity 1:57 Cybersecurity statistics 5:15 Cybersecurity market size 2:35 Cybersecurity vs Cyber Security Preview 2:20 Cybersecurity vs information security 5:02 Cybersecurity pathway 4:40 Roadmap & salary expectation 5:00 Top cybersecurity certifications 3:50 Hackers techniques and motivations 10 lectures 35min Section introduction 1:15 Hackers categories 5:20 Hackers motivations 1:55 Why hackers hack? 5:07 Cybersecurity killchain - Part 01 3:25 Cybersecurity killchain - Part 02 3:24 Social engineering Preview 4:47 Hacking techniques 3:41 Malwares - Part 01 Preview 3:25 Malwares - Part 02 3:07 Cybersecurity laws and standards 8 lectures 20min Section introduction 1:28 ISO 27001 3:06 NIST Preview 4:05 PCI-DSS 2:35 How to become PCI-DSS compliant? 1:38 Cybersecurity laws 1:23 Cybersecurity laws examples (US, EU & Australia) 4:09 Conclusion Preview 1:10 Requirements No previous experience is required Description If you are freshly graduated and looking to start your career in cybersecurity (or even if you are switching from other IT field), then this is the right course for you! This course cover all the aspects that anyone needs for a good start in cybersecurity, including the basics of this fields : Like what exactly is cybersecutiy? what are the differences between cybersecurity and information security? Is the cybersecurity marketsize really huge? and what does it cover exactly? Certification and career roadmap are included in the course, so that you can prepare your plans for a great career (including salary expectations) You will also be able to classify hackers and know the way they think, so that you can easly protect your company. For this, we will dive deep into the cybersecurity kill chain, and discover the malicious tools that are used by hackers, in order to hack systems. This course also cover the laws and standards that organize the cybersecurity world. For the laws we take the example of the United states of America, the European Union and Australia cybersecurity laws. Regarding the standards, we will take the most well known ones, this include PCI-DSS for payment cards security, National Institute of Standards and Technology (NIST) & ISO27001 as part of the ISO 27k family of standards. Who this course is for: Beginner in cybersecurity IT engineers Developers Show more Show less Report abuse",
       "data_acesso": "2026-03-13T14:41:09.627503",
       "tamanho": 3266
+    },
+    "https://docs.python.org/3/tutorial/introduction.html": {
+      "titulo": "3. An Informal Introduction to Python — Python 3.14.3 documentation",
+      "texto_completo": "3. An Informal Introduction to Python — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 3. An Informal Introduction to Python Theme Auto Light Dark 3. An Informal Introduction to Python In the following examples, input and output are distinguished by the presence or absence of prompts ( and ): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are output from the interpreter. Note that a secondary prompt on a line by itself in an example means you must type a blank line; this is used to end a multi-line command. You can use the “Copy” button (it appears in the upper-right corner when hovering over or tapping a code example), which strips prompts and omits output, to copy and paste the input lines into your interpreter. Many of the examples in this manual, even those entered at the interactive prompt, include comments. Comments in Python start with the hash character, , and extend to the end of the physical line. A comment may appear at the start of a line or following whitespace or code, but not within a string literal. A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples. Some examples: # this is the first comment spam 1 # and this is the second comment # ... and now a third! text \"# This is not a comment because it's inside quotes.\" 3.1. Using Python as a Calculator Let’s try some simple Python commands. Start the interpreter and wait for the primary prompt, . (It shouldn’t take long.) 3.1.1. Numbers The interpreter acts as a simple calculator: you can type an expression into it and it will write the value. Expression syntax is straightforward: the operators and can be used to perform arithmetic; parentheses ( ) can be used for grouping. For example: 2 2 4 50 5 6 20 50 5 6 4 5.0 8 5 # division always returns a floating-point number 1.6 The integer numbers (e.g. 2 4 20 ) have type int the ones with a fractional part (e.g. 5.0 1.6 ) have type float . We will see more about numeric types later in the tutorial. Division ( ) always returns a float. To do floor division and get an integer result you can use the operator; to calculate the remainder you can use 17 3 # classic division returns a float 5.666666666666667 17 3 # floor division discards the fractional part 5 17 3 # the % operator returns the remainder of the division 2 5 3 2 # floored quotient * divisor + remainder 17 With Python, it is possible to use the operator to calculate powers 1 5 2 # 5 squared 25 2 7 # 2 to the power of 7 128 The equal sign ( ) is used to assign a value to a variable. Afterwards, no result is displayed before the next interactive prompt: width 20 height 5 9 width height 900 If a variable is not “defined” (assigned a value), trying to use it will give you an error: n # try to access an undefined variable Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> NameError name 'n' is not defined There is full support for floating point; operators with mixed type operands convert the integer operand to floating point: 4 3.75 1 14.0 In interactive mode, the last printed expression is assigned to the variable . This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example: tax 12.5 100 price 100.50 price tax 12.5625 price 113.0625 round 2 113.06 This variable should be treated as read-only by the user. Don’t explicitly assign a value to it — you would create an independent local variable with the same name masking the built-in variable with its magic behavior. In addition to int and float , Python supports other types of numbers, such as Decimal and Fraction Python also has built-in support for complex numbers and uses the j or J suffix to indicate the imaginary part (e.g. 3+5j 3.1.2. Text Python can manipulate text (represented by type str , so-called “strings”) as well as numbers. This includes characters “ ”, words rabbit ”, names “ Paris ”, sentences “ Got your back. ”, etc. Yay! ”. They can be enclosed in single quotes ( ) or double quotes ( ) with the same result 2 'spam eggs' # single quotes 'spam eggs' \"Paris rabbit got your back :)! Yay!\" # double quotes 'Paris rabbit got your back :)! Yay!' '1975' # digits and numerals enclosed in quotes are also strings '1975' To quote a quote, we need to “escape” it, by preceding it with Alternatively, we can use the other type of quotation marks: 'doesn t' # use \\' to escape the single quote... \"doesn't\" \"doesn't\" # ...or use double quotes instead \"doesn't\" '\"Yes,\" they said.' '\"Yes,\" they said.' Yes, they said.\" '\"Yes,\" they said.' '\"Isn t,\" they said.' '\"Isn\\'t,\" they said.' In the Python shell, the string definition and output string can look different. The print() function produces a more readable output, by omitting the enclosing quotes and by printing escaped and special characters: s 'First line. \\n Second line.' # \\n means newline s # without print(), special characters are included in the string 'First line.\\nSecond line.' print s # with print(), special characters are interpreted, so \\n produces new line First line. Second line. If you don’t want characters prefaced by to be interpreted as special characters, you can use raw strings by adding an r before the first quote: print 'C: \\t his \\n ame' # here \\t means tab, \\n means newline C: his ame print r 'C:\\this\\name' # note the r before the quote C:\\this\\name There is one subtle aspect to raw strings: a raw string may not end in an odd number of characters; see the FAQ entry for more information and workarounds. String literals can span multiple lines. One way is using triple-quotes: or . End-of-line characters are automatically included in the string, but it’s possible to prevent this by adding a at the end of the line. In the following example, the initial newline is not included: print Usage: thingy [OPTIONS] -h Display this usage message -H hostname Hostname to connect to Usage: thingy [OPTIONS] -h Display this usage message -H hostname Hostname to connect to Strings can be concatenated (glued together) with the operator, and repeated with # 3 times 'un', followed by 'ium' 3 'un' 'ium' 'unununium' Two or more string literals (i.e. the ones enclosed between quotes) next to each other are automatically concatenated. 'Py' 'thon' 'Python' This feature is particularly useful when you want to break long strings: text 'Put several strings within parentheses ' 'to have them joined together.' text 'Put several strings within parentheses to have them joined together.' This only works with two literals though, not with variables or expressions: prefix 'Py' prefix 'thon' # can't concatenate a variable and a string literal File \"<stdin>\" , line 1 prefix 'thon' SyntaxError invalid syntax 'un' 3 'ium' File \"<stdin>\" , line 1 'un' 3 'ium' SyntaxError invalid syntax If you want to concatenate variables or a variable and a literal, use prefix 'thon' 'Python' Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one: word 'Python' word 0 # character in position 0 'P' word 5 # character in position 5 'n' Indices may also be negative numbers, to start counting from the right: word 1 # last character 'n' word 2 # second-last character 'o' word 6 'P' Note that since -0 is the same as 0, negative indices start from -1. In addition to indexing, slicing is also supported. While indexing is used to obtain individual characters, slicing allows you to obtain a substring: word 0 2 # characters from position 0 (included) to 2 (excluded) 'Py' word 2 5 # characters from position 2 (included) to 5 (excluded) 'tho' Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced. word 2 # character from the beginning to position 2 (excluded) 'Py' word 4 # characters from position 4 (included) to the end 'on' word 2 # characters from the second-last (included) to the end 'on' Note how the start is always included, and the end always excluded. This makes sure that s[:i] s[i:] is always equal to s word 2 word 2 'Python' word 4 word 4 'Python' One way to remember how slices work is to think of the indices as pointing between characters, with the left edge of the first character numbered 0. Then the right edge of the last character of a string of n characters has index n , for example: +---+---+---+---+---+---+ P y t h o n +---+---+---+---+---+---+ 0 1 2 3 4 5 6 6 5 4 3 2 1 The first row of numbers gives the position of the indices 0…6 in the string; the second row gives the corresponding negative indices. The slice from i to j consists of all characters between the edges labeled i and j respectively. For non-negative indices, the length of a slice is the difference of the indices, if both are within bounds. For example, the length of word[1:3] is 2. Attempting to use an index that is too large will result in an error: word 42 # the word only has 6 characters Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> IndexError string index out of range However, out of range slice indexes are handled gracefully when used for slicing: word 4 42 'on' word 42 Python strings cannot be changed — they are immutable Therefore, assigning to an indexed position in the string results in an error: word 0 'J' Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> TypeError 'str' object does not support item assignment word 2 'py' Traceback (most recent call last): File \"<stdin>\" , line 1 , in <module> TypeError 'str' object does not support item assignment If you need a different string, you should create a new one: 'J' word 1 'Jython' word 2 'py' 'Pypy' The built-in function len() returns the length of a string: s 'su",
+      "data_acesso": "2026-03-13T14:41:58.287231",
+      "tamanho": 16406
+    },
+    "https://docs.python.org/": {
+      "titulo": "3.14.3 Documentation",
+      "texto_completo": "3.14.3 Documentation Navigation index modules Python 3.14.3 Documentation Theme Auto Light Dark Python 3.14.3 documentation Welcome! This is the official documentation for Python 3.14.3. Documentation sections: What's new in Python 3.14? Or all \"What's new\" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use Python Python HOWTOs In-depth topic manuals Installing Python modules Third-party modules and PyPI.org Distributing Python modules Publishing modules for use by other people Extending and embedding For C/C++ programmers Python's C API C API reference FAQs Frequently asked questions (with answers!) Deprecations Deprecated functionality Indices, glossary, and search: Global module index All modules and libraries General index All functions, classes, and terms Glossary Terms explained Search page Search this documentation Complete table of contents Lists all sections and subsections Project information: Reporting issues Contributing to docs Download the documentation History and license of Python Copyright About the documentation Download Download these documents Docs by version Python 3.15 (in development) Python 3.14 (stable) Python 3.13 (stable) Python 3.12 (security-fixes) Python 3.11 (security-fixes) Python 3.10 (security-fixes) Python 3.9 (EOL) Python 3.8 (EOL) Python 3.7 (EOL) Python 3.6 (EOL) Python 3.5 (EOL) Python 3.4 (EOL) Python 3.3 (EOL) Python 3.2 (EOL) Python 3.1 (EOL) Python 3.0 (EOL) Python 2.7 (EOL) Python 2.6 (EOL) All versions Other resources PEP Index Beginner's Guide Book List Audio/Visual Talks Python Developer’s Guide Navigation index modules Python 3.14.3 Documentation Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "data_acesso": "2026-03-13T14:41:59.374680",
+      "tamanho": 2272
+    },
+    "https://docs.python.org/3/tutorial/appetite.html": {
+      "titulo": "1. Whetting Your Appetite — Python 3.14.3 documentation",
+      "texto_completo": "1. Whetting Your Appetite — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 1. Whetting Your Appetite Theme Auto Light Dark 1. Whetting Your Appetite If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a search-and-replace over a large number of text files, or rename and rearrange a bunch of photo files in a complicated way. Perhaps you’d like to write a small custom database, or a specialized GUI application, or a simple game. If you’re a professional software developer, you may have to work with several C/C++/Java libraries but find the usual write/compile/test/re-compile cycle is too slow. Perhaps you’re writing a test suite for such a library and find writing the testing code a tedious task. Or maybe you’ve written a program that could use an extension language, and you don’t want to design and implement a whole new language for your application. Python is just the language for you. You could write a Unix shell script or Windows batch files for some of these tasks, but shell scripts are best at moving around files and changing text data, not well-suited for GUI applications or games. You could write a C/C++/Java program, but it can take a lot of development time to get even a first-draft program. Python is simpler to use, available on Windows, macOS, and Unix operating systems, and will help you get the job done more quickly. Python is simple to use, but it is a real programming language, offering much more structure and support for large programs than shell scripts or batch files can offer. On the other hand, Python also offers much more error checking than C, and, being a very-high-level language , it has high-level data types built in, such as flexible arrays and dictionaries. Because of its more general data types Python is applicable to a much larger problem domain than Awk or even Perl, yet many things are at least as easy in Python as in those languages. Python allows you to split your program into modules that can be reused in other Python programs. It comes with a large collection of standard modules that you can use as the basis of your programs — or as examples to start learning to program in Python. Some of these modules provide things like file I/O, system calls, sockets, and even interfaces to graphical user interface toolkits like Tk. Python is an interpreted language, which can save you considerable time during program development because no compilation and linking is necessary. The interpreter can be used interactively, which makes it easy to experiment with features of the language, to write throw-away programs, or to test functions during bottom-up program development. It is also a handy desk calculator. Python enables programs to be written compactly and readably. Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons: the high-level data types allow you to express complex operations in a single statement; statement grouping is done by indentation instead of beginning and ending brackets; no variable or argument declarations are necessary. Python is extensible : if you know how to program in C it is easy to add a new built-in function or module to the interpreter, either to perform critical operations at maximum speed, or to link Python programs to libraries that may only be available in binary form (such as a vendor-specific graphics library). Once you are really hooked, you can link the Python interpreter into an application written in C and use it as an extension or command language for that application. By the way, the language is named after the BBC show “Monty Python’s Flying Circus” and has nothing to do with reptiles. Making references to Monty Python skits in documentation is not only allowed, it is encouraged! Now that you are all excited about Python, you’ll want to examine it in some more detail. Since the best way to learn a language is to use it, the tutorial invites you to play with the Python interpreter as you read. In the next chapter, the mechanics of using the interpreter are explained. This is rather mundane information, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through examples, beginning with simple expressions, statements and data types, through functions and modules, and finally touching upon advanced concepts like exceptions and user-defined classes. Previous topic The Python Tutorial Next topic 2. Using the Python Interpreter This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial 1. Whetting Your Appetite Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "data_acesso": "2026-03-13T14:42:00.442757",
+      "tamanho": 5298
+    },
+    "https://docs.python.org/3/reference/index.html": {
+      "titulo": "The Python Language Reference — Python 3.14.3 documentation",
+      "texto_completo": "The Python Language Reference — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Language Reference Theme Auto Light Dark The Python Language Reference This reference manual describes the syntax and “core semantics” of the language. It is terse, but attempts to be exact and complete. The semantics of non-essential built-in object types and of the built-in functions and modules are described in The Python Standard Library . For an informal introduction to the language, see The Python Tutorial . For C or C++ programmers, two additional manuals exist: Extending and Embedding the Python Interpreter describes the high-level picture of how to write a Python extension module, and the Python/C API reference manual describes the interfaces available to C/C++ programmers in detail. 1. Introduction 1.1. Alternate Implementations 1.2. Notation 2. Lexical analysis 2.1. Line structure 2.2. Other tokens 2.3. Names (identifiers and keywords) 2.4. Literals 2.5. String and Bytes literals 2.6. Numeric literals 2.7. Operators and delimiters 3. Data model 3.1. Objects, values and types 3.2. The standard type hierarchy 3.3. Special method names 3.4. Coroutines 4. Execution model 4.1. Structure of a program 4.2. Naming and binding 4.3. Exceptions 4.4. Runtime Components 5. The import system 5.1. importlib 5.2. Packages 5.3. Searching 5.4. Loading 5.5. The Path Based Finder 5.6. Replacing the standard import system 5.7. Package Relative Imports 5.8. Special considerations for __main__ 5.9. References 6. Expressions 6.1. Arithmetic conversions 6.2. Atoms 6.3. Primaries 6.4. Await expression 6.5. The power operator 6.6. Unary arithmetic and bitwise operations 6.7. Binary arithmetic operations 6.8. Shifting operations 6.9. Binary bitwise operations 6.10. Comparisons 6.11. Boolean operations 6.12. Assignment expressions 6.13. Conditional expressions 6.14. Lambdas 6.15. Expression lists 6.16. Evaluation order 6.17. Operator precedence 7. Simple statements 7.1. Expression statements 7.2. Assignment statements 7.3. The assert statement 7.4. The pass statement 7.5. The del statement 7.6. The return statement 7.7. The yield statement 7.8. The raise statement 7.9. The break statement 7.10. The continue statement 7.11. The import statement 7.12. The global statement 7.13. The nonlocal statement 7.14. The type statement 8. Compound statements 8.1. The if statement 8.2. The while statement 8.3. The for statement 8.4. The try statement 8.5. The with statement 8.6. The match statement 8.7. Function definitions 8.8. Class definitions 8.9. Coroutines 8.10. Type parameter lists 8.11. Annotations 9. Top-level components 9.1. Complete Python programs 9.2. File input 9.3. Interactive input 9.4. Expression input 10. Full Grammar specification Previous topic 8. Editors and IDEs Next topic 1. Introduction This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Language Reference Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "data_acesso": "2026-03-13T14:42:01.626380",
+      "tamanho": 3477
     }
   },
   "indices": {
@@ -10781,7 +11185,20 @@
         "6ab1d04c7b4b949f",
         "0116c4c6c3da46e7",
         "233ff78d2aee3830",
-        "cd4efc79199187c3"
+        "cd4efc79199187c3",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "affbebb408ee0c70",
+        "ea1004b3a713e118",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "ff9e56d5dd71a27e",
+        "520a09954944c445"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10823,7 +11240,11 @@
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
         "6657cde91a25b327",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "c43fa8d7f1d5c752",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "d325046e81e2049f"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10837,7 +11258,8 @@
         "c89318b0e0615d97",
         "0e103e53f9552598",
         "4263343f5723c911",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "43d8975edd1d52c6"
       ],
       "codigo": [
         "026f23a1d4ac4177",
@@ -10855,7 +11277,15 @@
         "c81451f3ca585417",
         "63cccdfba6defaab",
         "83d7352ddb89d173",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "4f7c658b5322e06d",
+        "570616be0c9f7cd8",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ]
     },
     "por_fonte": {
@@ -11561,6 +11991,40 @@
       "https://www.udemy.com/course/cybersecurity-fundamentals/": [
         "f0c2f536dcbaf6b1",
         "f107e4b01ec0b955"
+      ],
+      "https://docs.python.org/3/tutorial/introduction.html": [
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "affbebb408ee0c70",
+        "ea1004b3a713e118",
+        "43d8975edd1d52c6",
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e",
+        "520a09954944c445",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752"
+      ],
+      "https://docs.python.org/": [
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "https://docs.python.org/3/tutorial/appetite.html": [
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
+      ],
+      "https://docs.python.org/3/reference/index.html": [
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ]
     },
     "por_palavra": {
@@ -11592,7 +12056,9 @@
         "83d7352ddb89d173",
         "b538f01e5184994e",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -11622,7 +12088,11 @@
         "111b3fbd6b950047",
         "66af99b6e8fa3152",
         "cc6901ebb1f7f3e7",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ],
       "malicious": [
         "76e1b1a09f317aa1"
@@ -11633,7 +12103,9 @@
         "fe0a23e029896722",
         "63cccdfba6defaab",
         "83d7352ddb89d173",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "11649a153e119882",
+        "97fb7ceef896c7bb"
       ],
       "that": [
         "76e1b1a09f317aa1",
@@ -11653,7 +12125,17 @@
         "83d7352ddb89d173",
         "b538f01e5184994e",
         "6657cde91a25b327",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "c18268c1929fa35e",
+        "43d8975edd1d52c6",
+        "943300b4da67886f",
+        "a097e618de3ed01d",
+        "520a09954944c445",
+        "a62ca3630b4c6371",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "computer": [
         "76e1b1a09f317aa1",
@@ -11670,13 +12152,17 @@
         "73c30f0c4a60b045",
         "0e103e53f9552598",
         "5ded4e12b42ae651",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "eaa81f2af19b42d4"
       ],
       "risks": [
         "76e1b1a09f317aa1"
       ],
       "some": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "dd687126eb7367e3",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "attacker": [
         "76e1b1a09f317aa1"
@@ -11700,7 +12186,8 @@
         "8b1b7a10f27a7fc5",
         "c81451f3ca585417",
         "4263343f5723c911",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "c18268c1929fa35e"
       ],
       "blog": [
         "76e1b1a09f317aa1",
@@ -11738,7 +12225,12 @@
         "63cccdfba6defaab",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "c18268c1929fa35e",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "bfc7a4d8c3bb62b7"
       ],
       "systems": [
         "76e1b1a09f317aa1",
@@ -11758,7 +12250,14 @@
         "b850a0f81ab34e71",
         "c81451f3ca585417",
         "63cccdfba6defaab",
-        "a2bd74e873119959"
+        "a2bd74e873119959",
+        "affbebb408ee0c70",
+        "4f7c658b5322e06d",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "9a7c89f34880249e"
       ],
       "with": [
         "76e1b1a09f317aa1",
@@ -11786,7 +12285,19 @@
         "63cccdfba6defaab",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "c18268c1929fa35e",
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "a097e618de3ed01d",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "9a7c89f34880249e"
       ],
       "user": [
         "76e1b1a09f317aa1",
@@ -11807,7 +12318,9 @@
         "b538f01e5184994e",
         "6657cde91a25b327",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -11840,7 +12353,11 @@
         "83d7352ddb89d173",
         "b538f01e5184994e",
         "6657cde91a25b327",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "dd687126eb7367e3",
+        "affbebb408ee0c70",
+        "ea1004b3a713e118",
+        "520a09954944c445"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -11855,7 +12372,8 @@
       ],
       "computers": [
         "76e1b1a09f317aa1",
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "6785f05bf642785f"
       ],
       "there": [
         "76e1b1a09f317aa1",
@@ -11863,7 +12381,11 @@
         "50d89ae937544a7e",
         "9d3eef28d73f90e5",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "43d8975edd1d52c6",
+        "11649a153e119882",
+        "752cf5e74acf00b4",
+        "6785f05bf642785f"
       ],
       "take": [
         "76e1b1a09f317aa1",
@@ -11871,7 +12393,8 @@
         "63cccdfba6defaab",
         "b538f01e5184994e",
         "6657cde91a25b327",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "dd687126eb7367e3"
       ],
       "yourself": [
         "76e1b1a09f317aa1"
@@ -11881,12 +12404,15 @@
         "fe0a23e029896722",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "ff9e56d5dd71a27e"
       ],
       "they": [
         "76e1b1a09f317aa1",
         "0414d536276c3f78",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "4f7c658b5322e06d",
+        "a62ca3630b4c6371"
       ],
       "this": [
         "76e1b1a09f317aa1",
@@ -11917,7 +12443,20 @@
         "83d7352ddb89d173",
         "b538f01e5184994e",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "a097e618de3ed01d",
+        "a62ca3630b4c6371",
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -11925,7 +12464,9 @@
         "50d89ae937544a7e",
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "4f7c658b5322e06d",
+        "570616be0c9f7cd8"
       ],
       "vulnerabilities": [
         "76e1b1a09f317aa1"
@@ -11935,7 +12476,8 @@
         "91e38248c22bb7fb",
         "c81451f3ca585417",
         "b734cca537f5beff",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "32fb397d927bda9c"
       ],
       "known": [
         "76e1b1a09f317aa1"
@@ -12012,7 +12554,11 @@
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
         "6657cde91a25b327",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "c43fa8d7f1d5c752",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "d325046e81e2049f"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -12059,7 +12605,11 @@
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
         "6657cde91a25b327",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "c43fa8d7f1d5c752",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "d325046e81e2049f"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -12113,7 +12663,9 @@
         "63cccdfba6defaab",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "520a09954944c445",
+        "9a7c89f34880249e"
       ],
       "access": [
         "869ef110cbcdc27e",
@@ -12121,7 +12673,8 @@
         "95e3a5b592935fe3",
         "63cccdfba6defaab",
         "a2bd74e873119959",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "43d8975edd1d52c6"
       ],
       "criminal": [
         "869ef110cbcdc27e"
@@ -12148,7 +12701,9 @@
       ],
       "everything": [
         "869ef110cbcdc27e",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
       ],
       "internet": [
         "869ef110cbcdc27e",
@@ -12179,7 +12734,9 @@
         "b850a0f81ab34e71",
         "4263343f5723c911",
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "ea1004b3a713e118",
+        "43d8975edd1d52c6"
       ],
       "video": [
         "869ef110cbcdc27e"
@@ -12208,7 +12765,8 @@
         "fe0a23e029896722",
         "7a07f2ff806d1129",
         "73c30f0c4a60b045",
-        "63cccdfba6defaab"
+        "63cccdfba6defaab",
+        "9a7c89f34880249e"
       ],
       "online": [
         "fe0a23e029896722",
@@ -12231,7 +12789,8 @@
         "29f959514c4bbb81",
         "b538f01e5184994e",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "97fb7ceef896c7bb"
       ],
       "2012": [
         "fe0a23e029896722"
@@ -12246,7 +12805,9 @@
       "files": [
         "fe0a23e029896722",
         "242d8505c4a22160",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "help": [
         "fe0a23e029896722",
@@ -12291,7 +12852,8 @@
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
         "83d7352ddb89d173",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "affbebb408ee0c70"
       ],
       "community": [
         "fe0a23e029896722",
@@ -12344,7 +12906,8 @@
         "7a07f2ff806d1129",
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "affbebb408ee0c70"
       ],
       "using": [
         "fe0a23e029896722",
@@ -12353,7 +12916,12 @@
         "6ab1d04c7b4b949f",
         "ad4f0965ff4a91ea",
         "c81451f3ca585417",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "11649a153e119882",
+        "bfc7a4d8c3bb62b7",
+        "9a7c89f34880249e"
       ],
       "federal": [
         "fe0a23e029896722"
@@ -12440,7 +13008,9 @@
       ],
       "each": [
         "7a07f2ff806d1129",
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "28b8b9de31f5cadb",
+        "bfc7a4d8c3bb62b7"
       ],
       "have": [
         "7a07f2ff806d1129",
@@ -12451,7 +13021,12 @@
         "9d3eef28d73f90e5",
         "dd7e384a921fc225",
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "affbebb408ee0c70",
+        "28b8b9de31f5cadb",
+        "350fbd9ded26941f",
+        "570616be0c9f7cd8",
+        "bfc7a4d8c3bb62b7"
       ],
       "play": [
         "7a07f2ff806d1129"
@@ -12459,15 +13034,26 @@
       "when": [
         "7a07f2ff806d1129",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "c18268c1929fa35e",
+        "43d8975edd1d52c6",
+        "28b8b9de31f5cadb",
+        "570616be0c9f7cd8",
+        "520a09954944c445",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752"
       ],
       "simple": [
         "7a07f2ff806d1129",
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "dd687126eb7367e3",
+        "520a09954944c445",
+        "9a7c89f34880249e"
       ],
       "steps": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "7b50322b5a753f68"
       ],
       "home": [
         "7a07f2ff806d1129",
@@ -12525,7 +13111,8 @@
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "bfc7a4d8c3bb62b7"
       ],
       "table": [
         "581c8fb845bd6d65",
@@ -12578,14 +13165,19 @@
         "581c8fb845bd6d65",
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "520a09954944c445"
       ],
       "also": [
         "581c8fb845bd6d65",
         "b8f86559bf96fa79",
         "cc6901ebb1f7f3e7",
         "83d7352ddb89d173",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "943300b4da67886f",
+        "ff9e56d5dd71a27e",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
       ],
       "cookiedelivery": [
         "581c8fb845bd6d65",
@@ -12600,7 +13192,9 @@
       "find": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "free": [
         "581c8fb845bd6d65",
@@ -12641,7 +13235,8 @@
       ],
       "shouldn": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "dd687126eb7367e3"
       ],
       "fully": [
         "581c8fb845bd6d65",
@@ -12657,7 +13252,9 @@
         "08b5b3a969983ea5",
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "28b8b9de31f5cadb",
+        "570616be0c9f7cd8"
       ],
       "might": [
         "581c8fb845bd6d65",
@@ -12688,7 +13285,8 @@
       ],
       "docs": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "97fb7ceef896c7bb"
       ],
       "google": [
         "581c8fb845bd6d65",
@@ -12717,12 +13315,15 @@
         "581c8fb845bd6d65",
         "9d3eef28d73f90e5",
         "c81451f3ca585417",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "97fb7ceef896c7bb"
       ],
       "here": [
         "581c8fb845bd6d65",
         "0897ec52374a6727",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "comparisontabl": [
         "581c8fb845bd6d65"
@@ -12749,7 +13350,8 @@
       "feature": [
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "28b8b9de31f5cadb"
       ],
       "every": [
         "b8f86559bf96fa79",
@@ -12761,11 +13363,16 @@
       ],
       "price": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "43d8975edd1d52c6"
       ],
       "possible": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "11649a153e119882",
+        "ff9e56d5dd71a27e",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
       ],
       "well": [
         "b8f86559bf96fa79",
@@ -12822,7 +13429,8 @@
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
         "1b875cbff8d9d6f0",
-        "890e6f3385756921"
+        "890e6f3385756921",
+        "a097e618de3ed01d"
       ],
       "spent": [
         "b8f86559bf96fa79",
@@ -12830,7 +13438,8 @@
       ],
       "over": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "6785f05bf642785f"
       ],
       "hours": [
         "b8f86559bf96fa79",
@@ -12857,7 +13466,8 @@
         "50d89ae937544a7e"
       ],
       "space": [
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "bfc7a4d8c3bb62b7"
       ],
       "customer": [
         "b8f86559bf96fa79",
@@ -13249,7 +13859,8 @@
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
         "e9b87086091506eb",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "dd687126eb7367e3"
       ],
       "以及远程操控和监控的设备": [
         "1b875cbff8d9d6f0"
@@ -13620,7 +14231,19 @@
         "08b5b3a969983ea5",
         "0c698dccfe6ccd1c",
         "4caa16206e5fd138",
-        "0e103e53f9552598"
+        "0e103e53f9552598",
+        "c18268c1929fa35e",
+        "752cf5e74acf00b4",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "rosulek": [
         "a572412ab66c4013"
@@ -13655,7 +14278,8 @@
       ],
       "structure": [
         "a572412ab66c4013",
-        "837db61bcf100381"
+        "837db61bcf100381",
+        "eaa81f2af19b42d4"
       ],
       "visualizations": [
         "a572412ab66c4013",
@@ -13787,7 +14411,8 @@
         "0897ec52374a6727",
         "95e3a5b592935fe3",
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "7b50322b5a753f68"
       ],
       "为什么有人显老": [
         "17380aa1e75c8e1c",
@@ -14195,7 +14820,14 @@
         "95e3a5b592935fe3",
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "c18268c1929fa35e",
+        "affbebb408ee0c70",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "fácil": [
         "8ed8baff7acd22b8",
@@ -14925,7 +15557,9 @@
         "b850a0f81ab34e71",
         "c81451f3ca585417",
         "b734cca537f5beff",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -14941,7 +15575,8 @@
       "model": [
         "026f23a1d4ac4177",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "eaa81f2af19b42d4"
       ],
       "serverless": [
         "026f23a1d4ac4177"
@@ -14975,7 +15610,8 @@
         "6657cde91a25b327"
       ],
       "core": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "d325046e81e2049f"
       ],
       "need": [
         "026f23a1d4ac4177",
@@ -14994,7 +15630,8 @@
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "d325046e81e2049f"
       ],
       "managed": [
         "026f23a1d4ac4177"
@@ -15014,10 +15651,14 @@
       ],
       "search": [
         "026f23a1d4ac4177",
-        "242d8505c4a22160"
+        "242d8505c4a22160",
+        "97fb7ceef896c7bb",
+        "6785f05bf642785f"
       ],
       "always": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "affbebb408ee0c70",
+        "a097e618de3ed01d"
       ],
       "three": [
         "026f23a1d4ac4177",
@@ -15055,7 +15696,8 @@
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
         "29f959514c4bbb81",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "97fb7ceef896c7bb"
       ],
       "developer": [
         "026f23a1d4ac4177",
@@ -15077,7 +15719,9 @@
       ],
       "complete": [
         "71a1a96eb62a2f10",
-        "63cccdfba6defaab"
+        "63cccdfba6defaab",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "tutorialq": [
         "71a1a96eb62a2f10"
@@ -15089,7 +15733,9 @@
         "71a1a96eb62a2f10"
       ],
       "clear": [
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
       ],
       "strengths": [
         "71a1a96eb62a2f10"
@@ -15107,7 +15753,9 @@
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "a097e618de3ed01d",
+        "bfc7a4d8c3bb62b7"
       ],
       "workload": [
         "71a1a96eb62a2f10"
@@ -15115,7 +15763,9 @@
       "copy": [
         "71a1a96eb62a2f10",
         "08b5b3a969983ea5",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "c18268c1929fa35e",
+        "a62ca3630b4c6371"
       ],
       "largest": [
         "71a1a96eb62a2f10"
@@ -15136,7 +15786,9 @@
         "71a1a96eb62a2f10"
       ],
       "position": [
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d"
       ],
       "revenue": [
         "71a1a96eb62a2f10"
@@ -15159,7 +15811,8 @@
       ],
       "both": [
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "a097e618de3ed01d"
       ],
       "platforms": [
         "1d4e81d94c23b2c2",
@@ -15181,7 +15834,8 @@
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "ff9e56d5dd71a27e"
       ],
       "native": [
         "1d4e81d94c23b2c2"
@@ -15220,17 +15874,20 @@
       ],
       "side": [
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "bfc7a4d8c3bb62b7"
       ],
       "globally": [
         "1d4e81d94c23b2c2",
         "0414d536276c3f78"
       ],
       "options": [
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "11649a153e119882"
       ],
       "instance": [
-        "1d4e81d94c23b2c2"
+        "1d4e81d94c23b2c2",
+        "7b50322b5a753f68"
       ],
       "simpler": [
         "1d4e81d94c23b2c2"
@@ -15249,7 +15906,8 @@
         "1d4e81d94c23b2c2",
         "c81451f3ca585417",
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "520a09954944c445"
       ],
       "migration": [
         "1d4e81d94c23b2c2",
@@ -15277,7 +15935,9 @@
         "0414d536276c3f78"
       ],
       "between": [
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "28b8b9de31f5cadb",
+        "a097e618de3ed01d"
       ],
       "consequential": [
         "0414d536276c3f78"
@@ -15741,7 +16401,8 @@
       "changes": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "520a09954944c445"
       ],
       "branches": [
         "9d3eef28d73f90e5",
@@ -15768,7 +16429,9 @@
         "9d3eef28d73f90e5",
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "a097e618de3ed01d",
+        "6785f05bf642785f"
       ],
       "push": [
         "9d3eef28d73f90e5",
@@ -15784,7 +16447,8 @@
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
         "08b5b3a969983ea5",
-        "242d8505c4a22160"
+        "242d8505c4a22160",
+        "7b50322b5a753f68"
       ],
       "main": [
         "9d3eef28d73f90e5"
@@ -15802,7 +16466,11 @@
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "ff9e56d5dd71a27e",
+        "bfc7a4d8c3bb62b7",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "commits": [
         "9d3eef28d73f90e5",
@@ -15846,7 +16514,10 @@
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
         "95e3a5b592935fe3",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "43d8975edd1d52c6",
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8"
       ],
       "important": [
         "9d3eef28d73f90e5",
@@ -15861,7 +16532,9 @@
         "9d3eef28d73f90e5",
         "08b5b3a969983ea5",
         "4263343f5723c911",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "43d8975edd1d52c6",
+        "11649a153e119882"
       ],
       "back": [
         "9d3eef28d73f90e5",
@@ -15878,7 +16551,9 @@
         "b538f01e5184994e"
       ],
       "means": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "43d8975edd1d52c6",
+        "a62ca3630b4c6371"
       ],
       "should": [
         "9d3eef28d73f90e5",
@@ -15911,13 +16586,15 @@
         "75a5d338dbd99a0c",
         "ad4f0965ff4a91ea",
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "ea1004b3a713e118"
       ],
       "advanced": [
         "91e38248c22bb7fb"
       ],
       "commands": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "dd687126eb7367e3"
       ],
       "workflows": [
         "91e38248c22bb7fb"
@@ -15929,7 +16606,8 @@
         "91e38248c22bb7fb"
       ],
       "written": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "9a7c89f34880249e"
       ],
       "speed": [
         "91e38248c22bb7fb",
@@ -16365,10 +17043,14 @@
         "08b5b3a969983ea5"
       ],
       "indexes": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "570616be0c9f7cd8"
       ],
       "before": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "ea1004b3a713e118",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882"
       ],
       "filter": [
         "08b5b3a969983ea5"
@@ -16396,7 +17078,15 @@
         "08b5b3a969983ea5"
       ],
       "example": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "11649a153e119882",
+        "a097e618de3ed01d",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "6785f05bf642785f"
       ],
       "rows": [
         "08b5b3a969983ea5",
@@ -16417,7 +17107,9 @@
         "4caa16206e5fd138"
       ],
       "large": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "measure": [
         "08b5b3a969983ea5"
@@ -16427,7 +17119,9 @@
       ],
       "after": [
         "08b5b3a969983ea5",
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
       ],
       "completed": [
         "08b5b3a969983ea5"
@@ -16467,7 +17161,25 @@
         "95e3a5b592935fe3",
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "4f7c658b5322e06d",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "520a09954944c445",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "swift": [
         "0c698dccfe6ccd1c"
@@ -16481,7 +17193,8 @@
       "works": [
         "0c698dccfe6ccd1c",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "28b8b9de31f5cadb"
       ],
       "build": [
         "0c698dccfe6ccd1c",
@@ -16502,7 +17215,10 @@
         "0c698dccfe6ccd1c"
       ],
       "usage": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "11649a153e119882",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "reducing": [
         "0c698dccfe6ccd1c"
@@ -16518,7 +17234,11 @@
       ],
       "operations": [
         "0c698dccfe6ccd1c",
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e",
+        "a62ca3630b4c6371",
+        "eaa81f2af19b42d4"
       ],
       "career": [
         "0c698dccfe6ccd1c",
@@ -16682,7 +17402,8 @@
       ],
       "methods": [
         "242d8505c4a22160",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "570616be0c9f7cd8"
       ],
       "matplotlib": [
         "242d8505c4a22160"
@@ -16692,10 +17413,13 @@
       ],
       "items": [
         "242d8505c4a22160",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "570616be0c9f7cd8"
       ],
       "module": [
-        "242d8505c4a22160"
+        "242d8505c4a22160",
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8"
       ],
       "exercises": [
         "242d8505c4a22160",
@@ -16707,7 +17431,9 @@
         "242d8505c4a22160",
         "0897ec52374a6727",
         "95e3a5b592935fe3",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6"
       ],
       "list": [
         "242d8505c4a22160",
@@ -16716,7 +17442,12 @@
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
         "4263343f5723c911",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e",
+        "520a09954944c445",
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
       ],
       "sort": [
         "242d8505c4a22160"
@@ -16725,13 +17456,25 @@
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e",
+        "7b50322b5a753f68"
       ],
       "string": [
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "c18268c1929fa35e",
+        "4f7c658b5322e06d",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "bfc7a4d8c3bb62b7"
       ],
       "tuples": [
         "242d8505c4a22160",
@@ -16740,12 +17483,22 @@
       "examples": [
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "c18268c1929fa35e",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "9a7c89f34880249e"
       ],
       "strings": [
         "242d8505c4a22160",
         "69480fe95ce24a31",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e"
       ],
       "handling": [
         "242d8505c4a22160",
@@ -16762,18 +17515,26 @@
       ],
       "numbers": [
         "242d8505c4a22160",
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "dd687126eb7367e3",
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6",
+        "a097e618de3ed01d"
       ],
       "variables": [
         "242d8505c4a22160",
         "69480fe95ce24a31",
         "0897ec52374a6727",
         "95e3a5b592935fe3",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4",
+        "520a09954944c445"
       ],
       "loop": [
         "242d8505c4a22160",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "bfc7a4d8c3bb62b7"
       ],
       "tuple": [
         "242d8505c4a22160",
@@ -16796,7 +17557,15 @@
         "242d8505c4a22160",
         "cc6901ebb1f7f3e7",
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "math": [
         "242d8505c4a22160"
@@ -16824,7 +17593,12 @@
         "242d8505c4a22160",
         "b850a0f81ab34e71",
         "0116c4c6c3da46e7",
-        "8b1b7a10f27a7fc5"
+        "8b1b7a10f27a7fc5",
+        "a62ca3630b4c6371",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "quiz": [
         "242d8505c4a22160"
@@ -16833,30 +17607,52 @@
         "69480fe95ce24a31",
         "cc6901ebb1f7f3e7",
         "4caa16206e5fd138",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "dd687126eb7367e3",
+        "752cf5e74acf00b4",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "d325046e81e2049f"
       ],
       "output": [
         "69480fe95ce24a31",
         "cc6901ebb1f7f3e7",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "c18268c1929fa35e",
+        "4f7c658b5322e06d",
+        "c43fa8d7f1d5c752"
       ],
       "print": [
         "69480fe95ce24a31",
         "dd7e384a921fc225",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "bfc7a4d8c3bb62b7"
       ],
       "comments": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "c18268c1929fa35e"
       ],
       "variable": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "ea1004b3a713e118",
+        "43d8975edd1d52c6",
+        "752cf5e74acf00b4",
+        "520a09954944c445"
       ],
       "types": [
         "69480fe95ce24a31",
         "0897ec52374a6727",
         "73c30f0c4a60b045",
         "83d7352ddb89d173",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "affbebb408ee0c70",
+        "570616be0c9f7cd8",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "casting": [
         "69480fe95ce24a31",
@@ -16870,41 +17666,67 @@
       ],
       "statements": [
         "69480fe95ce24a31",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "eaa81f2af19b42d4"
       ],
       "text": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "43d8975edd1d52c6",
+        "28b8b9de31f5cadb",
+        "bfc7a4d8c3bb62b7",
+        "6785f05bf642785f"
       ],
       "names": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "eaa81f2af19b42d4"
       ],
       "assign": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "ea1004b3a713e118",
+        "520a09954944c445"
       ],
       "multiple": [
         "69480fe95ce24a31",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "11649a153e119882",
+        "bfc7a4d8c3bb62b7"
       ],
       "values": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "570616be0c9f7cd8"
       ],
       "slicing": [
-        "69480fe95ce24a31"
+        "69480fe95ce24a31",
+        "943300b4da67886f",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e"
       ],
       "language": [
         "cc6901ebb1f7f3e7",
         "4caa16206e5fd138",
         "95e3a5b592935fe3",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "interpreter": [
         "cc6901ebb1f7f3e7",
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "9a7c89f34880249e"
       ],
       "standard": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "exceptions": [
         "cc6901ebb1f7f3e7",
@@ -16915,12 +17737,23 @@
         "4caa16206e5fd138",
         "0116c4c6c3da46e7",
         "4263343f5723c911",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "library": [
         "cc6901ebb1f7f3e7",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "d325046e81e2049f"
       ],
       "objects": [
         "cc6901ebb1f7f3e7",
@@ -16928,11 +17761,14 @@
         "95e3a5b592935fe3"
       ],
       "argument": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "bfc7a4d8c3bb62b7"
       ],
       "function": [
         "cc6901ebb1f7f3e7",
-        "ad4f0965ff4a91ea"
+        "ad4f0965ff4a91ea",
+        "4f7c658b5322e06d",
+        "7b50322b5a753f68"
       ],
       "arguments": [
         "cc6901ebb1f7f3e7",
@@ -16943,15 +17779,31 @@
       ],
       "formatting": [
         "cc6901ebb1f7f3e7",
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "570616be0c9f7cd8"
       ],
       "next": [
         "cc6901ebb1f7f3e7",
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "ea1004b3a713e118",
+        "28b8b9de31f5cadb",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "previous": [
         "cc6901ebb1f7f3e7",
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "source": [
         "cc6901ebb1f7f3e7",
@@ -16965,7 +17817,14 @@
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "28b8b9de31f5cadb",
+        "570616be0c9f7cd8",
+        "520a09954944c445",
+        "7b50322b5a753f68",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ],
       "defining": [
         "cc6901ebb1f7f3e7"
@@ -16975,33 +17834,81 @@
       ],
       "error": [
         "cc6901ebb1f7f3e7",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "ea1004b3a713e118"
       ],
       "history": [
         "cc6901ebb1f7f3e7",
         "73c30f0c4a60b045",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "97fb7ceef896c7bb"
       ],
       "page": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ],
       "foundation": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ],
       "navigation": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "theme": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "9a7c89f34880249e",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "auto": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "light": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "dark": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c",
+        "6785f05bf642785f",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
       ],
       "designed": [
         "4caa16206e5fd138",
@@ -17010,14 +17917,16 @@
       ],
       "programmers": [
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "eaa81f2af19b42d4"
       ],
       "beginners": [
         "4caa16206e5fd138"
       ],
       "easy": [
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "9a7c89f34880249e"
       ],
       "powerful": [
         "4caa16206e5fd138"
@@ -17027,14 +17936,17 @@
       ],
       "high": [
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "9a7c89f34880249e"
       ],
       "level": [
         "4caa16206e5fd138",
         "b850a0f81ab34e71",
         "63cccdfba6defaab",
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
       ],
       "structures": [
         "4caa16206e5fd138"
@@ -17044,7 +17956,10 @@
       ],
       "object": [
         "4caa16206e5fd138",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "570616be0c9f7cd8",
+        "a62ca3630b4c6371",
+        "d325046e81e2049f"
       ],
       "oriented": [
         "4caa16206e5fd138",
@@ -17068,7 +17983,9 @@
         "29f959514c4bbb81"
       ],
       "welcome": [
-        "0897ec52374a6727"
+        "0897ec52374a6727",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "generously": [
         "0897ec52374a6727",
@@ -17076,7 +17993,8 @@
       ],
       "supported": [
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "943300b4da67886f"
       ],
       "offers": [
         "0897ec52374a6727",
@@ -17145,7 +18063,13 @@
       "start": [
         "e6d382a3c8d852d4",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "943300b4da67886f",
+        "a097e618de3ed01d",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "news": [
         "e6d382a3c8d852d4"
@@ -17161,7 +18085,8 @@
         "95e3a5b592935fe3"
       ],
       "statement": [
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "eaa81f2af19b42d4"
       ],
       "array": [
         "95e3a5b592935fe3"
@@ -17190,10 +18115,15 @@
       "change": [
         "dd7e384a921fc225",
         "ad4f0965ff4a91ea",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "ff9e56d5dd71a27e",
+        "a62ca3630b4c6371"
       ],
       "value": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "dd687126eb7367e3",
+        "ea1004b3a713e118",
+        "bfc7a4d8c3bb62b7"
       ],
       "provides": [
         "dd7e384a921fc225",
@@ -17227,7 +18157,8 @@
       "development": [
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "9a7c89f34880249e"
       ],
       "environment": [
         "dd7e384a921fc225",
@@ -17239,7 +18170,11 @@
       ],
       "following": [
         "dd7e384a921fc225",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "c18268c1929fa35e",
+        "11649a153e119882",
+        "a62ca3630b4c6371",
+        "c43fa8d7f1d5c752"
       ],
       "conventional": [
         "dd7e384a921fc225"
@@ -17248,10 +18183,12 @@
         "dd7e384a921fc225"
       ],
       "allows": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "943300b4da67886f"
       ],
       "inside": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "dd687126eb7367e3"
       ],
       "again": [
         "dd7e384a921fc225",
@@ -17262,7 +18199,9 @@
         "c81451f3ca585417"
       ],
       "result": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "affbebb408ee0c70",
+        "ea1004b3a713e118"
       ],
       "applications": [
         "b850a0f81ab34e71"
@@ -17274,7 +18213,12 @@
         "b850a0f81ab34e71"
       ],
       "used": [
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "dd687126eb7367e3",
+        "ea1004b3a713e118",
+        "943300b4da67886f",
+        "570616be0c9f7cd8",
+        "bfc7a4d8c3bb62b7"
       ],
       "companies": [
         "b850a0f81ab34e71"
@@ -17292,7 +18236,9 @@
         "b850a0f81ab34e71",
         "73c30f0c4a60b045",
         "75a5d338dbd99a0c",
-        "ad4f0965ff4a91ea"
+        "ad4f0965ff4a91ea",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "windows": [
         "b850a0f81ab34e71",
@@ -17313,41 +18259,69 @@
         "73c30f0c4a60b045",
         "c81451f3ca585417",
         "b734cca537f5beff",
-        "63cccdfba6defaab"
+        "63cccdfba6defaab",
+        "9a7c89f34880249e"
       ],
       "setup": [
         "73c30f0c4a60b045",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "type": [
         "73c30f0c4a60b045",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6",
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e",
+        "c43fa8d7f1d5c752",
+        "eaa81f2af19b42d4"
       ],
       "unicode": [
         "73c30f0c4a60b045"
       ],
       "literals": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "eaa81f2af19b42d4"
       ],
       "arithmetic": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "dd687126eb7367e3",
+        "eaa81f2af19b42d4"
       ],
       "assignment": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "570616be0c9f7cd8",
+        "520a09954944c445",
+        "a62ca3630b4c6371",
+        "eaa81f2af19b42d4"
       ],
       "logical": [
         "73c30f0c4a60b045"
       ],
       "operator": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "affbebb408ee0c70",
+        "11649a153e119882",
+        "eaa81f2af19b42d4"
       ],
       "winamp": [
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854"
       ],
       "same": [
-        "6ab1d04c7b4b949f"
+        "6ab1d04c7b4b949f",
+        "43d8975edd1d52c6",
+        "943300b4da67886f",
+        "a62ca3630b4c6371",
+        "bfc7a4d8c3bb62b7"
       ],
       "wine": [
         "6ab1d04c7b4b949f",
@@ -17403,7 +18377,8 @@
       ],
       "does": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "570616be0c9f7cd8"
       ],
       "running": [
         "6ab1d04c7b4b949f",
@@ -17423,11 +18398,15 @@
       ],
       "prefix": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4"
       ],
       "much": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
       ],
       "drama": [
         "6ab1d04c7b4b949f",
@@ -17756,11 +18735,15 @@
         "75a5d338dbd99a0c"
       ],
       "tasks": [
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "7b50322b5a753f68"
       ],
       "together": [
         "75a5d338dbd99a0c",
-        "ad4f0965ff4a91ea"
+        "ad4f0965ff4a91ea",
+        "11649a153e119882",
+        "28b8b9de31f5cadb",
+        "7b50322b5a753f68"
       ],
       "duolingo": [
         "75a5d338dbd99a0c"
@@ -17769,10 +18752,12 @@
         "75a5d338dbd99a0c"
       ],
       "mode": [
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "43d8975edd1d52c6"
       ],
       "then": [
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "a097e618de3ed01d"
       ],
       "industry": [
         "75a5d338dbd99a0c",
@@ -17804,7 +18789,8 @@
       ],
       "automate": [
         "75a5d338dbd99a0c",
-        "ad4f0965ff4a91ea"
+        "ad4f0965ff4a91ea",
+        "6785f05bf642785f"
       ],
       "constant": [
         "ad4f0965ff4a91ea"
@@ -17950,7 +18936,11 @@
       "note": [
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "c18268c1929fa35e",
+        "11649a153e119882",
+        "943300b4da67886f",
+        "a097e618de3ed01d"
       ],
       "itself": [
         "0116c4c6c3da46e7",
@@ -17982,13 +18972,18 @@
       ],
       "prompt": [
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "c18268c1929fa35e",
+        "dd687126eb7367e3",
+        "ea1004b3a713e118",
+        "c43fa8d7f1d5c752"
       ],
       "once": [
         "c81451f3ca585417"
       ],
       "download": [
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "97fb7ceef896c7bb"
       ],
       "installation": [
         "c81451f3ca585417"
@@ -18030,7 +19025,8 @@
       ],
       "look": [
         "b734cca537f5beff",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "4f7c658b5322e06d"
       ],
       "called": [
         "b734cca537f5beff"
@@ -18102,14 +19098,20 @@
         "4263343f5723c911"
       ],
       "message": [
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "11649a153e119882"
       ],
       "perl": [
         "4263343f5723c911"
       ],
       "last": [
         "e9b87086091506eb",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "43d8975edd1d52c6",
+        "943300b4da67886f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "bfc7a4d8c3bb62b7"
       ],
       "wrappers": [
         "e9b87086091506eb"
@@ -18145,7 +19147,10 @@
         "e9b87086091506eb"
       ],
       "must": [
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "c18268c1929fa35e",
+        "bfc7a4d8c3bb62b7",
+        "c43fa8d7f1d5c752"
       ],
       "signed": [
         "e9b87086091506eb"
@@ -18185,7 +19190,8 @@
         "bd98ca4333ae9b5d",
         "b538f01e5184994e",
         "f0c2f536dcbaf6b1",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "7b50322b5a753f68"
       ],
       "specialization": [
         "63cccdfba6defaab",
@@ -18262,7 +19268,8 @@
         "a2bd74e873119959"
       ],
       "full": [
-        "a2bd74e873119959"
+        "a2bd74e873119959",
+        "43d8975edd1d52c6"
       ],
       "thousands": [
         "a2bd74e873119959"
@@ -18283,7 +19290,8 @@
         "a2bd74e873119959"
       ],
       "essential": [
-        "a2bd74e873119959"
+        "a2bd74e873119959",
+        "d325046e81e2049f"
       ],
       "competencies": [
         "a2bd74e873119959"
@@ -18314,7 +19322,8 @@
       ],
       "entry": [
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "11649a153e119882"
       ],
       "minutes": [
         "233ff78d2aee3830",
@@ -18366,11 +19375,19 @@
       ],
       "first": [
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "752cf5e74acf00b4",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7"
       ],
       "series": [
         "233ff78d2aee3830",
-        "bd98ca4333ae9b5d"
+        "bd98ca4333ae9b5d",
+        "7b50322b5a753f68"
       ],
       "prepare": [
         "233ff78d2aee3830",
@@ -18381,7 +19398,8 @@
         "6657cde91a25b327"
       ],
       "addition": [
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "943300b4da67886f"
       ],
       "attacks": [
         "83d7352ddb89d173",
@@ -18400,7 +19418,8 @@
         "83d7352ddb89d173"
       ],
       "programs": [
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "9a7c89f34880249e"
       ],
       "address": [
         "83d7352ddb89d173"
@@ -18700,7 +19719,9 @@
         "f107e4b01ec0b955"
       ],
       "recent": [
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8"
       ],
       "graduates": [
         "6657cde91a25b327"
@@ -18736,7 +19757,10 @@
         "f107e4b01ec0b955"
       ],
       "introduction": [
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "eaa81f2af19b42d4"
       ],
       "cybersecuity": [
         "f0c2f536dcbaf6b1",
@@ -18792,7 +19816,9 @@
         "f107e4b01ec0b955"
       ],
       "sections": [
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
       ],
       "roadmap": [
         "f0c2f536dcbaf6b1"
@@ -18828,12 +19854,926 @@
       ],
       "certifi": [
         "f107e4b01ec0b955"
+      ],
+      "line": [
+        "c18268c1929fa35e",
+        "43d8975edd1d52c6",
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "informal": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "d325046e81e2049f"
+      ],
+      "hash": [
+        "c18268c1929fa35e"
+      ],
+      "character": [
+        "c18268c1929fa35e",
+        "752cf5e74acf00b4",
+        "943300b4da67886f",
+        "a097e618de3ed01d"
+      ],
+      "input": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752",
+        "eaa81f2af19b42d4"
+      ],
+      "prompts": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "appears": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "lines": [
+        "c18268c1929fa35e",
+        "11649a153e119882",
+        "c43fa8d7f1d5c752"
+      ],
+      "within": [
+        "c18268c1929fa35e",
+        "28b8b9de31f5cadb",
+        "a097e618de3ed01d"
+      ],
+      "literal": [
+        "c18268c1929fa35e",
+        "752cf5e74acf00b4"
+      ],
+      "distinguished": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "presence": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "absence": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "repeat": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "begin": [
+        "c18268c1929fa35e",
+        "c43fa8d7f1d5c752"
+      ],
+      "secondary": [
+        "c18268c1929fa35e"
+      ],
+      "calculator": [
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "expression": [
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "eaa81f2af19b42d4"
+      ],
+      "comment": [
+        "dd687126eb7367e3"
+      ],
+      "because": [
+        "dd687126eb7367e3"
+      ],
+      "quotes": [
+        "dd687126eb7367e3",
+        "43d8975edd1d52c6",
+        "4f7c658b5322e06d",
+        "11649a153e119882",
+        "28b8b9de31f5cadb"
+      ],
+      "wait": [
+        "dd687126eb7367e3"
+      ],
+      "primary": [
+        "dd687126eb7367e3"
+      ],
+      "long": [
+        "dd687126eb7367e3",
+        "28b8b9de31f5cadb"
+      ],
+      "acts": [
+        "dd687126eb7367e3"
+      ],
+      "write": [
+        "dd687126eb7367e3",
+        "7b50322b5a753f68",
+        "9a7c89f34880249e"
+      ],
+      "straightforward": [
+        "dd687126eb7367e3"
+      ],
+      "perform": [
+        "dd687126eb7367e3",
+        "6785f05bf642785f"
+      ],
+      "parentheses": [
+        "dd687126eb7367e3",
+        "28b8b9de31f5cadb"
+      ],
+      "grouping": [
+        "dd687126eb7367e3"
+      ],
+      "division": [
+        "affbebb408ee0c70"
+      ],
+      "returns": [
+        "affbebb408ee0c70",
+        "ff9e56d5dd71a27e",
+        "a62ca3630b4c6371"
+      ],
+      "integer": [
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6"
+      ],
+      "float": [
+        "affbebb408ee0c70"
+      ],
+      "floating": [
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6"
+      ],
+      "point": [
+        "affbebb408ee0c70",
+        "43d8975edd1d52c6"
+      ],
+      "number": [
+        "affbebb408ee0c70",
+        "11649a153e119882",
+        "570616be0c9f7cd8",
+        "6785f05bf642785f"
+      ],
+      "ones": [
+        "affbebb408ee0c70",
+        "28b8b9de31f5cadb"
+      ],
+      "fractional": [
+        "affbebb408ee0c70"
+      ],
+      "numeric": [
+        "affbebb408ee0c70"
+      ],
+      "later": [
+        "affbebb408ee0c70"
+      ],
+      "floor": [
+        "affbebb408ee0c70"
+      ],
+      "calculate": [
+        "affbebb408ee0c70"
+      ],
+      "remainder": [
+        "affbebb408ee0c70"
+      ],
+      "width": [
+        "ea1004b3a713e118"
+      ],
+      "height": [
+        "ea1004b3a713e118"
+      ],
+      "power": [
+        "ea1004b3a713e118"
+      ],
+      "equal": [
+        "ea1004b3a713e118",
+        "a097e618de3ed01d",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "afterwards": [
+        "ea1004b3a713e118"
+      ],
+      "displayed": [
+        "ea1004b3a713e118"
+      ],
+      "defined": [
+        "ea1004b3a713e118",
+        "43d8975edd1d52c6"
+      ],
+      "assigned": [
+        "ea1004b3a713e118",
+        "43d8975edd1d52c6"
+      ],
+      "trying": [
+        "ea1004b3a713e118"
+      ],
+      "give": [
+        "ea1004b3a713e118"
+      ],
+      "support": [
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e"
+      ],
+      "built": [
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8",
+        "7b50322b5a753f68",
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
+      ],
+      "undefined": [
+        "43d8975edd1d52c6"
+      ],
+      "traceback": [
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8"
+      ],
+      "call": [
+        "43d8975edd1d52c6",
+        "570616be0c9f7cd8"
+      ],
+      "stdin": [
+        "43d8975edd1d52c6",
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8"
+      ],
+      "nameerror": [
+        "43d8975edd1d52c6"
+      ],
+      "mixed": [
+        "43d8975edd1d52c6"
+      ],
+      "operands": [
+        "43d8975edd1d52c6"
+      ],
+      "convert": [
+        "43d8975edd1d52c6"
+      ],
+      "operand": [
+        "43d8975edd1d52c6"
+      ],
+      "printed": [
+        "43d8975edd1d52c6"
+      ],
+      "desk": [
+        "43d8975edd1d52c6"
+      ],
+      "somewhat": [
+        "43d8975edd1d52c6"
+      ],
+      "easier": [
+        "43d8975edd1d52c6"
+      ],
+      "continue": [
+        "43d8975edd1d52c6"
+      ],
+      "said": [
+        "4f7c658b5322e06d"
+      ],
+      "double": [
+        "4f7c658b5322e06d"
+      ],
+      "instead": [
+        "4f7c658b5322e06d"
+      ],
+      "doesn": [
+        "4f7c658b5322e06d"
+      ],
+      "shell": [
+        "4f7c658b5322e06d",
+        "9a7c89f34880249e"
+      ],
+      "definition": [
+        "4f7c658b5322e06d"
+      ],
+      "produces": [
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b"
+      ],
+      "readable": [
+        "4f7c658b5322e06d"
+      ],
+      "omitting": [
+        "4f7c658b5322e06d"
+      ],
+      "enclosing": [
+        "4f7c658b5322e06d"
+      ],
+      "printing": [
+        "4f7c658b5322e06d"
+      ],
+      "escaped": [
+        "4f7c658b5322e06d"
+      ],
+      "special": [
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "eaa81f2af19b42d4"
+      ],
+      "characters": [
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8"
+      ],
+      "second": [
+        "4f7c658b5322e06d",
+        "e6fd0eb831e3c28b",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d"
+      ],
+      "interpreted": [
+        "e6fd0eb831e3c28b"
+      ],
+      "want": [
+        "e6fd0eb831e3c28b",
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4"
+      ],
+      "prefaced": [
+        "e6fd0eb831e3c28b"
+      ],
+      "adding": [
+        "e6fd0eb831e3c28b",
+        "11649a153e119882",
+        "7b50322b5a753f68"
+      ],
+      "quote": [
+        "e6fd0eb831e3c28b",
+        "11649a153e119882"
+      ],
+      "hostname": [
+        "11649a153e119882"
+      ],
+      "included": [
+        "11649a153e119882",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d"
+      ],
+      "thingy": [
+        "11649a153e119882"
+      ],
+      "display": [
+        "11649a153e119882"
+      ],
+      "connect": [
+        "11649a153e119882"
+      ],
+      "subtle": [
+        "11649a153e119882"
+      ],
+      "aspect": [
+        "11649a153e119882"
+      ],
+      "workarounds": [
+        "11649a153e119882"
+      ],
+      "span": [
+        "11649a153e119882"
+      ],
+      "triple": [
+        "11649a153e119882"
+      ],
+      "automatically": [
+        "11649a153e119882",
+        "28b8b9de31f5cadb"
+      ],
+      "prevent": [
+        "11649a153e119882"
+      ],
+      "initial": [
+        "11649a153e119882",
+        "7b50322b5a753f68"
+      ],
+      "newline": [
+        "11649a153e119882"
+      ],
+      "concatenated": [
+        "11649a153e119882",
+        "28b8b9de31f5cadb"
+      ],
+      "glued": [
+        "11649a153e119882"
+      ],
+      "repeated": [
+        "11649a153e119882"
+      ],
+      "thon": [
+        "28b8b9de31f5cadb",
+        "752cf5e74acf00b4"
+      ],
+      "several": [
+        "28b8b9de31f5cadb"
+      ],
+      "them": [
+        "28b8b9de31f5cadb"
+      ],
+      "joined": [
+        "28b8b9de31f5cadb"
+      ],
+      "times": [
+        "28b8b9de31f5cadb"
+      ],
+      "followed": [
+        "28b8b9de31f5cadb"
+      ],
+      "unununium": [
+        "28b8b9de31f5cadb"
+      ],
+      "enclosed": [
+        "28b8b9de31f5cadb"
+      ],
+      "particularly": [
+        "28b8b9de31f5cadb"
+      ],
+      "useful": [
+        "28b8b9de31f5cadb",
+        "350fbd9ded26941f"
+      ],
+      "break": [
+        "28b8b9de31f5cadb"
+      ],
+      "though": [
+        "28b8b9de31f5cadb"
+      ],
+      "expressions": [
+        "28b8b9de31f5cadb",
+        "bfc7a4d8c3bb62b7",
+        "eaa81f2af19b42d4"
+      ],
+      "concatenate": [
+        "752cf5e74acf00b4"
+      ],
+      "syntaxerror": [
+        "752cf5e74acf00b4"
+      ],
+      "invalid": [
+        "752cf5e74acf00b4"
+      ],
+      "word": [
+        "752cf5e74acf00b4",
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8"
+      ],
+      "indexed": [
+        "752cf5e74acf00b4",
+        "570616be0c9f7cd8"
+      ],
+      "subscripted": [
+        "752cf5e74acf00b4"
+      ],
+      "having": [
+        "752cf5e74acf00b4"
+      ],
+      "separate": [
+        "752cf5e74acf00b4"
+      ],
+      "simply": [
+        "752cf5e74acf00b4"
+      ],
+      "size": [
+        "752cf5e74acf00b4",
+        "350fbd9ded26941f",
+        "a62ca3630b4c6371"
+      ],
+      "indexing": [
+        "943300b4da67886f"
+      ],
+      "obtain": [
+        "943300b4da67886f"
+      ],
+      "since": [
+        "943300b4da67886f",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "negative": [
+        "943300b4da67886f",
+        "a097e618de3ed01d"
+      ],
+      "indices": [
+        "943300b4da67886f",
+        "350fbd9ded26941f",
+        "a097e618de3ed01d"
+      ],
+      "while": [
+        "943300b4da67886f",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "individual": [
+        "943300b4da67886f"
+      ],
+      "substring": [
+        "943300b4da67886f"
+      ],
+      "defaults": [
+        "350fbd9ded26941f"
+      ],
+      "omitted": [
+        "350fbd9ded26941f"
+      ],
+      "excluded": [
+        "350fbd9ded26941f",
+        "a097e618de3ed01d"
+      ],
+      "slice": [
+        "350fbd9ded26941f",
+        "a097e618de3ed01d",
+        "570616be0c9f7cd8",
+        "a62ca3630b4c6371"
+      ],
+      "zero": [
+        "350fbd9ded26941f",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "being": [
+        "350fbd9ded26941f"
+      ],
+      "sliced": [
+        "350fbd9ded26941f"
+      ],
+      "edge": [
+        "a097e618de3ed01d"
+      ],
+      "gives": [
+        "a097e618de3ed01d"
+      ],
+      "length": [
+        "a097e618de3ed01d"
+      ],
+      "makes": [
+        "a097e618de3ed01d"
+      ],
+      "sure": [
+        "a097e618de3ed01d"
+      ],
+      "remember": [
+        "a097e618de3ed01d"
+      ],
+      "slices": [
+        "a097e618de3ed01d",
+        "a62ca3630b4c6371"
+      ],
+      "pointing": [
+        "a097e618de3ed01d"
+      ],
+      "left": [
+        "a097e618de3ed01d"
+      ],
+      "numbered": [
+        "a097e618de3ed01d"
+      ],
+      "corresponding": [
+        "a097e618de3ed01d"
+      ],
+      "consists": [
+        "a097e618de3ed01d"
+      ],
+      "edges": [
+        "a097e618de3ed01d"
+      ],
+      "labeled": [
+        "a097e618de3ed01d"
+      ],
+      "respectively": [
+        "a097e618de3ed01d"
+      ],
+      "difference": [
+        "a097e618de3ed01d"
+      ],
+      "bounds": [
+        "a097e618de3ed01d"
+      ],
+      "attempting": [
+        "a097e618de3ed01d"
+      ],
+      "sequence": [
+        "570616be0c9f7cd8",
+        "7b50322b5a753f68"
+      ],
+      "squares": [
+        "570616be0c9f7cd8",
+        "ff9e56d5dd71a27e"
+      ],
+      "range": [
+        "570616be0c9f7cd8"
+      ],
+      "typeerror": [
+        "570616be0c9f7cd8"
+      ],
+      "item": [
+        "570616be0c9f7cd8"
+      ],
+      "format": [
+        "570616be0c9f7cd8"
+      ],
+      "indexerror": [
+        "570616be0c9f7cd8"
+      ],
+      "however": [
+        "570616be0c9f7cd8"
+      ],
+      "handled": [
+        "570616be0c9f7cd8"
+      ],
+      "gracefully": [
+        "570616be0c9f7cd8"
+      ],
+      "concatenation": [
+        "ff9e56d5dd71a27e"
+      ],
+      "unlike": [
+        "ff9e56d5dd71a27e"
+      ],
+      "immutable": [
+        "ff9e56d5dd71a27e"
+      ],
+      "mutable": [
+        "ff9e56d5dd71a27e"
+      ],
+      "content": [
+        "ff9e56d5dd71a27e"
+      ],
+      "cubes": [
+        "ff9e56d5dd71a27e",
+        "520a09954944c445"
+      ],
+      "rgba": [
+        "520a09954944c445",
+        "a62ca3630b4c6371"
+      ],
+      "cube": [
+        "520a09954944c445"
+      ],
+      "never": [
+        "520a09954944c445"
+      ],
+      "copies": [
+        "520a09954944c445"
+      ],
+      "refers": [
+        "520a09954944c445"
+      ],
+      "existing": [
+        "520a09954944c445"
+      ],
+      "seen": [
+        "520a09954944c445"
+      ],
+      "refer": [
+        "520a09954944c445"
+      ],
+      "green": [
+        "520a09954944c445",
+        "a62ca3630b4c6371"
+      ],
+      "blue": [
+        "520a09954944c445",
+        "a62ca3630b4c6371"
+      ],
+      "alph": [
+        "a62ca3630b4c6371"
+      ],
+      "correct_rgba": [
+        "a62ca3630b4c6371"
+      ],
+      "alpha": [
+        "a62ca3630b4c6371"
+      ],
+      "letters": [
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
+      ],
+      "true": [
+        "a62ca3630b4c6371",
+        "bfc7a4d8c3bb62b7"
+      ],
+      "append": [
+        "a62ca3630b4c6371"
+      ],
+      "return": [
+        "a62ca3630b4c6371"
+      ],
+      "containing": [
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68"
+      ],
+      "requested": [
+        "a62ca3630b4c6371"
+      ],
+      "elements": [
+        "a62ca3630b4c6371",
+        "7b50322b5a753f68",
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "shallow": [
+        "a62ca3630b4c6371"
+      ],
+      "even": [
+        "a62ca3630b4c6371",
+        "9a7c89f34880249e"
+      ],
+      "entirely": [
+        "a62ca3630b4c6371"
+      ],
+      "replacing": [
+        "7b50322b5a753f68"
+      ],
+      "empty": [
+        "7b50322b5a753f68"
+      ],
+      "applies": [
+        "7b50322b5a753f68"
+      ],
+      "nest": [
+        "7b50322b5a753f68"
+      ],
+      "towards": [
+        "7b50322b5a753f68"
+      ],
+      "complicated": [
+        "7b50322b5a753f68",
+        "6785f05bf642785f"
+      ],
+      "than": [
+        "7b50322b5a753f68",
+        "bfc7a4d8c3bb62b7",
+        "9a7c89f34880249e"
+      ],
+      "fibonacci": [
+        "7b50322b5a753f68"
+      ],
+      "follows": [
+        "7b50322b5a753f68"
+      ],
+      "indented": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "license": [
+        "bfc7a4d8c3bb62b7",
+        "97fb7ceef896c7bb",
+        "9a7c89f34880249e",
+        "eaa81f2af19b42d4"
+      ],
+      "hand": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "evaluated": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "condition": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "false": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "less": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "greater": [
+        "bfc7a4d8c3bb62b7"
+      ],
+      "outpu": [
+        "c43fa8d7f1d5c752"
+      ],
+      "fixes": [
+        "97fb7ceef896c7bb"
+      ],
+      "documents": [
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "glossary": [
+        "97fb7ceef896c7bb"
+      ],
+      "terms": [
+        "97fb7ceef896c7bb"
+      ],
+      "copyright": [
+        "97fb7ceef896c7bb"
+      ],
+      "stable": [
+        "97fb7ceef896c7bb"
+      ],
+      "licensed": [
+        "97fb7ceef896c7bb"
+      ],
+      "under": [
+        "97fb7ceef896c7bb"
+      ],
+      "official": [
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "tour": [
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "builtins": [
+        "97fb7ceef896c7bb",
+        "32fb397d927bda9c"
+      ],
+      "configure": [
+        "32fb397d927bda9c"
+      ],
+      "whetting": [
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
+      ],
+      "appetite": [
+        "9a7c89f34880249e",
+        "6785f05bf642785f"
+      ],
+      "java": [
+        "9a7c89f34880249e"
+      ],
+      "test": [
+        "9a7c89f34880249e"
+      ],
+      "such": [
+        "9a7c89f34880249e"
+      ],
+      "could": [
+        "9a7c89f34880249e"
+      ],
+      "eventually": [
+        "6785f05bf642785f"
+      ],
+      "task": [
+        "6785f05bf642785f"
+      ],
+      "wish": [
+        "6785f05bf642785f"
+      ],
+      "replace": [
+        "6785f05bf642785f"
+      ],
+      "rename": [
+        "6785f05bf642785f"
+      ],
+      "rearrange": [
+        "6785f05bf642785f"
+      ],
+      "bunch": [
+        "6785f05bf642785f"
+      ],
+      "photo": [
+        "6785f05bf642785f"
+      ],
+      "perhaps": [
+        "6785f05bf642785f"
+      ],
+      "describes": [
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
+      ],
+      "import": [
+        "eaa81f2af19b42d4"
+      ],
+      "manual": [
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
+      ],
+      "semantics": [
+        "eaa81f2af19b42d4",
+        "d325046e81e2049f"
+      ],
+      "coroutines": [
+        "eaa81f2af19b42d4"
+      ],
+      "components": [
+        "eaa81f2af19b42d4"
+      ],
+      "bitwise": [
+        "eaa81f2af19b42d4"
+      ],
+      "binary": [
+        "eaa81f2af19b42d4"
+      ],
+      "terse": [
+        "d325046e81e2049f"
+      ],
+      "attempts": [
+        "d325046e81e2049f"
+      ],
+      "exact": [
+        "d325046e81e2049f"
+      ],
+      "described": [
+        "d325046e81e2049f"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 40,
-    "paginas_falhas": 233,
-    "total_caracteres": 262356
+    "paginas_baixadas": 44,
+    "paginas_falhas": 238,
+    "total_caracteres": 289809
   }
 }
