@@ -1642,5 +1642,223 @@
       "https://prp.unicamp.br/inscricao-congresso/resumos/2023P22060A38854O568.pdf",
       "https://conceitos.tech/inteligencia-artificial/deep-learning/redes-neurais-profundas/"
     ]
+  },
+  {
+    "id": "b0a1ede2fabfaf3f",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: etica IA responsavel\n\nEvolucao: ## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 377 conexoes\n\nTermos chave: d......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:57:48.877273",
+    "modificado": "2026-03-13T13:57:49.558529",
+    "conexoes": [
+      {
+        "para": "50dcf1519f1fdf6e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "etica IA responsavel",
+        "etica IA responsavel fundamentos",
+        "etica IA responsavel algoritmos",
+        "etica IA responsavel aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: etica IA responsavel",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:57:49.558184",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 377 conexoes\n\nTermos chave: discutido, princípios, desenvolvido, platão, valor",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:57:49.558336",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n- outros: princípios, normas, discutido\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:57:49.558400",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 377 conexoes\n\nTermos chave: d...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:57:49.558462",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: etica IA responsavel\n\nEvolucao: ## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n- outros: princípios, normas, discu...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:57:49.558520",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://www.significados.com.br/etica/",
+      "https://www.dicio.com.br/etica/",
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "d1d4025e153cb7c3",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado por reforco\n\nEvolucao: ## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 9\nBase empirica: 20 observacoes\nRede inicial: 298 conexoes\n\nTermos cha......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 10 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:58:11.818055",
+    "modificado": "2026-03-13T13:58:12.359882",
+    "conexoes": [
+      {
+        "para": "265a73ba4d7cc25f",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado por reforco",
+        "aprendizado por reforco fundamentos",
+        "aprendizado por reforco aplicacoes",
+        "aprendizado por reforco algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado por reforco",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:58:12.359413",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 9\nBase empirica: 20 observacoes\nRede inicial: 298 conexoes\n\nTermos chave: treinamento, enquadrar, alcançar, tange, interpretadas",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:58:12.359591",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 10.3 conexoes/celula\nClusters identificados:\n- outros: alcançar, enquadrar, interpretadas\n\nFontes: 10 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:58:12.359671",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 9\nBase empirica: 20 observacoes\nRede inicial: 298 conexoes\n\nTermos cha...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:58:12.359797",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado por reforco\n\nEvolucao: ## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 10.3 conexoes/celula\nClusters identificados:\n- outros: alcançar, enquadrar...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:58:12.359872",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://www.significados.com.br/aprendizagem/",
+      "https://www.dicio.com.br/aprendizado/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "c4bf5b40185f576b",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: redes neurais recorrentes LSTM\n\nEvolucao: ## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial: 827 conex......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 14 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:58:30.361782",
+    "modificado": "2026-03-13T13:58:31.080056",
+    "conexoes": [
+      {
+        "para": "d62ed912eaf556d5",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "redes neurais recorrentes LSTM",
+        "redes neurais recorrentes LSTM aplicacoes",
+        "redes neurais recorrentes LSTM fundamentos",
+        "redes neurais recorrentes LSTM algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: redes neurais recorrentes LSTM",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:58:31.079606",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial: 827 conexoes\n\nTermos chave: extraction, baseadas, próximo, desaparecimento, ef...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:58:31.079846",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 10.3 conexoes/celula\nClusters identificados:\n- outros: simplificado, diagrama, campos\n\nFontes: 14 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:58:31.079918",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 10\nBase empirica: 30 observacoes\nRede inicial: 827 conex...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:58:31.079982",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 10.3 conexoes/celula\nClusters identificados:\n- outros: simpl...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:58:31.080048",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores",
+      "https://www.ibm.com/br-pt/think/topics/networking",
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime",
+      "https://brainly.com.br/tarefa/55731941",
+      "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "https://www.gaap.deqm.puc-rio.br/en/",
+      "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
   }
 ]
