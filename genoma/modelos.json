@@ -131,5 +131,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "bd1b45f149888e84",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'aprendizado por reforco profundo': reforço, poder, redes, neurais, avançado. Base: 3 obs, 16 conceitos.",
+    "criado": "2026-03-13T13:42:48.133929",
+    "modificado": "2026-03-13T13:42:48.133929",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "arquivo": "aprendizado_por_reforco_p.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
