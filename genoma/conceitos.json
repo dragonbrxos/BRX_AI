@@ -5283,30 +5283,9 @@
         "para": "7fe2d1fa42dd3ca2",
         "tipo": "menciona",
         "forca": 0.5
-      }
-    ],
-    "energia": 1.0,
-    "geracao": 0,
-    "meta": {
-      "topico": "aprendizado por reforco profundo",
-      "frequencia": 1
-    },
-    "origem": null,
-    "historico": [],
-    "profundidade": 0,
-    "fontes": [
-      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
-    ]
-  },
-  {
-    "id": "8874fa4ccc449868",
-    "tipo": "conceito",
-    "conteudo": "áreas",
-    "criado": "2026-03-13T13:42:48.029952",
-    "modificado": "2026-03-13T13:42:48.029952",
-    "conexoes": [
+      },
       {
-        "para": "7fe2d1fa42dd3ca2",
+        "para": "c1a996f73d3b1272",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -5321,7 +5300,40 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+    ]
+  },
+  {
+    "id": "8874fa4ccc449868",
+    "tipo": "conceito",
+    "conteudo": "áreas",
+    "criado": "2026-03-13T13:42:48.029952",
+    "modificado": "2026-03-13T13:42:48.029952",
+    "conexoes": [
+      {
+        "para": "7fe2d1fa42dd3ca2",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
   },
   {
@@ -7579,6 +7591,16 @@
         "para": "17c1439940506515",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7594,7 +7616,8 @@
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
-      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
   },
   {
@@ -7623,6 +7646,16 @@
         "para": "17c1439940506515",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7638,7 +7671,8 @@
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
-      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
   },
   {
@@ -7667,6 +7701,16 @@
         "para": "17c1439940506515",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7682,7 +7726,8 @@
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
-      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
   },
   {
@@ -7779,6 +7824,11 @@
         "para": "9668d50763fb84e7",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7832,6 +7882,11 @@
         "para": "9668d50763fb84e7",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7856,6 +7911,11 @@
     "conexoes": [
       {
         "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -7884,6 +7944,11 @@
         "para": "9668d50763fb84e7",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7908,6 +7973,11 @@
     "conexoes": [
       {
         "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1434ed51d033f3e3",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -7988,6 +8058,11 @@
         "para": "17c1439940506515",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8000,7 +8075,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
     ]
   },
   {
@@ -8027,6 +8103,266 @@
     "profundidade": 0,
     "fontes": [
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+    ]
+  },
+  {
+    "id": "07977ed9f0f5cfa3",
+    "tipo": "conceito",
+    "conteudo": "chegar",
+    "criado": "2026-03-13T13:46:45.915474",
+    "modificado": "2026-03-13T13:46:45.915474",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "48eb8bd73e962dca",
+    "tipo": "conceito",
+    "conteudo": "historicamente",
+    "criado": "2026-03-13T13:46:45.915882",
+    "modificado": "2026-03-13T13:46:45.915882",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "657f3634be0b1c50",
+    "tipo": "conceito",
+    "conteudo": "atualmente",
+    "criado": "2026-03-13T13:46:45.916230",
+    "modificado": "2026-03-13T13:46:45.916230",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "d6845e5036221dec",
+    "tipo": "conceito",
+    "conteudo": "afinal",
+    "criado": "2026-03-13T13:46:45.917119",
+    "modificado": "2026-03-13T13:46:45.917119",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "d8f1bbed69cfb5f0",
+    "tipo": "conceito",
+    "conteudo": "relevantes",
+    "criado": "2026-03-13T13:46:45.917468",
+    "modificado": "2026-03-13T13:46:45.917468",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "c12b03e8c7d3dfee",
+    "tipo": "conceito",
+    "conteudo": "português",
+    "criado": "2026-03-13T13:46:45.917942",
+    "modificado": "2026-03-13T13:46:45.917942",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "bcb996969a353780",
+    "tipo": "conceito",
+    "conteudo": "livro",
+    "criado": "2026-03-13T13:46:45.918301",
+    "modificado": "2026-03-13T13:46:45.918301",
+    "conexoes": [
+      {
+        "para": "bffca00f90c5e40f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "985063d62cdb68fb",
+    "tipo": "conceito",
+    "conteudo": "outras",
+    "criado": "2026-03-13T13:46:46.019421",
+    "modificado": "2026-03-13T13:46:46.019421",
+    "conexoes": [
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+    ]
+  },
+  {
+    "id": "85797948f177ca15",
+    "tipo": "conceito",
+    "conteudo": "jornada",
+    "criado": "2026-03-13T13:46:46.021143",
+    "modificado": "2026-03-13T13:46:46.021143",
+    "conexoes": [
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+    ]
+  },
+  {
+    "id": "9e82d1f5a3db0e8d",
+    "tipo": "conceito",
+    "conteudo": "desde",
+    "criado": "2026-03-13T13:46:46.021511",
+    "modificado": "2026-03-13T13:46:46.021511",
+    "conexoes": [
+      {
+        "para": "c1a996f73d3b1272",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
   }
 ]
