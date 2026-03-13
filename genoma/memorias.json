@@ -18538,5 +18538,5505 @@
     "fontes": [
       "https://debom.cbpf.br/teach/crb_aula01.pdf"
     ]
+  },
+  {
+    "id": "881d2823cc1e41de",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T13:57:48.878504",
+    "modificado": "2026-03-13T13:57:48.878504",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "11adcc6cb9cf4681",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T13:57:48.890777",
+    "modificado": "2026-03-13T13:57:48.890777",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "c99cabc90a13b675",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T13:57:48.891952",
+    "modificado": "2026-03-13T13:57:48.891952",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "f4d88696ba2a6673",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T13:57:48.892294",
+    "modificado": "2026-03-13T13:57:48.892294",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "24e5fe7ef110c91d",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T13:57:48.895443",
+    "modificado": "2026-03-13T13:57:48.895443",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "36343b9137691122",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T13:57:48.895813",
+    "modificado": "2026-03-13T13:57:48.895813",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "ce830c34d9cc4309",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T13:57:48.896069",
+    "modificado": "2026-03-13T13:57:48.896069",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "04a8947407238abb",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T13:57:48.896356",
+    "modificado": "2026-03-13T13:57:48.896356",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "be8fdeafc182727f",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T13:57:49.031735",
+    "modificado": "2026-03-13T13:57:49.031735",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "d88b3700c43a84a9",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T13:57:49.061452",
+    "modificado": "2026-03-13T13:57:49.061452",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "e8c6509ed3f6f922",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T13:57:49.069742",
+    "modificado": "2026-03-13T13:57:49.069742",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "b055b1b0ad34cbed",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T13:57:49.069977",
+    "modificado": "2026-03-13T13:57:49.069977",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "ebcfbee3780aaff4",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T13:57:49.137880",
+    "modificado": "2026-03-13T13:57:49.137880",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "b2adcfb87be44b4a",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T13:57:49.171358",
+    "modificado": "2026-03-13T13:57:49.171358",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "3ff51884a2d40075",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T13:57:49.230929",
+    "modificado": "2026-03-13T13:57:49.230929",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "4c38f591a0e6ab0b",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T13:57:49.247685",
+    "modificado": "2026-03-13T13:57:49.247685",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "be772248d1e973dc",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T13:57:49.327263",
+    "modificado": "2026-03-13T13:57:49.327263",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "9137e208b95fdf64",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T13:57:49.343477",
+    "modificado": "2026-03-13T13:57:49.343477",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "280f9d7619d38ca8",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T13:57:49.369078",
+    "modificado": "2026-03-13T13:57:49.369078",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "a736929bde2a7b4a",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T13:57:49.391045",
+    "modificado": "2026-03-13T13:57:49.391045",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "2d2debb2f1ce3b87",
+    "tipo": "memoria",
+    "conteudo": "O que é aprendizado por reforço? O aprendizado por reforço (RL) é um tipo de processo de aprendizado de máquina no qual agentes …",
+    "criado": "2026-03-13T13:58:11.818960",
+    "modificado": "2026-03-13T13:58:11.818960",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning"
+    ]
+  },
+  {
+    "id": "0a806c83064b8957",
+    "tipo": "memoria",
+    "conteudo": "A Aprendizagem Por Reforço é o treinamento de modelos de aprendizado de máquina para tomar uma sequência de decisões. O agente aprende …",
+    "criado": "2026-03-13T13:58:11.832083",
+    "modificado": "2026-03-13T13:58:11.832083",
+    "conexoes": [
+      {
+        "para": "2c16de24167d00c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f3c94133b046028",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/"
+    ]
+  },
+  {
+    "id": "fa9906ffcca32ce4",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:58:11.832644",
+    "modificado": "2026-03-13T13:58:11.832644",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "4b4518d5ee555a00",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:58:11.832921",
+    "modificado": "2026-03-13T13:58:11.832921",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "b0fc313c4d20c933",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:58:11.833279",
+    "modificado": "2026-03-13T13:58:11.833279",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "2760e9aead9e40ef",
+    "tipo": "memoria",
+    "conteudo": "A forma típica de enquadrar um cenário de aprendizado por reforço (RL): um agente executa ações em um ambiente, que são interpretadas …",
+    "criado": "2026-03-13T13:58:11.833500",
+    "modificado": "2026-03-13T13:58:11.833500",
+    "conexoes": [
+      {
+        "para": "2279c98560196138",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b5fa3de3e13b280f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33d4c72374a61c9f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0559a05187307aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29e3946fa92239ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e3384158aa13301",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço"
+    ]
+  },
+  {
+    "id": "112b531e55b982bd",
+    "tipo": "memoria",
+    "conteudo": "Os métodos de aprendizado por reforço também se diferenciam bastante de outras técnicas de machine learning no que tange os dados. …",
+    "criado": "2026-03-13T13:58:11.837958",
+    "modificado": "2026-03-13T13:58:11.837958",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d36bc0234722a8ce",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "985063d62cdb68fb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04fb4cb9e302f1ba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0f61ee26199e5d0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef5c9c399d84f13f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/"
+    ]
+  },
+  {
+    "id": "6f21d7d466cfd0aa",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado por reforço (RL) é uma técnica de aprendizado de máquina (ML) que treina o software para tomar decisões para alcançar …",
+    "criado": "2026-03-13T13:58:11.838245",
+    "modificado": "2026-03-13T13:58:11.838245",
+    "conexoes": [
+      {
+        "para": "6616c2a852a03deb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb93b7422bc1a072",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "0aefc900f1b2b9b4",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:58:11.907480",
+    "modificado": "2026-03-13T13:58:11.907480",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "09a7bd8b3a60a1b2",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:58:12.027651",
+    "modificado": "2026-03-13T13:58:12.027651",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "6e87248478bb7622",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:58:12.032772",
+    "modificado": "2026-03-13T13:58:12.032772",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "5d4e4a546a12a97f",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:58:12.033180",
+    "modificado": "2026-03-13T13:58:12.033180",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "87c283478d18819c",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:58:12.043965",
+    "modificado": "2026-03-13T13:58:12.043965",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "e34b10504c997d56",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:58:12.045085",
+    "modificado": "2026-03-13T13:58:12.045085",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "0dc17afe91e9d46a",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:58:12.063637",
+    "modificado": "2026-03-13T13:58:12.063637",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "d0247e40b3fdefa6",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:58:12.079613",
+    "modificado": "2026-03-13T13:58:12.079613",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "fcf5ef1ab77568ff",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:58:12.080055",
+    "modificado": "2026-03-13T13:58:12.080055",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "fa6b55a0bbf990c0",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:58:12.251467",
+    "modificado": "2026-03-13T13:58:12.251467",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "42de0b224d643269",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:58:12.254807",
+    "modificado": "2026-03-13T13:58:12.254807",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "e812dee4ad8f5f4b",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:58:12.267524",
+    "modificado": "2026-03-13T13:58:12.267524",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "727ee5963ac3b794",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T13:58:30.362364",
+    "modificado": "2026-03-13T13:58:30.362364",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "706d266e1c3b05ed",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T13:58:30.375099",
+    "modificado": "2026-03-13T13:58:30.375099",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "e0323d6f950036cc",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T13:58:30.375427",
+    "modificado": "2026-03-13T13:58:30.375427",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "47c25e3344b37fb1",
+    "tipo": "memoria",
+    "conteudo": "Diagrama simplificado de uma rede neural. Em ciência da computação e campos relacionados, redes neurais artificiais (português brasileiro) …",
+    "criado": "2026-03-13T13:58:30.375597",
+    "modificado": "2026-03-13T13:58:30.375597",
+    "conexoes": [
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5ee77bcdbb86b039",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42a49e43a5b8dc44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182ac833e0970a0e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f8f338511719b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0320e1de6e3c808",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0dbd25dbea00fae5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d3b91b3ec70b8aaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial"
+    ]
+  },
+  {
+    "id": "498abc36dd8f73f2",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T13:58:30.375761",
+    "modificado": "2026-03-13T13:58:30.375761",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "5fac0f38054a9c53",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T13:58:30.375964",
+    "modificado": "2026-03-13T13:58:30.375964",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "cbb778536f77accc",
+    "tipo": "memoria",
+    "conteudo": "Palavras-Chave: Ações de Futebol; Classificação de Vídeos; Redes Neurais Convolucionais; Redes Neurais Recorrentes Abstract The extraction …",
+    "criado": "2026-03-13T13:58:30.381859",
+    "modificado": "2026-03-13T13:58:30.381859",
+    "conexoes": [
+      {
+        "para": "e4280bd81edbc5b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb0b14847f6296b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "549e18be439bd5e6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d32a460770e4c61b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39e0d7fd288331dc",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final"
+    ]
+  },
+  {
+    "id": "1b931af6a4cfe4a0",
+    "tipo": "memoria",
+    "conteudo": "Redes Neurais Recorrentes (RNNs) são amplamente usadas em sistemas de reconhecimento de fala, onde elas convertem …",
+    "criado": "2026-03-13T13:58:30.382243",
+    "modificado": "2026-03-13T13:58:30.382243",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "10995533dc7f5b71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "808ac14b5020e830",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21bfbe88d6614568",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6397fe99b29d354",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fec2893e66b01525",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf4e95bc9a4af08b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97dc0c695210a470",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime"
+    ]
+  },
+  {
+    "id": "2de51db5b1848895",
+    "tipo": "memoria",
+    "conteudo": "Introdução Processamento de Linguagem Natural e Representações de Texto De One-Hot Encoding a Embeddings de Palavras Introdução a …",
+    "criado": "2026-03-13T13:58:30.414836",
+    "modificado": "2026-03-13T13:58:30.414836",
+    "conexoes": [
+      {
+        "para": "f4f1c1ecc5123b59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0d30a064e12127c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a5505c34461681",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
+    ]
+  },
+  {
+    "id": "75b863d2dbbb1b33",
+    "tipo": "memoria",
+    "conteudo": "São investigadas diferentes arquiteturas de modelos, incluindo abordagens baseadas em Transformers (BERT), redes neurais …",
+    "criado": "2026-03-13T13:58:30.572497",
+    "modificado": "2026-03-13T13:58:30.572497",
+    "conexoes": [
+      {
+        "para": "2f1c6c08b4a356db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "81c1c4739813f08c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4415c33d2e1a6444",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a961d97b83afc209",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5d7885a8daac502",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM",
+      "fonte": "https://www.gaap.deqm.puc-rio.br/en/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gaap.deqm.puc-rio.br/en/"
+    ]
+  },
+  {
+    "id": "64647c1ec118b360",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T13:58:30.581517",
+    "modificado": "2026-03-13T13:58:30.581517",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "2f64fe94f5910662",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T13:58:30.583020",
+    "modificado": "2026-03-13T13:58:30.583020",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "6064434e96ac128f",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T13:58:30.618473",
+    "modificado": "2026-03-13T13:58:30.618473",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "cbb9e7e84df0301a",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T13:58:30.636542",
+    "modificado": "2026-03-13T13:58:30.636542",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "461e7852f6051a03",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T13:58:30.683748",
+    "modificado": "2026-03-13T13:58:30.683748",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM aplicacoes",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "0cdb7873b42c595c",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T13:58:30.703504",
+    "modificado": "2026-03-13T13:58:30.703504",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "6871996ecc2677f0",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T13:58:30.712816",
+    "modificado": "2026-03-13T13:58:30.712816",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "275e35b33a7c80d2",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T13:58:30.720776",
+    "modificado": "2026-03-13T13:58:30.720776",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "75a123ef7ea5a0aa",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T13:58:30.738202",
+    "modificado": "2026-03-13T13:58:30.738202",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "c695b0143d610ff4",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T13:58:30.743609",
+    "modificado": "2026-03-13T13:58:30.743609",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM fundamentos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "ef8ab7448dd9a755",
+    "tipo": "memoria",
+    "conteudo": "24 de jan. de 2024 · Neste artigo você vai aprender o que são redes de computadores e como funcionam, como é o mercado de …",
+    "criado": "2026-03-13T13:58:30.773179",
+    "modificado": "2026-03-13T13:58:30.773179",
+    "conexoes": [
+      {
+        "para": "c20da8ce05177db0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8a3fe1cf9c8092a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.alura.com.br/artigos/rede-de-computadores",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores"
+    ]
+  },
+  {
+    "id": "06da82ac180ff404",
+    "tipo": "memoria",
+    "conteudo": "4 dias atrás · As redes de computadores podem ser classificadas em três categorias: por alcance geográfico, por topologia ou arquitetura e por …",
+    "criado": "2026-03-13T13:58:30.773349",
+    "modificado": "2026-03-13T13:58:30.773349",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "395399c46f4d8722",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6c1f9e6ae02dbf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "236db96a4ac83242",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "46972cd479642bda",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/"
+    ]
+  },
+  {
+    "id": "75b6c83b5da74af4",
+    "tipo": "memoria",
+    "conteudo": "As redes variam em tipo e escala, de pequenas redes de área local (LANs) a grandes redes de área ampla (WANs). O cerne de toda rede é …",
+    "criado": "2026-03-13T13:58:30.844180",
+    "modificado": "2026-03-13T13:58:30.844180",
+    "conexoes": [
+      {
+        "para": "ec5480342a2d0109",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "918419818888c507",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4226a713a973f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "200a1f5043bb78bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed409d718f470b1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d56ab91a79507c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "98f91de4717fea5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f16bd4926f3ddceb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.avast.com/pt-br/c-what-is-computer-network"
+    ]
+  },
+  {
+    "id": "a400d5b56a51286b",
+    "tipo": "memoria",
+    "conteudo": "As redes de computadores formam a espinha dorsal de praticamente toda experiência digital — desde a comunicação pessoal e …",
+    "criado": "2026-03-13T13:58:30.856521",
+    "modificado": "2026-03-13T13:58:30.856521",
+    "conexoes": [
+      {
+        "para": "5a35f39bdcb70057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36d97b01cde2437f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bbb7a96ee17d40db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b31002ae9191ec1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f95539321141590",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb17bae6ae0bb5be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb255829eea20968",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d5033eb0d74de68",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/networking",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/networking"
+    ]
+  },
+  {
+    "id": "05cc51860b4c23ec",
+    "tipo": "memoria",
+    "conteudo": "Switches, roteadores e access points sem fio são os elementos essenciais das redes. Por meio deles, os dispositivos conectados à sua …",
+    "criado": "2026-03-13T13:58:30.876072",
+    "modificado": "2026-03-13T13:58:30.876072",
+    "conexoes": [
+      {
+        "para": "6575daf0750e52f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366242e4d99b4165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e39902d3d392b9ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bfbf8154bae4e0c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fcc1b9f5e7c73715",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6790bad61ba5bb6e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html"
+    ]
+  },
+  {
+    "id": "7dd39a5d3a151b42",
+    "tipo": "memoria",
+    "conteudo": "24 de abr. de 2023 · PERGUNTA 6 O problema do desaparecimento ou explosão do gradiente é mais aparente em redes neurais recorrente do …",
+    "criado": "2026-03-13T13:58:30.905666",
+    "modificado": "2026-03-13T13:58:30.905666",
+    "conexoes": [
+      {
+        "para": "1e815729bec7eb49",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a584f088a80738",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "18ad3e9b4f25bcb9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b10e1031bfced92d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76e3308723de5582",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://brainly.com.br/tarefa/55731941",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brainly.com.br/tarefa/55731941"
+    ]
+  },
+  {
+    "id": "29f319a04071aae2",
+    "tipo": "memoria",
+    "conteudo": "12 de set. de 2017 · Fonte: Understanding LSTM Networks. Referêcnias No momento em que escrevo, Redes Neurais Recorrentes são um dos tópicos mais efervescentes de Inteligência Artificial e Aprendizado de Máquina. Assim, é de se esperar que exista muito conteúdo explicando como elas funcionam.",
+    "criado": "2026-03-13T13:58:30.912502",
+    "modificado": "2026-03-13T13:58:30.912502",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f186754b7dc0d6d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c91a63e53a10c40f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0844c9158e894273",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8dcd15d6819ef8b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "039893bc5afc0730",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4deaa8a4e91b042b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://matheusfacure.github.io/2017/09/12/rnn/"
+    ]
+  },
+  {
+    "id": "beb9e79ae0f42088",
+    "tipo": "memoria",
+    "conteudo": "Em razão das perdas e sequelas ocasionadas pelos casos e óbitos diários pela COVID-19 na região Centro-Oeste no Brasil, foram avaliados …",
+    "criado": "2026-03-13T13:58:30.918835",
+    "modificado": "2026-03-13T13:58:30.918835",
+    "conexoes": [
+      {
+        "para": "392d211a46474c21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5dbfc2abb84a6a7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92a655e09e5f2e58",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1faa8b1cecba052",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5fbcd0905a9c0c16",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f358ebc4e71b4825",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8116d05c760b256a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "353cadef04b6cc8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "079b0a545c0f12d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "195a99aa8523d611",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbae4b54e6c30ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "efec8aef39bf069b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
+  },
+  {
+    "id": "ebb09f5a6f7fb29d",
+    "tipo": "memoria",
+    "conteudo": "30 de jan. de 2023 · Redes Neurais Recorrentes (LSTM e GRU) As redes neurais recorrentes (RNNs) são uma classe de redes neurais criadas especialmente para lidar com dados sequenciais. Elas são estruturadas para manter uma espécie de memória de informações vistas e usar essas informações para prever o próximo ponto de dados.",
+    "criado": "2026-03-13T13:58:30.923119",
+    "modificado": "2026-03-13T13:58:30.923119",
+    "conexoes": [
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "07e63c1950a2ee04",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e765a685f30e21b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fec2893e66b01525",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb9f9ada9465ee2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1bbee56fa4314c8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "705754f3c3013c32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee699c61e977a8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/"
+    ]
+  },
+  {
+    "id": "21ca7e6e664b4114",
+    "tipo": "memoria",
+    "conteudo": "Introdução Processamento de Linguagem Natural e Representações de Texto De One-Hot Encoding a Embeddings de Palavras Introdução a …",
+    "criado": "2026-03-13T13:58:30.948179",
+    "modificado": "2026-03-13T13:58:30.948179",
+    "conexoes": [
+      {
+        "para": "f4f1c1ecc5123b59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0d30a064e12127c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37a5505c34461681",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f55173531070aa81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "subtopico": "redes neurais recorrentes LSTM algoritmos",
+      "fonte": "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
+    ]
   }
 ]
