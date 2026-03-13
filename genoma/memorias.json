@@ -3247,5 +3247,191 @@
     "fontes": [
       "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
     ]
+  },
+  {
+    "id": "2713e278564d3c6b",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial tem se tornado cada vez mais presente no nosso cotidiano, e além das possibilidades e benefícios, a IA trouxe consigo desafios significativos aos profissionais de tecnologia e a sociedade como um todo. No contexto atual, é essen…IA é uma sigla para Inteligência Artificial. A IA faz parte do campo da ciência da computação, referente à capacidade de máquinas ou sistemas em exibir comportamentos e habilidades de forma semelhante aos humanos. E isso é possív…A ética é uma área responsável por compreender assuntos que envolvem a moral ( diferença entre o certo e o errado, o bem e o mal), as condutas ideais dos humanos e quais são os valores e princípios que movem as ações das pess…",
+    "criado": "2026-03-13T13:47:11.623414",
+    "modificado": "2026-03-13T13:47:11.623414",
+    "conexoes": [
+      {
+        "para": "31b925914cb91d04",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "da4393ed17a4d4d3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "dc98859f029b1f01",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9ce200a290dad2b7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "fonte": "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial",
+      "indice": 0
+    },
+    "origem": "f75e2443edf44de0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "2233bef0b19be171",
+    "tipo": "memoria",
+    "conteudo": "27 de mai. de 2025 · Em novembro de 2021, a Conferência Geral da UNESCO aprovou a Recomendação sobre a Ética da Inteligência Artificial, o primeiro instrumento global de definição de normas sobre a IA.",
+    "criado": "2026-03-13T13:47:11.726360",
+    "modificado": "2026-03-13T13:47:11.726360",
+    "conexoes": [
+      {
+        "para": "69f34a02a27e8517",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7a25bcb67cf8f0cb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8b64c7360013bd1e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3f2b2abf285a3904",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "fonte": "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "indice": 0
+    },
+    "origem": "f75e2443edf44de0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "2bfb1216f2a0c228",
+    "tipo": "memoria",
+    "conteudo": "Ao concluir a leitura de Ética na inteligência artificial, o/a leitor/a percebe que percorreu uma excelente introdução temática à leitura filosófica dos pro-blemas decorrentes do desenvolvimento tecnológico, …",
+    "criado": "2026-03-13T13:47:11.831789",
+    "modificado": "2026-03-13T13:47:11.831789",
+    "conexoes": [
+      {
+        "para": "89b38f0009b9b806",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9d822914104707fa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "b97764e8e2df6ec1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3674412644905f58",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "dc6fe012a4dff509",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "fonte": "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106",
+      "indice": 0
+    },
+    "origem": "f75e2443edf44de0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
   }
 ]
