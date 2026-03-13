@@ -2110,6 +2110,11 @@
         "para": "e89483d3253a1089",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2126,7 +2131,8 @@
       "https://www.ibm.com/br-pt/think/topics/generative-ai",
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
       "https://aws.amazon.com/pt/what-is/generative-ai/",
-      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
   },
   {
@@ -5221,6 +5227,11 @@
         "para": "e62fd74821b14f1b",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -5233,7 +5244,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
   },
   {
@@ -6185,6 +6197,11 @@
         "para": "a8c96145194c5d78",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6197,7 +6214,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+      "https://www.alura.com.br/artigos/multiagentes-de-ia",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
   },
   {
@@ -8117,6 +8135,11 @@
         "para": "bffca00f90c5e40f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8130,7 +8153,8 @@
     "profundidade": 0,
     "fontes": [
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
-      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+      "https://brasileiraspln.com/livro-pln/3a-edicao/",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
   },
   {
@@ -8560,6 +8584,11 @@
         "para": "2233bef0b19be171",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8572,7 +8601,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
     ]
   },
   {
@@ -8807,6 +8837,440 @@
     "profundidade": 0,
     "fontes": [
       "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "03e104ac31e8f16b",
+    "tipo": "conceito",
+    "conteudo": "prontos",
+    "criado": "2026-03-13T13:47:37.333532",
+    "modificado": "2026-03-13T13:47:37.333532",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "91c9912423ca9d63",
+    "tipo": "conceito",
+    "conteudo": "transformers",
+    "criado": "2026-03-13T13:47:37.333954",
+    "modificado": "2026-03-13T13:47:37.333954",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers",
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
+  },
+  {
+    "id": "d481696bccfa7aba",
+    "tipo": "conceito",
+    "conteudo": "arquitetura",
+    "criado": "2026-03-13T13:47:37.334331",
+    "modificado": "2026-03-13T13:47:37.334331",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers",
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "1fe29de824c780bb",
+    "tipo": "conceito",
+    "conteudo": "entrar",
+    "criado": "2026-03-13T13:47:37.334730",
+    "modificado": "2026-03-13T13:47:37.334730",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "04db98a2c09505a0",
+    "tipo": "conceito",
+    "conteudo": "encoder",
+    "criado": "2026-03-13T13:47:37.335111",
+    "modificado": "2026-03-13T13:47:37.335111",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "37a5505c34461681",
+    "tipo": "conceito",
+    "conteudo": "embeddings",
+    "criado": "2026-03-13T13:47:37.335488",
+    "modificado": "2026-03-13T13:47:37.335488",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "1dc8192bab731b98",
+    "tipo": "conceito",
+    "conteudo": "composta",
+    "criado": "2026-03-13T13:47:37.335939",
+    "modificado": "2026-03-13T13:47:37.335939",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "603b5f8ac8cfa25f",
+    "tipo": "conceito",
+    "conteudo": "decoder",
+    "criado": "2026-03-13T13:47:37.336476",
+    "modificado": "2026-03-13T13:47:37.336476",
+    "conexoes": [
+      {
+        "para": "c17afacdee0d86f3",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "6ea7fb3a82e27c01",
+    "tipo": "conceito",
+    "conteudo": "seção",
+    "criado": "2026-03-13T13:47:37.437419",
+    "modificado": "2026-03-13T13:47:37.437419",
+    "conexoes": [
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "e5f3beef6333836f",
+    "tipo": "conceito",
+    "conteudo": "modelo",
+    "criado": "2026-03-13T13:47:37.437829",
+    "modificado": "2026-03-13T13:47:37.437829",
+    "conexoes": [
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "78e3c2b1651ef309",
+    "tipo": "conceito",
+    "conteudo": "preocupe",
+    "criado": "2026-03-13T13:47:37.438582",
+    "modificado": "2026-03-13T13:47:37.438582",
+    "conexoes": [
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "aa2c072092225d3a",
+    "tipo": "conceito",
+    "conteudo": "cobrindo",
+    "criado": "2026-03-13T13:47:37.439780",
+    "modificado": "2026-03-13T13:47:37.439780",
+    "conexoes": [
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "d378b3e1a357ddcb",
+    "tipo": "conceito",
+    "conteudo": "posteriormente",
+    "criado": "2026-03-13T13:47:37.440166",
+    "modificado": "2026-03-13T13:47:37.440166",
+    "conexoes": [
+      {
+        "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "02b02e12f9fe1fcb",
+    "tipo": "conceito",
+    "conteudo": "visuais",
+    "criado": "2026-03-13T13:47:37.540807",
+    "modificado": "2026-03-13T13:47:37.540807",
+    "conexoes": [
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
+  },
+  {
+    "id": "e8a4f53f86b6b32e",
+    "tipo": "conceito",
+    "conteudo": "essenciais",
+    "criado": "2026-03-13T13:47:37.542726",
+    "modificado": "2026-03-13T13:47:37.542726",
+    "conexoes": [
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
+  },
+  {
+    "id": "b1ca0478586db19a",
+    "tipo": "conceito",
+    "conteudo": "cursos",
+    "criado": "2026-03-13T13:47:37.543478",
+    "modificado": "2026-03-13T13:47:37.543478",
+    "conexoes": [
+      {
+        "para": "e98097238c2dbac6",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
   }
 ]
