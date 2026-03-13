@@ -539,5 +539,65 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "3075c605941f600b",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'etica IA responsavel'. Estrutura conceitual com 14 nos e 377 conexoes. Nucleo: antigo, ethos, princípios, caráter, grego, discutido, desenvolvido.",
+    "criado": "2026-03-13T13:57:49.559488",
+    "modificado": "2026-03-13T13:57:49.559488",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "arquivo": "etica_ia_responsavel_modelo.json",
+      "conceitos_count": 14,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "70caf3f4b132b65b",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'aprendizado por reforco'. Estrutura conceitual com 9 nos e 298 conexoes. Nucleo: treinamento, enquadrar, tange, alcançar, bastante, diferenciam, métodos.",
+    "criado": "2026-03-13T13:58:12.360974",
+    "modificado": "2026-03-13T13:58:12.360974",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "arquivo": "aprendizado_por_reforco_modelo.json",
+      "conceitos_count": 9,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "209af099f88972c2",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'redes neurais recorrentes LSTM'. Estrutura conceitual com 50 nos e 827 conexoes. Nucleo: Recorrentes, próximo, pela, foram, Centro, pelos, covid.",
+    "criado": "2026-03-13T13:58:31.080979",
+    "modificado": "2026-03-13T13:58:31.080979",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "arquivo": "redes_neurais_recorrentes_lstm_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
