@@ -8483,5 +8483,4782 @@
     "fontes": [
       "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
     ]
+  },
+  {
+    "id": "4ccdddb092ca2aa5",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:54:23.608072",
+    "modificado": "2026-03-13T13:54:23.608072",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f7c8a4187c74ee1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "ade28b41f6a7f738",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:54:23.619036",
+    "modificado": "2026-03-13T13:54:23.619036",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "811856147bdfc0bd",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:54:23.619682",
+    "modificado": "2026-03-13T13:54:23.619682",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "1822866f23dcc902",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:54:23.620067",
+    "modificado": "2026-03-13T13:54:23.620067",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "a961b8ef079d9dff",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:54:23.620372",
+    "modificado": "2026-03-13T13:54:23.620372",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "a9144dbe6d3413d3",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:54:23.620650",
+    "modificado": "2026-03-13T13:54:23.620650",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "f1ef8943f14e5e9f",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:54:23.623231",
+    "modificado": "2026-03-13T13:54:23.623231",
+    "conexoes": [
+      {
+        "para": "6e738f8f17558143",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee7a21a18b3d5192",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "21d07058708f4ac5",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:54:23.623602",
+    "modificado": "2026-03-13T13:54:23.623602",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "31ac1bfcc9ab8299",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:54:23.767513",
+    "modificado": "2026-03-13T13:54:23.767513",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "bdb08eb9a465e44a",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:54:23.806371",
+    "modificado": "2026-03-13T13:54:23.806371",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "8b6428b0520a2f04",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:54:23.816386",
+    "modificado": "2026-03-13T13:54:23.816386",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "638e33556c6a7db5",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:54:23.830398",
+    "modificado": "2026-03-13T13:54:23.830398",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "aee66b60d3c5a6b3",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:54:23.844999",
+    "modificado": "2026-03-13T13:54:23.844999",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "3d2197706c51ad8d",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:54:23.895047",
+    "modificado": "2026-03-13T13:54:23.895047",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "c7e68a2ec9b04906",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:54:23.933691",
+    "modificado": "2026-03-13T13:54:23.933691",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "6d8834e873919679",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:54:23.934204",
+    "modificado": "2026-03-13T13:54:23.934204",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "a6d33b42f407bc60",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:54:23.946177",
+    "modificado": "2026-03-13T13:54:23.946177",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "c7a1987adaba159f",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:54:23.981557",
+    "modificado": "2026-03-13T13:54:23.981557",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "1fab5d31a670da2b",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:54:24.040409",
+    "modificado": "2026-03-13T13:54:24.040409",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "1ce31ffbe391c771",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:54:24.061906",
+    "modificado": "2026-03-13T13:54:24.061906",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "57eeb31fd1e5092f",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T13:54:45.615905",
+    "modificado": "2026-03-13T13:54:45.615905",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "6943f10a9efb3d99",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T13:54:45.632194",
+    "modificado": "2026-03-13T13:54:45.632194",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "a1ba60d8b55c0b2e",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T13:54:45.632321",
+    "modificado": "2026-03-13T13:54:45.632321",
+    "conexoes": [
+      {
+        "para": "44da8ae9f78705bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d79854e23d767eb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8db1c558701e0823",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "d244723534b6ef11",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T13:54:45.632416",
+    "modificado": "2026-03-13T13:54:45.632416",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "52257b18db40950d",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T13:54:45.632531",
+    "modificado": "2026-03-13T13:54:45.632531",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "7b2ee426b5e8532d",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T13:54:45.632657",
+    "modificado": "2026-03-13T13:54:45.632657",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "e85642342cff984d",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T13:54:45.632806",
+    "modificado": "2026-03-13T13:54:45.632806",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "5825aa58d392b538",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T13:54:45.633593",
+    "modificado": "2026-03-13T13:54:45.633593",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "9d0869f5ee4d91bb",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T13:54:45.678393",
+    "modificado": "2026-03-13T13:54:45.678393",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "8b01d0d907cb3248",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T13:54:45.699389",
+    "modificado": "2026-03-13T13:54:45.699389",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "b112d04d01cdd69d",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T13:54:45.748858",
+    "modificado": "2026-03-13T13:54:45.748858",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "9725c3f7428c47d8",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T13:54:45.753929",
+    "modificado": "2026-03-13T13:54:45.753929",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "56de9a7a01bd9993",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T13:54:45.779563",
+    "modificado": "2026-03-13T13:54:45.779563",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "60c4ded815aff0c3",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T13:54:45.791596",
+    "modificado": "2026-03-13T13:54:45.791596",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "1999816d8e841017",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T13:54:45.831283",
+    "modificado": "2026-03-13T13:54:45.831283",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "35ff8375abf5be1d",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T13:54:45.835172",
+    "modificado": "2026-03-13T13:54:45.835172",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "d8d927899658d39a",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T13:54:45.853645",
+    "modificado": "2026-03-13T13:54:45.853645",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "8a65706608390c57",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T13:54:45.856644",
+    "modificado": "2026-03-13T13:54:45.856644",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "522f524327f86fcb",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T13:54:45.942241",
+    "modificado": "2026-03-13T13:54:45.942241",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "f7e9dc51b34374c2",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T13:54:45.995392",
+    "modificado": "2026-03-13T13:54:45.995392",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "f55552c368f6d8b4",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:55:06.705682",
+    "modificado": "2026-03-13T13:55:06.705682",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "2c1edc693fd26570",
+    "tipo": "memoria",
+    "conteudo": "O processamento é um conceito fundamental em diversas áreas, incluindo tecnologia, música e design. Em termos gerais, refere-se à …",
+    "criado": "2026-03-13T13:55:06.714670",
+    "modificado": "2026-03-13T13:55:06.714670",
+    "conexoes": [
+      {
+        "para": "d1e07f4787549477",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d399bce31ca1a9e6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdcca6dafa074184",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de0831ff843ea27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+    ]
+  },
+  {
+    "id": "88c13044c0fc9175",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:55:06.716527",
+    "modificado": "2026-03-13T13:55:06.716527",
+    "conexoes": [
+      {
+        "para": "43a007d6cc449aa8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "4d71fdbb198340d5",
+    "tipo": "memoria",
+    "conteudo": "24 de jul. de 2023 · Processamento propriamente dito: os dados são submetidos a algoritmos e instruções programadas, que realizam as …",
+    "criado": "2026-03-13T13:55:06.716736",
+    "modificado": "2026-03-13T13:55:06.716736",
+    "conexoes": [
+      {
+        "para": "d6cf53f6bf984806",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "351f3a8a8021acf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "547c40f83b80d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d1f3b15b5190ba69",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a2ae739cddecc38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6656b60906d26c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/"
+    ]
+  },
+  {
+    "id": "8facd7be343cf3c8",
+    "tipo": "memoria",
+    "conteudo": "Sinônimos de Processamento no Dicionário de Sinônimos. Processamento é sinônimo de: tratamento, computação, processo, …",
+    "criado": "2026-03-13T13:55:06.716868",
+    "modificado": "2026-03-13T13:55:06.716868",
+    "conexoes": [
+      {
+        "para": "aa770e1b47831f8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3de851c7006f161",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.sinonimos.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.sinonimos.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "9438fdf86584040a",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:55:06.716987",
+    "modificado": "2026-03-13T13:55:06.716987",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "0f50d2b14ece8bc4",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:55:06.717126",
+    "modificado": "2026-03-13T13:55:06.717126",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "e3b894aba040ce2a",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:55:06.717232",
+    "modificado": "2026-03-13T13:55:06.717232",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "bf48b17119de80a2",
+    "tipo": "memoria",
+    "conteudo": "1. O que significa processamento? Processamento é um conceito amplo que se refere à transformação de dados, materiais ou …",
+    "criado": "2026-03-13T13:55:06.719917",
+    "modificado": "2026-03-13T13:55:06.719917",
+    "conexoes": [
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f0a76d46b1d1f2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad0cca7cdd81d85",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9475fb1e281840f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/o-que-significa-processamento/"
+    ]
+  },
+  {
+    "id": "c01bd421f1398897",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:55:06.799373",
+    "modificado": "2026-03-13T13:55:06.799373",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "ffaf22a1a5914db5",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:55:06.814656",
+    "modificado": "2026-03-13T13:55:06.814656",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "9abe6a8bb9caef94",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:55:06.835202",
+    "modificado": "2026-03-13T13:55:06.835202",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "764b55806542c940",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:55:06.840266",
+    "modificado": "2026-03-13T13:55:06.840266",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "dd9fcdceb8e0a404",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:55:06.841453",
+    "modificado": "2026-03-13T13:55:06.841453",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "06165e940879d060",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:55:06.874974",
+    "modificado": "2026-03-13T13:55:06.874974",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "e87dbb6ae1ac2295",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:55:06.882470",
+    "modificado": "2026-03-13T13:55:06.882470",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "5e32f531c887af0c",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:55:06.899818",
+    "modificado": "2026-03-13T13:55:06.899818",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "ba4d0ed302248e99",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:55:06.908148",
+    "modificado": "2026-03-13T13:55:06.908148",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "19942bc09342e1c4",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:55:06.942382",
+    "modificado": "2026-03-13T13:55:06.942382",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "a59aa7d53e5da898",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:55:06.943950",
+    "modificado": "2026-03-13T13:55:06.943950",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "bb190d778e53564e",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:55:06.972204",
+    "modificado": "2026-03-13T13:55:06.972204",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "6b26ae04bc9eb666",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:55:06.973560",
+    "modificado": "2026-03-13T13:55:06.973560",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "9dc579103b8d91a1",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:55:06.983485",
+    "modificado": "2026-03-13T13:55:06.983485",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "8d34bfefae5f5bd2",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:55:06.989306",
+    "modificado": "2026-03-13T13:55:06.989306",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
   }
 ]
