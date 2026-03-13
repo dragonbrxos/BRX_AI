@@ -283,5 +283,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "469f1fa7ddca3b3d",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'processamento linguagem natural algoritmos implementacao fundamentos teoricos': chegar, historicamente, atualmente, afinal, relevantes. Base: 3 obs, 10 conceitos.",
+    "criado": "2026-03-13T13:46:46.122968",
+    "modificado": "2026-03-13T13:46:46.122968",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "arquivo": "processamento_linguagem_n.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
