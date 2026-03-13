@@ -1,0 +1,8022 @@
+{
+  "formal": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "43c12a06505392a22221",
+    "898ca454bbc41036dd9f",
+    "0a258de2ca51330c0679",
+    "3b30a8fb2c89157f67df",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "ab371aed67b4e6c05b63",
+    "02a116619bc47e94a18c",
+    "cc8646eb205c31fb513f",
+    "d7f88a83612d128f0fdc",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857",
+    "a66bb14657ed98cac9da"
+  ],
+  "proof": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "c412ce2191d60a3677a7",
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5",
+    "f6336ebed7f5919b6ddd",
+    "3935ec056f93bc96fbef",
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "43c12a06505392a22221",
+    "bd6057374b9c2c907ea7",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "33e9778ff1ad935e45b6",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115",
+    "e5218e47adb8d751cb92",
+    "2929eaf77d9d836af60b",
+    "483490b185bf1d6ceed2",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "02a116619bc47e94a18c",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857"
+  ],
+  "well": [
+    "c221c09efe2410aa43f4",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27",
+    "abd2c58c3afe96fa2716"
+  ],
+  "formed": [
+    "c221c09efe2410aa43f4"
+  ],
+  "language": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "0a258de2ca51330c0679",
+    "3b30a8fb2c89157f67df",
+    "02a116619bc47e94a18c"
+  ],
+  "theorem": [
+    "c221c09efe2410aa43f4",
+    "4ce9fd1616d6f6bf5ab4",
+    "c76a302fa5285e9dc3f8",
+    "da9d7c0a13c48cc80ea5",
+    "3935ec056f93bc96fbef",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "b805ef194883f6353dd7",
+    "b9e539c43e1ad9e4bec9",
+    "483490b185bf1d6ceed2",
+    "ab53e49a981c01e9c728",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e",
+    "814a30d9263593ac3423",
+    "1e043293056489b0e78e",
+    "c96f0e4dc700a1143b72"
+  ],
+  "formulas": [
+    "c221c09efe2410aa43f4",
+    "814a30d9263593ac3423"
+  ],
+  "proofs": [
+    "c221c09efe2410aa43f4",
+    "b48e36216bc9e17bcf60",
+    "c412ce2191d60a3677a7",
+    "e4f14a6480ac062aa008",
+    "0f66883b35e046511401",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "3b30a8fb2c89157f67df",
+    "33e9778ff1ad935e45b6",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115",
+    "e5218e47adb8d751cb92",
+    "2929eaf77d9d836af60b",
+    "9037bbafbd779ddfcc27",
+    "1e043293056489b0e78e",
+    "95e05ddff661cd210857"
+  ],
+  "sequence": [
+    "c221c09efe2410aa43f4",
+    "8f8785a2808aaf070886",
+    "d87fa1b493031ac5893d"
+  ],
+  "system": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "4ce9fd1616d6f6bf5ab4",
+    "0fc66d39b283d3d4f5fc",
+    "12d4dc4ba8cb812a5380",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "698ef1636b8e50376313",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e",
+    "95e05ddff661cd210857",
+    "4e517f23f4a52e764d3a",
+    "6825d575a36bd71611d1",
+    "191582af739ee39faef2",
+    "42f3b07eea6bb933cfdf",
+    "ae2f6e31799c468874f7",
+    "b97dd35eb56eba5296b0"
+  ],
+  "finite": [
+    "c221c09efe2410aa43f4",
+    "7f45e7abd0bc49abc210",
+    "6464b98e5e182d86088e",
+    "814a30d9263593ac3423"
+  ],
+  "sentences": [
+    "c221c09efe2410aa43f4"
+  ],
+  "preceding": [
+    "c221c09efe2410aa43f4"
+  ],
+  "rule": [
+    "c221c09efe2410aa43f4",
+    "98b968ee365b9b916938",
+    "924853c0faabbe1eb6d0",
+    "d87fa1b493031ac5893d"
+  ],
+  "natural": [
+    "c221c09efe2410aa43f4",
+    "4c84e2cb62310430fc0b",
+    "2ecdfb46f85ab2145a7d",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "0a258de2ca51330c0679",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "13e0f4439f873242ed05",
+    "95e05ddff661cd210857",
+    "d8c21aba3abf824165b8",
+    "1db57f38779d25bb7f14",
+    "b97dd35eb56eba5296b0",
+    "1cdcd42389936f2ea1d8",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "sentence": [
+    "c221c09efe2410aa43f4",
+    "6464b98e5e182d86088e"
+  ],
+  "called": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "e56cfef669ad33083329",
+    "52bc6b89237016c8a177",
+    "3b0c40507a688c3283f9",
+    "061bf905918e30c5a0c2",
+    "e4f14a6480ac062aa008",
+    "65be8e1f207bae5925de",
+    "3935ec056f93bc96fbef",
+    "4e517f23f4a52e764d3a",
+    "abd2c58c3afe96fa2716",
+    "d87fa1b493031ac5893d",
+    "44973af6a4393758f556"
+  ],
+  "some": [
+    "c221c09efe2410aa43f4",
+    "e062f7e229d03da99821",
+    "182d31a407ed1bd6918c",
+    "6cc89bc1c95fa8f7da60",
+    "eb9d7af20d41a8527f28",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "924853c0faabbe1eb6d0",
+    "d8c21aba3abf824165b8",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "a9aac8a96d3aa04eb90f",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "4a07030396d89419156c",
+    "7a03e951207d07e76fbf",
+    "e38aacb4bcb48dc99f67",
+    "acfe8b9768bd10269028"
+  ],
+  "proving": [
+    "c221c09efe2410aa43f4"
+  ],
+  "automated": [
+    "c221c09efe2410aa43f4"
+  ],
+  "also": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "c7992ae1e0a50a8e861f",
+    "898ca454bbc41036dd9f",
+    "e6513ef6a76bea453b3c",
+    "483490b185bf1d6ceed2",
+    "13e0f4439f873242ed05",
+    "1e043293056489b0e78e",
+    "4c7f8d0b713b7125ea6f",
+    "9f27dbf25e6576c5ef23",
+    "8982e1a1e8e6616e8087",
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "usually": [
+    "c221c09efe2410aa43f4",
+    "abd2c58c3afe96fa2716",
+    "9a311cfb5942348dba22",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "edit": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "0fc66d39b283d3d4f5fc",
+    "c76a302fa5285e9dc3f8",
+    "eb9d7af20d41a8527f28",
+    "61be621ab91cfbdf0030",
+    "e4f14a6480ac062aa008",
+    "7f45e7abd0bc49abc210",
+    "3935ec056f93bc96fbef",
+    "0f66883b35e046511401",
+    "46b460706671fc212557",
+    "f99c82c84eb28652f91d",
+    "898ca454bbc41036dd9f",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "33e9778ff1ad935e45b6",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "a8f4b22af561fd05fcdd",
+    "2929eaf77d9d836af60b",
+    "716f91bf92f215c9e067",
+    "698ef1636b8e50376313",
+    "88ebe5f80fae5c076bf9",
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "13e0f4439f873242ed05",
+    "1e043293056489b0e78e",
+    "bd93e6402376e409719e"
+  ],
+  "before": [
+    "c221c09efe2410aa43f4",
+    "4c67dd4cd2403fa025a2",
+    "65be8e1f207bae5925de"
+  ],
+  "logic": [
+    "c221c09efe2410aa43f4",
+    "859167c68fe896468e4d",
+    "b48e36216bc9e17bcf60",
+    "c412ce2191d60a3677a7",
+    "da9d7c0a13c48cc80ea5",
+    "8f8785a2808aaf070886",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "7b8a6edb77f51e2ccb10",
+    "0a258de2ca51330c0679",
+    "b6424c0218a53d45e115",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "698ef1636b8e50376313",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "9037bbafbd779ddfcc27",
+    "1e043293056489b0e78e",
+    "95e05ddff661cd210857",
+    "81a98335815962ad59dd",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b",
+    "88b9fa717003b0d8da52",
+    "55734108ca8e6151fd72"
+  ],
+  "mathematics": [
+    "c221c09efe2410aa43f4",
+    "c412ce2191d60a3677a7",
+    "061bf905918e30c5a0c2",
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "43c12a06505392a22221",
+    "898ca454bbc41036dd9f",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed",
+    "2feffb1c83d6c6623afb",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115",
+    "e5218e47adb8d751cb92",
+    "2929eaf77d9d836af60b",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "698ef1636b8e50376313",
+    "88ebe5f80fae5c076bf9"
+  ],
+  "derivation": [
+    "c221c09efe2410aa43f4"
+  ],
+  "known": [
+    "c221c09efe2410aa43f4",
+    "93fe513bd419a04527d3",
+    "ae43c5e7710a69521bee",
+    "3b0c40507a688c3283f9",
+    "46b460706671fc212557",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "540b28ffdb1b68bbd2a3",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "c8142ed1bbd22d713146",
+    "ea3e9538d96d5d9f5fdf",
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d"
+  ],
+  "relating": [
+    "c221c09efe2410aa43f4"
+  ],
+  "each": [
+    "c221c09efe2410aa43f4",
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "3b30a8fb2c89157f67df",
+    "33e9778ff1ad935e45b6",
+    "08cc8154a724444fc78e",
+    "abd2c58c3afe96fa2716",
+    "9a311cfb5942348dba22",
+    "f44d912ff7c024d4baae",
+    "78952d20c5ecd1c98738",
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "deductive": [
+    "859167c68fe896468e4d",
+    "0a258de2ca51330c0679"
+  ],
+  "logical": [
+    "859167c68fe896468e4d",
+    "061bf905918e30c5a0c2",
+    "f6336ebed7f5919b6ddd",
+    "0f66883b35e046511401",
+    "698ef1636b8e50376313",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "bd93e6402376e409719e"
+  ],
+  "apparatus": [
+    "859167c68fe896468e4d"
+  ],
+  "rules": [
+    "859167c68fe896468e4d",
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "interpretation": [
+    "859167c68fe896468e4d"
+  ],
+  "retrieved": [
+    "859167c68fe896468e4d",
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6",
+    "bd6057374b9c2c907ea7",
+    "a8f4b22af561fd05fcdd",
+    "a66bb14657ed98cac9da",
+    "55734108ca8e6151fd72"
+  ],
+  "2019": [
+    "859167c68fe896468e4d",
+    "673602822635757c6fd6",
+    "b6424c0218a53d45e115",
+    "94c73e1f97ecf966e4b3"
+  ],
+  "etchemendy": [
+    "859167c68fe896468e4d"
+  ],
+  "john": [
+    "859167c68fe896468e4d",
+    "6dfe89530cdad9487679",
+    "182d31a407ed1bd6918c",
+    "a7191ac7e9851f22bddd",
+    "3273fbf9fe3b74780909",
+    "b97dd35eb56eba5296b0"
+  ],
+  "december": [
+    "859167c68fe896468e4d"
+  ],
+  "2008": [
+    "859167c68fe896468e4d",
+    "84959692401c44af31ed"
+  ],
+  "calculus": [
+    "859167c68fe896468e4d",
+    "061bf905918e30c5a0c2",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "332bdc2e161d472d2153",
+    "898ca454bbc41036dd9f"
+  ],
+  "consists": [
+    "859167c68fe896468e4d"
+  ],
+  "together": [
+    "859167c68fe896468e4d",
+    "6bb7f432d7f968e5e28d"
+  ],
+  "consist": [
+    "859167c68fe896468e4d"
+  ],
+  "transformation": [
+    "859167c68fe896468e4d",
+    "a7191ac7e9851f22bddd"
+  ],
+  "inference": [
+    "859167c68fe896468e4d",
+    "3935ec056f93bc96fbef"
+  ],
+  "axioms": [
+    "859167c68fe896468e4d",
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5",
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "46b460706671fc212557",
+    "f99c82c84eb28652f91d",
+    "898ca454bbc41036dd9f",
+    "b805ef194883f6353dd7",
+    "b9e539c43e1ad9e4bec9",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "88ebe5f80fae5c076bf9",
+    "6464b98e5e182d86088e",
+    "08cc8154a724444fc78e",
+    "bd93e6402376e409719e"
+  ],
+  "both": [
+    "859167c68fe896468e4d",
+    "4ee37fb56c42c1d07fe4",
+    "94542ed4d42bdd3e8343",
+    "8f8785a2808aaf070886",
+    "e6513ef6a76bea453b3c",
+    "d8c21aba3abf824165b8",
+    "bf7be549b4368db16ad0",
+    "1db57f38779d25bb7f14",
+    "6597596ef4a1a193aaa3",
+    "4a07030396d89419156c"
+  ],
+  "used": [
+    "859167c68fe896468e4d",
+    "41a1251cbb8ad99e03b0",
+    "52bc6b89237016c8a177",
+    "2ecdfb46f85ab2145a7d",
+    "898ca454bbc41036dd9f",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "540b28ffdb1b68bbd2a3",
+    "8982e1a1e8e6616e8087",
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "derive": [
+    "859167c68fe896468e4d"
+  ],
+  "expression": [
+    "859167c68fe896468e4d"
+  ],
+  "table": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e",
+    "6dfe89530cdad9487679",
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "6597596ef4a1a193aaa3",
+    "9a311cfb5942348dba22",
+    "ea7a54ff69a091f5876b",
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "periodic": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e",
+    "6dfe89530cdad9487679",
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "6597596ef4a1a193aaa3",
+    "9a311cfb5942348dba22",
+    "ea7a54ff69a091f5876b",
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "elements": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "41a1251cbb8ad99e03b0",
+    "52bc6b89237016c8a177",
+    "da9d7c0a13c48cc80ea5",
+    "8f8785a2808aaf070886",
+    "b805ef194883f6353dd7",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "number": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "2ecdfb46f85ab2145a7d",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "540b28ffdb1b68bbd2a3",
+    "1db57f38779d25bb7f14",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "6597596ef4a1a193aaa3",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "acfe8b9768bd10269028"
+  ],
+  "chemistry": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e",
+    "6dfe89530cdad9487679",
+    "9f27dbf25e6576c5ef23",
+    "8982e1a1e8e6616e8087",
+    "91425ce83d58a05861c6"
+  ],
+  "atomic": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "bbb9435ead32904bc4b3",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "9a311cfb5942348dba22",
+    "d84655e132107f98d7c6",
+    "44973af6a4393758f556",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "chemical": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "4ce9fd1616d6f6bf5ab4",
+    "3b0c40507a688c3283f9",
+    "9f27dbf25e6576c5ef23",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "9a311cfb5942348dba22",
+    "ea7a54ff69a091f5876b",
+    "f44d912ff7c024d4baae",
+    "4a07030396d89419156c",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "reading": [
+    "93fe513bd419a04527d3"
+  ],
+  "organizes": [
+    "93fe513bd419a04527d3"
+  ],
+  "electron": [
+    "93fe513bd419a04527d3",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "0fc66d39b283d3d4f5fc",
+    "c8142ed1bbd22d713146",
+    "9a311cfb5942348dba22",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "f44d912ff7c024d4baae",
+    "4a07030396d89419156c",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67",
+    "acfe8b9768bd10269028",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "configuration": [
+    "93fe513bd419a04527d3",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "f44d912ff7c024d4baae"
+  ],
+  "element": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "08cc8154a724444fc78e",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "6597596ef4a1a193aaa3",
+    "d84655e132107f98d7c6",
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738",
+    "7a03e951207d07e76fbf",
+    "6d7fc5a08b9f9d2b498e",
+    "acfe8b9768bd10269028"
+  ],
+  "represented": [
+    "93fe513bd419a04527d3",
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "symbol": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f"
+  ],
+  "such": [
+    "93fe513bd419a04527d3",
+    "ae43c5e7710a69521bee",
+    "4ce9fd1616d6f6bf5ab4",
+    "e062f7e229d03da99821",
+    "182d31a407ed1bd6918c",
+    "eb9d7af20d41a8527f28",
+    "2ecdfb46f85ab2145a7d",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "0f66883b35e046511401",
+    "46b460706671fc212557",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "898ca454bbc41036dd9f",
+    "b805ef194883f6353dd7",
+    "540b28ffdb1b68bbd2a3",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27",
+    "1e043293056489b0e78e",
+    "bd93e6402376e409719e",
+    "bf7be549b4368db16ad0",
+    "07ca45b67813edf06431",
+    "9a311cfb5942348dba22",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "periods": [
+    "93fe513bd419a04527d3",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "groups": [
+    "93fe513bd419a04527d3",
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "52bc6b89237016c8a177",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "4a07030396d89419156c",
+    "78952d20c5ecd1c98738"
+  ],
+  "same": [
+    "93fe513bd419a04527d3",
+    "4c84e2cb62310430fc0b",
+    "ab53e49a981c01e9c728",
+    "4c7f8d0b713b7125ea6f",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146",
+    "d87fa1b493031ac5893d",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "similar": [
+    "93fe513bd419a04527d3",
+    "6076d430d1c878c38b0e",
+    "94542ed4d42bdd3e8343",
+    "c8142ed1bbd22d713146",
+    "78952d20c5ecd1c98738",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "properties": [
+    "93fe513bd419a04527d3",
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "d7f88a83612d128f0fdc",
+    "bbb9435ead32904bc4b3",
+    "8982e1a1e8e6616e8087",
+    "c8142ed1bbd22d713146",
+    "9a311cfb5942348dba22",
+    "ea7a54ff69a091f5876b",
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a"
+  ],
+  "valence": [
+    "93fe513bd419a04527d3",
+    "6076d430d1c878c38b0e",
+    "ea7a54ff69a091f5876b",
+    "cc43db397eaba0e58340",
+    "acfe8b9768bd10269028"
+  ],
+  "electrons": [
+    "93fe513bd419a04527d3",
+    "4c84e2cb62310430fc0b",
+    "6076d430d1c878c38b0e",
+    "c8142ed1bbd22d713146",
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67",
+    "acfe8b9768bd10269028",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "according": [
+    "93fe513bd419a04527d3",
+    "4c84e2cb62310430fc0b"
+  ],
+  "fundamental": [
+    "93fe513bd419a04527d3"
+  ],
+  "tool": [
+    "93fe513bd419a04527d3",
+    "c7992ae1e0a50a8e861f"
+  ],
+  "based": [
+    "93fe513bd419a04527d3",
+    "ae43c5e7710a69521bee",
+    "c412ce2191d60a3677a7",
+    "10b6fcf001d2c4a7d160",
+    "2ecdfb46f85ab2145a7d",
+    "0f66883b35e046511401",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "unique": [
+    "93fe513bd419a04527d3"
+  ],
+  "often": [
+    "93fe513bd419a04527d3",
+    "1e043293056489b0e78e"
+  ],
+  "symbols": [
+    "c7992ae1e0a50a8e861f",
+    "9a311cfb5942348dba22"
+  ],
+  "study": [
+    "c7992ae1e0a50a8e861f",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "cc8646eb205c31fb513f",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27",
+    "1e043293056489b0e78e",
+    "bd93e6402376e409719e",
+    "95e05ddff661cd210857",
+    "a66bb14657ed98cac9da",
+    "6825d575a36bd71611d1"
+  ],
+  "single": [
+    "c7992ae1e0a50a8e861f",
+    "ea7a54ff69a091f5876b",
+    "c4b84b344c107b25804a"
+  ],
+  "frame": [
+    "c7992ae1e0a50a8e861f",
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "letter": [
+    "c7992ae1e0a50a8e861f"
+  ],
+  "atom": [
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "e56cfef669ad33083329",
+    "abd2c58c3afe96fa2716",
+    "9a311cfb5942348dba22",
+    "91425ce83d58a05861c6",
+    "f44d912ff7c024d4baae",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "generally": [
+    "c7992ae1e0a50a8e861f",
+    "f99c82c84eb28652f91d",
+    "cdea116ad3a4022b08ed",
+    "44973af6a4393758f556",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "name": [
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e"
+  ],
+  "hydrogen": [
+    "c7992ae1e0a50a8e861f",
+    "abd2c58c3afe96fa2716",
+    "f44d912ff7c024d4baae",
+    "4a07030396d89419156c",
+    "78952d20c5ecd1c98738"
+  ],
+  "nucleus": [
+    "c7992ae1e0a50a8e861f",
+    "4c84e2cb62310430fc0b",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "first": [
+    "c7992ae1e0a50a8e861f",
+    "6076d430d1c878c38b0e",
+    "94542ed4d42bdd3e8343",
+    "12d4dc4ba8cb812a5380",
+    "8f8785a2808aaf070886",
+    "f99c82c84eb28652f91d",
+    "b805ef194883f6353dd7",
+    "b6424c0218a53d45e115",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "08cc8154a724444fc78e",
+    "81a98335815962ad59dd",
+    "a66bb14657ed98cac9da",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370",
+    "7e9ccc4d5df9cd18dc55",
+    "7593604c73b57fce4b2a",
+    "c8142ed1bbd22d713146",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "c4b84b344c107b25804a",
+    "78952d20c5ecd1c98738",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "students": [
+    "c7992ae1e0a50a8e861f"
+  ],
+  "encounter": [
+    "c7992ae1e0a50a8e861f"
+  ],
+  "most": [
+    "c7992ae1e0a50a8e861f",
+    "ae43c5e7710a69521bee",
+    "41a1251cbb8ad99e03b0",
+    "43c12a06505392a22221",
+    "bd6057374b9c2c907ea7",
+    "3b30a8fb2c89157f67df",
+    "191582af739ee39faef2",
+    "42f3b07eea6bb933cfdf",
+    "f703229eb8fba07fbd90",
+    "cdea116ad3a4022b08ed",
+    "c4b84b344c107b25804a"
+  ],
+  "important": [
+    "c7992ae1e0a50a8e861f",
+    "42f3b07eea6bb933cfdf",
+    "9f27dbf25e6576c5ef23",
+    "cdea116ad3a4022b08ed"
+  ],
+  "depiction": [
+    "c7992ae1e0a50a8e861f"
+  ],
+  "because": [
+    "c7992ae1e0a50a8e861f",
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177",
+    "716f91bf92f215c9e067",
+    "02a116619bc47e94a18c",
+    "6bb7f432d7f968e5e28d",
+    "312ffa51058a3925c094",
+    "cdea116ad3a4022b08ed",
+    "78952d20c5ecd1c98738",
+    "44973af6a4393758f556",
+    "6d7fc5a08b9f9d2b498e",
+    "acfe8b9768bd10269028",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "shows": [
+    "c7992ae1e0a50a8e861f",
+    "33e9778ff1ad935e45b6",
+    "bace7139d660703f741c",
+    "eabdf1073f0a67e4df1f",
+    "f44d912ff7c024d4baae"
+  ],
+  "mass": [
+    "4c84e2cb62310430fc0b",
+    "4ce9fd1616d6f6bf5ab4",
+    "e062f7e229d03da99821",
+    "0fc66d39b283d3d4f5fc",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "7e9ccc4d5df9cd18dc55",
+    "68189f40c3482e910b39",
+    "abd2c58c3afe96fa2716"
+  ],
+  "period": [
+    "4c84e2cb62310430fc0b",
+    "07ca45b67813edf06431",
+    "c8142ed1bbd22d713146",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "energy": [
+    "4c84e2cb62310430fc0b",
+    "4ce9fd1616d6f6bf5ab4",
+    "e062f7e229d03da99821",
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c",
+    "3b0c40507a688c3283f9",
+    "94542ed4d42bdd3e8343",
+    "0fc66d39b283d3d4f5fc",
+    "12d4dc4ba8cb812a5380",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28",
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "4e517f23f4a52e764d3a",
+    "6825d575a36bd71611d1",
+    "c96f0e4dc700a1143b72",
+    "bbb9435ead32904bc4b3",
+    "42f3b07eea6bb933cfdf",
+    "ae2f6e31799c468874f7",
+    "a9aac8a96d3aa04eb90f",
+    "9a311cfb5942348dba22",
+    "91425ce83d58a05861c6",
+    "e38aacb4bcb48dc99f67",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "thus": [
+    "4c84e2cb62310430fc0b",
+    "12d4dc4ba8cb812a5380",
+    "98b968ee365b9b916938",
+    "8f8785a2808aaf070886",
+    "7b8a6edb77f51e2ccb10",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "814a30d9263593ac3423",
+    "cdea116ad3a4022b08ed",
+    "d87fa1b493031ac5893d",
+    "4a07030396d89419156c",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "isotopes": [
+    "4c84e2cb62310430fc0b",
+    "abd2c58c3afe96fa2716"
+  ],
+  "different": [
+    "4c84e2cb62310430fc0b",
+    "e56cfef669ad33083329",
+    "182d31a407ed1bd6918c",
+    "33e9778ff1ad935e45b6",
+    "4c7f8d0b713b7125ea6f",
+    "6bb7f432d7f968e5e28d",
+    "9a26a85e8a90797ecc8c",
+    "abd2c58c3afe96fa2716",
+    "9a311cfb5942348dba22",
+    "f44d912ff7c024d4baae",
+    "71e1a34de49d846860f3"
+  ],
+  "level": [
+    "4c84e2cb62310430fc0b",
+    "b97dd35eb56eba5296b0"
+  ],
+  "corresponds": [
+    "4c84e2cb62310430fc0b"
+  ],
+  "almost": [
+    "4c84e2cb62310430fc0b"
+  ],
+  "protons": [
+    "4c84e2cb62310430fc0b",
+    "e56cfef669ad33083329",
+    "abd2c58c3afe96fa2716"
+  ],
+  "neutrons": [
+    "4c84e2cb62310430fc0b",
+    "abd2c58c3afe96fa2716"
+  ],
+  "weight": [
+    "4c84e2cb62310430fc0b",
+    "94542ed4d42bdd3e8343",
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "naturally": [
+    "4c84e2cb62310430fc0b",
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146"
+  ],
+  "abundance": [
+    "4c84e2cb62310430fc0b"
+  ],
+  "percent": [
+    "4c84e2cb62310430fc0b"
+  ],
+  "other": [
+    "4c84e2cb62310430fc0b",
+    "6dfe89530cdad9487679",
+    "8f8785a2808aaf070886",
+    "46b460706671fc212557",
+    "43c12a06505392a22221",
+    "0a258de2ca51330c0679",
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "42f3b07eea6bb933cfdf",
+    "6bb7f432d7f968e5e28d",
+    "efa58bdf9cedc4b3889c",
+    "eabdf1073f0a67e4df1f",
+    "22eac246dbb28653861a",
+    "cc43db397eaba0e58340",
+    "acfe8b9768bd10269028"
+  ],
+  "only": [
+    "4c84e2cb62310430fc0b",
+    "41a1251cbb8ad99e03b0",
+    "4ce9fd1616d6f6bf5ab4",
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5",
+    "4c67dd4cd2403fa025a2",
+    "7f45e7abd0bc49abc210",
+    "0f66883b35e046511401",
+    "e5218e47adb8d751cb92",
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "db23fddd536f60e9b4d9",
+    "7593604c73b57fce4b2a",
+    "c8142ed1bbd22d713146",
+    "9a311cfb5942348dba22",
+    "d84655e132107f98d7c6",
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a",
+    "cc43db397eaba0e58340",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "shell": [
+    "4c84e2cb62310430fc0b",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a",
+    "7a03e951207d07e76fbf",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "form": [
+    "6076d430d1c878c38b0e",
+    "94542ed4d42bdd3e8343",
+    "924853c0faabbe1eb6d0",
+    "540b28ffdb1b68bbd2a3",
+    "6597596ef4a1a193aaa3",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340",
+    "acfe8b9768bd10269028"
+  ],
+  "recognized": [
+    "6076d430d1c878c38b0e",
+    "0fc66d39b283d3d4f5fc",
+    "b97dd35eb56eba5296b0"
+  ],
+  "group": [
+    "6076d430d1c878c38b0e",
+    "ae43c5e7710a69521bee",
+    "41a1251cbb8ad99e03b0",
+    "52bc6b89237016c8a177",
+    "8982e1a1e8e6616e8087",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "f44d912ff7c024d4baae",
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738",
+    "7a03e951207d07e76fbf",
+    "36fd5ccb26b1952f6ad6",
+    "acfe8b9768bd10269028"
+  ],
+  "similarly": [
+    "6076d430d1c878c38b0e"
+  ],
+  "alkali": [
+    "6076d430d1c878c38b0e",
+    "41a1251cbb8ad99e03b0",
+    "ea3e9538d96d5d9f5fdf",
+    "4a07030396d89419156c"
+  ],
+  "metals": [
+    "6076d430d1c878c38b0e",
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "41a1251cbb8ad99e03b0",
+    "52bc6b89237016c8a177",
+    "7593604c73b57fce4b2a",
+    "ea3e9538d96d5d9f5fdf",
+    "4a07030396d89419156c",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "readily": [
+    "6076d430d1c878c38b0e"
+  ],
+  "give": [
+    "6076d430d1c878c38b0e",
+    "db23fddd536f60e9b4d9"
+  ],
+  "positive": [
+    "6076d430d1c878c38b0e",
+    "924853c0faabbe1eb6d0"
+  ],
+  "very": [
+    "6076d430d1c878c38b0e",
+    "e4f14a6480ac062aa008",
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "behavior": [
+    "6076d430d1c878c38b0e"
+  ],
+  "many": [
+    "6076d430d1c878c38b0e",
+    "4ee37fb56c42c1d07fe4",
+    "7f45e7abd0bc49abc210",
+    "46b460706671fc212557",
+    "43c12a06505392a22221",
+    "b9e539c43e1ad9e4bec9",
+    "716f91bf92f215c9e067",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857",
+    "6bb7f432d7f968e5e28d",
+    "ae2f6e31799c468874f7",
+    "eabdf1073f0a67e4df1f",
+    "7593604c73b57fce4b2a",
+    "9a311cfb5942348dba22"
+  ],
+  "scientists": [
+    "6076d430d1c878c38b0e",
+    "61be621ab91cfbdf0030",
+    "4c7f8d0b713b7125ea6f",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "more": [
+    "6076d430d1c878c38b0e",
+    "4c67dd4cd2403fa025a2",
+    "332bdc2e161d472d2153",
+    "46b460706671fc212557",
+    "898ca454bbc41036dd9f",
+    "a8f4b22af561fd05fcdd",
+    "4e517f23f4a52e764d3a",
+    "191582af739ee39faef2",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "1db57f38779d25bb7f14",
+    "51244c0d03b3b01ddf21",
+    "a9aac8a96d3aa04eb90f",
+    "efa58bdf9cedc4b3889c",
+    "cdea116ad3a4022b08ed",
+    "9a26a85e8a90797ecc8c",
+    "78952d20c5ecd1c98738",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "print": [
+    "6dfe89530cdad9487679"
+  ],
+  "history": [
+    "6dfe89530cdad9487679",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "a8f4b22af561fd05fcdd",
+    "4c7f8d0b713b7125ea6f",
+    "191582af739ee39faef2",
+    "ae2f6e31799c468874f7"
+  ],
+  "london": [
+    "6dfe89530cdad9487679",
+    "61be621ab91cfbdf0030",
+    "605a04288ea2ea988d5b"
+  ],
+  "2002": [
+    "6dfe89530cdad9487679",
+    "e5218e47adb8d751cb92",
+    "605a04288ea2ea988d5b"
+  ],
+  "mackay": [
+    "6dfe89530cdad9487679"
+  ],
+  "gribbin": [
+    "6dfe89530cdad9487679"
+  ],
+  "science": [
+    "6dfe89530cdad9487679",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "1e043293056489b0e78e",
+    "4ea92b6c2366dd70e370",
+    "f703229eb8fba07fbd90",
+    "1db57f38779d25bb7f14",
+    "68189f40c3482e910b39",
+    "7593604c73b57fce4b2a"
+  ],
+  "1543": [
+    "6dfe89530cdad9487679"
+  ],
+  "2001": [
+    "6dfe89530cdad9487679",
+    "a66bb14657ed98cac9da",
+    "88b9fa717003b0d8da52"
+  ],
+  "lane": [
+    "6dfe89530cdad9487679"
+  ],
+  "jones": [
+    "6dfe89530cdad9487679"
+  ],
+  "mark": [
+    "6dfe89530cdad9487679"
+  ],
+  "society": [
+    "6dfe89530cdad9487679",
+    "a7191ac7e9851f22bddd",
+    "88b9fa717003b0d8da52"
+  ],
+  "philadelphia": [
+    "6dfe89530cdad9487679"
+  ],
+  "saunders": [
+    "6dfe89530cdad9487679"
+  ],
+  "coll": [
+    "6dfe89530cdad9487679"
+  ],
+  "1987": [
+    "6dfe89530cdad9487679",
+    "b6424c0218a53d45e115"
+  ],
+  "kean": [
+    "6dfe89530cdad9487679"
+  ],
+  "disappearing": [
+    "6dfe89530cdad9487679"
+  ],
+  "spoon": [
+    "6dfe89530cdad9487679"
+  ],
+  "true": [
+    "6dfe89530cdad9487679",
+    "da9d7c0a13c48cc80ea5",
+    "7b8a6edb77f51e2ccb10",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "924853c0faabbe1eb6d0",
+    "6464b98e5e182d86088e",
+    "cc8646eb205c31fb513f",
+    "81a98335815962ad59dd"
+  ],
+  "tales": [
+    "6dfe89530cdad9487679"
+  ],
+  "madness": [
+    "6dfe89530cdad9487679"
+  ],
+  "love": [
+    "6dfe89530cdad9487679"
+  ],
+  "world": [
+    "6dfe89530cdad9487679",
+    "191582af739ee39faef2"
+  ],
+  "newcommand": [
+    "bac0c07701afecbfbe83",
+    "dd1ff4fac7037469cb76",
+    "b48e36216bc9e17bcf60"
+  ],
+  "mathrm": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "span": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "overset": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "rightharpoonup": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "mathbf": [
+    "bac0c07701afecbfbe83",
+    "dd1ff4fac7037469cb76",
+    "b48e36216bc9e17bcf60"
+  ],
+  "range": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60",
+    "814a30d9263593ac3423",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "scriptstyle": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "vphantom": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "smash": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "displaystyle": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "limits": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60",
+    "e4f14a6480ac062aa008"
+  ],
+  "overrightarrow": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "vecs": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "vecd": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "kernel": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "null": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "realpart": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "imaginarypart": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "argument": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60",
+    "10b6fcf001d2c4a7d160",
+    "46b460706671fc212557",
+    "0a258de2ca51330c0679",
+    "3b30a8fb2c89157f67df",
+    "33e9778ff1ad935e45b6"
+  ],
+  "norm": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "inner": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "langle": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "rangle": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "arrow": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "text": [
+    "bac0c07701afecbfbe83",
+    "dd1ff4fac7037469cb76",
+    "b48e36216bc9e17bcf60",
+    "c412ce2191d60a3677a7"
+  ],
+  "dsum": [
+    "bac0c07701afecbfbe83",
+    "b48e36216bc9e17bcf60"
+  ],
+  "dint": [
+    "bac0c07701afecbfbe83"
+  ],
+  "dlim": [
+    "bac0c07701afecbfbe83"
+  ],
+  "unicode": [
+    "bac0c07701afecbfbe83"
+  ],
+  "array": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "left": [
+    "dd1ff4fac7037469cb76",
+    "e56cfef669ad33083329",
+    "52bc6b89237016c8a177",
+    "b9e539c43e1ad9e4bec9",
+    "8982e1a1e8e6616e8087",
+    "7a03e951207d07e76fbf",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "right": [
+    "dd1ff4fac7037469cb76",
+    "e56cfef669ad33083329",
+    "52bc6b89237016c8a177",
+    "8982e1a1e8e6616e8087",
+    "e38aacb4bcb48dc99f67",
+    "acfe8b9768bd10269028"
+  ],
+  "begin": [
+    "dd1ff4fac7037469cb76",
+    "c4b84b344c107b25804a"
+  ],
+  "bvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "widehat": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "uvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "vvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "xvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "gray": [
+    "dd1ff4fac7037469cb76",
+    "3273fbf9fe3b74780909"
+  ],
+  "color": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "rank": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "corr": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "avec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "cvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "dvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "dtil": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "widetilde": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "evec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "fvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "nvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "pvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "qvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "svec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "tvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "wvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "yvec": [
+    "dd1ff4fac7037469cb76"
+  ],
+  "line": [
+    "e56cfef669ad33083329",
+    "ab53e49a981c01e9c728",
+    "d7f88a83612d128f0fdc"
+  ],
+  "arranged": [
+    "e56cfef669ad33083329"
+  ],
+  "listed": [
+    "e56cfef669ad33083329"
+  ],
+  "rows": [
+    "e56cfef669ad33083329",
+    "8982e1a1e8e6616e8087",
+    "7593604c73b57fce4b2a",
+    "f44d912ff7c024d4baae"
+  ],
+  "older": [
+    "e56cfef669ad33083329"
+  ],
+  "tables": [
+    "e56cfef669ad33083329",
+    "9a311cfb5942348dba22"
+  ],
+  "nonmetals": [
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177"
+  ],
+  "exhibit": [
+    "e56cfef669ad33083329",
+    "52bc6b89237016c8a177",
+    "78952d20c5ecd1c98738"
+  ],
+  "order": [
+    "e56cfef669ad33083329",
+    "8f8785a2808aaf070886",
+    "f99c82c84eb28652f91d",
+    "ab371aed67b4e6c05b63",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "81a98335815962ad59dd",
+    "d84655e132107f98d7c6"
+  ],
+  "increasing": [
+    "e56cfef669ad33083329",
+    "1db57f38779d25bb7f14",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "figure": [
+    "e56cfef669ad33083329",
+    "ae43c5e7710a69521bee",
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431",
+    "1e4facd55c3484077b0e"
+  ],
+  "pageindex": [
+    "e56cfef669ad33083329"
+  ],
+  "along": [
+    "e56cfef669ad33083329",
+    "0a258de2ca51330c0679",
+    "4c7f8d0b713b7125ea6f",
+    "db23fddd536f60e9b4d9",
+    "91425ce83d58a05861c6"
+  ],
+  "selenium": [
+    "ae43c5e7710a69521bee"
+  ],
+  "into": [
+    "ae43c5e7710a69521bee",
+    "3b0c40507a688c3283f9",
+    "0fc66d39b283d3d4f5fc",
+    "12d4dc4ba8cb812a5380",
+    "540b28ffdb1b68bbd2a3",
+    "7e9ccc4d5df9cd18dc55",
+    "6825d575a36bd71611d1",
+    "d8c21aba3abf824165b8",
+    "bf7be549b4368db16ad0",
+    "1db57f38779d25bb7f14",
+    "a9aac8a96d3aa04eb90f",
+    "8982e1a1e8e6616e8087",
+    "c8142ed1bbd22d713146"
+  ],
+  "nonmetal": [
+    "ae43c5e7710a69521bee"
+  ],
+  "between": [
+    "ae43c5e7710a69521bee",
+    "4ee37fb56c42c1d07fe4",
+    "94542ed4d42bdd3e8343",
+    "65be8e1f207bae5925de",
+    "bbb9435ead32904bc4b3",
+    "42f3b07eea6bb933cfdf",
+    "78952d20c5ecd1c98738",
+    "cc43db397eaba0e58340",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "metal": [
+    "ae43c5e7710a69521bee",
+    "4a07030396d89419156c"
+  ],
+  "semimetal": [
+    "ae43c5e7710a69521bee"
+  ],
+  "conductors": [
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177"
+  ],
+  "electricity": [
+    "ae43c5e7710a69521bee"
+  ],
+  "heat": [
+    "ae43c5e7710a69521bee",
+    "3b0c40507a688c3283f9",
+    "94542ed4d42bdd3e8343",
+    "12d4dc4ba8cb812a5380",
+    "4e517f23f4a52e764d3a",
+    "c96f0e4dc700a1143b72",
+    "b97dd35eb56eba5296b0",
+    "51244c0d03b3b01ddf21",
+    "a9aac8a96d3aa04eb90f",
+    "cdea116ad3a4022b08ed"
+  ],
+  "pulled": [
+    "ae43c5e7710a69521bee"
+  ],
+  "lustrous": [
+    "ae43c5e7710a69521bee"
+  ],
+  "room": [
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177"
+  ],
+  "temperature": [
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177",
+    "12d4dc4ba8cb812a5380",
+    "1db57f38779d25bb7f14",
+    "b97dd35eb56eba5296b0",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8",
+    "9a26a85e8a90797ecc8c",
+    "1e4facd55c3484077b0e"
+  ],
+  "pressure": [
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177"
+  ],
+  "solids": [
+    "ae43c5e7710a69521bee"
+  ],
+  "gases": [
+    "ae43c5e7710a69521bee",
+    "52bc6b89237016c8a177",
+    "ae2f6e31799c468874f7",
+    "a9aac8a96d3aa04eb90f",
+    "efa58bdf9cedc4b3889c",
+    "ea3e9538d96d5d9f5fdf",
+    "22eac246dbb28653861a",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "expect": [
+    "ae43c5e7710a69521bee"
+  ],
+  "earth": [
+    "41a1251cbb8ad99e03b0",
+    "191582af739ee39faef2",
+    "42f3b07eea6bb933cfdf",
+    "bf7be549b4368db16ad0",
+    "57fbe784a562b413e905",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "b97dd35eb56eba5296b0",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "a9aac8a96d3aa04eb90f",
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e",
+    "c8142ed1bbd22d713146"
+  ],
+  "sodium": [
+    "41a1251cbb8ad99e03b0",
+    "ea7a54ff69a091f5876b"
+  ],
+  "compounds": [
+    "41a1251cbb8ad99e03b0",
+    "71e1a34de49d846860f3"
+  ],
+  "lithium": [
+    "41a1251cbb8ad99e03b0",
+    "abd2c58c3afe96fa2716",
+    "d84655e132107f98d7c6"
+  ],
+  "nature": [
+    "41a1251cbb8ad99e03b0",
+    "5f105137e58c8063915f",
+    "0f66883b35e046511401",
+    "bbb9435ead32904bc4b3",
+    "7593604c73b57fce4b2a"
+  ],
+  "salt": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "chloride": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "radioactive": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "abundant": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "calcium": [
+    "41a1251cbb8ad99e03b0",
+    "91425ce83d58a05861c6"
+  ],
+  "fluorine": [
+    "41a1251cbb8ad99e03b0",
+    "acfe8b9768bd10269028"
+  ],
+  "chlorine": [
+    "41a1251cbb8ad99e03b0",
+    "acfe8b9768bd10269028"
+  ],
+  "potassium": [
+    "41a1251cbb8ad99e03b0",
+    "91425ce83d58a05861c6"
+  ],
+  "rubidium": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "cesium": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "francium": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "although": [
+    "41a1251cbb8ad99e03b0",
+    "483490b185bf1d6ceed2"
+  ],
+  "rare": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "unstable": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "highly": [
+    "41a1251cbb8ad99e03b0",
+    "4a07030396d89419156c"
+  ],
+  "exists": [
+    "41a1251cbb8ad99e03b0",
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "amounts": [
+    "41a1251cbb8ad99e03b0"
+  ],
+  "respectively": [
+    "41a1251cbb8ad99e03b0",
+    "924853c0faabbe1eb6d0"
+  ],
+  "noble": [
+    "52bc6b89237016c8a177",
+    "ea3e9538d96d5d9f5fdf",
+    "22eac246dbb28653861a",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "neon": [
+    "52bc6b89237016c8a177",
+    "ea7a54ff69a091f5876b",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738"
+  ],
+  "unreactive": [
+    "52bc6b89237016c8a177"
+  ],
+  "semimetals": [
+    "52bc6b89237016c8a177"
+  ],
+  "helium": [
+    "52bc6b89237016c8a177",
+    "abd2c58c3afe96fa2716",
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738"
+  ],
+  "argon": [
+    "52bc6b89237016c8a177",
+    "ea7a54ff69a091f5876b"
+  ],
+  "reactivity": [
+    "52bc6b89237016c8a177"
+  ],
+  "inert": [
+    "52bc6b89237016c8a177"
+  ],
+  "atmosphere": [
+    "52bc6b89237016c8a177",
+    "42f3b07eea6bb933cfdf",
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23",
+    "ae2f6e31799c468874f7",
+    "1db57f38779d25bb7f14",
+    "312ffa51058a3925c094",
+    "a9aac8a96d3aa04eb90f",
+    "cdea116ad3a4022b08ed"
+  ],
+  "light": [
+    "52bc6b89237016c8a177",
+    "d76a21205638eec3e2a2",
+    "bbb9435ead32904bc4b3"
+  ],
+  "located": [
+    "52bc6b89237016c8a177"
+  ],
+  "krypton": [
+    "52bc6b89237016c8a177"
+  ],
+  "mathematical": [
+    "b48e36216bc9e17bcf60",
+    "c412ce2191d60a3677a7",
+    "061bf905918e30c5a0c2",
+    "2ecdfb46f85ab2145a7d",
+    "e4f14a6480ac062aa008",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "46b460706671fc212557",
+    "898ca454bbc41036dd9f",
+    "3273fbf9fe3b74780909",
+    "0a258de2ca51330c0679",
+    "b805ef194883f6353dd7",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115",
+    "2929eaf77d9d836af60b",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "698ef1636b8e50376313",
+    "88ebe5f80fae5c076bf9",
+    "02a116619bc47e94a18c",
+    "9037bbafbd779ddfcc27",
+    "1e043293056489b0e78e",
+    "81a98335815962ad59dd",
+    "a66bb14657ed98cac9da"
+  ],
+  "introduction": [
+    "c412ce2191d60a3677a7",
+    "84959692401c44af31ed",
+    "a8f4b22af561fd05fcdd",
+    "e5218e47adb8d751cb92",
+    "605a04288ea2ea988d5b"
+  ],
+  "writing": [
+    "c412ce2191d60a3677a7"
+  ],
+  "morris": [
+    "c412ce2191d60a3677a7"
+  ],
+  "friendly": [
+    "c412ce2191d60a3677a7"
+  ],
+  "leary": [
+    "c412ce2191d60a3677a7"
+  ],
+  "kristiansen": [
+    "c412ce2191d60a3677a7"
+  ],
+  "reasoning": [
+    "c412ce2191d60a3677a7",
+    "0a258de2ca51330c0679"
+  ],
+  "sundstrom": [
+    "c412ce2191d60a3677a7"
+  ],
+  "gentle": [
+    "c412ce2191d60a3677a7"
+  ],
+  "fields": [
+    "c412ce2191d60a3677a7",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "d7f88a83612d128f0fdc"
+  ],
+  "concepts": [
+    "c412ce2191d60a3677a7",
+    "061bf905918e30c5a0c2",
+    "da9d7c0a13c48cc80ea5",
+    "4c67dd4cd2403fa025a2",
+    "02a116619bc47e94a18c",
+    "f703229eb8fba07fbd90"
+  ],
+  "fundamentals": [
+    "c412ce2191d60a3677a7",
+    "b6424c0218a53d45e115"
+  ],
+  "abstract": [
+    "c412ce2191d60a3677a7",
+    "cc8646eb205c31fb513f"
+  ],
+  "inquiry": [
+    "c412ce2191d60a3677a7"
+  ],
+  "learning": [
+    "c412ce2191d60a3677a7"
+  ],
+  "ernst": [
+    "c412ce2191d60a3677a7"
+  ],
+  "transition": [
+    "c412ce2191d60a3677a7",
+    "c4b84b344c107b25804a",
+    "f44d912ff7c024d4baae",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "higher": [
+    "c412ce2191d60a3677a7",
+    "814a30d9263593ac3423",
+    "44973af6a4393758f556"
+  ],
+  "dumas": [
+    "c412ce2191d60a3677a7"
+  ],
+  "mccarthy": [
+    "c412ce2191d60a3677a7"
+  ],
+  "thumbnail": [
+    "c412ce2191d60a3677a7"
+  ],
+  "oldest": [
+    "c412ce2191d60a3677a7"
+  ],
+  "surviving": [
+    "c412ce2191d60a3677a7"
+  ],
+  "conservation": [
+    "4ce9fd1616d6f6bf5ab4",
+    "e062f7e229d03da99821",
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c",
+    "3b0c40507a688c3283f9",
+    "0fc66d39b283d3d4f5fc",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28",
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "c96f0e4dc700a1143b72"
+  ],
+  "time": [
+    "4ce9fd1616d6f6bf5ab4",
+    "4ee37fb56c42c1d07fe4",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "7f45e7abd0bc49abc210",
+    "7b8a6edb77f51e2ccb10",
+    "698ef1636b8e50376313",
+    "7e9ccc4d5df9cd18dc55",
+    "db23fddd536f60e9b4d9",
+    "191582af739ee39faef2",
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431"
+  ],
+  "total": [
+    "4ce9fd1616d6f6bf5ab4",
+    "182d31a407ed1bd6918c",
+    "0fc66d39b283d3d4f5fc",
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "conserved": [
+    "4ce9fd1616d6f6bf5ab4",
+    "4ee37fb56c42c1d07fe4",
+    "0fc66d39b283d3d4f5fc",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28"
+  ],
+  "over": [
+    "4ce9fd1616d6f6bf5ab4",
+    "65be8e1f207bae5925de",
+    "46b460706671fc212557",
+    "2feffb1c83d6c6623afb",
+    "814a30d9263593ac3423",
+    "bf7be549b4368db16ad0",
+    "ae2f6e31799c468874f7",
+    "1db57f38779d25bb7f14",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c",
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e"
+  ],
+  "principle": [
+    "4ce9fd1616d6f6bf5ab4",
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c",
+    "3b0c40507a688c3283f9",
+    "94542ed4d42bdd3e8343",
+    "6825d575a36bd71611d1"
+  ],
+  "amount": [
+    "4ce9fd1616d6f6bf5ab4",
+    "12d4dc4ba8cb812a5380",
+    "1e4facd55c3484077b0e"
+  ],
+  "converted": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "kinetic": [
+    "4ce9fd1616d6f6bf5ab4",
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c",
+    "3b0c40507a688c3283f9",
+    "6cc89bc1c95fa8f7da60",
+    "c96f0e4dc700a1143b72"
+  ],
+  "dynamite": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "relativity": [
+    "4ce9fd1616d6f6bf5ab4",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "eb9d7af20d41a8527f28",
+    "673602822635757c6fd6"
+  ],
+  "vice": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "versa": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "equivalence": [
+    "4ce9fd1616d6f6bf5ab4",
+    "33e9778ff1ad935e45b6"
+  ],
+  "observed": [
+    "4ce9fd1616d6f6bf5ab4",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "noether": [
+    "4ce9fd1616d6f6bf5ab4",
+    "c76a302fa5285e9dc3f8"
+  ],
+  "consequence": [
+    "4ce9fd1616d6f6bf5ab4",
+    "c76a302fa5285e9dc3f8",
+    "6464b98e5e182d86088e"
+  ],
+  "exist": [
+    "4ce9fd1616d6f6bf5ab4",
+    "7593604c73b57fce4b2a"
+  ],
+  "states": [
+    "4ce9fd1616d6f6bf5ab4",
+    "6464b98e5e182d86088e",
+    "08cc8154a724444fc78e",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370",
+    "4e517f23f4a52e764d3a",
+    "9a311cfb5942348dba22",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "isolated": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "remains": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "constant": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "said": [
+    "4ce9fd1616d6f6bf5ab4"
+  ],
+  "height": [
+    "e062f7e229d03da99821",
+    "182d31a407ed1bd6918c"
+  ],
+  "ancient": [
+    "e062f7e229d03da99821",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21"
+  ],
+  "back": [
+    "e062f7e229d03da99821",
+    "191582af739ee39faef2"
+  ],
+  "thales": [
+    "e062f7e229d03da99821"
+  ],
+  "everything": [
+    "e062f7e229d03da99821"
+  ],
+  "water": [
+    "e062f7e229d03da99821",
+    "94542ed4d42bdd3e8343",
+    "cdea116ad3a4022b08ed",
+    "71e1a34de49d846860f3"
+  ],
+  "composed": [
+    "e062f7e229d03da99821"
+  ],
+  "idea": [
+    "e062f7e229d03da99821",
+    "95e05ddff661cd210857"
+  ],
+  "moving": [
+    "e062f7e229d03da99821",
+    "d76a21205638eec3e2a2",
+    "78952d20c5ecd1c98738"
+  ],
+  "body": [
+    "e062f7e229d03da99821",
+    "6597596ef4a1a193aaa3"
+  ],
+  "observation": [
+    "e062f7e229d03da99821"
+  ],
+  "surface": [
+    "e062f7e229d03da99821",
+    "d8c21aba3abf824165b8",
+    "6bb7f432d7f968e5e28d",
+    "a9aac8a96d3aa04eb90f",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed"
+  ],
+  "philosophers": [
+    "e062f7e229d03da99821",
+    "f99c82c84eb28652f91d"
+  ],
+  "miletus": [
+    "e062f7e229d03da99821"
+  ],
+  "inklings": [
+    "e062f7e229d03da99821"
+  ],
+  "underlying": [
+    "e062f7e229d03da99821"
+  ],
+  "substance": [
+    "e062f7e229d03da99821"
+  ],
+  "made": [
+    "e062f7e229d03da99821",
+    "7b8a6edb77f51e2ccb10",
+    "db23fddd536f60e9b4d9"
+  ],
+  "however": [
+    "e062f7e229d03da99821",
+    "4ee37fb56c42c1d07fe4",
+    "98b968ee365b9b916938",
+    "7f45e7abd0bc49abc210",
+    "698ef1636b8e50376313",
+    "7593604c73b57fce4b2a",
+    "91425ce83d58a05861c6"
+  ],
+  "particular": [
+    "e062f7e229d03da99821",
+    "12d4dc4ba8cb812a5380",
+    "e4f14a6480ac062aa008",
+    "332bdc2e161d472d2153",
+    "b6424c0218a53d45e115",
+    "6464b98e5e182d86088e",
+    "d7f88a83612d128f0fdc",
+    "1e4facd55c3484077b0e"
+  ],
+  "reason": [
+    "e062f7e229d03da99821"
+  ],
+  "identify": [
+    "e062f7e229d03da99821"
+  ],
+  "theories": [
+    "e062f7e229d03da99821",
+    "182d31a407ed1bd6918c",
+    "94542ed4d42bdd3e8343",
+    "c76a302fa5285e9dc3f8",
+    "0f66883b35e046511401",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "d7f88a83612d128f0fdc",
+    "95e05ddff661cd210857"
+  ],
+  "know": [
+    "e062f7e229d03da99821",
+    "6bb7f432d7f968e5e28d"
+  ],
+  "today": [
+    "e062f7e229d03da99821"
+  ],
+  "collision": [
+    "4ee37fb56c42c1d07fe4"
+  ],
+  "huygens": [
+    "4ee37fb56c42c1d07fe4",
+    "5f105137e58c8063915f"
+  ],
+  "motion": [
+    "4ee37fb56c42c1d07fe4",
+    "3b0c40507a688c3283f9",
+    "eb9d7af20d41a8527f28",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370",
+    "6825d575a36bd71611d1",
+    "c96f0e4dc700a1143b72"
+  ],
+  "quantities": [
+    "4ee37fb56c42c1d07fe4",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008"
+  ],
+  "masses": [
+    "4ee37fb56c42c1d07fe4"
+  ],
+  "momentum": [
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c",
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "published": [
+    "4ee37fb56c42c1d07fe4",
+    "94542ed4d42bdd3e8343",
+    "8f8785a2808aaf070886",
+    "3b30a8fb2c89157f67df",
+    "698ef1636b8e50376313",
+    "ab371aed67b4e6c05b63"
+  ],
+  "laws": [
+    "4ee37fb56c42c1d07fe4",
+    "673602822635757c6fd6",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370",
+    "c96f0e4dc700a1143b72",
+    "bbb9435ead32904bc4b3"
+  ],
+  "among": [
+    "4ee37fb56c42c1d07fe4"
+  ],
+  "bodies": [
+    "4ee37fb56c42c1d07fe4"
+  ],
+  "elastic": [
+    "4ee37fb56c42c1d07fe4",
+    "c96f0e4dc700a1143b72"
+  ],
+  "later": [
+    "4ee37fb56c42c1d07fe4",
+    "8f8785a2808aaf070886"
+  ],
+  "researchers": [
+    "4ee37fb56c42c1d07fe4",
+    "46b460706671fc212557"
+  ],
+  "statement": [
+    "4ee37fb56c42c1d07fe4",
+    "332bdc2e161d472d2153",
+    "7b8a6edb77f51e2ccb10",
+    "0a258de2ca51330c0679",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "88ebe5f80fae5c076bf9",
+    "81a98335815962ad59dd"
+  ],
+  "center": [
+    "4ee37fb56c42c1d07fe4",
+    "68189f40c3482e910b39"
+  ],
+  "using": [
+    "4ee37fb56c42c1d07fe4",
+    "b805ef194883f6353dd7",
+    "b9e539c43e1ad9e4bec9",
+    "95e05ddff661cd210857",
+    "bbb9435ead32904bc4b3"
+  ],
+  "leibniz": [
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "182d31a407ed1bd6918c"
+  ],
+  "systems": [
+    "4ee37fb56c42c1d07fe4",
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "0f66883b35e046511401",
+    "43c12a06505392a22221",
+    "483490b185bf1d6ceed2",
+    "02a116619bc47e94a18c",
+    "9037bbafbd779ddfcc27"
+  ],
+  "viva": [
+    "4ee37fb56c42c1d07fe4",
+    "10b6fcf001d2c4a7d160",
+    "3b0c40507a688c3283f9"
+  ],
+  "force": [
+    "4ee37fb56c42c1d07fe4",
+    "94542ed4d42bdd3e8343",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370",
+    "7e9ccc4d5df9cd18dc55",
+    "6825d575a36bd71611d1",
+    "c96f0e4dc700a1143b72",
+    "d76a21205638eec3e2a2"
+  ],
+  "daniel": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "dualism": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "while": [
+    "10b6fcf001d2c4a7d160",
+    "da9d7c0a13c48cc80ea5",
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "bernoulli": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "work": [
+    "10b6fcf001d2c4a7d160",
+    "3b0c40507a688c3283f9",
+    "94542ed4d42bdd3e8343",
+    "12d4dc4ba8cb812a5380",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "43c12a06505392a22221",
+    "b9e539c43e1ad9e4bec9",
+    "483490b185bf1d6ceed2",
+    "698ef1636b8e50376313",
+    "ab371aed67b4e6c05b63",
+    "a66bb14657ed98cac9da",
+    "db23fddd536f60e9b4d9",
+    "6825d575a36bd71611d1",
+    "c96f0e4dc700a1143b72"
+  ],
+  "loss": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "mechanics": [
+    "10b6fcf001d2c4a7d160",
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "6825d575a36bd71611d1",
+    "7a03e951207d07e76fbf"
+  ],
+  "1690s": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "arguing": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "undermined": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "then": [
+    "10b6fcf001d2c4a7d160",
+    "0fc66d39b283d3d4f5fc",
+    "c76a302fa5285e9dc3f8",
+    "7f45e7abd0bc49abc210",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "33e9778ff1ad935e45b6",
+    "4e517f23f4a52e764d3a",
+    "d84655e132107f98d7c6",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "7a03e951207d07e76fbf",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "popular": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "philosophical": [
+    "10b6fcf001d2c4a7d160",
+    "a7191ac7e9851f22bddd",
+    "7f45e7abd0bc49abc210",
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "f99c82c84eb28652f91d",
+    "716f91bf92f215c9e067"
+  ],
+  "doctrine": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "interactionist": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "during": [
+    "10b6fcf001d2c4a7d160",
+    "bf7be549b4368db16ad0"
+  ],
+  "19th": [
+    "10b6fcf001d2c4a7d160",
+    "061bf905918e30c5a0c2",
+    "e4f14a6480ac062aa008",
+    "ab53e49a981c01e9c728",
+    "bd93e6402376e409719e"
+  ],
+  "century": [
+    "10b6fcf001d2c4a7d160",
+    "0fc66d39b283d3d4f5fc",
+    "061bf905918e30c5a0c2",
+    "2ecdfb46f85ab2145a7d",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "65be8e1f207bae5925de",
+    "f6336ebed7f5919b6ddd",
+    "898ca454bbc41036dd9f",
+    "2feffb1c83d6c6623afb",
+    "b805ef194883f6353dd7",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "88ebe5f80fae5c076bf9",
+    "bd93e6402376e409719e",
+    "81a98335815962ad59dd",
+    "191582af739ee39faef2",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "1e4facd55c3484077b0e",
+    "8982e1a1e8e6616e8087"
+  ],
+  "better": [
+    "10b6fcf001d2c4a7d160"
+  ],
+  "understood": [
+    "10b6fcf001d2c4a7d160",
+    "81a98335815962ad59dd"
+  ],
+  "basic": [
+    "10b6fcf001d2c4a7d160",
+    "061bf905918e30c5a0c2",
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "proportional": [
+    "182d31a407ed1bd6918c"
+  ],
+  "balls": [
+    "182d31a407ed1bd6918c"
+  ],
+  "dropped": [
+    "182d31a407ed1bd6918c"
+  ],
+  "clay": [
+    "182d31a407ed1bd6918c"
+  ],
+  "châtelet": [
+    "182d31a407ed1bd6918c"
+  ],
+  "proposed": [
+    "182d31a407ed1bd6918c"
+  ],
+  "distinct": [
+    "182d31a407ed1bd6918c"
+  ],
+  "square": [
+    "182d31a407ed1bd6918c"
+  ],
+  "velocity": [
+    "182d31a407ed1bd6918c",
+    "c96f0e4dc700a1143b72"
+  ],
+  "deformation": [
+    "182d31a407ed1bd6918c"
+  ],
+  "potential": [
+    "182d31a407ed1bd6918c",
+    "c76a302fa5285e9dc3f8",
+    "98b968ee365b9b916938",
+    "c96f0e4dc700a1143b72"
+  ],
+  "émilie": [
+    "182d31a407ed1bd6918c",
+    "5f105137e58c8063915f"
+  ],
+  "1706": [
+    "182d31a407ed1bd6918c"
+  ],
+  "1749": [
+    "182d31a407ed1bd6918c"
+  ],
+  "tested": [
+    "182d31a407ed1bd6918c"
+  ],
+  "hypothesis": [
+    "182d31a407ed1bd6918c",
+    "46b460706671fc212557",
+    "45cf59ca62e36b4512a7",
+    "08cc8154a724444fc78e",
+    "13e0f4439f873242ed05",
+    "88b9fa717003b0d8da52"
+  ],
+  "inspired": [
+    "182d31a407ed1bd6918c"
+  ],
+  "mechanical": [
+    "3b0c40507a688c3283f9",
+    "94542ed4d42bdd3e8343"
+  ],
+  "caloric": [
+    "3b0c40507a688c3283f9"
+  ],
+  "theory": [
+    "3b0c40507a688c3283f9",
+    "c76a302fa5285e9dc3f8",
+    "2ecdfb46f85ab2145a7d",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "898ca454bbc41036dd9f",
+    "bd6057374b9c2c907ea7",
+    "b805ef194883f6353dd7",
+    "540b28ffdb1b68bbd2a3",
+    "b9e539c43e1ad9e4bec9",
+    "b6424c0218a53d45e115",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "ab53e49a981c01e9c728",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "cc8646eb205c31fb513f",
+    "08cc8154a724444fc78e",
+    "d7f88a83612d128f0fdc",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27"
+  ],
+  "could": [
+    "3b0c40507a688c3283f9",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "e6513ef6a76bea453b3c",
+    "88ebe5f80fae5c076bf9",
+    "bace7139d660703f741c",
+    "81a98335815962ad59dd",
+    "b97dd35eb56eba5296b0"
+  ],
+  "came": [
+    "3b0c40507a688c3283f9"
+  ],
+  "conversion": [
+    "3b0c40507a688c3283f9"
+  ],
+  "quantity": [
+    "3b0c40507a688c3283f9",
+    "12d4dc4ba8cb812a5380",
+    "c76a302fa5285e9dc3f8"
+  ],
+  "travail": [
+    "3b0c40507a688c3283f9"
+  ],
+  "equivalent": [
+    "3b0c40507a688c3283f9",
+    "0fc66d39b283d3d4f5fc",
+    "33e9778ff1ad935e45b6"
+  ],
+  "lomonosov": [
+    "3b0c40507a688c3283f9"
+  ],
+  "through": [
+    "3b0c40507a688c3283f9",
+    "db23fddd536f60e9b4d9",
+    "a9aac8a96d3aa04eb90f",
+    "ea3e9538d96d5d9f5fdf",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "36fd5ccb26b1952f6ad6",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "gradually": [
+    "3b0c40507a688c3283f9"
+  ],
+  "suspected": [
+    "3b0c40507a688c3283f9"
+  ],
+  "inevitably": [
+    "3b0c40507a688c3283f9"
+  ],
+  "generated": [
+    "3b0c40507a688c3283f9"
+  ],
+  "under": [
+    "3b0c40507a688c3283f9",
+    "c76a302fa5285e9dc3f8",
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "friction": [
+    "3b0c40507a688c3283f9",
+    "c96f0e4dc700a1143b72"
+  ],
+  "another": [
+    "3b0c40507a688c3283f9"
+  ],
+  "joule": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "modern": [
+    "94542ed4d42bdd3e8343",
+    "eb9d7af20d41a8527f28",
+    "673602822635757c6fd6",
+    "da9d7c0a13c48cc80ea5",
+    "e4f14a6480ac062aa008",
+    "ae2f6e31799c468874f7",
+    "8982e1a1e8e6616e8087",
+    "f44d912ff7c024d4baae"
+  ],
+  "mayer": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "them": [
+    "94542ed4d42bdd3e8343",
+    "4c67dd4cd2403fa025a2",
+    "46b460706671fc212557"
+  ],
+  "grove": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "measurements": [
+    "94542ed4d42bdd3e8343",
+    "07ca45b67813edf06431"
+  ],
+  "stated": [
+    "94542ed4d42bdd3e8343",
+    "08cc8154a724444fc78e",
+    "81a98335815962ad59dd"
+  ],
+  "robert": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "less": [
+    "94542ed4d42bdd3e8343",
+    "d87fa1b493031ac5893d"
+  ],
+  "discovered": [
+    "94542ed4d42bdd3e8343",
+    "88ebe5f80fae5c076bf9",
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "relationship": [
+    "94542ed4d42bdd3e8343",
+    "cc43db397eaba0e58340"
+  ],
+  "1843": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "descending": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "paddle": [
+    "94542ed4d42bdd3e8343"
+  ],
+  "william": [
+    "94542ed4d42bdd3e8343",
+    "a7191ac7e9851f22bddd"
+  ],
+  "rest": [
+    "0fc66d39b283d3d4f5fc",
+    "6cc89bc1c95fa8f7da60",
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "beta": [
+    "0fc66d39b283d3d4f5fc",
+    "a7191ac7e9851f22bddd"
+  ],
+  "decay": [
+    "0fc66d39b283d3d4f5fc",
+    "a7191ac7e9851f22bddd",
+    "c8142ed1bbd22d713146"
+  ],
+  "example": [
+    "0fc66d39b283d3d4f5fc",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "540b28ffdb1b68bbd2a3",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "bd93e6402376e409719e",
+    "4ea92b6c2366dd70e370",
+    "db23fddd536f60e9b4d9",
+    "bf7be549b4368db16ad0",
+    "a9aac8a96d3aa04eb90f",
+    "9a26a85e8a90797ecc8c",
+    "36fd5ccb26b1952f6ad6",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67",
+    "71e1a34de49d846860f3"
+  ],
+  "matter": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "material": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "forms": [
+    "0fc66d39b283d3d4f5fc",
+    "6825d575a36bd71611d1",
+    "6597596ef4a1a193aaa3"
+  ],
+  "electromagnetic": [
+    "0fc66d39b283d3d4f5fc",
+    "d76a21205638eec3e2a2",
+    "bbb9435ead32904bc4b3"
+  ],
+  "radiant": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "atoms": [
+    "0fc66d39b283d3d4f5fc",
+    "abd2c58c3afe96fa2716",
+    "d84655e132107f98d7c6",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6",
+    "6d7fc5a08b9f9d2b498e",
+    "acfe8b9768bd10269028"
+  ],
+  "experience": [
+    "0fc66d39b283d3d4f5fc",
+    "44973af6a4393758f556"
+  ],
+  "positron": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "perish": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "photons": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "just": [
+    "0fc66d39b283d3d4f5fc",
+    "4e517f23f4a52e764d3a"
+  ],
+  "appeared": [
+    "0fc66d39b283d3d4f5fc"
+  ],
+  "emission": [
+    "0fc66d39b283d3d4f5fc",
+    "1e4facd55c3484077b0e"
+  ],
+  "state": [
+    "12d4dc4ba8cb812a5380",
+    "4e517f23f4a52e764d3a",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "internal": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "result": [
+    "12d4dc4ba8cb812a5380",
+    "3935ec056f93bc96fbef",
+    "88ebe5f80fae5c076bf9"
+  ],
+  "thermodynamic": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "where": [
+    "12d4dc4ba8cb812a5380",
+    "c76a302fa5285e9dc3f8",
+    "eb9d7af20d41a8527f28",
+    "65be8e1f207bae5925de",
+    "e6513ef6a76bea453b3c",
+    "d84655e132107f98d7c6"
+  ],
+  "process": [
+    "12d4dc4ba8cb812a5380",
+    "312ffa51058a3925c094"
+  ],
+  "change": [
+    "12d4dc4ba8cb812a5380",
+    "6825d575a36bd71611d1",
+    "191582af739ee39faef2",
+    "42f3b07eea6bb933cfdf",
+    "f703229eb8fba07fbd90",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "68189f40c3482e910b39",
+    "51244c0d03b3b01ddf21",
+    "a9aac8a96d3aa04eb90f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "being": [
+    "12d4dc4ba8cb812a5380",
+    "4c7f8d0b713b7125ea6f",
+    "d8c21aba3abf824165b8",
+    "4a07030396d89419156c",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "entropy": [
+    "12d4dc4ba8cb812a5380",
+    "c76a302fa5285e9dc3f8"
+  ],
+  "written": [
+    "12d4dc4ba8cb812a5380",
+    "0a258de2ca51330c0679",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "a8f4b22af561fd05fcdd",
+    "bace7139d660703f741c"
+  ],
+  "thermodynamics": [
+    "12d4dc4ba8cb812a5380",
+    "61be621ab91cfbdf0030",
+    "4e517f23f4a52e764d3a"
+  ],
+  "added": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "heating": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "lost": [
+    "12d4dc4ba8cb812a5380",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "increment": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "term": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "means": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "given": [
+    "12d4dc4ba8cb812a5380",
+    "33e9778ff1ad935e45b6",
+    "6464b98e5e182d86088e"
+  ],
+  "performed": [
+    "12d4dc4ba8cb812a5380"
+  ],
+  "physical": [
+    "c76a302fa5285e9dc3f8",
+    "5f105137e58c8063915f",
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "symmetry": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "invariant": [
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "vector": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "species": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "unit": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "gibbs": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "free": [
+    "c76a302fa5285e9dc3f8"
+  ],
+  "continuous": [
+    "c76a302fa5285e9dc3f8",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "ab53e49a981c01e9c728"
+  ],
+  "special": [
+    "c76a302fa5285e9dc3f8",
+    "6cc89bc1c95fa8f7da60",
+    "68189f40c3482e910b39"
+  ],
+  "pseudotensor": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "particle": [
+    "6cc89bc1c95fa8f7da60",
+    "bbb9435ead32904bc4b3"
+  ],
+  "defined": [
+    "6cc89bc1c95fa8f7da60",
+    "4c67dd4cd2403fa025a2",
+    "7f45e7abd0bc49abc210",
+    "b805ef194883f6353dd7",
+    "abd2c58c3afe96fa2716"
+  ],
+  "universe": [
+    "6cc89bc1c95fa8f7da60",
+    "98b968ee365b9b916938",
+    "a7191ac7e9851f22bddd"
+  ],
+  "spontaneously": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "massive": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "reference": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "observer": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "observers": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "vacuum": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "appears": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "metric": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "dependent": [
+    "6cc89bc1c95fa8f7da60"
+  ],
+  "quantum": [
+    "98b968ee365b9b916938",
+    "eb9d7af20d41a8527f28",
+    "673602822635757c6fd6",
+    "d87fa1b493031ac5893d",
+    "7a03e951207d07e76fbf"
+  ],
+  "operator": [
+    "98b968ee365b9b916938"
+  ],
+  "asymptotically": [
+    "98b968ee365b9b916938"
+  ],
+  "flat": [
+    "98b968ee365b9b916938"
+  ],
+  "others": [
+    "98b968ee365b9b916938",
+    "7b8a6edb77f51e2ccb10",
+    "42f3b07eea6bb933cfdf"
+  ],
+  "global": [
+    "98b968ee365b9b916938",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "68189f40c3482e910b39",
+    "51244c0d03b3b01ddf21",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e"
+  ],
+  "gravitational": [
+    "98b968ee365b9b916938"
+  ],
+  "applied": [
+    "98b968ee365b9b916938"
+  ],
+  "hamiltonian": [
+    "98b968ee365b9b916938"
+  ],
+  "space": [
+    "98b968ee365b9b916938",
+    "7e9ccc4d5df9cd18dc55",
+    "d8c21aba3abf824165b8",
+    "a9aac8a96d3aa04eb90f",
+    "eabdf1073f0a67e4df1f",
+    "6597596ef4a1a193aaa3"
+  ],
+  "independent": [
+    "98b968ee365b9b916938",
+    "08cc8154a724444fc78e"
+  ],
+  "measurement": [
+    "98b968ee365b9b916938",
+    "d76a21205638eec3e2a2"
+  ],
+  "does": [
+    "98b968ee365b9b916938",
+    "2ecdfb46f85ab2145a7d",
+    "898ca454bbc41036dd9f",
+    "33e9778ff1ad935e45b6",
+    "c4b84b344c107b25804a",
+    "78952d20c5ecd1c98738",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "evolution": [
+    "98b968ee365b9b916938"
+  ],
+  "expectation": [
+    "98b968ee365b9b916938"
+  ],
+  "value": [
+    "98b968ee365b9b916938"
+  ],
+  "unitary": [
+    "98b968ee365b9b916938"
+  ],
+  "macroscopic": [
+    "98b968ee365b9b916938"
+  ],
+  "exactly": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "experiments": [
+    "eb9d7af20d41a8527f28",
+    "4ea92b6c2366dd70e370"
+  ],
+  "models": [
+    "eb9d7af20d41a8527f28",
+    "f99c82c84eb28652f91d",
+    "d7f88a83612d128f0fdc",
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e"
+  ],
+  "orbo": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "without": [
+    "eb9d7af20d41a8527f28",
+    "061bf905918e30c5a0c2",
+    "6825d575a36bd71611d1"
+  ],
+  "years": [
+    "eb9d7af20d41a8527f28",
+    "8f8785a2808aaf070886",
+    "d8c21aba3abf824165b8",
+    "bf7be549b4368db16ad0",
+    "57fbe784a562b413e905",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "approximated": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "constrained": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "observations": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "objects": [
+    "eb9d7af20d41a8527f28",
+    "b9e539c43e1ad9e4bec9",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f",
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "physics": [
+    "eb9d7af20d41a8527f28",
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6",
+    "61be621ab91cfbdf0030",
+    "46b460706671fc212557",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370"
+  ],
+  "million": [
+    "eb9d7af20d41a8527f28",
+    "57fbe784a562b413e905",
+    "312ffa51058a3925c094"
+  ],
+  "feynman": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "edition": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "context": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "perpetual": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "machines": [
+    "eb9d7af20d41a8527f28"
+  ],
+  "2022": [
+    "5f105137e58c8063915f",
+    "673602822635757c6fd6"
+  ],
+  "september": [
+    "5f105137e58c8063915f",
+    "673602822635757c6fd6"
+  ],
+  "magazine": [
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd"
+  ],
+  "diogenes": [
+    "5f105137e58c8063915f"
+  ],
+  "epicurus": [
+    "5f105137e58c8063915f"
+  ],
+  "erlichson": [
+    "5f105137e58c8063915f"
+  ],
+  "herman": [
+    "5f105137e58c8063915f"
+  ],
+  "american": [
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "88b9fa717003b0d8da52"
+  ],
+  "journal": [
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd"
+  ],
+  "bibcode": [
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6"
+  ],
+  "1119": [
+    "5f105137e58c8063915f"
+  ],
+  "issn": [
+    "5f105137e58c8063915f",
+    "2feffb1c83d6c6623afb"
+  ],
+  "0002": [
+    "5f105137e58c8063915f",
+    "2feffb1c83d6c6623afb"
+  ],
+  "9505": [
+    "5f105137e58c8063915f"
+  ],
+  "isbn": [
+    "5f105137e58c8063915f",
+    "a7191ac7e9851f22bddd",
+    "61be621ab91cfbdf0030",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115",
+    "e5218e47adb8d751cb92",
+    "2929eaf77d9d836af60b",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b",
+    "88b9fa717003b0d8da52",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "university": [
+    "5f105137e58c8063915f",
+    "61be621ab91cfbdf0030",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "a8f4b22af561fd05fcdd",
+    "e5218e47adb8d751cb92",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "press": [
+    "5f105137e58c8063915f",
+    "61be621ab91cfbdf0030",
+    "bd6057374b9c2c907ea7",
+    "a8f4b22af561fd05fcdd",
+    "e5218e47adb8d751cb92",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "march": [
+    "5f105137e58c8063915f"
+  ],
+  "lavoisier": [
+    "5f105137e58c8063915f"
+  ],
+  "laplace": [
+    "5f105137e58c8063915f"
+  ],
+  "sciences": [
+    "5f105137e58c8063915f",
+    "191582af739ee39faef2"
+  ],
+  "27757357": [
+    "5f105137e58c8063915f"
+  ],
+  "pages": [
+    "a7191ac7e9851f22bddd",
+    "2feffb1c83d6c6623afb"
+  ],
+  "macquorn": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "rankine": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "1853": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "general": [
+    "a7191ac7e9851f22bddd",
+    "45cf59ca62e36b4512a7"
+  ],
+  "scientific": [
+    "a7191ac7e9851f22bddd",
+    "ae2f6e31799c468874f7"
+  ],
+  "equation": [
+    "a7191ac7e9851f22bddd",
+    "43c12a06505392a22221"
+  ],
+  "proceedings": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "glasgow": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "reprinted": [
+    "a7191ac7e9851f22bddd",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "series": [
+    "a7191ac7e9851f22bddd",
+    "061bf905918e30c5a0c2",
+    "e5218e47adb8d751cb92",
+    "483490b185bf1d6ceed2",
+    "ab53e49a981c01e9c728",
+    "c96f0e4dc700a1143b72",
+    "8982e1a1e8e6616e8087",
+    "36fd5ccb26b1952f6ad6",
+    "6d7fc5a08b9f9d2b498e",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "february": [
+    "a7191ac7e9851f22bddd",
+    "673602822635757c6fd6",
+    "0a258de2ca51330c0679",
+    "a8f4b22af561fd05fcdd",
+    "b6424c0218a53d45e115"
+  ],
+  "millar": [
+    "a7191ac7e9851f22bddd"
+  ],
+  "arxiv": [
+    "673602822635757c6fd6"
+  ],
+  "studies": [
+    "673602822635757c6fd6",
+    "13e0f4439f873242ed05"
+  ],
+  "philosophy": [
+    "673602822635757c6fd6",
+    "0f66883b35e046511401",
+    "898ca454bbc41036dd9f",
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed",
+    "2feffb1c83d6c6623afb",
+    "81a98335815962ad59dd"
+  ],
+  "s2cid": [
+    "673602822635757c6fd6",
+    "88b9fa717003b0d8da52",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33"
+  ],
+  "july": [
+    "673602822635757c6fd6",
+    "1db57f38779d25bb7f14"
+  ],
+  "part": [
+    "673602822635757c6fd6",
+    "061bf905918e30c5a0c2",
+    "483490b185bf1d6ceed2",
+    "81a98335815962ad59dd",
+    "8982e1a1e8e6616e8087"
+  ],
+  "1016": [
+    "673602822635757c6fd6"
+  ],
+  "shpsb": [
+    "673602822635757c6fd6"
+  ],
+  "carroll": [
+    "673602822635757c6fd6"
+  ],
+  "sean": [
+    "673602822635757c6fd6"
+  ],
+  "2021": [
+    "673602822635757c6fd6",
+    "7a03e951207d07e76fbf"
+  ],
+  "foundations": [
+    "673602822635757c6fd6",
+    "061bf905918e30c5a0c2",
+    "2ecdfb46f85ab2145a7d",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "0f66883b35e046511401",
+    "898ca454bbc41036dd9f",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed",
+    "2feffb1c83d6c6623afb",
+    "483490b185bf1d6ceed2",
+    "716f91bf92f215c9e067",
+    "bace7139d660703f741c",
+    "cc8646eb205c31fb513f",
+    "1e043293056489b0e78e",
+    "ec978838af7d2d70c195"
+  ],
+  "october": [
+    "673602822635757c6fd6",
+    "b6424c0218a53d45e115"
+  ],
+  "inactive": [
+    "673602822635757c6fd6"
+  ],
+  "principles": [
+    "61be621ab91cfbdf0030",
+    "0f66883b35e046511401",
+    "55734108ca8e6151fd72"
+  ],
+  "freeman": [
+    "61be621ab91cfbdf0030"
+  ],
+  "7167": [
+    "61be621ab91cfbdf0030"
+  ],
+  "1996": [
+    "61be621ab91cfbdf0030",
+    "1db57f38779d25bb7f14"
+  ],
+  "college": [
+    "61be621ab91cfbdf0030"
+  ],
+  "brown": [
+    "61be621ab91cfbdf0030"
+  ],
+  "publishing": [
+    "61be621ab91cfbdf0030"
+  ],
+  "oxford": [
+    "61be621ab91cfbdf0030",
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed",
+    "a8f4b22af561fd05fcdd",
+    "a66bb14657ed98cac9da"
+  ],
+  "2004": [
+    "61be621ab91cfbdf0030",
+    "605a04288ea2ea988d5b"
+  ],
+  "engineers": [
+    "61be621ab91cfbdf0030"
+  ],
+  "toronto": [
+    "61be621ab91cfbdf0030"
+  ],
+  "heinemann": [
+    "61be621ab91cfbdf0030"
+  ],
+  "discovery": [
+    "61be621ab91cfbdf0030",
+    "8982e1a1e8e6616e8087"
+  ],
+  "goldstein": [
+    "61be621ab91cfbdf0030"
+  ],
+  "martin": [
+    "61be621ab91cfbdf0030",
+    "88b9fa717003b0d8da52"
+  ],
+  "inge": [
+    "61be621ab91cfbdf0030"
+  ],
+  "1993": [
+    "61be621ab91cfbdf0030"
+  ],
+  "self": [
+    "061bf905918e30c5a0c2",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd"
+  ],
+  "theorems": [
+    "061bf905918e30c5a0c2",
+    "f6336ebed7f5919b6ddd",
+    "7b8a6edb77f51e2ccb10",
+    "b805ef194883f6353dd7",
+    "e5218e47adb8d751cb92",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e"
+  ],
+  "truth": [
+    "061bf905918e30c5a0c2",
+    "7b8a6edb77f51e2ccb10",
+    "45cf59ca62e36b4512a7",
+    "cc8646eb205c31fb513f",
+    "81a98335815962ad59dd"
+  ],
+  "proved": [
+    "061bf905918e30c5a0c2",
+    "8f8785a2808aaf070886",
+    "f6336ebed7f5919b6ddd",
+    "3935ec056f93bc96fbef",
+    "45cf59ca62e36b4512a7",
+    "924853c0faabbe1eb6d0",
+    "ab371aed67b4e6c05b63",
+    "08cc8154a724444fc78e",
+    "d7f88a83612d128f0fdc",
+    "9037bbafbd779ddfcc27"
+  ],
+  "premises": [
+    "061bf905918e30c5a0c2"
+  ],
+  "infinitesimal": [
+    "061bf905918e30c5a0c2",
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008"
+  ],
+  "newton": [
+    "061bf905918e30c5a0c2",
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370"
+  ],
+  "results": [
+    "061bf905918e30c5a0c2",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "483490b185bf1d6ceed2",
+    "ab371aed67b4e6c05b63",
+    "02a116619bc47e94a18c",
+    "13e0f4439f873242ed05"
+  ],
+  "article": [
+    "061bf905918e30c5a0c2",
+    "0a258de2ca51330c0679"
+  ],
+  "needs": [
+    "061bf905918e30c5a0c2",
+    "0a258de2ca51330c0679",
+    "4ea92b6c2366dd70e370"
+  ],
+  "additional": [
+    "061bf905918e30c5a0c2",
+    "0a258de2ca51330c0679"
+  ],
+  "citations": [
+    "061bf905918e30c5a0c2",
+    "0a258de2ca51330c0679"
+  ],
+  "verification": [
+    "061bf905918e30c5a0c2",
+    "0a258de2ca51330c0679"
+  ],
+  "2024": [
+    "061bf905918e30c5a0c2"
+  ],
+  "frameworks": [
+    "061bf905918e30c5a0c2"
+  ],
+  "allow": [
+    "061bf905918e30c5a0c2",
+    "814a30d9263593ac3423"
+  ],
+  "development": [
+    "061bf905918e30c5a0c2",
+    "898ca454bbc41036dd9f",
+    "698ef1636b8e50376313",
+    "95e05ddff661cd210857"
+  ],
+  "numbers": [
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5",
+    "4c67dd4cd2403fa025a2",
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "3273fbf9fe3b74780909",
+    "b805ef194883f6353dd7",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "d7f88a83612d128f0fdc",
+    "13e0f4439f873242ed05",
+    "95e05ddff661cd210857",
+    "ec978838af7d2d70c195",
+    "8982e1a1e8e6616e8087",
+    "abd2c58c3afe96fa2716",
+    "d87fa1b493031ac5893d"
+  ],
+  "reality": [
+    "2ecdfb46f85ab2145a7d",
+    "3935ec056f93bc96fbef"
+  ],
+  "computer": [
+    "2ecdfb46f85ab2145a7d",
+    "540b28ffdb1b68bbd2a3",
+    "1e043293056489b0e78e"
+  ],
+  "framework": [
+    "2ecdfb46f85ab2145a7d",
+    "b9e539c43e1ad9e4bec9",
+    "ab371aed67b4e6c05b63"
+  ],
+  "relation": [
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "still": [
+    "2ecdfb46f85ab2145a7d",
+    "7a03e951207d07e76fbf",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "paradoxes": [
+    "2ecdfb46f85ab2145a7d",
+    "88ebe5f80fae5c076bf9"
+  ],
+  "originally": [
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "ratio": [
+    "2ecdfb46f85ab2145a7d",
+    "65be8e1f207bae5925de"
+  ],
+  "irrational": [
+    "2ecdfb46f85ab2145a7d",
+    "e6513ef6a76bea453b3c",
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "resolution": [
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "crisis": [
+    "2ecdfb46f85ab2145a7d",
+    "332bdc2e161d472d2153",
+    "3935ec056f93bc96fbef",
+    "43c12a06505392a22221"
+  ],
+  "involved": [
+    "2ecdfb46f85ab2145a7d",
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "rise": [
+    "2ecdfb46f85ab2145a7d"
+  ],
+  "aristotle": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "method": [
+    "da9d7c0a13c48cc80ea5",
+    "3935ec056f93bc96fbef",
+    "b805ef194883f6353dd7",
+    "88ebe5f80fae5c076bf9",
+    "bd93e6402376e409719e",
+    "55734108ca8e6151fd72"
+  ],
+  "euclid": [
+    "da9d7c0a13c48cc80ea5",
+    "b805ef194883f6353dd7",
+    "ab53e49a981c01e9c728",
+    "bd93e6402376e409719e"
+  ],
+  "eudoxus": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "axiomatic": [
+    "da9d7c0a13c48cc80ea5",
+    "3935ec056f93bc96fbef",
+    "46b460706671fc212557",
+    "43c12a06505392a22221",
+    "b805ef194883f6353dd7",
+    "716f91bf92f215c9e067"
+  ],
+  "ratios": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "cnidus": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "dedekind": [
+    "da9d7c0a13c48cc80ea5",
+    "8f8785a2808aaf070886",
+    "698ef1636b8e50376313",
+    "ab53e49a981c01e9c728",
+    "ec978838af7d2d70c195"
+  ],
+  "postulates": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "foundation": [
+    "da9d7c0a13c48cc80ea5",
+    "43c12a06505392a22221"
+  ],
+  "centuries": [
+    "da9d7c0a13c48cc80ea5",
+    "bd93e6402376e409719e"
+  ],
+  "high": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "whether": [
+    "da9d7c0a13c48cc80ea5",
+    "43c12a06505392a22221",
+    "88ebe5f80fae5c076bf9",
+    "95e05ddff661cd210857",
+    "7593604c73b57fce4b2a"
+  ],
+  "fact": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "length": [
+    "da9d7c0a13c48cc80ea5"
+  ],
+  "rational": [
+    "da9d7c0a13c48cc80ea5",
+    "7f45e7abd0bc49abc210",
+    "898ca454bbc41036dd9f",
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "infinitesimals": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "geometry": [
+    "4c67dd4cd2403fa025a2",
+    "8f8785a2808aaf070886",
+    "65be8e1f207bae5925de",
+    "f6336ebed7f5919b6ddd",
+    "b805ef194883f6353dd7",
+    "b9e539c43e1ad9e4bec9",
+    "e5218e47adb8d751cb92",
+    "ab53e49a981c01e9c728",
+    "bd93e6402376e409719e",
+    "15fb784f09d713a3af33",
+    "57fbe784a562b413e905"
+  ],
+  "formally": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "lengths": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "geometrical": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "algebra": [
+    "4c67dd4cd2403fa025a2",
+    "332bdc2e161d472d2153",
+    "b6424c0218a53d45e115"
+  ],
+  "independently": [
+    "4c67dd4cd2403fa025a2",
+    "13e0f4439f873242ed05"
+  ],
+  "foundational": [
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "332bdc2e161d472d2153",
+    "3935ec056f93bc96fbef",
+    "f703229eb8fba07fbd90"
+  ],
+  "deduced": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "definition": [
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "a8f4b22af561fd05fcdd",
+    "ab53e49a981c01e9c728"
+  ],
+  "descartes": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "real": [
+    "4c67dd4cd2403fa025a2",
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "ab53e49a981c01e9c728",
+    "d7f88a83612d128f0fdc"
+  ],
+  "dealing": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "functions": [
+    "4c67dd4cd2403fa025a2",
+    "e4f14a6480ac062aa008",
+    "ab53e49a981c01e9c728",
+    "13e0f4439f873242ed05"
+  ],
+  "derivatives": [
+    "4c67dd4cd2403fa025a2"
+  ],
+  "questions": [
+    "e4f14a6480ac062aa008"
+  ],
+  "small": [
+    "e4f14a6480ac062aa008",
+    "78952d20c5ecd1c98738",
+    "44973af6a4393758f556",
+    "acfe8b9768bd10269028"
+  ],
+  "quickly": [
+    "e4f14a6480ac062aa008"
+  ],
+  "developed": [
+    "e4f14a6480ac062aa008",
+    "65be8e1f207bae5925de",
+    "ab53e49a981c01e9c728",
+    "ab371aed67b4e6c05b63",
+    "cc8646eb205c31fb513f",
+    "9037bbafbd779ddfcc27"
+  ],
+  "problems": [
+    "e4f14a6480ac062aa008",
+    "f6336ebed7f5919b6ddd",
+    "88ebe5f80fae5c076bf9",
+    "9037bbafbd779ddfcc27"
+  ],
+  "considered": [
+    "e4f14a6480ac062aa008",
+    "46b460706671fc212557",
+    "b805ef194883f6353dd7",
+    "716f91bf92f215c9e067"
+  ],
+  "cauchy": [
+    "e4f14a6480ac062aa008",
+    "8f8785a2808aaf070886"
+  ],
+  "algebraic": [
+    "e4f14a6480ac062aa008",
+    "cc8646eb205c31fb513f"
+  ],
+  "operations": [
+    "e4f14a6480ac062aa008"
+  ],
+  "sufficiently": [
+    "e4f14a6480ac062aa008",
+    "0f66883b35e046511401",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e"
+  ],
+  "infinite": [
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "332bdc2e161d472d2153",
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "bd93e6402376e409719e"
+  ],
+  "sets": [
+    "8f8785a2808aaf070886",
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "bd6057374b9c2c907ea7",
+    "cc8646eb205c31fb513f",
+    "13e0f4439f873242ed05"
+  ],
+  "several": [
+    "8f8785a2808aaf070886",
+    "f6336ebed7f5919b6ddd"
+  ],
+  "definitions": [
+    "8f8785a2808aaf070886",
+    "bace7139d660703f741c"
+  ],
+  "hyperbolic": [
+    "8f8785a2808aaf070886"
+  ],
+  "firstly": [
+    "8f8785a2808aaf070886"
+  ],
+  "indeed": [
+    "8f8785a2808aaf070886"
+  ],
+  "mathematicians": [
+    "8f8785a2808aaf070886",
+    "7f45e7abd0bc49abc210",
+    "43c12a06505392a22221",
+    "33e9778ff1ad935e45b6",
+    "b9e539c43e1ad9e4bec9",
+    "e5218e47adb8d751cb92",
+    "716f91bf92f215c9e067",
+    "ab53e49a981c01e9c728",
+    "08cc8154a724444fc78e",
+    "bd93e6402376e409719e"
+  ],
+  "cuts": [
+    "8f8785a2808aaf070886"
+  ],
+  "cantor": [
+    "8f8785a2808aaf070886",
+    "ab53e49a981c01e9c728",
+    "bd93e6402376e409719e"
+  ],
+  "variables": [
+    "8f8785a2808aaf070886"
+  ],
+  "projective": [
+    "65be8e1f207bae5925de"
+  ],
+  "synthetic": [
+    "65be8e1f207bae5925de",
+    "3b30a8fb2c89157f67df"
+  ],
+  "analytic": [
+    "65be8e1f207bae5925de",
+    "3b30a8fb2c89157f67df"
+  ],
+  "parallel": [
+    "65be8e1f207bae5925de",
+    "b9e539c43e1ad9e4bec9",
+    "c96f0e4dc700a1143b72"
+  ],
+  "these": [
+    "65be8e1f207bae5925de",
+    "f6336ebed7f5919b6ddd",
+    "7b8a6edb77f51e2ccb10",
+    "0f66883b35e046511401",
+    "88ebe5f80fae5c076bf9",
+    "bace7139d660703f741c",
+    "7e9ccc4d5df9cd18dc55",
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "57fbe784a562b413e905",
+    "6bb7f432d7f968e5e28d",
+    "ae2f6e31799c468874f7",
+    "07ca45b67813edf06431",
+    "abd2c58c3afe96fa2716",
+    "c4b84b344c107b25804a",
+    "22eac246dbb28653861a",
+    "cc43db397eaba0e58340"
+  ],
+  "concept": [
+    "65be8e1f207bae5925de",
+    "b805ef194883f6353dd7",
+    "3b30a8fb2c89157f67df",
+    "bace7139d660703f741c",
+    "ec978838af7d2d70c195"
+  ],
+  "field": [
+    "65be8e1f207bae5925de",
+    "3b30a8fb2c89157f67df",
+    "716f91bf92f215c9e067",
+    "bd93e6402376e409719e",
+    "c96f0e4dc700a1143b72",
+    "d76a21205638eec3e2a2"
+  ],
+  "spaces": [
+    "65be8e1f207bae5925de"
+  ],
+  "euclidean": [
+    "65be8e1f207bae5925de",
+    "f6336ebed7f5919b6ddd"
+  ],
+  "points": [
+    "65be8e1f207bae5925de"
+  ],
+  "sphere": [
+    "65be8e1f207bae5925de",
+    "bd93e6402376e409719e"
+  ],
+  "postulate": [
+    "65be8e1f207bae5925de"
+  ],
+  "approaches": [
+    "65be8e1f207bae5925de",
+    "898ca454bbc41036dd9f"
+  ],
+  "terms": [
+    "65be8e1f207bae5925de",
+    "b805ef194883f6353dd7",
+    "e6513ef6a76bea453b3c",
+    "ab53e49a981c01e9c728"
+  ],
+  "cross": [
+    "65be8e1f207bae5925de"
+  ],
+  "geometric": [
+    "65be8e1f207bae5925de"
+  ],
+  "approach": [
+    "65be8e1f207bae5925de"
+  ],
+  "problem": [
+    "65be8e1f207bae5925de",
+    "3935ec056f93bc96fbef",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "b6424c0218a53d45e115",
+    "13e0f4439f873242ed05",
+    "9037bbafbd779ddfcc27",
+    "db23fddd536f60e9b4d9",
+    "191582af739ee39faef2"
+  ],
+  "define": [
+    "65be8e1f207bae5925de"
+  ],
+  "affine": [
+    "65be8e1f207bae5925de"
+  ],
+  "pappus": [
+    "65be8e1f207bae5925de"
+  ],
+  "peano": [
+    "7f45e7abd0bc49abc210",
+    "698ef1636b8e50376313"
+  ],
+  "infinity": [
+    "7f45e7abd0bc49abc210"
+  ],
+  "arithmetic": [
+    "7f45e7abd0bc49abc210",
+    "f6336ebed7f5919b6ddd",
+    "0f66883b35e046511401",
+    "698ef1636b8e50376313",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e",
+    "cc8646eb205c31fb513f",
+    "95e05ddff661cd210857",
+    "ec978838af7d2d70c195"
+  ],
+  "1888": [
+    "7f45e7abd0bc49abc210"
+  ],
+  "last": [
+    "7f45e7abd0bc49abc210",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "51244c0d03b3b01ddf21",
+    "07ca45b67813edf06431"
+  ],
+  "axiom": [
+    "7f45e7abd0bc49abc210",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "b9e539c43e1ad9e4bec9",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "08cc8154a724444fc78e",
+    "95e05ddff661cd210857"
+  ],
+  "second": [
+    "7f45e7abd0bc49abc210",
+    "bd6057374b9c2c907ea7",
+    "4c7f8d0b713b7125ea6f",
+    "4e517f23f4a52e764d3a",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b"
+  ],
+  "integers": [
+    "7f45e7abd0bc49abc210",
+    "924853c0faabbe1eb6d0"
+  ],
+  "making": [
+    "7f45e7abd0bc49abc210"
+  ],
+  "rigorous": [
+    "7f45e7abd0bc49abc210",
+    "3b30a8fb2c89157f67df",
+    "bace7139d660703f741c"
+  ],
+  "analysis": [
+    "7f45e7abd0bc49abc210",
+    "84959692401c44af31ed",
+    "b6424c0218a53d45e115",
+    "ab53e49a981c01e9c728",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857",
+    "07ca45b67813edf06431"
+  ],
+  "consistency": [
+    "332bdc2e161d472d2153",
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "483490b185bf1d6ceed2",
+    "88ebe5f80fae5c076bf9",
+    "bace7139d660703f741c",
+    "bd93e6402376e409719e",
+    "95e05ddff661cd210857"
+  ],
+  "paradox": [
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd",
+    "88ebe5f80fae5c076bf9"
+  ],
+  "contradictory": [
+    "332bdc2e161d472d2153",
+    "f6336ebed7f5919b6ddd"
+  ],
+  "frege": [
+    "332bdc2e161d472d2153",
+    "698ef1636b8e50376313",
+    "ec978838af7d2d70c195"
+  ],
+  "introduced": [
+    "332bdc2e161d472d2153",
+    "b805ef194883f6353dd7"
+  ],
+  "cardinal": [
+    "332bdc2e161d472d2153",
+    "46b460706671fc212557",
+    "d7f88a83612d128f0fdc"
+  ],
+  "major": [
+    "332bdc2e161d472d2153",
+    "1e4facd55c3484077b0e"
+  ],
+  "phrase": [
+    "332bdc2e161d472d2153"
+  ],
+  "doubt": [
+    "332bdc2e161d472d2153"
+  ],
+  "boolean": [
+    "332bdc2e161d472d2153"
+  ],
+  "propositional": [
+    "332bdc2e161d472d2153",
+    "cc8646eb205c31fb513f"
+  ],
+  "cannot": [
+    "f6336ebed7f5919b6ddd",
+    "45cf59ca62e36b4512a7",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "08cc8154a724444fc78e",
+    "d7f88a83612d128f0fdc",
+    "cc43db397eaba0e58340"
+  ],
+  "20th": [
+    "f6336ebed7f5919b6ddd",
+    "898ca454bbc41036dd9f",
+    "81a98335815962ad59dd",
+    "a66bb14657ed98cac9da"
+  ],
+  "inside": [
+    "f6336ebed7f5919b6ddd"
+  ],
+  "inconsistency": [
+    "f6336ebed7f5919b6ddd"
+  ],
+  "russell": [
+    "f6336ebed7f5919b6ddd",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "1e043293056489b0e78e"
+  ],
+  "existence": [
+    "f6336ebed7f5919b6ddd",
+    "0f66883b35e046511401",
+    "898ca454bbc41036dd9f",
+    "d7f88a83612d128f0fdc"
+  ],
+  "explicitly": [
+    "f6336ebed7f5919b6ddd"
+  ],
+  "described": [
+    "f6336ebed7f5919b6ddd",
+    "42f3b07eea6bb933cfdf"
+  ],
+  "gödel": [
+    "f6336ebed7f5919b6ddd",
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "483490b185bf1d6ceed2",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e",
+    "a66bb14657ed98cac9da",
+    "15fb784f09d713a3af33"
+  ],
+  "incompleteness": [
+    "f6336ebed7f5919b6ddd",
+    "45cf59ca62e36b4512a7",
+    "ab371aed67b4e6c05b63",
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e"
+  ],
+  "formalism": [
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "must": [
+    "3935ec056f93bc96fbef",
+    "e6513ef6a76bea453b3c",
+    "6464b98e5e182d86088e"
+  ],
+  "about": [
+    "3935ec056f93bc96fbef",
+    "2929eaf77d9d836af60b",
+    "7e9ccc4d5df9cd18dc55",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "efa58bdf9cedc4b3889c",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "hilbert": [
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "3273fbf9fe3b74780909",
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed",
+    "ab53e49a981c01e9c728",
+    "88ebe5f80fae5c076bf9",
+    "08cc8154a724444fc78e",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857",
+    "a66bb14657ed98cac9da",
+    "15fb784f09d713a3af33"
+  ],
+  "formula": [
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10",
+    "f99c82c84eb28652f91d",
+    "814a30d9263593ac3423",
+    "d76a21205638eec3e2a2"
+  ],
+  "game": [
+    "3935ec056f93bc96fbef",
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "simultaneously": [
+    "3935ec056f93bc96fbef"
+  ],
+  "became": [
+    "3935ec056f93bc96fbef",
+    "bace7139d660703f741c",
+    "bd93e6402376e409719e"
+  ],
+  "facto": [
+    "3935ec056f93bc96fbef"
+  ],
+  "standard": [
+    "3935ec056f93bc96fbef",
+    "4a07030396d89419156c"
+  ],
+  "explicit": [
+    "3935ec056f93bc96fbef",
+    "f99c82c84eb28652f91d"
+  ],
+  "previously": [
+    "3935ec056f93bc96fbef"
+  ],
+  "thinking": [
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "arbitrary": [
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "rather": [
+    "7b8a6edb77f51e2ccb10",
+    "71e1a34de49d846860f3"
+  ],
+  "speaking": [
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "should": [
+    "7b8a6edb77f51e2ccb10",
+    "7a03e951207d07e76fbf"
+  ],
+  "question": [
+    "7b8a6edb77f51e2ccb10"
+  ],
+  "extent": [
+    "7b8a6edb77f51e2ccb10",
+    "1db57f38779d25bb7f14"
+  ],
+  "human": [
+    "0f66883b35e046511401",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "a9aac8a96d3aa04eb90f",
+    "efa58bdf9cedc4b3889c",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "never": [
+    "0f66883b35e046511401",
+    "cc43db397eaba0e58340"
+  ],
+  "prove": [
+    "0f66883b35e046511401",
+    "b805ef194883f6353dd7",
+    "924853c0faabbe1eb6d0",
+    "33e9778ff1ad935e45b6",
+    "e5218e47adb8d751cb92",
+    "ab53e49a981c01e9c728",
+    "ab371aed67b4e6c05b63",
+    "95e05ddff661cd210857"
+  ],
+  "consistent": [
+    "0f66883b35e046511401",
+    "f99c82c84eb28652f91d",
+    "6464b98e5e182d86088e",
+    "22eac246dbb28653861a"
+  ],
+  "brouwer": [
+    "0f66883b35e046511401",
+    "84959692401c44af31ed",
+    "cc8646eb205c31fb513f",
+    "81a98335815962ad59dd"
+  ],
+  "thought": [
+    "0f66883b35e046511401"
+  ],
+  "theoretic": [
+    "46b460706671fc212557",
+    "898ca454bbc41036dd9f",
+    "bace7139d660703f741c",
+    "814a30d9263593ac3423"
+  ],
+  "continuum": [
+    "46b460706671fc212557",
+    "45cf59ca62e36b4512a7",
+    "08cc8154a724444fc78e",
+    "13e0f4439f873242ed05",
+    "88b9fa717003b0d8da52"
+  ],
+  "putnam": [
+    "46b460706671fc212557"
+  ],
+  "large": [
+    "46b460706671fc212557",
+    "d7f88a83612d128f0fdc",
+    "51244c0d03b3b01ddf21"
+  ],
+  "always": [
+    "46b460706671fc212557"
+  ],
+  "universes": [
+    "46b460706671fc212557"
+  ],
+  "quantification": [
+    "46b460706671fc212557"
+  ],
+  "entities": [
+    "46b460706671fc212557"
+  ],
+  "therefore": [
+    "46b460706671fc212557",
+    "91425ce83d58a05861c6"
+  ],
+  "typically": [
+    "46b460706671fc212557",
+    "4a07030396d89419156c"
+  ],
+  "looking": [
+    "46b460706671fc212557"
+  ],
+  "ultimate": [
+    "46b460706671fc212557"
+  ],
+  "turns": [
+    "46b460706671fc212557"
+  ],
+  "preconceptions": [
+    "f99c82c84eb28652f91d"
+  ],
+  "countable": [
+    "f99c82c84eb28652f91d"
+  ],
+  "choice": [
+    "f99c82c84eb28652f91d",
+    "45cf59ca62e36b4512a7",
+    "88ebe5f80fae5c076bf9",
+    "ab371aed67b4e6c05b63",
+    "08cc8154a724444fc78e"
+  ],
+  "skolem": [
+    "f99c82c84eb28652f91d",
+    "ab371aed67b4e6c05b63"
+  ],
+  "completeness": [
+    "f99c82c84eb28652f91d",
+    "6464b98e5e182d86088e"
+  ],
+  "construction": [
+    "f99c82c84eb28652f91d"
+  ],
+  "model": [
+    "f99c82c84eb28652f91d",
+    "483490b185bf1d6ceed2",
+    "02a116619bc47e94a18c",
+    "6464b98e5e182d86088e",
+    "d7f88a83612d128f0fdc",
+    "1e043293056489b0e78e",
+    "bd93e6402376e409719e",
+    "605a04288ea2ea988d5b",
+    "1e4facd55c3484077b0e",
+    "44973af6a4393758f556"
+  ],
+  "zermelo": [
+    "f99c82c84eb28652f91d",
+    "88ebe5f80fae5c076bf9",
+    "cc8646eb205c31fb513f",
+    "08cc8154a724444fc78e"
+  ],
+  "fraenkel": [
+    "f99c82c84eb28652f91d",
+    "08cc8154a724444fc78e"
+  ],
+  "löwenheim": [
+    "f99c82c84eb28652f91d",
+    "ab371aed67b4e6c05b63",
+    "55734108ca8e6151fd72"
+  ],
+  "1922": [
+    "f99c82c84eb28652f91d",
+    "84959692401c44af31ed"
+  ],
+  "program": [
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221",
+    "483490b185bf1d6ceed2",
+    "cc8646eb205c31fb513f",
+    "07ca45b67813edf06431"
+  ],
+  "showed": [
+    "45cf59ca62e36b4512a7",
+    "898ca454bbc41036dd9f",
+    "ab371aed67b4e6c05b63",
+    "08cc8154a724444fc78e"
+  ],
+  "1936": [
+    "45cf59ca62e36b4512a7"
+  ],
+  "cohen": [
+    "45cf59ca62e36b4512a7",
+    "ab371aed67b4e6c05b63",
+    "88b9fa717003b0d8da52"
+  ],
+  "showing": [
+    "45cf59ca62e36b4512a7"
+  ],
+  "powerful": [
+    "45cf59ca62e36b4512a7",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "clear": [
+    "45cf59ca62e36b4512a7",
+    "43c12a06505392a22221"
+  ],
+  "finitistic": [
+    "45cf59ca62e36b4512a7"
+  ],
+  "alan": [
+    "45cf59ca62e36b4512a7"
+  ],
+  "turing": [
+    "45cf59ca62e36b4512a7",
+    "bace7139d660703f741c",
+    "13e0f4439f873242ed05"
+  ],
+  "decidable": [
+    "45cf59ca62e36b4512a7"
+  ],
+  "paul": [
+    "45cf59ca62e36b4512a7",
+    "88b9fa717003b0d8da52"
+  ],
+  "proven": [
+    "43c12a06505392a22221"
+  ],
+  "recursive": [
+    "43c12a06505392a22221"
+  ],
+  "solution": [
+    "43c12a06505392a22221"
+  ],
+  "started": [
+    "43c12a06505392a22221"
+  ],
+  "ambitions": [
+    "43c12a06505392a22221"
+  ],
+  "versions": [
+    "43c12a06505392a22221"
+  ],
+  "weaker": [
+    "43c12a06505392a22221"
+  ],
+  "ordinal": [
+    "43c12a06505392a22221"
+  ],
+  "type": [
+    "898ca454bbc41036dd9f",
+    "ab371aed67b4e6c05b63",
+    "814a30d9263593ac3423",
+    "78952d20c5ecd1c98738"
+  ],
+  "category": [
+    "898ca454bbc41036dd9f",
+    "716f91bf92f215c9e067"
+  ],
+  "grothendieck": [
+    "898ca454bbc41036dd9f"
+  ],
+  "basis": [
+    "898ca454bbc41036dd9f"
+  ],
+  "constructions": [
+    "898ca454bbc41036dd9f"
+  ],
+  "controversy": [
+    "898ca454bbc41036dd9f",
+    "2feffb1c83d6c6623afb"
+  ],
+  "derived": [
+    "898ca454bbc41036dd9f"
+  ],
+  "middle": [
+    "898ca454bbc41036dd9f"
+  ],
+  "archived": [
+    "3273fbf9fe3b74780909",
+    "55734108ca8e6151fd72"
+  ],
+  "original": [
+    "3273fbf9fe3b74780909",
+    "55734108ca8e6151fd72"
+  ],
+  "english": [
+    "3273fbf9fe3b74780909",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "german": [
+    "3273fbf9fe3b74780909",
+    "b6424c0218a53d45e115",
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "quote": [
+    "3273fbf9fe3b74780909"
+  ],
+  "weber": [
+    "3273fbf9fe3b74780909"
+  ],
+  "1891": [
+    "3273fbf9fe3b74780909"
+  ],
+  "1892": [
+    "3273fbf9fe3b74780909"
+  ],
+  "kronecker": [
+    "3273fbf9fe3b74780909",
+    "bd93e6402376e409719e"
+  ],
+  "books": [
+    "3273fbf9fe3b74780909",
+    "e5218e47adb8d751cb92"
+  ],
+  "edited": [
+    "3273fbf9fe3b74780909"
+  ],
+  "translated": [
+    "3273fbf9fe3b74780909",
+    "84959692401c44af31ed"
+  ],
+  "gave": [
+    "3273fbf9fe3b74780909"
+  ],
+  "epsilon": [
+    "3273fbf9fe3b74780909"
+  ],
+  "2975545": [
+    "3273fbf9fe3b74780909"
+  ],
+  "2017": [
+    "3273fbf9fe3b74780909",
+    "55734108ca8e6151fd72",
+    "b97dd35eb56eba5296b0",
+    "68189f40c3482e910b39"
+  ],
+  "jahresbericht": [
+    "3273fbf9fe3b74780909"
+  ],
+  "deutschen": [
+    "3273fbf9fe3b74780909"
+  ],
+  "mathematiker": [
+    "3273fbf9fe3b74780909"
+  ],
+  "vereinigung": [
+    "3273fbf9fe3b74780909"
+  ],
+  "types": [
+    "bd6057374b9c2c907ea7",
+    "d87fa1b493031ac5893d"
+  ],
+  "weyl": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "2016": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "five": [
+    "bd6057374b9c2c907ea7",
+    "d87fa1b493031ac5893d"
+  ],
+  "constructive": [
+    "bd6057374b9c2c907ea7",
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857"
+  ],
+  "bull": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "eves": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "1979": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "tymoczko": [
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed"
+  ],
+  "1986": [
+    "bd6057374b9c2c907ea7",
+    "84959692401c44af31ed"
+  ],
+  "1927": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "comments": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "lecture": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "heijenoort": [
+    "bd6057374b9c2c907ea7",
+    "ec978838af7d2d70c195",
+    "55734108ca8e6151fd72"
+  ],
+  "1967": [
+    "bd6057374b9c2c907ea7"
+  ],
+  "1998": [
+    "84959692401c44af31ed"
+  ],
+  "mancosu": [
+    "84959692401c44af31ed"
+  ],
+  "intuitionism": [
+    "84959692401c44af31ed",
+    "cc8646eb205c31fb513f",
+    "81a98335815962ad59dd"
+  ],
+  "mathematik": [
+    "84959692401c44af31ed",
+    "b6424c0218a53d45e115",
+    "15fb784f09d713a3af33"
+  ],
+  "mathematische": [
+    "84959692401c44af31ed",
+    "ec978838af7d2d70c195"
+  ],
+  "kleene": [
+    "84959692401c44af31ed",
+    "02a116619bc47e94a18c"
+  ],
+  "1991": [
+    "84959692401c44af31ed"
+  ],
+  "1952": [
+    "84959692401c44af31ed"
+  ],
+  "extraordinary": [
+    "84959692401c44af31ed"
+  ],
+  "constructivism": [
+    "84959692401c44af31ed"
+  ],
+  "intuitionistic": [
+    "84959692401c44af31ed",
+    "02a116619bc47e94a18c",
+    "cc8646eb205c31fb513f",
+    "9037bbafbd779ddfcc27"
+  ],
+  "neubegründung": [
+    "84959692401c44af31ed"
+  ],
+  "erste": [
+    "84959692401c44af31ed"
+  ],
+  "mitteilung": [
+    "84959692401c44af31ed"
+  ],
+  "hamburger": [
+    "84959692401c44af31ed"
+  ],
+  "seminarabhandlungen": [
+    "84959692401c44af31ed"
+  ],
+  "grounding": [
+    "84959692401c44af31ed"
+  ],
+  "fieser": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "james": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "dowden": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "bradley": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "internet": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "encyclopedia": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "2161": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "oclc": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "37741658": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "harvey": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "friedman": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "past": [
+    "2feffb1c83d6c6623afb",
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "42f3b07eea6bb933cfdf",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "present": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "future": [
+    "2feffb1c83d6c6623afb",
+    "1e4facd55c3484077b0e"
+  ],
+  "2000": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "gregory": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "chaitin": [
+    "2feffb1c83d6c6623afb"
+  ],
+  "assumptions": [
+    "0a258de2ca51330c0679"
+  ],
+  "exhaustive": [
+    "0a258de2ca51330c0679"
+  ],
+  "establish": [
+    "0a258de2ca51330c0679"
+  ],
+  "cases": [
+    "0a258de2ca51330c0679",
+    "e6513ef6a76bea453b3c"
+  ],
+  "informal": [
+    "0a258de2ca51330c0679"
+  ],
+  "test": [
+    "0a258de2ca51330c0679"
+  ],
+  "2025": [
+    "0a258de2ca51330c0679"
+  ],
+  "greek": [
+    "b805ef194883f6353dd7"
+  ],
+  "undefined": [
+    "b805ef194883f6353dd7"
+  ],
+  "propositions": [
+    "b805ef194883f6353dd7"
+  ],
+  "concerning": [
+    "b805ef194883f6353dd7"
+  ],
+  "intended": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "book": [
+    "3b30a8fb2c89157f67df",
+    "2929eaf77d9d836af60b",
+    "ec978838af7d2d70c195",
+    "55734108ca8e6151fd72"
+  ],
+  "audience": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "rigor": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "practice": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "distinction": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "particularly": [
+    "3b30a8fb2c89157f67df",
+    "02a116619bc47e94a18c",
+    "9f27dbf25e6576c5ef23"
+  ],
+  "direct": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "even": [
+    "3b30a8fb2c89157f67df",
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "1e043293056489b0e78e",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "practiced": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "expressed": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "convince": [
+    "3b30a8fb2c89157f67df"
+  ],
+  "induction": [
+    "924853c0faabbe1eb6d0",
+    "b6424c0218a53d45e115",
+    "698ef1636b8e50376313",
+    "d76a21205638eec3e2a2"
+  ],
+  "case": [
+    "924853c0faabbe1eb6d0",
+    "4e517f23f4a52e764d3a",
+    "db23fddd536f60e9b4d9"
+  ],
+  "since": [
+    "924853c0faabbe1eb6d0",
+    "42f3b07eea6bb933cfdf",
+    "6bb7f432d7f968e5e28d",
+    "ae2f6e31799c468874f7",
+    "1db57f38779d25bb7f14",
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431",
+    "cdea116ad3a4022b08ed",
+    "7a03e951207d07e76fbf"
+  ],
+  "implies": [
+    "924853c0faabbe1eb6d0",
+    "d7f88a83612d128f0fdc"
+  ],
+  "property": [
+    "924853c0faabbe1eb6d0",
+    "e6513ef6a76bea453b3c",
+    "33e9778ff1ad935e45b6",
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "base": [
+    "924853c0faabbe1eb6d0"
+  ],
+  "consider": [
+    "924853c0faabbe1eb6d0"
+  ],
+  "integer": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "common": [
+    "e6513ef6a76bea453b3c",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "factor": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "yields": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "contraposition": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "suppose": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "hence": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "false": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "contradiction": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "lowest": [
+    "e6513ef6a76bea453b3c"
+  ],
+  "probabilistic": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "probability": [
+    "33e9778ff1ad935e45b6",
+    "a8f4b22af561fd05fcdd"
+  ],
+  "expressions": [
+    "33e9778ff1ad935e45b6",
+    "02a116619bc47e94a18c"
+  ],
+  "statements": [
+    "33e9778ff1ad935e45b6",
+    "b9e539c43e1ad9e4bec9",
+    "08cc8154a724444fc78e"
+  ],
+  "pairwise": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "object": [
+    "33e9778ff1ad935e45b6",
+    "540b28ffdb1b68bbd2a3",
+    "4c7f8d0b713b7125ea6f",
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "genuine": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "ways": [
+    "33e9778ff1ad935e45b6",
+    "57fbe784a562b413e905"
+  ],
+  "candidates": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "candidate": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "chosen": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "least": [
+    "33e9778ff1ad935e45b6",
+    "9a311cfb5942348dba22"
+  ],
+  "plausibility": [
+    "33e9778ff1ad935e45b6"
+  ],
+  "conjecture": [
+    "33e9778ff1ad935e45b6",
+    "13e0f4439f873242ed05"
+  ],
+  "evidence": [
+    "33e9778ff1ad935e45b6",
+    "191582af739ee39faef2",
+    "42f3b07eea6bb933cfdf",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21"
+  ],
+  "statistical": [
+    "540b28ffdb1b68bbd2a3",
+    "b6424c0218a53d45e115"
+  ],
+  "calculations": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "assisted": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "error": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "nonconstructive": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "establishes": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "either": [
+    "540b28ffdb1b68bbd2a3",
+    "4a07030396d89419156c"
+  ],
+  "pure": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "validity": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "humans": [
+    "540b28ffdb1b68bbd2a3"
+  ],
+  "certain": [
+    "540b28ffdb1b68bbd2a3",
+    "d7f88a83612d128f0fdc"
+  ],
+  "hand": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "column": [
+    "b9e539c43e1ad9e4bec9",
+    "e5218e47adb8d751cb92",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "ea7a54ff69a091f5876b"
+  ],
+  "neither": [
+    "b9e539c43e1ad9e4bec9",
+    "4a07030396d89419156c"
+  ],
+  "provable": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "undecidable": [
+    "b9e539c43e1ad9e4bec9",
+    "9037bbafbd779ddfcc27"
+  ],
+  "early": [
+    "b9e539c43e1ad9e4bec9",
+    "02a116619bc47e94a18c",
+    "81a98335815962ad59dd"
+  ],
+  "disprovable": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "experimental": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "ultimately": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "resolved": [
+    "b9e539c43e1ad9e4bec9"
+  ],
+  "abbreviation": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "halmos": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "220e": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "dictionary": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "kneale": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "1962": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "sometimes": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "indicate": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "stands": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "quod": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "erat": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "demonstrandum": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "latin": [
+    "a8f4b22af561fd05fcdd"
+  ],
+  "buss": [
+    "b6424c0218a53d45e115"
+  ],
+  "samuel": [
+    "b6424c0218a53d45e115"
+  ],
+  "grundlagen": [
+    "b6424c0218a53d45e115",
+    "15fb784f09d713a3af33"
+  ],
+  "springer": [
+    "b6424c0218a53d45e115",
+    "605a04288ea2ea988d5b"
+  ],
+  "verlag": [
+    "b6424c0218a53d45e115"
+  ],
+  "matvievskaya": [
+    "b6424c0218a53d45e115"
+  ],
+  "galina": [
+    "b6424c0218a53d45e115"
+  ],
+  "quadratic": [
+    "b6424c0218a53d45e115"
+  ],
+  "irrationals": [
+    "b6424c0218a53d45e115"
+  ],
+  "david": [
+    "e5218e47adb8d751cb92",
+    "15fb784f09d713a3af33"
+  ],
+  "cambridge": [
+    "e5218e47adb8d751cb92",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b"
+  ],
+  "pictures": [
+    "e5218e47adb8d751cb92"
+  ],
+  "2009": [
+    "e5218e47adb8d751cb92"
+  ],
+  "mandelbrot": [
+    "e5218e47adb8d751cb92"
+  ],
+  "2027": [
+    "e5218e47adb8d751cb92"
+  ],
+  "mumford": [
+    "e5218e47adb8d751cb92"
+  ],
+  "caroline": [
+    "e5218e47adb8d751cb92"
+  ],
+  "wright": [
+    "e5218e47adb8d751cb92"
+  ],
+  "indra": [
+    "e5218e47adb8d751cb92"
+  ],
+  "pearls": [
+    "e5218e47adb8d751cb92"
+  ],
+  "vision": [
+    "e5218e47adb8d751cb92"
+  ],
+  "felix": [
+    "e5218e47adb8d751cb92"
+  ],
+  "klein": [
+    "e5218e47adb8d751cb92"
+  ],
+  "hammack": [
+    "2929eaf77d9d836af60b"
+  ],
+  "richard": [
+    "2929eaf77d9d836af60b",
+    "ec978838af7d2d70c195",
+    "55734108ca8e6151fd72"
+  ],
+  "2018": [
+    "2929eaf77d9d836af60b"
+  ],
+  "9894721": [
+    "2929eaf77d9d836af60b"
+  ],
+  "media": [
+    "2929eaf77d9d836af60b"
+  ],
+  "related": [
+    "2929eaf77d9d836af60b",
+    "1e043293056489b0e78e"
+  ],
+  "wikimedia": [
+    "2929eaf77d9d836af60b"
+  ],
+  "commons": [
+    "2929eaf77d9d836af60b"
+  ],
+  "simple": [
+    "2929eaf77d9d836af60b",
+    "acfe8b9768bd10269028"
+  ],
+  "charming": [
+    "2929eaf77d9d836af60b"
+  ],
+  "fallacious": [
+    "2929eaf77d9d836af60b"
+  ],
+  "lesson": [
+    "2929eaf77d9d836af60b"
+  ],
+  "course": [
+    "2929eaf77d9d836af60b"
+  ],
+  "wikiversity": [
+    "2929eaf77d9d836af60b"
+  ],
+  "recursion": [
+    "483490b185bf1d6ceed2",
+    "02a116619bc47e94a18c",
+    "13e0f4439f873242ed05"
+  ],
+  "include": [
+    "483490b185bf1d6ceed2",
+    "814a30d9263593ac3423"
+  ],
+  "formalized": [
+    "483490b185bf1d6ceed2"
+  ],
+  "contemporary": [
+    "483490b185bf1d6ceed2"
+  ],
+  "parts": [
+    "483490b185bf1d6ceed2",
+    "312ffa51058a3925c094"
+  ],
+  "areas": [
+    "483490b185bf1d6ceed2"
+  ],
+  "area": [
+    "483490b185bf1d6ceed2"
+  ],
+  "including": [
+    "716f91bf92f215c9e067",
+    "f703229eb8fba07fbd90",
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "methods": [
+    "716f91bf92f215c9e067",
+    "d7f88a83612d128f0fdc",
+    "95e05ddff661cd210857"
+  ],
+  "subfield": [
+    "716f91bf92f215c9e067"
+  ],
+  "symbolic": [
+    "716f91bf92f215c9e067",
+    "88b9fa717003b0d8da52"
+  ],
+  "found": [
+    "716f91bf92f215c9e067"
+  ],
+  "uses": [
+    "716f91bf92f215c9e067",
+    "bbb9435ead32904bc4b3"
+  ],
+  "includes": [
+    "716f91bf92f215c9e067",
+    "13e0f4439f873242ed05"
+  ],
+  "categorical": [
+    "716f91bf92f215c9e067"
+  ],
+  "ordinarily": [
+    "716f91bf92f215c9e067"
+  ],
+  "applicability": [
+    "716f91bf92f215c9e067"
+  ],
+  "diverse": [
+    "716f91bf92f215c9e067"
+  ],
+  "boole": [
+    "698ef1636b8e50376313"
+  ],
+  "quantifiers": [
+    "698ef1636b8e50376313",
+    "814a30d9263593ac3423"
+  ],
+  "george": [
+    "698ef1636b8e50376313"
+  ],
+  "morgan": [
+    "698ef1636b8e50376313"
+  ],
+  "presented": [
+    "698ef1636b8e50376313"
+  ],
+  "extended": [
+    "698ef1636b8e50376313"
+  ],
+  "peirce": [
+    "698ef1636b8e50376313"
+  ],
+  "built": [
+    "698ef1636b8e50376313"
+  ],
+  "schröder": [
+    "698ef1636b8e50376313"
+  ],
+  "radius": [
+    "ab53e49a981c01e9c728",
+    "44973af6a4393758f556",
+    "71e1a34de49d846860f3"
+  ],
+  "complete": [
+    "ab53e49a981c01e9c728",
+    "cc43db397eaba0e58340"
+  ],
+  "previous": [
+    "ab53e49a981c01e9c728"
+  ],
+  "weierstrass": [
+    "ab53e49a981c01e9c728"
+  ],
+  "began": [
+    "ab53e49a981c01e9c728",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "resolve": [
+    "88ebe5f80fae5c076bf9"
+  ],
+  "posed": [
+    "88ebe5f80fae5c076bf9"
+  ],
+  "decide": [
+    "88ebe5f80fae5c076bf9"
+  ],
+  "burali": [
+    "88ebe5f80fae5c076bf9",
+    "ec978838af7d2d70c195"
+  ],
+  "forti": [
+    "88ebe5f80fae5c076bf9",
+    "ec978838af7d2d70c195"
+  ],
+  "principia": [
+    "ab371aed67b4e6c05b63",
+    "15fb784f09d713a3af33"
+  ],
+  "mathematica": [
+    "ab371aed67b4e6c05b63",
+    "15fb784f09d713a3af33"
+  ],
+  "whitehead": [
+    "ab371aed67b4e6c05b63"
+  ],
+  "urelements": [
+    "ab371aed67b4e6c05b63"
+  ],
+  "texts": [
+    "bace7139d660703f741c"
+  ],
+  "computability": [
+    "bace7139d660703f741c",
+    "13e0f4439f873242ed05",
+    "1e043293056489b0e78e",
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b",
+    "88b9fa717003b0d8da52",
+    "55734108ca8e6151fd72"
+  ],
+  "effective": [
+    "bace7139d660703f741c"
+  ],
+  "gentzen": [
+    "bace7139d660703f741c",
+    "9037bbafbd779ddfcc27",
+    "ec978838af7d2d70c195"
+  ],
+  "strong": [
+    "bace7139d660703f741c",
+    "6464b98e5e182d86088e",
+    "44973af6a4393758f556"
+  ],
+  "obtained": [
+    "bace7139d660703f741c"
+  ],
+  "studied": [
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "fixed": [
+    "02a116619bc47e94a18c"
+  ],
+  "classical": [
+    "02a116619bc47e94a18c",
+    "cc8646eb205c31fb513f",
+    "9037bbafbd779ddfcc27"
+  ],
+  "logics": [
+    "02a116619bc47e94a18c",
+    "814a30d9263593ac3423",
+    "cc8646eb205c31fb513f"
+  ],
+  "limitation": [
+    "02a116619bc47e94a18c"
+  ],
+  "every": [
+    "6464b98e5e182d86088e",
+    "4ea92b6c2366dd70e370"
+  ],
+  "established": [
+    "6464b98e5e182d86088e"
+  ],
+  "compactness": [
+    "6464b98e5e182d86088e"
+  ],
+  "subset": [
+    "6464b98e5e182d86088e"
+  ],
+  "inconsistent": [
+    "6464b98e5e182d86088e"
+  ],
+  "modal": [
+    "814a30d9263593ac3423",
+    "88b9fa717003b0d8da52"
+  ],
+  "domain": [
+    "814a30d9263593ac3423"
+  ],
+  "infinitary": [
+    "814a30d9263593ac3423"
+  ],
+  "semantics": [
+    "814a30d9263593ac3423"
+  ],
+  "discourse": [
+    "814a30d9263593ac3423"
+  ],
+  "subsets": [
+    "814a30d9263593ac3423"
+  ],
+  "algebras": [
+    "cc8646eb205c31fb513f"
+  ],
+  "heyting": [
+    "cc8646eb205c31fb513f"
+  ],
+  "represent": [
+    "cc8646eb205c31fb513f"
+  ],
+  "values": [
+    "cc8646eb205c31fb513f",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "collection": [
+    "08cc8154a724444fc78e"
+  ],
+  "nonempty": [
+    "08cc8154a724444fc78e"
+  ],
+  "make": [
+    "08cc8154a724444fc78e",
+    "312ffa51058a3925c094"
+  ],
+  "banach": [
+    "08cc8154a724444fc78e"
+  ],
+  "tarski": [
+    "08cc8154a724444fc78e"
+  ],
+  "solid": [
+    "08cc8154a724444fc78e"
+  ],
+  "famous": [
+    "08cc8154a724444fc78e"
+  ],
+  "come": [
+    "08cc8154a724444fc78e",
+    "4ea92b6c2366dd70e370"
+  ],
+  "widely": [
+    "08cc8154a724444fc78e"
+  ],
+  "accepted": [
+    "08cc8154a724444fc78e"
+  ],
+  "cardinals": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "cardinality": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "elementary": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "determinacy": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "structure": [
+    "d7f88a83612d128f0fdc",
+    "22eac246dbb28653861a"
+  ],
+  "strategies": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "games": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "class": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "determine": [
+    "d7f88a83612d128f0fdc",
+    "42f3b07eea6bb933cfdf"
+  ],
+  "classes": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "structures": [
+    "d7f88a83612d128f0fdc"
+  ],
+  "computable": [
+    "13e0f4439f873242ed05"
+  ],
+  "algorithmically": [
+    "13e0f4439f873242ed05"
+  ],
+  "unsolvable": [
+    "13e0f4439f873242ed05"
+  ],
+  "unsolvability": [
+    "13e0f4439f873242ed05"
+  ],
+  "vaught": [
+    "13e0f4439f873242ed05"
+  ],
+  "degrees": [
+    "13e0f4439f873242ed05",
+    "3ccb31fe5d3b41840748"
+  ],
+  "generalized": [
+    "13e0f4439f873242ed05"
+  ],
+  "church": [
+    "13e0f4439f873242ed05"
+  ],
+  "deduction": [
+    "9037bbafbd779ddfcc27"
+  ],
+  "provability": [
+    "9037bbafbd779ddfcc27"
+  ],
+  "predicative": [
+    "9037bbafbd779ddfcc27"
+  ],
+  "possible": [
+    "9037bbafbd779ddfcc27",
+    "95e05ddff661cd210857"
+  ],
+  "examples": [
+    "9037bbafbd779ddfcc27"
+  ],
+  "ordinary": [
+    "9037bbafbd779ddfcc27"
+  ],
+  "programming": [
+    "1e043293056489b0e78e"
+  ],
+  "languages": [
+    "1e043293056489b0e78e"
+  ],
+  "scholz": [
+    "1e043293056489b0e78e"
+  ],
+  "salamucha": [
+    "1e043293056489b0e78e"
+  ],
+  "carnap": [
+    "1e043293056489b0e78e"
+  ],
+  "bochenski": [
+    "1e043293056489b0e78e",
+    "a66bb14657ed98cac9da"
+  ],
+  "applications": [
+    "1e043293056489b0e78e",
+    "c96f0e4dc700a1143b72",
+    "bbb9435ead32904bc4b3"
+  ],
+  "focus": [
+    "1e043293056489b0e78e"
+  ],
+  "checking": [
+    "1e043293056489b0e78e"
+  ],
+  "relates": [
+    "1e043293056489b0e78e"
+  ],
+  "complexity": [
+    "1e043293056489b0e78e",
+    "605a04288ea2ea988d5b"
+  ],
+  "function": [
+    "bd93e6402376e409719e",
+    "95e05ddff661cd210857"
+  ],
+  "point": [
+    "bd93e6402376e409719e",
+    "c96f0e4dc700a1143b72",
+    "d84655e132107f98d7c6"
+  ],
+  "mean": [
+    "bd93e6402376e409719e"
+  ],
+  "aware": [
+    "bd93e6402376e409719e",
+    "a66bb14657ed98cac9da"
+  ],
+  "gaps": [
+    "bd93e6402376e409719e"
+  ],
+  "inconsistencies": [
+    "bd93e6402376e409719e"
+  ],
+  "shown": [
+    "bd93e6402376e409719e",
+    "6597596ef4a1a193aaa3"
+  ],
+  "taught": [
+    "bd93e6402376e409719e"
+  ],
+  "concrete": [
+    "95e05ddff661cd210857"
+  ],
+  "finitary": [
+    "95e05ddff661cd210857"
+  ],
+  "asked": [
+    "95e05ddff661cd210857"
+  ],
+  "list": [
+    "81a98335815962ad59dd"
+  ],
+  "topics": [
+    "81a98335815962ad59dd"
+  ],
+  "eine": [
+    "81a98335815962ad59dd",
+    "ec978838af7d2d70c195"
+  ],
+  "claimed": [
+    "81a98335815962ad59dd"
+  ],
+  "1934": [
+    "81a98335815962ad59dd"
+  ],
+  "bernays": [
+    "81a98335815962ad59dd"
+  ],
+  "luitzen": [
+    "81a98335815962ad59dd"
+  ],
+  "egbertus": [
+    "81a98335815962ad59dd"
+  ],
+  "founded": [
+    "81a98335815962ad59dd"
+  ],
+  "poorly": [
+    "81a98335815962ad59dd"
+  ],
+  "mathematician": [
+    "81a98335815962ad59dd"
+  ],
+  "person": [
+    "81a98335815962ad59dd"
+  ],
+  "ferreirós": [
+    "a66bb14657ed98cac9da"
+  ],
+  "exposition": [
+    "a66bb14657ed98cac9da"
+  ],
+  "tokyo": [
+    "a66bb14657ed98cac9da"
+  ],
+  "1959": [
+    "a66bb14657ed98cac9da"
+  ],
+  "york": [
+    "a66bb14657ed98cac9da",
+    "605a04288ea2ea988d5b"
+  ],
+  "city": [
+    "a66bb14657ed98cac9da"
+  ],
+  "certainly": [
+    "a66bb14657ed98cac9da"
+  ],
+  "importance": [
+    "a66bb14657ed98cac9da"
+  ],
+  "boston": [
+    "605a04288ea2ea988d5b"
+  ],
+  "1997": [
+    "605a04288ea2ea988d5b"
+  ],
+  "1007": [
+    "605a04288ea2ea988d5b",
+    "15fb784f09d713a3af33"
+  ],
+  "schwichtenberg": [
+    "605a04288ea2ea988d5b"
+  ],
+  "helmut": [
+    "605a04288ea2ea988d5b"
+  ],
+  "2003": [
+    "605a04288ea2ea988d5b"
+  ],
+  "berlin": [
+    "605a04288ea2ea988d5b"
+  ],
+  "4471": [
+    "605a04288ea2ea988d5b"
+  ],
+  "peter": [
+    "605a04288ea2ea988d5b"
+  ],
+  "peters": [
+    "605a04288ea2ea988d5b"
+  ],
+  "monographs": [
+    "605a04288ea2ea988d5b"
+  ],
+  "2307": [
+    "88b9fa717003b0d8da52"
+  ],
+  "jstor": [
+    "88b9fa717003b0d8da52"
+  ],
+  "1966": [
+    "88b9fa717003b0d8da52"
+  ],
+  "dover": [
+    "88b9fa717003b0d8da52"
+  ],
+  "davis": [
+    "88b9fa717003b0d8da52"
+  ],
+  "monthly": [
+    "88b9fa717003b0d8da52"
+  ],
+  "2318447": [
+    "88b9fa717003b0d8da52"
+  ],
+  "2695743": [
+    "88b9fa717003b0d8da52"
+  ],
+  "bulletin": [
+    "88b9fa717003b0d8da52"
+  ],
+  "2687794": [
+    "88b9fa717003b0d8da52"
+  ],
+  "transactions": [
+    "88b9fa717003b0d8da52"
+  ],
+  "1994188": [
+    "88b9fa717003b0d8da52"
+  ],
+  "1971": [
+    "88b9fa717003b0d8da52"
+  ],
+  "translation": [
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "1976": [
+    "ec978838af7d2d70c195",
+    "55734108ca8e6151fd72"
+  ],
+  "1874": [
+    "ec978838af7d2d70c195"
+  ],
+  "zahlen": [
+    "ec978838af7d2d70c195"
+  ],
+  "begriff": [
+    "ec978838af7d2d70c195"
+  ],
+  "gottlob": [
+    "ec978838af7d2d70c195"
+  ],
+  "reinen": [
+    "ec978838af7d2d70c195"
+  ],
+  "über": [
+    "ec978838af7d2d70c195",
+    "15fb784f09d713a3af33",
+    "55734108ca8e6151fd72"
+  ],
+  "cesare": [
+    "ec978838af7d2d70c195"
+  ],
+  "1897": [
+    "ec978838af7d2d70c195"
+  ],
+  "kurt": [
+    "15fb784f09d713a3af33"
+  ],
+  "monatshefte": [
+    "15fb784f09d713a3af33"
+  ],
+  "physik": [
+    "15fb784f09d713a3af33"
+  ],
+  "1931": [
+    "15fb784f09d713a3af33"
+  ],
+  "1958": [
+    "15fb784f09d713a3af33",
+    "07ca45b67813edf06431"
+  ],
+  "1990131": [
+    "15fb784f09d713a3af33"
+  ],
+  "1930": [
+    "15fb784f09d713a3af33"
+  ],
+  "vollständigkeit": [
+    "15fb784f09d713a3af33"
+  ],
+  "axiome": [
+    "15fb784f09d713a3af33"
+  ],
+  "logischen": [
+    "15fb784f09d713a3af33"
+  ],
+  "lithuanian": [
+    "55734108ca8e6151fd72"
+  ],
+  "untersuchungen": [
+    "55734108ca8e6151fd72"
+  ],
+  "date": [
+    "55734108ca8e6151fd72",
+    "f703229eb8fba07fbd90"
+  ],
+  "incompatibility": [
+    "55734108ca8e6151fd72"
+  ],
+  "help": [
+    "55734108ca8e6151fd72",
+    "db23fddd536f60e9b4d9"
+  ],
+  "leopold": [
+    "55734108ca8e6151fd72"
+  ],
+  "1915": [
+    "55734108ca8e6151fd72"
+  ],
+  "direction": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "throughout": [
+    "4c7f8d0b713b7125ea6f",
+    "ae2f6e31799c468874f7"
+  ],
+  "changes": [
+    "4c7f8d0b713b7125ea6f",
+    "7e9ccc4d5df9cd18dc55",
+    "d8c21aba3abf824165b8",
+    "57fbe784a562b413e905",
+    "f703229eb8fba07fbd90",
+    "b97dd35eb56eba5296b0",
+    "51244c0d03b3b01ddf21",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "9a26a85e8a90797ecc8c",
+    "1e4facd55c3484077b0e",
+    "91425ce83d58a05861c6"
+  ],
+  "isaac": [
+    "4c7f8d0b713b7125ea6f",
+    "4ea92b6c2366dd70e370"
+  ],
+  "tends": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "stay": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "unbalanced": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "nothing": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "acceleration": [
+    "4c7f8d0b713b7125ea6f"
+  ],
+  "forces": [
+    "4ea92b6c2366dd70e370",
+    "7e9ccc4d5df9cd18dc55",
+    "6825d575a36bd71611d1",
+    "c96f0e4dc700a1143b72"
+  ],
+  "chair": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "kids": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "inertia": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "equal": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "opposite": [
+    "4ea92b6c2366dd70e370",
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "exert": [
+    "4ea92b6c2366dd70e370",
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "downward": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "biography": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "activities": [
+    "4ea92b6c2366dd70e370",
+    "3ccb31fe5d3b41840748",
+    "a9aac8a96d3aa04eb90f",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "third": [
+    "4ea92b6c2366dd70e370",
+    "4e517f23f4a52e764d3a",
+    "d84655e132107f98d7c6"
+  ],
+  "action": [
+    "4ea92b6c2366dd70e370",
+    "6825d575a36bd71611d1"
+  ],
+  "reaction": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "pairs": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "think": [
+    "4ea92b6c2366dd70e370",
+    "4e517f23f4a52e764d3a"
+  ],
+  "sitting": [
+    "4ea92b6c2366dd70e370"
+  ],
+  "nail": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "hammer": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "apply": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "accelerate": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "unless": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "three": [
+    "7e9ccc4d5df9cd18dc55",
+    "eabdf1073f0a67e4df1f",
+    "d87fa1b493031ac5893d"
+  ],
+  "position": [
+    "7e9ccc4d5df9cd18dc55",
+    "6825d575a36bd71611d1",
+    "22eac246dbb28653861a"
+  ],
+  "acting": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "wall": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "around": [
+    "7e9ccc4d5df9cd18dc55",
+    "57fbe784a562b413e905"
+  ],
+  "kilograms": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "divided": [
+    "7e9ccc4d5df9cd18dc55",
+    "6825d575a36bd71611d1"
+  ],
+  "losing": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "talk": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "referring": [
+    "7e9ccc4d5df9cd18dc55"
+  ],
+  "equilibrium": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "ball": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "wouldn": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "stored": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "probably": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "destroyed": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "obeyed": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "superman": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "batman": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "closed": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "released": [
+    "4e517f23f4a52e764d3a",
+    "71e1a34de49d846860f3"
+  ],
+  "doing": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "damage": [
+    "4e517f23f4a52e764d3a"
+  ],
+  "absorbed": [
+    "4e517f23f4a52e764d3a",
+    "1db57f38779d25bb7f14",
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "emitted": [
+    "4e517f23f4a52e764d3a",
+    "9f27dbf25e6576c5ef23",
+    "a9aac8a96d3aa04eb90f",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "able": [
+    "4e517f23f4a52e764d3a",
+    "4a07030396d89419156c"
+  ],
+  "assignment": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "tutors": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "send": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "provide": [
+    "db23fddd536f60e9b4d9",
+    "9a311cfb5942348dba22"
+  ],
+  "email": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "required": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "face": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "query": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "please": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "info": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "homeworkassignmenthelp": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "start": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "working": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "after": [
+    "db23fddd536f60e9b4d9",
+    "3ccb31fe5d3b41840748"
+  ],
+  "payment": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "format": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "your": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "solutions": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "homework": [
+    "db23fddd536f60e9b4d9"
+  ],
+  "deals": [
+    "6825d575a36bd71611d1"
+  ],
+  "branch": [
+    "6825d575a36bd71611d1"
+  ],
+  "location": [
+    "6825d575a36bd71611d1"
+  ],
+  "causes": [
+    "6825d575a36bd71611d1",
+    "f703229eb8fba07fbd90",
+    "1cdcd42389936f2ea1d8",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "central": [
+    "6825d575a36bd71611d1"
+  ],
+  "changing": [
+    "6825d575a36bd71611d1",
+    "d76a21205638eec3e2a2",
+    "f703229eb8fba07fbd90",
+    "ae2f6e31799c468874f7",
+    "68189f40c3482e910b39"
+  ],
+  "interaction": [
+    "6825d575a36bd71611d1"
+  ],
+  "shape": [
+    "6825d575a36bd71611d1"
+  ],
+  "possesses": [
+    "6825d575a36bd71611d1"
+  ],
+  "ability": [
+    "6825d575a36bd71611d1"
+  ],
+  "done": [
+    "6825d575a36bd71611d1"
+  ],
+  "disciplines": [
+    "6825d575a36bd71611d1"
+  ],
+  "kinematics": [
+    "6825d575a36bd71611d1"
+  ],
+  "regard": [
+    "6825d575a36bd71611d1"
+  ],
+  "electric": [
+    "c96f0e4dc700a1143b72",
+    "d76a21205638eec3e2a2"
+  ],
+  "charges": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "dipole": [
+    "c96f0e4dc700a1143b72",
+    "d76a21205638eec3e2a2"
+  ],
+  "capacitor": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "modulus": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "electrical": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "resistance": [
+    "c96f0e4dc700a1143b72",
+    "d76a21205638eec3e2a2"
+  ],
+  "resistors": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "power": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "conservative": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "flow": [
+    "c96f0e4dc700a1143b72"
+  ],
+  "magnetic": [
+    "d76a21205638eec3e2a2",
+    "d87fa1b493031ac5893d"
+  ],
+  "current": [
+    "d76a21205638eec3e2a2",
+    "ae2f6e31799c468874f7",
+    "51244c0d03b3b01ddf21",
+    "1e4facd55c3484077b0e"
+  ],
+  "long": [
+    "d76a21205638eec3e2a2",
+    "6597596ef4a1a193aaa3"
+  ],
+  "coil": [
+    "d76a21205638eec3e2a2"
+  ],
+  "circuit": [
+    "d76a21205638eec3e2a2"
+  ],
+  "lens": [
+    "d76a21205638eec3e2a2"
+  ],
+  "bridge": [
+    "d76a21205638eec3e2a2"
+  ],
+  "carrying": [
+    "d76a21205638eec3e2a2"
+  ],
+  "uniform": [
+    "d76a21205638eec3e2a2"
+  ],
+  "refraction": [
+    "d76a21205638eec3e2a2",
+    "bbb9435ead32904bc4b3"
+  ],
+  "wheatstone": [
+    "d76a21205638eec3e2a2"
+  ],
+  "application": [
+    "d76a21205638eec3e2a2"
+  ],
+  "galvanometer": [
+    "d76a21205638eec3e2a2"
+  ],
+  "solenoid": [
+    "d76a21205638eec3e2a2"
+  ],
+  "ampere": [
+    "d76a21205638eec3e2a2"
+  ],
+  "loop": [
+    "d76a21205638eec3e2a2"
+  ],
+  "moment": [
+    "d76a21205638eec3e2a2"
+  ],
+  "alternating": [
+    "d76a21205638eec3e2a2"
+  ],
+  "nuclear": [
+    "bbb9435ead32904bc4b3",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "diode": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "reflection": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "plane": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "interference": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "diffraction": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "polarisation": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "waves": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "characteristics": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "photoelectric": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "charge": [
+    "bbb9435ead32904bc4b3",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "semiconductor": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "junction": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "transistor": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "gates": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "double": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "formation": [
+    "bbb9435ead32904bc4b3"
+  ],
+  "records": [
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "climate": [
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "42f3b07eea6bb933cfdf",
+    "bf7be549b4368db16ad0",
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "94c73e1f97ecf966e4b3",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "68189f40c3482e910b39",
+    "51244c0d03b3b01ddf21",
+    "a9aac8a96d3aa04eb90f",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8",
+    "9a26a85e8a90797ecc8c",
+    "1e4facd55c3484077b0e"
+  ],
+  "climatic": [
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8"
+  ],
+  "historical": [
+    "191582af739ee39faef2"
+  ],
+  "become": [
+    "191582af739ee39faef2",
+    "8982e1a1e8e6616e8087",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "geographic": [
+    "191582af739ee39faef2"
+  ],
+  "sources": [
+    "191582af739ee39faef2",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "information": [
+    "191582af739ee39faef2",
+    "d8c21aba3abf824165b8",
+    "f703229eb8fba07fbd90",
+    "ae2f6e31799c468874f7",
+    "51244c0d03b3b01ddf21",
+    "9a311cfb5942348dba22"
+  ],
+  "paleoclimatologists": [
+    "191582af739ee39faef2"
+  ],
+  "understanding": [
+    "191582af739ee39faef2"
+  ],
+  "share": [
+    "191582af739ee39faef2"
+  ],
+  "probe": [
+    "191582af739ee39faef2",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "farther": [
+    "191582af739ee39faef2"
+  ],
+  "reliant": [
+    "191582af739ee39faef2"
+  ],
+  "archives": [
+    "d8c21aba3abf824165b8"
+  ],
+  "oceans": [
+    "d8c21aba3abf824165b8",
+    "bf7be549b4368db16ad0",
+    "f703229eb8fba07fbd90"
+  ],
+  "land": [
+    "d8c21aba3abf824165b8",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "instrumental": [
+    "d8c21aba3abf824165b8"
+  ],
+  "studying": [
+    "d8c21aba3abf824165b8",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "record": [
+    "d8c21aba3abf824165b8",
+    "1db57f38779d25bb7f14",
+    "07ca45b67813edf06431"
+  ],
+  "features": [
+    "d8c21aba3abf824165b8"
+  ],
+  "cores": [
+    "d8c21aba3abf824165b8"
+  ],
+  "drilling": [
+    "d8c21aba3abf824165b8"
+  ],
+  "ongoing": [
+    "d8c21aba3abf824165b8"
+  ],
+  "monitored": [
+    "d8c21aba3abf824165b8"
+  ],
+  "networks": [
+    "d8c21aba3abf824165b8"
+  ],
+  "sensors": [
+    "d8c21aba3abf824165b8"
+  ],
+  "below": [
+    "d8c21aba3abf824165b8"
+  ],
+  "timescales": [
+    "42f3b07eea6bb933cfdf",
+    "bf7be549b4368db16ad0"
+  ],
+  "factors": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "solar": [
+    "42f3b07eea6bb933cfdf",
+    "57fbe784a562b413e905"
+  ],
+  "mechanisms": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "external": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "feedbacks": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "variation": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "section": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "luminosity": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "activity": [
+    "42f3b07eea6bb933cfdf",
+    "9f27dbf25e6576c5ef23",
+    "51244c0d03b3b01ddf21",
+    "312ffa51058a3925c094"
+  ],
+  "much": [
+    "42f3b07eea6bb933cfdf",
+    "bf7be549b4368db16ad0",
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "easier": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "document": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "variability": [
+    "42f3b07eea6bb933cfdf"
+  ],
+  "dioxide": [
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "b97dd35eb56eba5296b0",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "release": [
+    "bf7be549b4368db16ad0"
+  ],
+  "carbon": [
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "b97dd35eb56eba5296b0",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "volcanic": [
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23"
+  ],
+  "atmospheric": [
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23",
+    "94c73e1f97ecf966e4b3",
+    "b97dd35eb56eba5296b0",
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "eruption": [
+    "bf7be549b4368db16ad0"
+  ],
+  "mount": [
+    "bf7be549b4368db16ad0"
+  ],
+  "circulation": [
+    "bf7be549b4368db16ad0"
+  ],
+  "summer": [
+    "bf7be549b4368db16ad0"
+  ],
+  "year": [
+    "bf7be549b4368db16ad0",
+    "3ccb31fe5d3b41840748",
+    "efa58bdf9cedc4b3889c",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "effects": [
+    "bf7be549b4368db16ad0",
+    "eabdf1073f0a67e4df1f",
+    "1cdcd42389936f2ea1d8",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "millions": [
+    "bf7be549b4368db16ad0"
+  ],
+  "pinatubo": [
+    "bf7be549b4368db16ad0"
+  ],
+  "1816": [
+    "bf7be549b4368db16ad0"
+  ],
+  "volcanoes": [
+    "bf7be549b4368db16ad0",
+    "9f27dbf25e6576c5ef23"
+  ],
+  "ocean": [
+    "bf7be549b4368db16ad0",
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14",
+    "68189f40c3482e910b39",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "phanerozoic": [
+    "bf7be549b4368db16ad0"
+  ],
+  "weathering": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "zones": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "tectonic": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "concentrations": [
+    "9f27dbf25e6576c5ef23",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "rift": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "variations": [
+    "9f27dbf25e6576c5ef23",
+    "57fbe784a562b413e905",
+    "1cdcd42389936f2ea1d8"
+  ],
+  "sink": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "cenozoic": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "influences": [
+    "9f27dbf25e6576c5ef23",
+    "57fbe784a562b413e905",
+    "1db57f38779d25bb7f14",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "vents": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "subduction": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "rate": [
+    "9f27dbf25e6576c5ef23",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748"
+  ],
+  "spreading": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "degree": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "near": [
+    "9f27dbf25e6576c5ef23",
+    "57fbe784a562b413e905"
+  ],
+  "plate": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "margins": [
+    "9f27dbf25e6576c5ef23"
+  ],
+  "orbital": [
+    "57fbe784a562b413e905",
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "78952d20c5ecd1c98738",
+    "71e1a34de49d846860f3"
+  ],
+  "axis": [
+    "57fbe784a562b413e905"
+  ],
+  "affected": [
+    "57fbe784a562b413e905"
+  ],
+  "orbit": [
+    "57fbe784a562b413e905",
+    "51244c0d03b3b01ddf21"
+  ],
+  "cyclic": [
+    "57fbe784a562b413e905"
+  ],
+  "varies": [
+    "57fbe784a562b413e905"
+  ],
+  "tilt": [
+    "57fbe784a562b413e905"
+  ],
+  "respect": [
+    "57fbe784a562b413e905"
+  ],
+  "seasonal": [
+    "57fbe784a562b413e905"
+  ],
+  "rotation": [
+    "57fbe784a562b413e905"
+  ],
+  "cycle": [
+    "57fbe784a562b413e905"
+  ],
+  "greater": [
+    "57fbe784a562b413e905"
+  ],
+  "radiation": [
+    "57fbe784a562b413e905"
+  ],
+  "received": [
+    "57fbe784a562b413e905"
+  ],
+  "equinoxes": [
+    "57fbe784a562b413e905"
+  ],
+  "perihelion": [
+    "57fbe784a562b413e905"
+  ],
+  "solstice": [
+    "57fbe784a562b413e905"
+  ],
+  "predictable": [
+    "57fbe784a562b413e905"
+  ],
+  "impacts": [
+    "f703229eb8fba07fbd90"
+  ],
+  "multiple": [
+    "f703229eb8fba07fbd90"
+  ],
+  "lines": [
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d"
+  ],
+  "show": [
+    "f703229eb8fba07fbd90",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "07ca45b67813edf06431",
+    "9a311cfb5942348dba22"
+  ],
+  "weather": [
+    "f703229eb8fba07fbd90"
+  ],
+  "ecosystems": [
+    "f703229eb8fba07fbd90"
+  ],
+  "committed": [
+    "f703229eb8fba07fbd90"
+  ],
+  "providing": [
+    "f703229eb8fba07fbd90"
+  ],
+  "accurate": [
+    "f703229eb8fba07fbd90"
+  ],
+  "basics": [
+    "f703229eb8fba07fbd90",
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "indicators": [
+    "f703229eb8fba07fbd90"
+  ],
+  "learn": [
+    "f703229eb8fba07fbd90",
+    "6bb7f432d7f968e5e28d",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "warming": [
+    "6bb7f432d7f968e5e28d",
+    "ae2f6e31799c468874f7",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21",
+    "eabdf1073f0a67e4df1f",
+    "cdea116ad3a4022b08ed",
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e"
+  ],
+  "cause": [
+    "6bb7f432d7f968e5e28d"
+  ],
+  "temperatures": [
+    "6bb7f432d7f968e5e28d",
+    "07ca45b67813edf06431",
+    "cdea116ad3a4022b08ed"
+  ],
+  "worldwide": [
+    "6bb7f432d7f968e5e28d"
+  ],
+  "average": [
+    "6bb7f432d7f968e5e28d",
+    "3ccb31fe5d3b41840748",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "data": [
+    "6bb7f432d7f968e5e28d",
+    "b97dd35eb56eba5296b0",
+    "68189f40c3482e910b39",
+    "07ca45b67813edf06431",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "earlier": [
+    "6bb7f432d7f968e5e28d"
+  ],
+  "melting": [
+    "6bb7f432d7f968e5e28d"
+  ],
+  "declining": [
+    "6bb7f432d7f968e5e28d"
+  ],
+  "fish": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "wildlife": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "national": [
+    "94c73e1f97ecf966e4b3",
+    "68189f40c3482e910b39",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "nasa": [
+    "94c73e1f97ecf966e4b3",
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21"
+  ],
+  "plants": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "adaptation": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "ipcc": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "consensus": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "partnership": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "2012": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "strategy": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "association": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "agencies": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "council": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "environmental": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "quality": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "great": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "lakes": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "indian": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "commission": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "oceanic": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "administration": [
+    "94c73e1f97ecf966e4b3",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "service": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "washington": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "3996": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "082012": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "fwsreport": [
+    "94c73e1f97ecf966e4b3"
+  ],
+  "planet": [
+    "ae2f6e31799c468874f7",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "changed": [
+    "ae2f6e31799c468874f7"
+  ],
+  "seen": [
+    "ae2f6e31799c468874f7",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "intergovernmental": [
+    "ae2f6e31799c468874f7"
+  ],
+  "panel": [
+    "ae2f6e31799c468874f7",
+    "eabdf1073f0a67e4df1f"
+  ],
+  "satellites": [
+    "ae2f6e31799c468874f7"
+  ],
+  "instruments": [
+    "ae2f6e31799c468874f7"
+  ],
+  "signs": [
+    "ae2f6e31799c468874f7"
+  ],
+  "image": [
+    "3ccb31fe5d3b41840748"
+  ],
+  "credit": [
+    "3ccb31fe5d3b41840748",
+    "1db57f38779d25bb7f14"
+  ],
+  "greenland": [
+    "3ccb31fe5d3b41840748"
+  ],
+  "antarctica": [
+    "3ccb31fe5d3b41840748"
+  ],
+  "glaciers": [
+    "3ccb31fe5d3b41840748"
+  ],
+  "times": [
+    "3ccb31fe5d3b41840748",
+    "51244c0d03b3b01ddf21"
+  ],
+  "faster": [
+    "3ccb31fe5d3b41840748"
+  ],
+  "events": [
+    "1db57f38779d25bb7f14"
+  ],
+  "anthropogenic": [
+    "1db57f38779d25bb7f14"
+  ],
+  "decades": [
+    "1db57f38779d25bb7f14",
+    "1e4facd55c3484077b0e"
+  ],
+  "recent": [
+    "1db57f38779d25bb7f14"
+  ],
+  "santer": [
+    "1db57f38779d25bb7f14"
+  ],
+  "blanket": [
+    "1db57f38779d25bb7f14"
+  ],
+  "anomalies": [
+    "b97dd35eb56eba5296b0",
+    "91425ce83d58a05861c6",
+    "78952d20c5ecd1c98738"
+  ],
+  "garcia": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "greenhouse": [
+    "b97dd35eb56eba5296b0",
+    "51244c0d03b3b01ddf21",
+    "a9aac8a96d3aa04eb90f",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "effect": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "noaa": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "anthropocene": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "issue": [
+    "b97dd35eb56eba5296b0",
+    "7a03e951207d07e76fbf"
+  ],
+  "boyer": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "ncei": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "1860s": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "physicist": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "tyndall": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "suggested": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "slight": [
+    "b97dd35eb56eba5296b0"
+  ],
+  "composition": [
+    "b97dd35eb56eba5296b0",
+    "6597596ef4a1a193aaa3"
+  ],
+  "snow": [
+    "68189f40c3482e910b39"
+  ],
+  "grace": [
+    "68189f40c3482e910b39"
+  ],
+  "research": [
+    "68189f40c3482e910b39"
+  ],
+  "report": [
+    "68189f40c3482e910b39"
+  ],
+  "velicogna": [
+    "68189f40c3482e910b39"
+  ],
+  "yara": [
+    "68189f40c3482e910b39"
+  ],
+  "mohajerani": [
+    "68189f40c3482e910b39"
+  ],
+  "geruo": [
+    "68189f40c3482e910b39"
+  ],
+  "landerer": [
+    "68189f40c3482e910b39"
+  ],
+  "mouginot": [
+    "68189f40c3482e910b39"
+  ],
+  "noel": [
+    "68189f40c3482e910b39"
+  ],
+  "rignot": [
+    "68189f40c3482e910b39"
+  ],
+  "sutterly": [
+    "68189f40c3482e910b39"
+  ],
+  "broeke": [
+    "68189f40c3482e910b39"
+  ],
+  "wessem": [
+    "68189f40c3482e910b39"
+  ],
+  "wiese": [
+    "68189f40c3482e910b39"
+  ],
+  "continuity": [
+    "68189f40c3482e910b39"
+  ],
+  "sheet": [
+    "68189f40c3482e910b39"
+  ],
+  "rapid": [
+    "51244c0d03b3b01ddf21"
+  ],
+  "website": [
+    "51244c0d03b3b01ddf21"
+  ],
+  "caused": [
+    "51244c0d03b3b01ddf21"
+  ],
+  "burning": [
+    "312ffa51058a3925c094"
+  ],
+  "coal": [
+    "312ffa51058a3925c094"
+  ],
+  "increased": [
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "emissions": [
+    "312ffa51058a3925c094",
+    "1e4facd55c3484077b0e"
+  ],
+  "fossil": [
+    "312ffa51058a3925c094"
+  ],
+  "fuels": [
+    "312ffa51058a3925c094"
+  ],
+  "like": [
+    "312ffa51058a3925c094",
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a"
+  ],
+  "concentration": [
+    "312ffa51058a3925c094",
+    "efa58bdf9cedc4b3889c"
+  ],
+  "happens": [
+    "312ffa51058a3925c094"
+  ],
+  "combines": [
+    "312ffa51058a3925c094"
+  ],
+  "oxygen": [
+    "312ffa51058a3925c094",
+    "acfe8b9768bd10269028"
+  ],
+  "role": [
+    "312ffa51058a3925c094"
+  ],
+  "levels": [
+    "312ffa51058a3925c094"
+  ],
+  "balance": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "affect": [
+    "a9aac8a96d3aa04eb90f",
+    "abd2c58c3afe96fa2716"
+  ],
+  "directly": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "incoming": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "surfaces": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "serves": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "primary": [
+    "a9aac8a96d3aa04eb90f"
+  ],
+  "source": [
+    "a9aac8a96d3aa04eb90f",
+    "07ca45b67813edf06431"
+  ],
+  "increase": [
+    "efa58bdf9cedc4b3889c",
+    "07ca45b67813edf06431",
+    "cdea116ad3a4022b08ed",
+    "9a26a85e8a90797ecc8c"
+  ],
+  "methane": [
+    "efa58bdf9cedc4b3889c"
+  ],
+  "nitrous": [
+    "efa58bdf9cedc4b3889c"
+  ],
+  "oxide": [
+    "efa58bdf9cedc4b3889c"
+  ],
+  "significantly": [
+    "efa58bdf9cedc4b3889c"
+  ],
+  "core": [
+    "efa58bdf9cedc4b3889c",
+    "d84655e132107f98d7c6",
+    "c4b84b344c107b25804a"
+  ],
+  "mauna": [
+    "07ca45b67813edf06431"
+  ],
+  "scripps": [
+    "07ca45b67813edf06431"
+  ],
+  "trend": [
+    "07ca45b67813edf06431",
+    "78952d20c5ecd1c98738"
+  ],
+  "warmest": [
+    "07ca45b67813edf06431"
+  ],
+  "observatory": [
+    "07ca45b67813edf06431"
+  ],
+  "hawaii": [
+    "07ca45b67813edf06431"
+  ],
+  "risen": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "addition": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "analyses": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "maroon": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "hadcrut4": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "dataset": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "complex": [
+    "eabdf1073f0a67e4df1f"
+  ],
+  "vapour": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "causing": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "regions": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "cover": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "clouds": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "cloud": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "amplify": [
+    "cdea116ad3a4022b08ed"
+  ],
+  "decade": [
+    "cdea116ad3a4022b08ed",
+    "1e4facd55c3484077b0e"
+  ],
+  "processes": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "regional": [
+    "1cdcd42389936f2ea1d8",
+    "1e4facd55c3484077b0e"
+  ],
+  "requires": [
+    "1cdcd42389936f2ea1d8",
+    "71e1a34de49d846860f3"
+  ],
+  "significant": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "influence": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "cooling": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "lasting": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "alter": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "estimating": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "feedback": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "pace": [
+    "1cdcd42389936f2ea1d8"
+  ],
+  "patterns": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "lead": [
+    "9a26a85e8a90797ecc8c",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "fingerprinting": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "becomes": [
+    "9a26a85e8a90797ecc8c",
+    "91425ce83d58a05861c6",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "obvious": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "beyond": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "look": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "closely": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "geographical": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "temporal": [
+    "9a26a85e8a90797ecc8c"
+  ],
+  "scenario": [
+    "1e4facd55c3484077b0e"
+  ],
+  "advances": [
+    "1e4facd55c3484077b0e"
+  ],
+  "project": [
+    "1e4facd55c3484077b0e"
+  ],
+  "estimates": [
+    "1e4facd55c3484077b0e"
+  ],
+  "trends": [
+    "1e4facd55c3484077b0e"
+  ],
+  "depends": [
+    "1e4facd55c3484077b0e"
+  ],
+  "expected": [
+    "1e4facd55c3484077b0e",
+    "22eac246dbb28653861a"
+  ],
+  "21st": [
+    "1e4facd55c3484077b0e"
+  ],
+  "zero": [
+    "1e4facd55c3484077b0e"
+  ],
+  "character": [
+    "8982e1a1e8e6616e8087"
+  ],
+  "increases": [
+    "8982e1a1e8e6616e8087"
+  ],
+  "going": [
+    "8982e1a1e8e6616e8087",
+    "44973af6a4393758f556"
+  ],
+  "mendeleev": [
+    "8982e1a1e8e6616e8087",
+    "6597596ef4a1a193aaa3"
+  ],
+  "block": [
+    "8982e1a1e8e6616e8087",
+    "c8142ed1bbd22d713146",
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "ordered": [
+    "8982e1a1e8e6616e8087"
+  ],
+  "arrangement": [
+    "8982e1a1e8e6616e8087"
+  ],
+  "continues": [
+    "7593604c73b57fce4b2a"
+  ],
+  "seven": [
+    "7593604c73b57fce4b2a",
+    "d87fa1b493031ac5893d",
+    "f44d912ff7c024d4baae"
+  ],
+  "discussion": [
+    "7593604c73b57fce4b2a"
+  ],
+  "evolve": [
+    "7593604c73b57fce4b2a"
+  ],
+  "progress": [
+    "7593604c73b57fce4b2a"
+  ],
+  "further": [
+    "7593604c73b57fce4b2a",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "necessary": [
+    "7593604c73b57fce4b2a"
+  ],
+  "synthesize": [
+    "7593604c73b57fce4b2a"
+  ],
+  "laboratory": [
+    "7593604c73b57fce4b2a"
+  ],
+  "2010": [
+    "7593604c73b57fce4b2a"
+  ],
+  "thereby": [
+    "7593604c73b57fce4b2a"
+  ],
+  "completing": [
+    "7593604c73b57fce4b2a"
+  ],
+  "occurring": [
+    "abd2c58c3afe96fa2716"
+  ],
+  "occur": [
+    "abd2c58c3afe96fa2716",
+    "c8142ed1bbd22d713146"
+  ],
+  "isotope": [
+    "abd2c58c3afe96fa2716"
+  ],
+  "primordial": [
+    "c8142ed1bbd22d713146"
+  ],
+  "stable": [
+    "c8142ed1bbd22d713146",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "thorium": [
+    "c8142ed1bbd22d713146",
+    "cc43db397eaba0e58340"
+  ],
+  "uranium": [
+    "c8142ed1bbd22d713146"
+  ],
+  "columns": [
+    "c8142ed1bbd22d713146",
+    "6597596ef4a1a193aaa3",
+    "ea7a54ff69a091f5876b"
+  ],
+  "determined": [
+    "c8142ed1bbd22d713146",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "subshell": [
+    "c8142ed1bbd22d713146",
+    "d84655e132107f98d7c6",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "71e1a34de49d846860f3",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "fall": [
+    "c8142ed1bbd22d713146"
+  ],
+  "remaining": [
+    "c8142ed1bbd22d713146"
+  ],
+  "viii": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "naming": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "roman": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "numerals": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "iupac": [
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3",
+    "7a03e951207d07e76fbf"
+  ],
+  "international": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "convention": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "scandium": [
+    "ea3e9538d96d5d9f5fdf",
+    "6597596ef4a1a193aaa3"
+  ],
+  "europe": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "iiib": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "viib": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "iiia": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "viia": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "numbered": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "numerically": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "leftmost": [
+    "ea3e9538d96d5d9f5fdf"
+  ],
+  "correct": [
+    "6597596ef4a1a193aaa3"
+  ],
+  "yttrium": [
+    "6597596ef4a1a193aaa3",
+    "7a03e951207d07e76fbf"
+  ],
+  "main": [
+    "6597596ef4a1a193aaa3",
+    "acfe8b9768bd10269028"
+  ],
+  "lutetium": [
+    "6597596ef4a1a193aaa3",
+    "c4b84b344c107b25804a",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "lawrencium": [
+    "6597596ef4a1a193aaa3",
+    "c4b84b344c107b25804a",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "here": [
+    "6597596ef4a1a193aaa3"
+  ],
+  "endorsed": [
+    "6597596ef4a1a193aaa3"
+  ],
+  "1988": [
+    "6597596ef4a1a193aaa3"
+  ],
+  "take": [
+    "9a311cfb5942348dba22"
+  ],
+  "contain": [
+    "9a311cfb5942348dba22"
+  ],
+  "orbitals": [
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "cc43db397eaba0e58340",
+    "44973af6a4393758f556",
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "capacity": [
+    "9a311cfb5942348dba22",
+    "d87fa1b493031ac5893d",
+    "f44d912ff7c024d4baae"
+  ],
+  "contains": [
+    "d87fa1b493031ac5893d"
+  ],
+  "madelung": [
+    "d87fa1b493031ac5893d"
+  ],
+  "shells": [
+    "d87fa1b493031ac5893d",
+    "cc43db397eaba0e58340"
+  ],
+  "klechkovsky": [
+    "d87fa1b493031ac5893d"
+  ],
+  "occupied": [
+    "d87fa1b493031ac5893d"
+  ],
+  "filled": [
+    "d87fa1b493031ac5893d",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a",
+    "f44d912ff7c024d4baae",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "filling": [
+    "d87fa1b493031ac5893d",
+    "d84655e132107f98d7c6",
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "cc43db397eaba0e58340",
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "singly": [
+    "d84655e132107f98d7c6"
+  ],
+  "starting": [
+    "d84655e132107f98d7c6",
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a"
+  ],
+  "completely": [
+    "d84655e132107f98d7c6",
+    "f44d912ff7c024d4baae"
+  ],
+  "giving": [
+    "d84655e132107f98d7c6"
+  ],
+  "fills": [
+    "d84655e132107f98d7c6",
+    "c4b84b344c107b25804a"
+  ],
+  "overlaps": [
+    "d84655e132107f98d7c6"
+  ],
+  "quite": [
+    "d84655e132107f98d7c6"
+  ],
+  "close": [
+    "d84655e132107f98d7c6"
+  ],
+  "analogous": [
+    "ea7a54ff69a091f5876b"
+  ],
+  "outer": [
+    "ea7a54ff69a091f5876b",
+    "36fd5ccb26b1952f6ad6",
+    "e38aacb4bcb48dc99f67"
+  ],
+  "full": [
+    "ea7a54ff69a091f5876b",
+    "71e1a34de49d846860f3"
+  ],
+  "begins": [
+    "ea7a54ff69a091f5876b"
+  ],
+  "magnesium": [
+    "ea7a54ff69a091f5876b",
+    "71e1a34de49d846860f3"
+  ],
+  "those": [
+    "ea7a54ff69a091f5876b"
+  ],
+  "illustrates": [
+    "ea7a54ff69a091f5876b"
+  ],
+  "configurations": [
+    "ea7a54ff69a091f5876b",
+    "91425ce83d58a05861c6",
+    "f44d912ff7c024d4baae",
+    "cc43db397eaba0e58340",
+    "71e1a34de49d846860f3"
+  ],
+  "next": [
+    "91425ce83d58a05861c6"
+  ],
+  "3d10": [
+    "91425ce83d58a05861c6"
+  ],
+  "fill": [
+    "91425ce83d58a05861c6",
+    "c4b84b344c107b25804a"
+  ],
+  "chromium": [
+    "91425ce83d58a05861c6"
+  ],
+  "gallium": [
+    "91425ce83d58a05861c6"
+  ],
+  "lanthanum": [
+    "c4b84b344c107b25804a",
+    "7a03e951207d07e76fbf",
+    "cc43db397eaba0e58340"
+  ],
+  "seventh": [
+    "c4b84b344c107b25804a"
+  ],
+  "sixth": [
+    "c4b84b344c107b25804a"
+  ],
+  "starts": [
+    "c4b84b344c107b25804a",
+    "acfe8b9768bd10269028"
+  ],
+  "subshells": [
+    "c4b84b344c107b25804a",
+    "f44d912ff7c024d4baae",
+    "44973af6a4393758f556"
+  ],
+  "again": [
+    "c4b84b344c107b25804a"
+  ],
+  "finally": [
+    "c4b84b344c107b25804a"
+  ],
+  "thallium": [
+    "c4b84b344c107b25804a",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "onwards": [
+    "c4b84b344c107b25804a"
+  ],
+  "placement": [
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738"
+  ],
+  "placed": [
+    "f44d912ff7c024d4baae",
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738"
+  ],
+  "following": [
+    "f44d912ff7c024d4baae"
+  ],
+  "completes": [
+    "f44d912ff7c024d4baae"
+  ],
+  "neutral": [
+    "f44d912ff7c024d4baae"
+  ],
+  "phase": [
+    "f44d912ff7c024d4baae"
+  ],
+  "favoured": [
+    "f44d912ff7c024d4baae"
+  ],
+  "halogens": [
+    "4a07030396d89419156c"
+  ],
+  "conditions": [
+    "4a07030396d89419156c",
+    "22eac246dbb28653861a"
+  ],
+  "unlike": [
+    "4a07030396d89419156c"
+  ],
+  "reactive": [
+    "4a07030396d89419156c"
+  ],
+  "rarer": [
+    "4a07030396d89419156c"
+  ],
+  "outermost": [
+    "4a07030396d89419156c",
+    "44973af6a4393758f556"
+  ],
+  "loses": [
+    "4a07030396d89419156c"
+  ],
+  "reactions": [
+    "4a07030396d89419156c"
+  ],
+  "electronic": [
+    "22eac246dbb28653861a"
+  ],
+  "whereas": [
+    "22eac246dbb28653861a"
+  ],
+  "reasons": [
+    "22eac246dbb28653861a"
+  ],
+  "beryllium": [
+    "22eac246dbb28653861a",
+    "78952d20c5ecd1c98738"
+  ],
+  "inertness": [
+    "22eac246dbb28653861a"
+  ],
+  "routinely": [
+    "22eac246dbb28653861a"
+  ],
+  "occupies": [
+    "22eac246dbb28653861a"
+  ],
+  "characteristic": [
+    "78952d20c5ecd1c98738"
+  ],
+  "additionally": [
+    "78952d20c5ecd1c98738"
+  ],
+  "unusually": [
+    "78952d20c5ecd1c98738"
+  ],
+  "makes": [
+    "78952d20c5ecd1c98738"
+  ],
+  "supported": [
+    "7a03e951207d07e76fbf"
+  ],
+  "wide": [
+    "7a03e951207d07e76fbf"
+  ],
+  "implied": [
+    "7a03e951207d07e76fbf"
+  ],
+  "focusing": [
+    "7a03e951207d07e76fbf"
+  ],
+  "superheavy": [
+    "7a03e951207d07e76fbf"
+  ],
+  "actinium": [
+    "cc43db397eaba0e58340"
+  ],
+  "exceptional": [
+    "cc43db397eaba0e58340"
+  ],
+  "relevant": [
+    "cc43db397eaba0e58340"
+  ],
+  "repulsion": [
+    "44973af6a4393758f556",
+    "acfe8b9768bd10269028"
+  ],
+  "angular": [
+    "44973af6a4393758f556"
+  ],
+  "size": [
+    "44973af6a4393758f556",
+    "36fd5ccb26b1952f6ad6",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "haas": [
+    "44973af6a4393758f556"
+  ],
+  "radii": [
+    "44973af6a4393758f556",
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "analogues": [
+    "44973af6a4393758f556"
+  ],
+  "distributions": [
+    "44973af6a4393758f556"
+  ],
+  "smaller": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "shielding": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "slightly": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "except": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "prefer": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "across": [
+    "36fd5ccb26b1952f6ad6"
+  ],
+  "decrease": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "ionic": [
+    "6d7fc5a08b9f9d2b498e",
+    "71e1a34de49d846860f3"
+  ],
+  "ions": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "bismuth": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "radon": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "charged": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "relativistic": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "relativistically": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "attraction": [
+    "6d7fc5a08b9f9d2b498e"
+  ],
+  "ionisation": [
+    "e38aacb4bcb48dc99f67",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "affinity": [
+    "e38aacb4bcb48dc99f67",
+    "acfe8b9768bd10269028"
+  ],
+  "remove": [
+    "e38aacb4bcb48dc99f67"
+  ],
+  "though": [
+    "e38aacb4bcb48dc99f67"
+  ],
+  "down": [
+    "e38aacb4bcb48dc99f67"
+  ],
+  "lower": [
+    "acfe8b9768bd10269028"
+  ],
+  "oxidation": [
+    "acfe8b9768bd10269028",
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "combine": [
+    "acfe8b9768bd10269028"
+  ],
+  "binary": [
+    "acfe8b9768bd10269028"
+  ],
+  "formulae": [
+    "acfe8b9768bd10269028"
+  ],
+  "towards": [
+    "acfe8b9768bd10269028"
+  ],
+  "side": [
+    "acfe8b9768bd10269028"
+  ],
+  "exceptions": [
+    "acfe8b9768bd10269028"
+  ],
+  "enthalpy": [
+    "71e1a34de49d846860f3"
+  ],
+  "hydration": [
+    "71e1a34de49d846860f3"
+  ],
+  "uncovers": [
+    "71e1a34de49d846860f3"
+  ],
+  "considering": [
+    "71e1a34de49d846860f3"
+  ],
+  "cations": [
+    "71e1a34de49d846860f3"
+  ],
+  "explanation": [
+    "71e1a34de49d846860f3"
+  ],
+  "forming": [
+    "71e1a34de49d846860f3"
+  ],
+  "valences": [
+    "71e1a34de49d846860f3"
+  ],
+  "simply": [
+    "71e1a34de49d846860f3"
+  ],
+  "alone": [
+    "71e1a34de49d846860f3"
+  ],
+  "actinides": [
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "tend": [
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "lanthanides": [
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "late": [
+    "431b0fd6c8ebd6ac0644"
+  ],
+  "energies": [
+    "431b0fd6c8ebd6ac0644"
+  ]
+}
