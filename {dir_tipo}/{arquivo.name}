@@ -1,38 +1,98 @@
 {
-  "etica em ia": {
-    "resultados": [
-      {
-        "titulo": "Ética: o que é, o que significa e a melhor definição - Significados",
-        "corpo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
-        "url": "https://www.significados.com.br/etica/",
-        "timestamp": 1773419618.3474529
-      },
-      {
-        "titulo": "O que é Ética (significado e definição) - Dicio",
-        "corpo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
-        "url": "https://www.dicio.com.br/etica/",
-        "timestamp": 1773419618.3474634
-      },
-      {
-        "titulo": "O que é ética? - Brasil Escola",
-        "corpo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
-        "url": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
-        "timestamp": 1773419618.347467
-      },
-      {
-        "titulo": "Ética – Wikipédia, a enciclopédia livre",
-        "corpo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
-        "url": "https://pt.wikipedia.org/wiki/Ética",
-        "timestamp": 1773419618.347469
-      },
-      {
-        "titulo": "Ética - Toda Matéria",
-        "corpo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
-        "url": "https://www.todamateria.com.br/etica/",
-        "timestamp": 1773419618.3474715
-      }
-    ],
-    "timestamp": 1773419618.347476,
-    "usos": 0
-  }
+  "topico": "etica em IA",
+  "criado_em": "2026-03-13T13:33:38.355766",
+  "conceitos_principais": [
+    {
+      "termo": "ética",
+      "conexoes": 12,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.significados.com.br/etica/",
+        "https://www.dicio.com.br/etica/",
+        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+      ]
+    },
+    {
+      "termo": "filosofia",
+      "conexoes": 6,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.significados.com.br/etica/",
+        "https://www.todamateria.com.br/etica/"
+      ]
+    },
+    {
+      "termo": "dedicada",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.significados.com.br/etica/"
+      ]
+    },
+    {
+      "termo": "ações",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.significados.com.br/etica/"
+      ]
+    },
+    {
+      "termo": "comportamento",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.significados.com.br/etica/"
+      ]
+    },
+    {
+      "termo": "porfírio",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+      ]
+    },
+    {
+      "termo": "francisco",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+      ]
+    },
+    {
+      "termo": "dilema",
+      "conexoes": 5,
+      "categoria": "geral",
+      "fontes": [
+        "https://pt.wikipedia.org/wiki/Ética"
+      ]
+    },
+    {
+      "termo": "significado",
+      "conexoes": 4,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.dicio.com.br/etica/"
+      ]
+    },
+    {
+      "termo": "dicio",
+      "conexoes": 4,
+      "categoria": "geral",
+      "fontes": [
+        "https://www.dicio.com.br/etica/"
+      ]
+    }
+  ],
+  "relacoes": [],
+  "sintese": "Modelo de 'etica em IA' centrado em: ética, filosofia, dedicada, ações, comportamento. Baseado em 5 observacoes e 20 conceitos extraidos.",
+  "fontes": [
+    "https://www.todamateria.com.br/etica/",
+    "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+    "https://pt.wikipedia.org/wiki/Ética",
+    "https://www.significados.com.br/etica/",
+    "https://www.dicio.com.br/etica/"
+  ]
 }
