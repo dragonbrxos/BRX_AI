@@ -258,5 +258,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "2645d88fe212315f",
+    "tipo": "codigo",
+    "conteudo": "Modulo generico: etica inteligencia artificial",
+    "criado": "2026-03-13T13:47:11.937923",
+    "modificado": "2026-03-13T13:47:11.937923",
+    "conexoes": [
+      {
+        "para": "f75e2443edf44de0",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "arquivo": "modulo_6ef402_generico.py",
+      "tipo": "generico",
+      "linhas": 28
+    },
+    "origem": "f75e2443edf44de0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
