@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 21,
+    "ciclos": 22,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 190910
+    "caracteres_aprendidos": 208705
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9850,6 +9850,28 @@
       "criado": "2026-03-13T14:28:56.798948",
       "acessos": 1,
       "conexoes": []
+    },
+    "4ee54da053c5a92b": {
+      "conteudo": "31 de outubro de 2025 FCamara Cloud & Cibersegurança Antes vista como uma solução voltada apenas para empresas de tecnologia, a computação em nuvem se tornou indispensável para praticamente qualquer negócio de médio ou grande porte . E não é pra menos: em uma realidade na qual dados são um dos bens mais valiosos, gerir e encontrar o melhor custo de armazenamento em cloud pode ser uma grande vantagem. Mas como escolher o melhor player do mercado para lidar com soluções em nuvem corporativas (cloud computing)? Pensando em te ajudar nessa escolha, falaremos sobre a AWS e Azure, duas das mais conhecidas plataformas quando o assunto é solução em nuvem corporativa e excelentes ferramentas para negócios que buscam adotar tecnologias emergentes. Não existe uma resposta que sirva para todas as empresas, mas, para chegar à melhor decisão, três fatores devem ser levados em conta. Estágio digital da sua empresa; Integrações necessárias; Estratégias de longo prazo; Acompanhe o artigo, fique por dentro de tudo sobre os dois gigantes da nuvem e veja qual melhor se adapta para seu negócio. AWS e Azure: conhecendo os gigantes da nuvem Escolher entre AWS e Azure vai muito além de uma decisão técnica. Envolve estratégia, orçamento e o nível de dependência que o negócio está disposto a ter em relação a um ecossistema. Ambas as plataformas de cloud sustentam operações globais, mas, como dissemos, se diferenciam na forma como entregam valor, o que muda totalmente a equação de custo, flexibilidade e controle para o board. AWS: diversidade de serviços Pioneira em computação em nuvem desde o começo dos anos 2000, a Amazon Web Services (AWS) assumiu a liderança de marketing share em 2006 e oferece uma das soluções em nuvem mais completas e maduras do mercado. Seu portfólio ultrapassa 200 serviços, cobrindo praticamente tudo: de machine learning a bancos de dados sob demanda. Essa abrangência, porém, tem um custo. Para equipes em fase inicial de adoção, a curva de aprendizado tende a ser mais longa, especialmente quando a governança e a arquitetura ainda não estão bem estruturadas. Azure: integração com o ecossistema Microsoft Mesmo chegando no mercado oito anos após sua principal concorrente, a Azure se consolidou como uma solução em nuvem híbrida , que se integra ao ecossistema Microsoft que boa parte das empresas já usa: Windows Server, Active Directory, Office 365. Esse alinhamento reduz fricção e custo. Afinal, a possibilidade de aproveitar licenças e políticas existentes simplifica a transição para a nuvem e evita retrabalho . Por isso, a Azure se tornou a escolha natural para empresas que operam ambientes híbridos ou já estão mergulhadas no universo Microsoft. No fim, a decisão não depende de qual provedor é “melhor”, mas de qual se alinha à estratégia, à estrutura e às prioridades do negócio. Principais diferenças entre AWS e Azure AWS e Azure oferecem soluções similares, mas o modo como entregam valor e se integram à operação muda a equação para o negócio . Custos, integração com sistemas existentes, curva de adoção e vocação setorial são fatores que influenciam a decisão e merecem análise detalhada pelo board. Custo e flexibilidade A diferença entre as duas líderes em computação em nuvem começa no valor e nos formatos de pagamento. Ambas possuem modalidade de cobrança sob demanda e opções de desconto sazonais. No entanto, a Azure tende a ter preço mais competitivo quando falamos de usuários do sistema Microsoft. Por outro lado, a AWS é notada pela maior flexibilidade e diversidade para aqueles que buscam performance pura. Capacidade de lidar com inteligência artificial e dados Para machine learning , big data e IA generativa, a AWS tem ferramentas consolidadas . A Azure , contudo, se destaca na integração com Power BI e no Azure OpenAI Service , facilitando o uso de inteligência de negócios de forma direta e rápida, principalmente para empresas que já trabalham com dados no universo Microsoft. Setores de destaque para AWS e Azure Cada plataforma demonstra suas forças em setores diferentes. A AWS se destaca em startups e empresas digitais que buscam escalar rapidamente e com flexibilidade . A Azure , por sua vez, se adequa melhor a ambientes híbridos e a setores regulados, como saúde e governo , assegurando alinhamento com regras de compliance e políticas corporativas. Equivalência de serviços entre AWS e Azure Quando a alta gestão precisa decidir qual plataforma adotar, a discussão envolve entender como cada uma se encaixa na operação existente e nos objetivos estratégicos da organização. Comparar AWS e Azure por categoria ajuda a visualizar rapidamente onde há equivalência, onde há gaps e quais soluções podem acelerar projetos críticos, reduzir retrabalho ou otimizar custos. Confira: Categoria AWS Azure Computação EC2 (Elastic Compute Cloud); Lambda; ECS (Elastic Container Service); EKS (Elastic Kubernetes Service) Azure Virtual Machines; Azure Functions; Azure Container Instances; Azure Kubernetes Service (AKS) Armazenamento S3 (Simple Storage Service); EBS (Elastic Block Store); EFS (Elastic File System); Glacier Azure Blob Storage; Azure Disk Storage; Azure Files; Azure Archive Storage Banco de Dados RDS (Relational Database Service); DynamoDB; Aurora; Redshift Azure SQL Database; Azure Cosmos DB; Azure Database for MySQL/PostgreSQL; Azure Synapse Analytics Machine Learning SageMaker; Rekognition Azure Machine Learning; Azure Cognitive Services Rede VPC (Virtual Private Cloud); Route 53; CloudFront Azure Virtual Network (VNet); Azure DNS; Azure CDN (Content Delivery Network) Gerenciamento CloudFormation; CloudWatch; IAM (Identity and Access Management) Azure Resource Manager (ARM); Azure Monitor; Azure Active Directory (AAD) Diferença de preço entre o Azure e a Amazon Web Services (AWS) Para qualquer diretoria, o custo de nuvem impacta diretamente no planejamento financeiro e na alocação de recursos para inovação. Tanto Azure quanto AWS possuem modelos de cobrança sob demanda e opções de desconto, mas cada plataforma segue uma lógica diferente na forma de estruturar serviços e licenças. Confira, a seguir, as características de cada uma e como elas se alinham à operação e à estratégia da sua empresa. Características dos pacotes de computação em nuvem Amazon Web Services (AWS): Licenciamento adicional pago em dólar para SQL Server e Windows Server; Máquinas Virtuais (VMs) tem cobrança sob demanda, instância reservada ou em camadas; Bancos de Dados têm preço em dólar, sem benefícios diretos para SQL Server; Custos de atualizações de segurança variam de acordo com as licenças utilizadas; Cobrança baseada no uso, instâncias reservadas ou camadas de armazenamento; Microsoft Azure: Permite reaproveitamento de licenças existentes da Microsoft, reduzindo o custo em até 5x; Máquinas Virtuais (VMs) possuem taxas reduzidas para clientes Microsoft; cobrança por consumo; Redução significativa no SQL Database graças ao modelo híbrido; Atualizações de segurança gratuitas por 3 anos em migrações; Única nuvem que oferece economia nos modelos de PaaS e IaaS; Modelo de cobrança baseado no uso, com flexibilidade para otimização de custos; Portanto, no Azure, clientes pagam taxas reduzidas para utilizar VMs e banco de dados Outro diferencial está nos três anos de atualizações de segurança gratuitas em migrações. E para aqueles que possuem uso reduzido, a solução em cloud da Azure tem modelo de cobrança baseado no uso Além disso, mais um fator importante é a Azure ser a única plataforma que oferece economia tanto em PaaS quanto em IaaS. Com auxílio de diferentes tipos de nuvem , elas reduzem significativamente os custos associados ao uso do Banco de Dados SQL. Por outro lado, na AWS Cloud, os custos de segurança e licenciamento variam conforme o valor em dólar de ferramentas como SQL Server Standard e Windows Server Standard (Open NL ERP). Contudo, o pagamento pode ser feito sob demanda , via instâncias reservadas ou em camadas, dependendo do volume e do tempo de armazenamento dos dados. Comparativo do custo mensal estimado: AWS vs Azure A performance de ambas é um tópico que não pode ser deixado de lado antes de realizar um investimento assim. Nesse sentido, considerando um cenário típico de uso de máquinas virtuais de médio porte (2 vCPUs, 8 GB RAM, 100 GB SSD), a visão geral de custo mensal entre AWS e Azure é: AWS (EC2): sob demanda Linux possui custo mensal aproximado entre R$ 350 – R$ 380/mês AWS (EC2 Windows): sob demanda Windows possui custo mensal aproximado entre R$ 550 – R$ 600/mês Azure (VM): sob demanda Linux possui custo mensal aproximado entre R$ 400 – R$ 420/mês Azure (VM Windows): sob demanda Windows possui custo mensal aproximado entre R$ 600 – R$ 650/mês Os valores estimados consideram preços médios em dólar (US$ 0,10–0,12/h para Linux; US$ 0,15–0,18/h para Windows) com câmbio de R$ 5,50. Além disso, não incluem custos adicionais, como transferência de dados, suporte, licenciamento extra ou armazenamento além do SSD básico. Contratos reservados de 1 a 3 anos podem reduzir o custo entre 40% e 60% em ambas as plataformas. O Azure tende a apresentar valores mais altos em instâncias sob demanda, mas pode se tornar mais vantajoso para empresas que já possuem licenças Microsoft. AWS ou Azure: qual é a melhor escolha? Escolher entre AWS e Azure é uma daquelas decisões que todo C-level já teve de enfrentar em algum momento. Não dá pra errar, mas também não existe resposta única. A questão não é qual é “melhor”, e sim qual faz mais sentido para o contexto da sua operação: estrutura, licenciamento, modelo de negócio e ritmo de crescimento. AWS: costuma ser a favorita de quem busca escala, inovação e liberdade total de configuração. É o caminho natural para empresas digitais, startups ou negócios que precisam testar, validar e crescer rápido, s em esbarrar em limitações técnicas. Azure: tende a ser a escolha de corporações com ambientes híbridos ou forte presença Microsoft . Se sua empresa já roda soluções como Windows Server, SQL Server ou Active Directory, o Azure simplifica integrações, reduz custos de licenciamento e mantém conformidade com políticas internas e regulatórias. Muitas organizações, no entanto, preferem não escolher apenas um lado e adotam estratégias multicloud combinando AWS e Azure para extrair o melhor de cada ecossistema e equilibrar custo, desempenho e governança. 6 razões para adotar uma ferramenta de cloud computing Antes, a nuvem era apenas uma opção de TI. Hoje, as soluções em nuvem definem como uma empresa cresce, se adapta e entrega resultados. Decidir sobre cloud computing influencia orçamento, velocidade de projetos e a capacidade de responder rapidamente às mudanças do mercado. A seguir, listamos seis razões que mostram por que cada vez mais organizações estão estruturando operações na nuvem. 1. Escalabilidade sob demanda Projetos em fase de validação ou sistemas sujeitos a picos de acesso exigem infraestrutura que acompanhe a necessidade do negócio. Com cloud computing, é possível aumentar ou reduzir recursos conforme a demanda, sem precisar investir em servidores que podem ficar ociosos. 2. Modelo de custos previsível A nuvem elimina gastos com compra, manutenção e atualização de hardware. Além disso, o modelo de pagamento por assinatura torna o orçamento de TI mais previsível, facilitando decisões estratégicas sobre investimentos futuros. 3. Segurança e conformidade Provedores como AWS e Azure oferecem camadas de segurança integradas, criptografia avançada e certificações de conformidade. Para empresas que lidam com dados sensíveis, isso reduz riscos operacionais e legais, algo que seria muito mais caro e complexo de replicar internamente. 4. Colaboração e acesso global Equipes distribuídas, seja no país ou no exterior, podem acessar sistemas e dados de forma segura. Isso acelera o trabalho colaborativo, permite modelos híbridos ou 100% remotos e reduz gargalos de comunicação entre times de desenvolvimento e operações. 5. Acesso a tecnologias avançadas Cloud computing não é só infraestrutura. Ela disponibiliza serviços como IA, machine learning, IoT e análise de big data, possibilitando que empresas experimentem novas soluções rapidamente e mantenham competitividade frente a players digitais mais ágeis. 6. Observabilidade da operação Ferramentas de cloud computing oferecem monitoramento, análise de logs, métricas e rastreamento de eventos em tempo real. A observabilidade da nuvem ajuda a identificar problemas antes que afetem o negócio, otimizar recursos e tomar decisões com base em dados concretos. Riscos de utilizar nuvem pública A nuvem pública traz agilidade e escalabilidade, mas também expõe a empresa a riscos que impactam diretamente sua operação e estratégia. Afinal, quando múltiplas organizações compartilham recursos, vulnerabilidades podem gerar ataques cibernéticos ou vazamento de dados sensíveis, situações que qualquer diretoria quer evitar, especialmente em setores regulados. A dependência do provedor é outro ponto crítico: falhas de infraestrutura, interrupções ou mudanças contratuais podem afetar projetos em andamento e comprometer prazos estratégicos. Além disso, ambientes que operam exclusivamente na nuvem pública podem enfrentar desafios de conformidade , já que nem sempre há controle total sobre onde e como os dados são armazenados. Para boards e líderes de TI, o foco precisa estar em governança, monitoramento e definição clara de responsabilidades antes de migrar workloads críticos para a nuvem pública. Como reduzir custos em nuvem? Quem já opera em nuvem sabe: o desafio não é migrar, é manter a conta sob controle. A mesma flexibilidade que torna AWS e Azure poderosas pode rapidamente se transformar em desperdício se não houver visibilidade e governança sobre o uso dos recursos. É por isso que o FinOps deixou de ser uma tendência e passou a fazer parte da estratégia de eficiência das empresas. Na FCamara, aplicamos FinOps de ponta a ponta , unindo governança, finanças e operações para reduzir os custos em nuvem em até 30% O foco está em otimizar o uso dos recursos existentes : identificar ociosidades, ajustar capacidade em tempo real e escolher o modelo de cobrança mais eficiente, sem comprometer performance ou agilidade. Consultoria em arquitetura e migração Antes mesmo da migração para uma solução em nuvem, a arquitetura faz toda a diferença Em vez de simplesmente “subir para a nuvem” o que já existe, nossa equipe projeta soluções nativas , aproveitando o máximo de recursos gerenciados, como RDS, Azure SQL, Lambda e Azure Functions. Essa visão estratégica reduz a complexidade operacional e cria bases mais eficientes e escaláveis para o futuro. Multicloud: o melhor dos dois mundos Em muitos casos, a melhor escolha não é entre AWS ou Azure: é usar as duas . A estratégia multicloud possibilita que as empresas combinem pontos fortes de cada plataforma: Azure para integração com o ecossistema Microsoft e AWS para workloads intensivos em dados, por exemplo. Além de evitar dependência de um único provedor (vendor lock-in), essa abordagem traz maior flexibilidade, previsibilidade e competitividade de preços. Cases de sucesso com AWS e Azure da FCamara Como vimos ao longo deste conteúdo, migrar para a nuvem é uma decisão que mexe diretamente com custo, velocidade e capacidade de resposta. E quando essa escolha é bem-feita, o retorno vem em eficiência, previsibilidade e espaço para inovar. Foi exatamente isso o que vimos em alguns dos projetos que conduzimos com AWS e Azure. No Grupo Elfa , por exemplo, usamos a AWS para criar o CotAI , uma solução de Inteligência Artificial Generativa que automatizou cotações e gerou mais de R$ 100 milhões em vendas em apenas 8 meses Já em outros clientes corporativos, a integração com Azure foi essencial para conectar sistemas legados ao universo Microsoft e acelerar a jornada de inovação E em um grande banco ligado a uma montadora , aplicamos nossa solução de FinOps para reduzir 20% dos custos de nuvem , com monitoramento contínuo, renegociação de reservas e otimização de alocação de recursos. Esses resultados mostram que não existe uma fórmula única, existe a estratégia certa para cada operação Se a sua empresa está avaliando o próximo passo em soluções de cloud fale com nossos especialistas em tecnologia e inovação e veja como transformar tecnologia em vantagem competitiva real. FCamara Twitter Facebook LinkedIn Whatsapp Email Print Outros posts DevSecOps: os quatro pilares e melhores práticas para segurança desde o código até a produção A transformação digital avançou em ritmo acelerado e, com ela, surgiram novas exigências em segurança… Implementação de nuvem: como garantir qualidade e segurança ao adotar serviços de Cloud Nos corredores da TI, pode ser comum que a discussão sobre mover sistemas legados para… Modelos de computação em nuvem: entenda as diferenças e como escolher o ideal para o seu negócio A pressão por eficiência, segurança e escalabilidade levou a nuvem ao centro das decisões de… Comments (0) Deixe um comentário Cancelar resposta O seu endereço de e-mail não será publicado. Campos obrigatórios são marcados com Nome E-mail Site Salvar meus dados neste navegador para a próxima vez que eu comentar. Comentário Δ",
+      "tipo": "codigo",
+      "fontes": [
+        "https://fcamara.com/blog/aws-vs-azure/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:29:32.105673",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "8e7082345d2edf03": {
+      "conteudo": "TITULO: AWS vs. Azure: qual é o melhor serviço de cloud e por quê?\nCONTEUDO: 31 de outubro de 2025 FCamara Cloud & Cibersegurança Antes vista como uma solução voltada apenas para empresas de tecnologia, a computação em nuvem se tornou indispensável para praticamente qualquer negócio de médio ou grande porte . E não é pra menos: em uma realidade na qual dados são um dos bens mais valiosos, gerir e encontrar o melhor custo de armazenamento em cloud pode ser uma grande vantagem. Mas como escolher o melhor player do mercado para lidar com soluções em nuvem corporativas (clou...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://fcamara.com/blog/aws-vs-azure/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:29:32.107119",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10026,6 +10048,12 @@
       "texto_completo": "281 赞同 24 评论 594 收藏 前言 这学期因为得知是 Andy 教课, 特意选修了 15445/15645Intro to Database Systems . 总体来说体验还是非常不错的, 教授是真的懂数据库这个话题. 在教学基本知识的同时, 还能不时地给大家介绍和演示一下demo和业界的发展进度. 外加这学期有天神下凡的TA 迟先生 给BusTub做了很多改进. 连Andy都忍不住在 Twitter 上狂夸\"这可能是我遇到过最优秀的TA学生了\". Piazza上提问获得回答的速度也极快, 和本学期另一门用Ed来提问的课的磨叽模样形成了鲜明的对比. 简直是我的成功学导师了. 现在在家里准备迎接圣诞节 顺手总结一下这节课的四个实验 存活指北 . 由于在CMU一开始学ML/DL蹉跎了一年的岁月(不是)和补前置课 15213/15513 Intro to Computer System , 这学期才正式开始上System系列课, 悔恨! 下学期还得在这北美小衡水多呆一学期 . 代码仓库 由于新的学期的BusTub版本已经上线, 我可以公开我的旧版本的代码仓库了: GitHub - YukunJ/BusTub-DB 很欢迎大家提问和进行交流讨论 high-level 的设计和思路! 这学期的课程虽然已经结束了, 但四个实验中我其实做的时候还有罗列了一些 TODO 给自己, 学期中由于忙碌没时间处理完. 有什么问题可以留言区直接留言讨论! 我住在知乎上的~ ️ 实验概述 个人感觉, 从难度来说 P2 > P1 = P4 > P3 P1 (缓冲池 Buffer Pool Manager) : 为了更好的管理磁盘页和内存页之间的映射同步, 要求实现 可扩展哈希表(Extensible HashTable) 和 LRU-K置换 算法, 以便于把内部的缓冲池的页写到磁盘页和把磁盘页读入缓冲池. 单线程的版本并不难写, 但在引入多线程后, 我一开始经常 Pin 和 Unpin 页的次数不一致, 导致要么提前把内存页就丢到磁盘去了, 或者没能把内存页丢出去导致没可用的内存页了. 在优化方面, 重点主要是 LRU- K 置换算法. 一开始把两种页( 满K次读取 和 没满K次读取 的)一起管理, 使得容器size比较大. 后面发现其实有一种页的读取 In and Out 的频率特别高, 分开管理后效率高了不少. P2 (B+ Tree Index B+树索引) : 为了更快地检索和遍历数据表中的大量数据, 要求实现了一个支持并发的 B+树索引 和 迭代器 . 这个实验还特意分成了2阶段来帮助大家实现, 但从单线程阶段就已经很折磨了. 我是读了好几遍教科书 <Database System Concepts> 里关于B+ 树实现的伪代码, 然后严格按照伪代码来实现的. 一开始总是被Max和Min的除以二操作究竟是向上取整还是向下取整折磨. 不过这学期我们的天神TA 迟先生 为 B+ 树提供了 网页可视化界面 , 大家可以对着可视化界面一步一步来Debug. 优化的话, 其实后来和我的室友交流了一下发现, 正是因为我太严格的遵守伪代码, 而错失了一些优化的机会. 比如我在删除函数里当这个B树Node大小 下溢 时, 总是做4步: 1.试图和右边Coalesce, 2.试图和左边Coalese, 3.试图和右边Merge, 4.试图和左边Merge. 但是其实, 除非是最右边的Node, 只需要要么试图和右边Coalesce, 要么和右边Merge就可以了. 因为Coalesce的条件和Merge的条件 并集 起来就是 全集 了. 这里理论上就可以在删除函数需要调整节点时 节省一半 的时间. P3 (查询执行 Query Execution) : 为支持SQL查询(天神TA 迟先生 为 BusTub 增加了基础SQL语句的Parse和Query Planning), 要求实现了 顺序扫描,索引扫描,插入 删除 投影 过滤 嵌套循环join 索引join 哈希join 聚合 排序 limit top-N 等核心执行功能. 在排行榜优化阶段, 还通过 谓词下推(predicate pushdown) 重排序join 分解过滤条件 列修剪 等实现计划优化. 这是我认为最简单的实验, 只要一开始花点时间看明白这整个系统在做 Query Planning 时是有哪些信息是available的, 以及参考一些已经实现的功能, 模仿一下抄抄改改, 只要写出第一个, 后面就很自然的就都能轻松过了 . 但是, 优化排行榜的那些 Optimizations 其实还是很难的, 课程里要求难度比较低, 只要我们写出针对已经给出的一个SQL语句的优化方案就行了. 但即使这样, 在一堆深层嵌套的 If/Else 语句里还是很容易犯错的, 有太多的可能性需要去take care of. 但是可想而知, 在真实环境中, 在 Query 语句比较复杂时候, 要想写出个没Bug且有用的优化器是非常非常难的. P4 (并发事务管理 Lock Manager) : 为了管理并发事务, 要求实现 资源锁管理器 来根据不同的事务 授予/阻塞 资源锁请求.它支持 READ_UNCOMMITED READ_COMMITTED 和 REPEATABLE_READ 作为事务隔离级别和分层的资源锁. 此外, 要求一个 死锁检测器 线程会单独定时运行, 监测并中止任何限于 资源死锁 中的事务. 这个实验加强了我对于不同事务隔离级别的理解, 知道了比如说 脏读(dirty read) 不可重复读(unrepeatable read) 幽灵???(phantom) 在哪种隔离级别会可能出现. 在实现的时候其实难度还好, 由于在代码头文件里已经很贴心的给了很多提示和不同锁级别和隔离级别所要做的检查, 代码其实最后就是很多 If/Else 检查+ wait /用 condition_variable 唤醒沉睡的事务线程. 死锁检测器是一个非常基础的深度优先搜索构图并找出环形入口即可. 同时还要修改一下P3中的 插入 删除 和 扫描 执行器, 根据事务的隔离级别, 要在进行这些有副作用的 write 操作时拿上合适的锁才行 . 在排行榜优化方面, 这次给定的SQL语句是需要我们去设计出 更新(Update) 执行器来代替 一次删除+一次新插入 . 同时提前捕捉过滤条件并把它载入 索引扫描 和 线性扫描 执行器中, 使得在扫描时直接进行过滤, 减少了向上传递的数据数量, 一步到位. 但我在最后没能想出来如何加快那个 Count QPS . CMU排行榜里有两个同学把这一个指标也从 10+ 提升到了 7, 8万 . 根据他们的说法, 他们是自己手动 track 了这些Count而不是每次都去真的运行那个SQL Query, 从而降低了 资源锁之间的竞争 . 好吧其实现在告诉我了, 我也还是不太明白到底是怎么实现的(大家有谁想出来了可以踹我一下, 让我学习一下). 实验结果 & 排行榜 总体来说, 我在实验一 Buffer Pool Manager 和实验二 B+ Tree Index 时候比较的挣扎. 一开始的很多设计不是很合理, 导致很容易出现Bugs (一些C++新语法杀我 ). 每次看着 segmentation fault 就一捂脸 . 所以对于排行榜的优化上就没有花很多时间. 到了实验三 Query Execution 和实验四 Lock Manager , 感觉做起来比较得心应手了, 所以做完后就在排行榜上花了比较多的时间优化. 这几天刚发现竟然还有个公开的 非CMU 版本的 gradescope . 把代码复制下来在上面跑了一下. 在两个 gradescopes 上的跑分分别如下: (保密起见, 隐去了 CMU 版本所有人的名字) 非CMU版本 P4 CMU版本 P4 非CMU版本 P3 CMU版本 P3 非CMU版本 P2 CMU版本 P2 非CMU版本 P1 CMU版本 P1 欢迎大家指出不足或错误, 进行提问和讨论. 编辑于 2023-05-29 · 著作权归作者所有",
       "data_acesso": "2026-03-13T14:28:56.796970",
       "tamanho": 3414
+    },
+    "https://fcamara.com/blog/aws-vs-azure/": {
+      "titulo": "AWS vs. Azure: qual é o melhor serviço de cloud e por quê?",
+      "texto_completo": "31 de outubro de 2025 FCamara Cloud & Cibersegurança Antes vista como uma solução voltada apenas para empresas de tecnologia, a computação em nuvem se tornou indispensável para praticamente qualquer negócio de médio ou grande porte . E não é pra menos: em uma realidade na qual dados são um dos bens mais valiosos, gerir e encontrar o melhor custo de armazenamento em cloud pode ser uma grande vantagem. Mas como escolher o melhor player do mercado para lidar com soluções em nuvem corporativas (cloud computing)? Pensando em te ajudar nessa escolha, falaremos sobre a AWS e Azure, duas das mais conhecidas plataformas quando o assunto é solução em nuvem corporativa e excelentes ferramentas para negócios que buscam adotar tecnologias emergentes. Não existe uma resposta que sirva para todas as empresas, mas, para chegar à melhor decisão, três fatores devem ser levados em conta. Estágio digital da sua empresa; Integrações necessárias; Estratégias de longo prazo; Acompanhe o artigo, fique por dentro de tudo sobre os dois gigantes da nuvem e veja qual melhor se adapta para seu negócio. AWS e Azure: conhecendo os gigantes da nuvem Escolher entre AWS e Azure vai muito além de uma decisão técnica. Envolve estratégia, orçamento e o nível de dependência que o negócio está disposto a ter em relação a um ecossistema. Ambas as plataformas de cloud sustentam operações globais, mas, como dissemos, se diferenciam na forma como entregam valor, o que muda totalmente a equação de custo, flexibilidade e controle para o board. AWS: diversidade de serviços Pioneira em computação em nuvem desde o começo dos anos 2000, a Amazon Web Services (AWS) assumiu a liderança de marketing share em 2006 e oferece uma das soluções em nuvem mais completas e maduras do mercado. Seu portfólio ultrapassa 200 serviços, cobrindo praticamente tudo: de machine learning a bancos de dados sob demanda. Essa abrangência, porém, tem um custo. Para equipes em fase inicial de adoção, a curva de aprendizado tende a ser mais longa, especialmente quando a governança e a arquitetura ainda não estão bem estruturadas. Azure: integração com o ecossistema Microsoft Mesmo chegando no mercado oito anos após sua principal concorrente, a Azure se consolidou como uma solução em nuvem híbrida , que se integra ao ecossistema Microsoft que boa parte das empresas já usa: Windows Server, Active Directory, Office 365. Esse alinhamento reduz fricção e custo. Afinal, a possibilidade de aproveitar licenças e políticas existentes simplifica a transição para a nuvem e evita retrabalho . Por isso, a Azure se tornou a escolha natural para empresas que operam ambientes híbridos ou já estão mergulhadas no universo Microsoft. No fim, a decisão não depende de qual provedor é “melhor”, mas de qual se alinha à estratégia, à estrutura e às prioridades do negócio. Principais diferenças entre AWS e Azure AWS e Azure oferecem soluções similares, mas o modo como entregam valor e se integram à operação muda a equação para o negócio . Custos, integração com sistemas existentes, curva de adoção e vocação setorial são fatores que influenciam a decisão e merecem análise detalhada pelo board. Custo e flexibilidade A diferença entre as duas líderes em computação em nuvem começa no valor e nos formatos de pagamento. Ambas possuem modalidade de cobrança sob demanda e opções de desconto sazonais. No entanto, a Azure tende a ter preço mais competitivo quando falamos de usuários do sistema Microsoft. Por outro lado, a AWS é notada pela maior flexibilidade e diversidade para aqueles que buscam performance pura. Capacidade de lidar com inteligência artificial e dados Para machine learning , big data e IA generativa, a AWS tem ferramentas consolidadas . A Azure , contudo, se destaca na integração com Power BI e no Azure OpenAI Service , facilitando o uso de inteligência de negócios de forma direta e rápida, principalmente para empresas que já trabalham com dados no universo Microsoft. Setores de destaque para AWS e Azure Cada plataforma demonstra suas forças em setores diferentes. A AWS se destaca em startups e empresas digitais que buscam escalar rapidamente e com flexibilidade . A Azure , por sua vez, se adequa melhor a ambientes híbridos e a setores regulados, como saúde e governo , assegurando alinhamento com regras de compliance e políticas corporativas. Equivalência de serviços entre AWS e Azure Quando a alta gestão precisa decidir qual plataforma adotar, a discussão envolve entender como cada uma se encaixa na operação existente e nos objetivos estratégicos da organização. Comparar AWS e Azure por categoria ajuda a visualizar rapidamente onde há equivalência, onde há gaps e quais soluções podem acelerar projetos críticos, reduzir retrabalho ou otimizar custos. Confira: Categoria AWS Azure Computação EC2 (Elastic Compute Cloud); Lambda; ECS (Elastic Container Service); EKS (Elastic Kubernetes Service) Azure Virtual Machines; Azure Functions; Azure Container Instances; Azure Kubernetes Service (AKS) Armazenamento S3 (Simple Storage Service); EBS (Elastic Block Store); EFS (Elastic File System); Glacier Azure Blob Storage; Azure Disk Storage; Azure Files; Azure Archive Storage Banco de Dados RDS (Relational Database Service); DynamoDB; Aurora; Redshift Azure SQL Database; Azure Cosmos DB; Azure Database for MySQL/PostgreSQL; Azure Synapse Analytics Machine Learning SageMaker; Rekognition Azure Machine Learning; Azure Cognitive Services Rede VPC (Virtual Private Cloud); Route 53; CloudFront Azure Virtual Network (VNet); Azure DNS; Azure CDN (Content Delivery Network) Gerenciamento CloudFormation; CloudWatch; IAM (Identity and Access Management) Azure Resource Manager (ARM); Azure Monitor; Azure Active Directory (AAD) Diferença de preço entre o Azure e a Amazon Web Services (AWS) Para qualquer diretoria, o custo de nuvem impacta diretamente no planejamento financeiro e na alocação de recursos para inovação. Tanto Azure quanto AWS possuem modelos de cobrança sob demanda e opções de desconto, mas cada plataforma segue uma lógica diferente na forma de estruturar serviços e licenças. Confira, a seguir, as características de cada uma e como elas se alinham à operação e à estratégia da sua empresa. Características dos pacotes de computação em nuvem Amazon Web Services (AWS): Licenciamento adicional pago em dólar para SQL Server e Windows Server; Máquinas Virtuais (VMs) tem cobrança sob demanda, instância reservada ou em camadas; Bancos de Dados têm preço em dólar, sem benefícios diretos para SQL Server; Custos de atualizações de segurança variam de acordo com as licenças utilizadas; Cobrança baseada no uso, instâncias reservadas ou camadas de armazenamento; Microsoft Azure: Permite reaproveitamento de licenças existentes da Microsoft, reduzindo o custo em até 5x; Máquinas Virtuais (VMs) possuem taxas reduzidas para clientes Microsoft; cobrança por consumo; Redução significativa no SQL Database graças ao modelo híbrido; Atualizações de segurança gratuitas por 3 anos em migrações; Única nuvem que oferece economia nos modelos de PaaS e IaaS; Modelo de cobrança baseado no uso, com flexibilidade para otimização de custos; Portanto, no Azure, clientes pagam taxas reduzidas para utilizar VMs e banco de dados Outro diferencial está nos três anos de atualizações de segurança gratuitas em migrações. E para aqueles que possuem uso reduzido, a solução em cloud da Azure tem modelo de cobrança baseado no uso Além disso, mais um fator importante é a Azure ser a única plataforma que oferece economia tanto em PaaS quanto em IaaS. Com auxílio de diferentes tipos de nuvem , elas reduzem significativamente os custos associados ao uso do Banco de Dados SQL. Por outro lado, na AWS Cloud, os custos de segurança e licenciamento variam conforme o valor em dólar de ferramentas como SQL Server Standard e Windows Server Standard (Open NL ERP). Contudo, o pagamento pode ser feito sob demanda , via instâncias reservadas ou em camadas, dependendo do volume e do tempo de armazenamento dos dados. Comparativo do custo mensal estimado: AWS vs Azure A performance de ambas é um tópico que não pode ser deixado de lado antes de realizar um investimento assim. Nesse sentido, considerando um cenário típico de uso de máquinas virtuais de médio porte (2 vCPUs, 8 GB RAM, 100 GB SSD), a visão geral de custo mensal entre AWS e Azure é: AWS (EC2): sob demanda Linux possui custo mensal aproximado entre R$ 350 – R$ 380/mês AWS (EC2 Windows): sob demanda Windows possui custo mensal aproximado entre R$ 550 – R$ 600/mês Azure (VM): sob demanda Linux possui custo mensal aproximado entre R$ 400 – R$ 420/mês Azure (VM Windows): sob demanda Windows possui custo mensal aproximado entre R$ 600 – R$ 650/mês Os valores estimados consideram preços médios em dólar (US$ 0,10–0,12/h para Linux; US$ 0,15–0,18/h para Windows) com câmbio de R$ 5,50. Além disso, não incluem custos adicionais, como transferência de dados, suporte, licenciamento extra ou armazenamento além do SSD básico. Contratos reservados de 1 a 3 anos podem reduzir o custo entre 40% e 60% em ambas as plataformas. O Azure tende a apresentar valores mais altos em instâncias sob demanda, mas pode se tornar mais vantajoso para empresas que já possuem licenças Microsoft. AWS ou Azure: qual é a melhor escolha? Escolher entre AWS e Azure é uma daquelas decisões que todo C-level já teve de enfrentar em algum momento. Não dá pra errar, mas também não existe resposta única. A questão não é qual é “melhor”, e sim qual faz mais sentido para o contexto da sua operação: estrutura, licenciamento, modelo de negócio e ritmo de crescimento. AWS: costuma ser a favorita de quem busca escala, inovação e liberdade total de configuração. É o caminho natural para empresas digitais, startups ou negócios que precisam testar, validar e crescer rápido, s em esbarrar em limitações técnicas. Azure: tende a ser a escolha de corporações com ambientes híbridos ou forte presença Microsoft . Se sua empresa já roda soluções como Windows Server, SQL Serve",
+      "data_acesso": "2026-03-13T14:29:32.104622",
+      "tamanho": 17215
     }
   },
   "indices": {
@@ -10501,7 +10529,8 @@
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "8e7082345d2edf03"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10525,7 +10554,8 @@
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
         "95e3a5b592935fe3",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4ee54da053c5a92b"
       ]
     },
     "por_fonte": {
@@ -11187,6 +11217,10 @@
       "https://www.zhihu.com/tardis/bd/art/592782024": [
         "0e103e53f9552598",
         "5ded4e12b42ae651"
+      ],
+      "https://fcamara.com/blog/aws-vs-azure/": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ]
     },
     "por_palavra": {
@@ -11516,7 +11550,8 @@
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "8e7082345d2edf03"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11552,7 +11587,8 @@
         "e6d382a3c8d852d4",
         "73c30f0c4a60b045",
         "62f1bd97f2f5f854",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "8e7082345d2edf03"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11917,7 +11953,9 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "datahoarder": [
         "581c8fb845bd6d65",
@@ -12361,7 +12399,8 @@
         "e00a2380f9e7254a",
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "4ee54da053c5a92b"
       ],
       "paas": [
         "3ba7175038ddccc0",
@@ -12469,7 +12508,8 @@
         "890e6f3385756921",
         "3e417395659575d0",
         "e21f689f4d1500b8",
-        "28507d9dd792b9d2"
+        "28507d9dd792b9d2",
+        "4ee54da053c5a92b"
       ],
       "誉祥祥知识": [
         "1b875cbff8d9d6f0",
@@ -12676,7 +12716,8 @@
         "242d8505c4a22160",
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4ee54da053c5a92b"
       ],
       "mathworks": [
         "3e417395659575d0",
@@ -12696,7 +12737,8 @@
         "17380aa1e75c8e1c",
         "b742dc8a21aec10c",
         "357ae7ac9bd5d805",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "8e7082345d2edf03"
       ],
       "分享生活中的小惊喜": [
         "3e417395659575d0",
@@ -13304,7 +13346,9 @@
         "59c1f7af031c6db5",
         "66af99b6e8fa3152",
         "c89318b0e0615d97",
-        "cb214497609573a8"
+        "cb214497609573a8",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "aplicativo": [
         "8ed8baff7acd22b8",
@@ -13333,7 +13377,9 @@
         "1af3e9801063ed28",
         "6cb9dd3ec0aa8739",
         "59c1f7af031c6db5",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "passo": [
         "8ed8baff7acd22b8",
@@ -13438,7 +13484,8 @@
       "entre": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "4ee54da053c5a92b"
       ],
       "fazer": [
         "8ed8baff7acd22b8",
@@ -13632,7 +13679,9 @@
         "59c1f7af031c6db5",
         "66af99b6e8fa3152",
         "c89318b0e0615d97",
-        "cb214497609573a8"
+        "cb214497609573a8",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "desktop": [
         "f4274a87f70b7a9c",
@@ -13718,7 +13767,9 @@
         "6cb9dd3ec0aa8739",
         "111b3fbd6b950047",
         "59c1f7af031c6db5",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "site": [
         "f4274a87f70b7a9c",
@@ -13753,7 +13804,8 @@
       ],
       "recursos": [
         "6dff1d282dbafaf9",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b"
       ],
       "maior": [
         "6dff1d282dbafaf9"
@@ -13835,7 +13887,9 @@
       "melhor": [
         "60885b3930f0a187",
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "mensageiro": [
         "60885b3930f0a187"
@@ -13875,7 +13929,8 @@
       "além": [
         "60885b3930f0a187",
         "6cb9dd3ec0aa8739",
-        "111b3fbd6b950047"
+        "111b3fbd6b950047",
+        "4ee54da053c5a92b"
       ],
       "processo": [
         "60885b3930f0a187"
@@ -13951,11 +14006,13 @@
       ],
       "sobre": [
         "c6b34bef6d7f378b",
-        "111b3fbd6b950047"
+        "111b3fbd6b950047",
+        "4ee54da053c5a92b"
       ],
       "tecnologia": [
         "c6b34bef6d7f378b",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "8e7082345d2edf03"
       ],
       "primeira": [
         "c6b34bef6d7f378b"
@@ -13997,7 +14054,9 @@
         "0414d536276c3f78",
         "aa95eaa70b67371b",
         "4b178bdc59da544a",
-        "cb214497609573a8"
+        "cb214497609573a8",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "microsoft": [
         "6fddd04117eaedbc",
@@ -14009,11 +14068,14 @@
         "4b178bdc59da544a",
         "cb214497609573a8",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "4ee54da053c5a92b"
       ],
       "empresas": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "integração": [
         "6fddd04117eaedbc",
@@ -14025,11 +14087,13 @@
       ],
       "empresa": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b"
       ],
       "mercado": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "8e7082345d2edf03"
       ],
       "possui": [
         "6fddd04117eaedbc"
@@ -14044,7 +14108,8 @@
       "serviços": [
         "6fddd04117eaedbc",
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "4ee54da053c5a92b"
       ],
       "muito": [
         "6fddd04117eaedbc",
@@ -14056,7 +14121,8 @@
       ],
       "escolha": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b"
       ],
       "depende": [
         "6fddd04117eaedbc",
@@ -14068,7 +14134,8 @@
       ],
       "segurança": [
         "6fddd04117eaedbc",
-        "6cb9dd3ec0aa8739"
+        "6cb9dd3ec0aa8739",
+        "4ee54da053c5a92b"
       ],
       "oferece": [
         "6fddd04117eaedbc"
@@ -14081,7 +14148,8 @@
         "f542a8a92a748193",
         "6cb9dd3ec0aa8739",
         "59c1f7af031c6db5",
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b"
       ],
       "frequentemente": [
         "6fddd04117eaedbc",
@@ -14092,11 +14160,14 @@
         "f542a8a92a748193"
       ],
       "estratégia": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "4ee54da053c5a92b"
       ],
       "dados": [
         "6fddd04117eaedbc",
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "plataforma": [
         "6fddd04117eaedbc"
@@ -14106,11 +14177,14 @@
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "4ee54da053c5a92b"
       ],
       "qual": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "baseadas": [
         "6fddd04117eaedbc"
@@ -14123,13 +14197,15 @@
       ],
       "ecossistema": [
         "6fddd04117eaedbc",
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b"
       ],
       "comparação": [
         "6fddd04117eaedbc"
       ],
       "custos": [
-        "6fddd04117eaedbc"
+        "6fddd04117eaedbc",
+        "4ee54da053c5a92b"
       ],
       "inteligência": [
         "6fddd04117eaedbc"
@@ -14172,7 +14248,9 @@
         "f542a8a92a748193"
       ],
       "nuvem": [
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "primeiras": [
         "f542a8a92a748193"
@@ -14194,7 +14272,8 @@
         "69480fe95ce24a31"
       ],
       "computing": [
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "4ee54da053c5a92b"
       ],
       "atendem": [
         "f542a8a92a748193"
@@ -14592,14 +14671,19 @@
         "0414d536276c3f78"
       ],
       "serviço": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "8e7082345d2edf03"
       ],
       "armazenamento": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "computação": [
         "aa95eaa70b67371b",
-        "4b178bdc59da544a"
+        "4b178bdc59da544a",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "dimensionamento": [
         "aa95eaa70b67371b"
@@ -14703,7 +14787,8 @@
         "aa95eaa70b67371b"
       ],
       "demanda": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "4ee54da053c5a92b"
       ],
       "criar": [
         "aa95eaa70b67371b",
@@ -15265,7 +15350,8 @@
         "6cb9dd3ec0aa8739"
       ],
       "flexibilidade": [
-        "6cb9dd3ec0aa8739"
+        "6cb9dd3ec0aa8739",
+        "4ee54da053c5a92b"
       ],
       "diferente": [
         "6cb9dd3ec0aa8739"
@@ -15294,7 +15380,8 @@
         "6cb9dd3ec0aa8739"
       ],
       "apenas": [
-        "6cb9dd3ec0aa8739"
+        "6cb9dd3ec0aa8739",
+        "8e7082345d2edf03"
       ],
       "desenvolvedor": [
         "6cb9dd3ec0aa8739",
@@ -15503,7 +15590,8 @@
         "c89318b0e0615d97"
       ],
       "podem": [
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b"
       ],
       "políticas": [
         "c89318b0e0615d97"
@@ -15515,7 +15603,9 @@
         "c89318b0e0615d97"
       ],
       "antes": [
-        "c89318b0e0615d97"
+        "c89318b0e0615d97",
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
       ],
       "popularidade": [
         "c89318b0e0615d97"
@@ -15530,7 +15620,8 @@
         "c89318b0e0615d97"
       ],
       "tornou": [
-        "cb214497609573a8"
+        "cb214497609573a8",
+        "8e7082345d2edf03"
       ],
       "padrão": [
         "cb214497609573a8"
@@ -16440,7 +16531,8 @@
         "73c30f0c4a60b045"
       ],
       "windows": [
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "4ee54da053c5a92b"
       ],
       "databases": [
         "b850a0f81ab34e71"
@@ -16754,12 +16846,125 @@
       ],
       "我可以公开我的旧版本的代码仓库了": [
         "5ded4e12b42ae651"
+      ],
+      "custo": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
+      ],
+      "negócio": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
+      ],
+      "soluções": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
+      ],
+      "cobrança": [
+        "4ee54da053c5a92b"
+      ],
+      "cada": [
+        "4ee54da053c5a92b"
+      ],
+      "solução": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
+      ],
+      "operação": [
+        "4ee54da053c5a92b"
+      ],
+      "modelo": [
+        "4ee54da053c5a92b"
+      ],
+      "escolher": [
+        "4ee54da053c5a92b",
+        "8e7082345d2edf03"
+      ],
+      "reduzir": [
+        "4ee54da053c5a92b"
+      ],
+      "mensal": [
+        "4ee54da053c5a92b"
+      ],
+      "existe": [
+        "4ee54da053c5a92b"
+      ],
+      "decisão": [
+        "4ee54da053c5a92b"
+      ],
+      "anos": [
+        "4ee54da053c5a92b"
+      ],
+      "grande": [
+        "8e7082345d2edf03"
+      ],
+      "outubro": [
+        "8e7082345d2edf03"
+      ],
+      "fcamara": [
+        "8e7082345d2edf03"
+      ],
+      "cibersegurança": [
+        "8e7082345d2edf03"
+      ],
+      "vista": [
+        "8e7082345d2edf03"
+      ],
+      "voltada": [
+        "8e7082345d2edf03"
+      ],
+      "indispensável": [
+        "8e7082345d2edf03"
+      ],
+      "praticamente": [
+        "8e7082345d2edf03"
+      ],
+      "qualquer": [
+        "8e7082345d2edf03"
+      ],
+      "médio": [
+        "8e7082345d2edf03"
+      ],
+      "porte": [
+        "8e7082345d2edf03"
+      ],
+      "menos": [
+        "8e7082345d2edf03"
+      ],
+      "realidade": [
+        "8e7082345d2edf03"
+      ],
+      "bens": [
+        "8e7082345d2edf03"
+      ],
+      "valiosos": [
+        "8e7082345d2edf03"
+      ],
+      "gerir": [
+        "8e7082345d2edf03"
+      ],
+      "encontrar": [
+        "8e7082345d2edf03"
+      ],
+      "vantagem": [
+        "8e7082345d2edf03"
+      ],
+      "player": [
+        "8e7082345d2edf03"
+      ],
+      "lidar": [
+        "8e7082345d2edf03"
+      ],
+      "corporativas": [
+        "8e7082345d2edf03"
+      ],
+      "clou": [
+        "8e7082345d2edf03"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 29,
-    "paginas_falhas": 76,
-    "total_caracteres": 174733
+    "paginas_baixadas": 30,
+    "paginas_falhas": 80,
+    "total_caracteres": 191948
   }
 }
