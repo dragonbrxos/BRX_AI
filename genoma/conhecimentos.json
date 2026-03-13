@@ -294,5 +294,53 @@
       "https://pt.wikipedia.org/wiki/Visão",
       "https://www.todamateria.com.br/visao/"
     ]
+  },
+  {
+    "id": "5b785a0a895ad19d",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: machine learning auto supervisionado\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:41:56.491085",
+    "modificado": "2026-03-13T13:41:56.801059",
+    "conexoes": [
+      {
+        "para": "72f07153365775b6",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 3,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: machine learning auto supervisionado",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:41:56.800625",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: machine learning auto supervisionado\nConceitos: treinarem, autossupervisionado, tarefas, última, empresarial, humano\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:41:56.800929",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: machine learning auto supervisionado\nRede: 21 conexoes. Conceitos-chave: treinarem, autossupervisionado, tarefas.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:41:56.801051",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
   }
 ]
