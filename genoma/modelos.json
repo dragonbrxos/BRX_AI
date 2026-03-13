@@ -93,5 +93,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "5bf57f23ec7836ef",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'machine learning auto supervisionado': tarefas, autossupervisionado, treinarem, empresarial, última. Base: 3 obs, 18 conceitos.",
+    "criado": "2026-03-13T13:41:56.802672",
+    "modificado": "2026-03-13T13:41:56.802672",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "arquivo": "machine_learning_auto_sup.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
