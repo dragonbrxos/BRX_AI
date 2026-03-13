@@ -1,36 +1,125 @@
 {
-  "query": "{ultimo} aplicacoes praticas",
-  "resultados": [
-    {
-      "titulo": "Aplicações Práticas: Guia Completo de Usos Diários",
-      "corpo": "8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conhecimentos no dia a dia, com foco em resultados.",
-      "url": "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
-      "timestamp": 1773419635.290529
-    },
-    {
-      "titulo": "5 aplicações práticas da Inteligência Artificial para acelerar sua ...",
-      "corpo": "2 dias atrás · 5 aplicações práticas da Inteligência Artificial para acelerar sua carreira em tecnologia Durante a primeira mentoria do programa DIO Campus Expert – Turma 15, tivemos um debate muito …",
-      "url": "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
-      "timestamp": 1773419635.2905343
-    },
-    {
-      "titulo": "Inteligência Artificial no Cotidiano: Exemplos Práticos e Aplicações ...",
-      "corpo": "Este artigo aborda de maneira detalhada o que é a IA, sua evolução histórica, e suas aplicações práticas atualmente. Discutiremos também os possíveis futuros desta tecnologia, suas tendências e …",
-      "url": "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
-      "timestamp": 1773419635.2905366
-    },
-    {
-      "titulo": "Aplicações Práticas: Como Utilizar na Vida Cotidiana e nos Negócios",
-      "corpo": "21 de dez. de 2025 · Este artigo apresenta diversas aplicações práticas que podem transformar o seu dia a dia e impulsionar o sucesso nos negócios, além de fornecer dicas, exemplos e referências …",
-      "url": "https://mdbf.com.br/blog/aplicacoes-praticas",
-      "timestamp": 1773419635.2905385
-    },
-    {
-      "titulo": "Análise de Mercado e Aplicações Práticas - Prezi",
-      "corpo": "3 dias atrás · A aplicação dessas análises, considerando as atividades anteriores, permite identificar oportunidades e riscos, além de fundamentar estratégias sólidas. A análise técnica é uma …",
-      "url": "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/",
-      "timestamp": 1773419635.2905402
-    }
+  "indice_topico": {
+    "etica em IA": [
+      "32670491cbba1e9f",
+      "66db97981fde6f2f",
+      "660e0be793cf1092",
+      "774dd9af8ca1aef9",
+      "689999653226b84a",
+      "7284d66d269796ee",
+      "a50ee62ab8cef13c",
+      "ade0935ee1d334ce",
+      "279540b6711bd135",
+      "615588092259ca35",
+      "42b4801b2ce1a550",
+      "2adde769ed727704",
+      "ca062175472f3e5c",
+      "a82c7170e407797a",
+      "45e685289e373f92",
+      "f122204db68ea271",
+      "05dd7f701992e11b",
+      "630f9cc32439f835",
+      "6ef615bdffd3d01b",
+      "c2a6a8914906fa07",
+      "7e82fd1e939e1d51",
+      "50a2ef1d62cfd1b6",
+      "90ebb0ba231dc1c6",
+      "650d2dd8a7ee9d66",
+      "c8876264fe881f05",
+      "14fce0d25336018a",
+      "3c3b7e423154924d"
+    ],
+    "{ultimo} aplicacoes praticas": [
+      "e2b56aeabaad1ab0",
+      "86b05a2e1fa19941",
+      "048bb9feb8d07be4",
+      "7104463272c3cc5b",
+      "bd53ca2c9da7e313",
+      "48627f4594860684",
+      "33f82850ff816ad5",
+      "82b94f1ef4b88c05",
+      "7b4f5c481aeadc78",
+      "cd4d66d839bafa42",
+      "300ecdcaea29c247",
+      "19b1df384e9e04c5",
+      "46826dc157df8ed1",
+      "8e2fd9339c4f232b",
+      "85d5707c721f9ba0",
+      "f746693a341447b3",
+      "5e4576f35a2e8e06",
+      "8ce4fc1b2ca8fc9f",
+      "ea732dc956ab0894",
+      "880dde78817ec886",
+      "26d1822fb795875d",
+      "7e3070db898b51aa",
+      "e1a2882e1aa7d733",
+      "106249e3f82518f8",
+      "d9555264f0c590bf",
+      "ff272defc3a8f602"
+    ],
+    "inteligencia artificial generativa": [
+      "cd8f14e3286b9db5",
+      "bfdea60e6360433b",
+      "78a639f0dc1312a5",
+      "19296e6943a9242c",
+      "4a87751943f68d02",
+      "0625b321c2deac15",
+      "6fd5fdd923205e23",
+      "ea6b1f1f6860e443",
+      "686f7b397f227d0a",
+      "40d5a991b1d268e2",
+      "f22342441f4e1864",
+      "ff4d689618612d76",
+      "9e5aa69a241adc7c",
+      "033934386ec91def",
+      "7001ce88e431ce7c",
+      "a487d7ee22e69288",
+      "f0c9d0e782649d3b",
+      "d994df5826f38a57",
+      "1ff7cb6ad6ef234a",
+      "e89483d3253a1089",
+      "eec91d6232d36b61"
+    ],
+    "geral": [
+      "e4b3ca60a5ea1dc3"
+    ],
+    "visao computacional": [
+      "25d03372067fc0f2",
+      "5fc93e48d9a66f4f",
+      "4bebed172c2e45be",
+      "1e23a86bc711c543",
+      "5b524a7d61d1bb50",
+      "7618ad64a30d28d8",
+      "5b5541aec58922ab",
+      "9ad1f5b0771104d4",
+      "6758d4f0cb6e1ea1",
+      "ba370b96d72beb03",
+      "87d35b1c9c9befbd",
+      "4633d0877de2fb93",
+      "c106fef28bb680dd",
+      "e0f30ac4fd08ae29",
+      "f135b2fca131f7c5",
+      "25f17370ad24ce95",
+      "778dc37a03bd4b16",
+      "0d487f1293d46246",
+      "5f7c07a05247297a",
+      "921a6660904aa4c2"
+    ]
+  },
+  "estatisticas": {
+    "ciclos": 4,
+    "nascimentos": 95,
+    "mortes": 0,
+    "refinamentos": 24,
+    "pesquisas_realizadas": 4,
+    "arquivos_gerados": 6
+  },
+  "topico_atual": "visao computacional",
+  "historico_topicos": [
+    "etica em IA",
+    "{ultimo} aplicacoes praticas",
+    "inteligencia artificial generativa",
+    "visao computacional"
   ],
-  "timestamp": "2026-03-13T13:33:55.291071"
+  "timestamp": "2026-03-13T13:34:39.059214"
 }
