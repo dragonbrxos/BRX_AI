@@ -214,5 +214,29 @@
     ],
     "timestamp": 1773420142.1900432,
     "usos": 0
+  },
+  "aprendizado por reforco profundo": {
+    "resultados": [
+      {
+        "titulo": "O que é Aprendizagem Profunda por Reforço (DRL)? | Ultralytics",
+        "corpo": "A aprendizagem por reforço profundo (DRL) é um subconjunto avançado da inteligência artificial (IA) que combina as capacidades de tomada de decisão da aprendizagem por reforço com o poder …",
+        "url": "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+        "timestamp": 1773420167.8186686
+      },
+      {
+        "titulo": "Aprendizado Profundo (Deep Learning): Guia didático",
+        "corpo": "Combinação de aprendizado por reforço com redes neurais profundas, permitindo que agentes aprendam políticas ótimas em ambientes complexos. Modelos como DQN, A3C e PPO têm …",
+        "url": "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+        "timestamp": 1773420167.8187382
+      },
+      {
+        "titulo": "Aprendizado por Reforço Profundo: Uma Introdução Completa",
+        "corpo": "O aprendizado por reforço profundo é uma das áreas mais fascinantes da inteligência artificial moderna. Ao combinar conceitos de aprendizado por reforço com o poder das redes neurais, ele …",
+        "url": "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+        "timestamp": 1773420167.8187547
+      }
+    ],
+    "timestamp": 1773420167.8187969,
+    "usos": 0
   }
 }
