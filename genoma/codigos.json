@@ -409,5 +409,104 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "68865e22cdb91699",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: sistemas recomendacao colaborativa",
+    "criado": "2026-03-13T13:54:24.196302",
+    "modificado": "2026-03-13T13:54:24.196302",
+    "conexoes": [
+      {
+        "para": "e54e21d26bc8551f",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "arquivo": "mod_966ad913_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "atena",
+        "Lattes",
+        "pesquisa",
+        "Centrais",
+        "inclusão"
+      ]
+    },
+    "origem": "e54e21d26bc8551f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "236d640d8d5a2fbf",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: visao computacional CNN",
+    "criado": "2026-03-13T13:54:46.092528",
+    "modificado": "2026-03-13T13:54:46.092528",
+    "conexoes": [
+      {
+        "para": "dcfbe4ddd19804e3",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "arquivo": "mod_e472f55c_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "visao",
+        "oscincosentidos",
+        "brasilescola",
+        "citação",
+        "https"
+      ]
+    },
+    "origem": "dcfbe4ddd19804e3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "18cc3cfb7de479ee",
+    "tipo": "codigo",
+    "conteudo": "Modulo dados: processamento linguagem natural BERT",
+    "criado": "2026-03-13T13:55:07.051584",
+    "modificado": "2026-03-13T13:55:07.051584",
+    "conexoes": [
+      {
+        "para": "8b74bdbec2937885",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "arquivo": "mod_6e458fcc_dados.py",
+      "tipo": "dados",
+      "linhas": 51,
+      "conceitos_base": [
+        "processar",
+        "três",
+        "unifica",
+        "judiciais",
+        "ofícios"
+      ]
+    },
+    "origem": "8b74bdbec2937885",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
