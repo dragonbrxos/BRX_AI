@@ -50,5 +50,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "faee5825fdc02ed2",
+    "tipo": "codigo",
+    "conteudo": "Modulo dados: machine learning auto supervisionado desafios limi",
+    "criado": "2026-03-13T13:42:22.501027",
+    "modificado": "2026-03-13T13:42:22.501027",
+    "conexoes": [
+      {
+        "para": "b63eb32bbc9b6002",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "arquivo": "modulo_846884_dados.py",
+      "tipo": "dados",
+      "linhas": 28
+    },
+    "origem": "b63eb32bbc9b6002",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
