@@ -2284,5 +2284,218 @@
       "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
       "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
     ]
+  },
+  {
+    "id": "9a6d79b18c0df46d",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: redes neurais recorrentes LSTM\n\nEvolucao: ## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexo......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 14 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:00:18.061482",
+    "modificado": "2026-03-13T14:00:19.828095",
+    "conexoes": [
+      {
+        "para": "76ed224e53337acb",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "redes neurais recorrentes LSTM",
+        "redes neurais recorrentes LSTM aplicacoes",
+        "redes neurais recorrentes LSTM fundamentos",
+        "redes neurais recorrentes LSTM algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: redes neurais recorrentes LSTM",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:00:19.827170",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:19.827458",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 14 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:19.827763",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Estrutural: redes neurais recorrentes LSTM\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 341 conexo...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:19.827921",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: redes neurais recorrentes LSTM\n\nEvolucao: ## Analise Relacional (v2): redes neurais recorrentes LSTM\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 14 re...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:19.828078",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores",
+      "https://www.ibm.com/br-pt/think/topics/networking",
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "https://www.passeidireto.com/pergunta/198287829/redes-neurais-recorrentes-rn-ns-sao-amplamente-usadas-em-sistemas-de-reconhecime",
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "https://www.gaap.deqm.puc-rio.br/en/",
+      "https://brainly.com.br/tarefa/55731941",
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
+  },
+  {
+    "id": "1f035d258aac19cc",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:00:19.830762",
+    "modificado": "2026-03-13T14:00:20.951559",
+    "conexoes": [
+      {
+        "para": "b41b2df72264e88a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:00:20.950772",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:20.951038",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:20.951211",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:20.951378",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:20.951536",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "ddebcfde10097581",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: etica IA responsavel\n\nEvolucao: ## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ........\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:00:20.955342",
+    "modificado": "2026-03-13T14:00:22.012815",
+    "conexoes": [
+      {
+        "para": "bb5f06f6c4b3dd2d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "etica IA responsavel",
+        "etica IA responsavel fundamentos",
+        "etica IA responsavel aplicacoes",
+        "etica IA responsavel algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: etica IA responsavel",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:00:22.012362",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:22.012512",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:00:22.012602",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: etica IA responsavel\n\nEvolucao: ## Analise Estrutural: etica IA responsavel\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 208 conexoes\n\nTermos chave: .....",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:22.012690",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: etica IA responsavel\n\nEvolucao: ## Analise Relacional (v2): etica IA responsavel\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n\nConsoli...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:00:22.012800",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.dicio.com.br/etica/"
+    ]
   }
 ]
