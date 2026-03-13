@@ -207,5 +207,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "8877e1636fb0daeb",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'inteligencia artificial explicavel algoritmos implementacao': transparentes, internos, compreensíveis, algoritmos, torna. Base: 3 obs, 16 conceitos.",
+    "criado": "2026-03-13T13:44:36.123872",
+    "modificado": "2026-03-13T13:44:36.123872",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "arquivo": "inteligencia_artificial_e.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
