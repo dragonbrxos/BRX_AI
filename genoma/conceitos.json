@@ -946,6 +946,11 @@
         "para": "33f82850ff816ad5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -959,7 +964,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
     ]
   },
   {
@@ -1354,6 +1360,11 @@
         "para": "2ec07b6b5492f65a",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1460,6 +1471,11 @@
       },
       {
         "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -6215,6 +6231,11 @@
         "para": "20a8e12e67641d07",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6252,6 +6273,11 @@
         "para": "032e810ff0d2f7ae",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6283,6 +6309,11 @@
       },
       {
         "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -6341,6 +6372,11 @@
       },
       {
         "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -6406,6 +6442,11 @@
         "para": "e527f1b6389a964c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6458,6 +6499,11 @@
     "conexoes": [
       {
         "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -6694,6 +6740,11 @@
         "para": "032e810ff0d2f7ae",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6706,7 +6757,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.mecalux.com.br/blog/ia-explicavel"
+      "https://www.mecalux.com.br/blog/ia-explicavel",
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
     ]
   },
   {
@@ -7019,6 +7071,330 @@
     "profundidade": 0,
     "fontes": [
       "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
+  },
+  {
+    "id": "fddd494ddcfd2853",
+    "tipo": "conceito",
+    "conteudo": "prático",
+    "criado": "2026-03-13T13:45:01.859908",
+    "modificado": "2026-03-13T13:45:01.859908",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
+    ]
+  },
+  {
+    "id": "8e4b815136a1f3ef",
+    "tipo": "conceito",
+    "conteudo": "essencial",
+    "criado": "2026-03-13T13:45:01.860157",
+    "modificado": "2026-03-13T13:45:01.860157",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
+    ]
+  },
+  {
+    "id": "f49370fcf9709c39",
+    "tipo": "conceito",
+    "conteudo": "decisões",
+    "criado": "2026-03-13T13:45:01.860534",
+    "modificado": "2026-03-13T13:45:01.860534",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/",
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "fd32900b19bfe730",
+    "tipo": "conceito",
+    "conteudo": "transparência",
+    "criado": "2026-03-13T13:45:01.860947",
+    "modificado": "2026-03-13T13:45:01.860947",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/",
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "fb7d5af28da054ea",
+    "tipo": "conceito",
+    "conteudo": "pedir",
+    "criado": "2026-03-13T13:45:01.861255",
+    "modificado": "2026-03-13T13:45:01.861255",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
+    ]
+  },
+  {
+    "id": "5befcafa9b362377",
+    "tipo": "conceito",
+    "conteudo": "explicações",
+    "criado": "2026-03-13T13:45:01.861612",
+    "modificado": "2026-03-13T13:45:01.861612",
+    "conexoes": [
+      {
+        "para": "56035d301939d665",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
+    ]
+  },
+  {
+    "id": "b4f160cd2adc34d3",
+    "tipo": "conceito",
+    "conteudo": "ajudando",
+    "criado": "2026-03-13T13:45:01.962976",
+    "modificado": "2026-03-13T13:45:01.962976",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "34d836fb8cb4868a",
+    "tipo": "conceito",
+    "conteudo": "confiança",
+    "criado": "2026-03-13T13:45:01.963542",
+    "modificado": "2026-03-13T13:45:01.963542",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "45552b3b328ef8b0",
+    "tipo": "conceito",
+    "conteudo": "explainable",
+    "criado": "2026-03-13T13:45:01.964046",
+    "modificado": "2026-03-13T13:45:01.964046",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "b69d2586899a32cb",
+    "tipo": "conceito",
+    "conteudo": "orientado",
+    "criado": "2026-03-13T13:45:01.964544",
+    "modificado": "2026-03-13T13:45:01.964544",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "1e072d93e75830d6",
+    "tipo": "conceito",
+    "conteudo": "traduzir",
+    "criado": "2026-03-13T13:45:01.965076",
+    "modificado": "2026-03-13T13:45:01.965076",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "95877163a42915fc",
+    "tipo": "conceito",
+    "conteudo": "mundo",
+    "criado": "2026-03-13T13:45:01.965581",
+    "modificado": "2026-03-13T13:45:01.965581",
+    "conexoes": [
+      {
+        "para": "eab3d9908b578b08",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
     ]
   }
 ]
