@@ -1198,5 +1198,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "109ab13ac83c1f60",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado transferencia transfer learn",
+    "criado": "2026-03-13T14:03:03.916502",
+    "modificado": "2026-03-13T14:03:03.916502",
+    "conexoes": [
+      {
+        "para": "a6e11c362cf69a79",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "arquivo": "mod_3f2ee707_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "a6e11c362cf69a79",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "94d5b54357b8c591",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: etica IA responsavel",
+    "criado": "2026-03-13T14:03:04.618677",
+    "modificado": "2026-03-13T14:03:04.618677",
+    "conexoes": [
+      {
+        "para": "7124d4ef58e89776",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "arquivo": "mod_d00abbfe_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "7124d4ef58e89776",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "7b5107d9dca95b77",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: modelos transformers GPT",
+    "criado": "2026-03-13T14:03:05.368386",
+    "modificado": "2026-03-13T14:03:05.368386",
+    "conexoes": [
+      {
+        "para": "a551548accc5644a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "mod_a0fc032d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "a551548accc5644a",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
