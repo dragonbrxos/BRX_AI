@@ -59350,5 +59350,4848 @@
     "fontes": [
       "https://www.forummodel.com.br/modelos-famosos/"
     ]
+  },
+  {
+    "id": "f603f114327aca9a",
+    "tipo": "memoria",
+    "conteudo": "23 de dez. de 2025 · O que é a XAI? A XAI, ou IA Explicável, é um conjunto de métodos e processos que permite aos usuários humanos compreenderem, confiarem e gerenciarem os resultados gerados por …",
+    "criado": "2026-03-13T14:03:53.310300",
+    "modificado": "2026-03-13T14:03:53.310300",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdf35e94cf9eb029",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da46d9bf6bf72c18",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef5c9c399d84f13f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "ffa61894c262b6d4",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:03:53.324084",
+    "modificado": "2026-03-13T14:03:53.324084",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "c6a49b1732ffa917",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:03:53.324293",
+    "modificado": "2026-03-13T14:03:53.324293",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "d3a3acea67520c3b",
+    "tipo": "memoria",
+    "conteudo": "Uma inteligência artificial explicável (IAE, IA explicável, ou XAI) é uma inteligência artificial (IA) em que os resultados da solução podem ser compreendidos por humanos.",
+    "criado": "2026-03-13T14:03:53.324437",
+    "modificado": "2026-03-13T14:03:53.324437",
+    "conexoes": [
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "afb32f5f31ad1c30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7391eb9898927892",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "30d0e12a0460ea54",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:03:53.327100",
+    "modificado": "2026-03-13T14:03:53.327100",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "0c1094413e74ebac",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:03:53.327363",
+    "modificado": "2026-03-13T14:03:53.327363",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "796861cf7ee99000",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:03:53.327508",
+    "modificado": "2026-03-13T14:03:53.327508",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "d2597a0dbd6ea912",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial explicável (XAI) é um conjunto de processos e métodos que permite aos usuários humanos entenderem e confiarem nos resultados e produção criados por algoritmos de aprendizado …",
+    "criado": "2026-03-13T14:03:53.327648",
+    "modificado": "2026-03-13T14:03:53.327648",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "79685facc38d623a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a380c2c06fa231f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22b3a4610d003f97",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "c9eae079ad63c5eb",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:03:53.507561",
+    "modificado": "2026-03-13T14:03:53.507561",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "b132913010919241",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:03:53.533604",
+    "modificado": "2026-03-13T14:03:53.533604",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "a7b2770c3f4a434d",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:03:53.537232",
+    "modificado": "2026-03-13T14:03:53.537232",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "54d7b22aea7ed434",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:03:53.563242",
+    "modificado": "2026-03-13T14:03:53.563242",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "8d13a7aee8a488c1",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:03:53.616663",
+    "modificado": "2026-03-13T14:03:53.616663",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "a294334245f8ae96",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:03:53.627307",
+    "modificado": "2026-03-13T14:03:53.627307",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "f38310e90f176377",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:03:53.663396",
+    "modificado": "2026-03-13T14:03:53.663396",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "926a722ff6bacee0",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:03:53.724199",
+    "modificado": "2026-03-13T14:03:53.724199",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "550905c9c4768df1",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:03:53.775629",
+    "modificado": "2026-03-13T14:03:53.775629",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "e20bde047e255afa",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:03:53.796230",
+    "modificado": "2026-03-13T14:03:53.796230",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "ebc1d5cdafa89469",
+    "tipo": "memoria",
+    "conteudo": "Esta é uma discussão imprescindível tanto para a academia quanto para os profissionais que utilizam o AG. Evidentemente, uma configuração inadequada dos operadores genéticos pode levar à convergência prematura ou a um esforço computacional elevado que inviabilizará a aplicação do AG (ver mais em 34).",
+    "criado": "2026-03-13T14:03:53.916358",
+    "modificado": "2026-03-13T14:03:53.916358",
+    "conexoes": [
+      {
+        "para": "19a800b26f4aa089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0fc947496814c98a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7abd5f60a074edf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45611d5fe1e46d2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "906d350d921f3ae9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ce2d8838d8ab56b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b849ea1287af5d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "034d6e5d0deffae0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ec515855136511b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61fde4bf8fb0ca99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72fa54a1ef5044e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html"
+    ]
+  },
+  {
+    "id": "fe4014c4b8c9694d",
+    "tipo": "memoria",
+    "conteudo": "algoritmo genético é um método de otimização bio insperado, desenvolvida por John Henry Holland em 1975. Segundo a teoria …",
+    "criado": "2026-03-13T14:03:53.931231",
+    "modificado": "2026-03-13T14:03:53.931231",
+    "conexoes": [
+      {
+        "para": "c5e4c35aafb3cb7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2b92c6760ee57ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3d1c767d52cb3e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e396b1285107e19d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b4509f281d8ff91",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c95f8a32f5677a9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b961de291977f513",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6e4c72dcd264c89",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf"
+    ]
+  },
+  {
+    "id": "fb2764211c2ffbfe",
+    "tipo": "memoria",
+    "conteudo": "8 de ago. de 2025 · Inspirados na evolução por seleção natural, os Algoritmos Genéticos oferecem uma forma inteligente de navegar …",
+    "criado": "2026-03-13T14:03:53.931430",
+    "modificado": "2026-03-13T14:03:53.931430",
+    "conexoes": [
+      {
+        "para": "015391fccb9862f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "74c535c7a5b2c238",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c8db9190186150e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f835750971bc7f24",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.datageeks.com.br/algoritmos-geneticos/"
+    ]
+  },
+  {
+    "id": "49d9780441271787",
+    "tipo": "memoria",
+    "conteudo": "Um algoritmo genético (AG) é uma técnica de busca utilizada na ciência da computação e em investigação operacional para achar soluções …",
+    "criado": "2026-03-13T14:03:53.931555",
+    "modificado": "2026-03-13T14:03:53.931555",
+    "conexoes": [
+      {
+        "para": "bffdbc0882976c2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1681987de19ee9b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33795381101b8529",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea9f19317791d4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético"
+    ]
+  },
+  {
+    "id": "751a8c0ed97ce4d1",
+    "tipo": "memoria",
+    "conteudo": "Algoritmos Genéticos (Gas-Genetic Algorithms) constituem uma técnica de busca e otimização, altamente paralela, inspirada no princípio …",
+    "criado": "2026-03-13T14:03:53.931771",
+    "modificado": "2026-03-13T14:03:53.931771",
+    "conexoes": [
+      {
+        "para": "a863c48f29e989cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f05e8b50d573a0fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d649c5fab35a5435",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39ad1292679bf364",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40520c826ab84c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b41d735ab10a6ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "275b1e2e4a7f9ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf"
+    ]
+  },
+  {
+    "id": "0addc42fd88b52d9",
+    "tipo": "memoria",
+    "conteudo": "6 dias atrás · About Algoritmo genético para otimização e maximização de funções matemáticas, utilizando técnicas de seleção …",
+    "criado": "2026-03-13T14:03:53.931937",
+    "modificado": "2026-03-13T14:03:53.931937",
+    "conexoes": [
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3bd7680ba1249912",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9766fe0129c370fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "be84cfa12ec06a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "baeaa26ae4fbd9ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer"
+    ]
+  },
+  {
+    "id": "0d6560942c8ec6e8",
+    "tipo": "memoria",
+    "conteudo": "Serão analisados os principais aspectos e características da Computação Evolucionária e dos Algoritmos Genéticos (AGs) que os fazem …",
+    "criado": "2026-03-13T14:03:53.932067",
+    "modificado": "2026-03-13T14:03:53.932067",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e724c76bf578d37",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9961c5483ef8296",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "628a2c95c083a52a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://sites.icmc.usp.br/andre/research/genetic/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sites.icmc.usp.br/andre/research/genetic/"
+    ]
+  },
+  {
+    "id": "1b271e7d77c0fe21",
+    "tipo": "memoria",
+    "conteudo": "Descubra tudo sobre algoritmos genéticos, desde sua invenção até suas aplicações em inteligência artificial e otimização. Aprenda …",
+    "criado": "2026-03-13T14:03:53.932239",
+    "modificado": "2026-03-13T14:03:53.932239",
+    "conexoes": [
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c420f231228619b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72e9c4263ce1d7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263"
+    ]
+  },
+  {
+    "id": "dad13d725cc11b03",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:03:54.224541",
+    "modificado": "2026-03-13T14:03:54.224541",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "bce9a1b8373f06e3",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:03:54.224952",
+    "modificado": "2026-03-13T14:03:54.224952",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "c828281a51380a47",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:03:54.244817",
+    "modificado": "2026-03-13T14:03:54.244817",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "777cf0c3a6eab35d",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:03:54.268187",
+    "modificado": "2026-03-13T14:03:54.268187",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "8146ff921491fd08",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:03:54.287908",
+    "modificado": "2026-03-13T14:03:54.287908",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "0373ec216ed17ec7",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:03:54.290613",
+    "modificado": "2026-03-13T14:03:54.290613",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "fb5e31d86fa9b666",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:03:54.295823",
+    "modificado": "2026-03-13T14:03:54.295823",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "0dced9c547a89652",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:03:54.305267",
+    "modificado": "2026-03-13T14:03:54.305267",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "a626b296d1e30ec6",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:03:54.431205",
+    "modificado": "2026-03-13T14:03:54.431205",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "686eb59bd342d227",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:03:54.433691",
+    "modificado": "2026-03-13T14:03:54.433691",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "5077297a00c9c355",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:03:54.438912",
+    "modificado": "2026-03-13T14:03:54.438912",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "42646e6dc8884908",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:03:54.509671",
+    "modificado": "2026-03-13T14:03:54.509671",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "76eed2e18632fde7",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:03:54.510125",
+    "modificado": "2026-03-13T14:03:54.510125",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "11ca90747de0ab18",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:03:54.514393",
+    "modificado": "2026-03-13T14:03:54.514393",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "a9ce71bab33017e3",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:03:54.522126",
+    "modificado": "2026-03-13T14:03:54.522126",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "bd641df3a88e0c72",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:54.712387",
+    "modificado": "2026-03-13T14:03:54.712387",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "aeeee519050f19be",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:54.731392",
+    "modificado": "2026-03-13T14:03:54.731392",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "d924299514ba2a31",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:54.731688",
+    "modificado": "2026-03-13T14:03:54.731688",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "364b342b77f7bd79",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:54.731884",
+    "modificado": "2026-03-13T14:03:54.731884",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "574028955698ec3c",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:54.738668",
+    "modificado": "2026-03-13T14:03:54.738668",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "17412187855c617e",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:54.738822",
+    "modificado": "2026-03-13T14:03:54.738822",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "a4f1d655f461c223",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:54.738944",
+    "modificado": "2026-03-13T14:03:54.738944",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "8ff0c0518b0e6920",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:54.739098",
+    "modificado": "2026-03-13T14:03:54.739098",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "a08bcd955a3ecf5d",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:54.930740",
+    "modificado": "2026-03-13T14:03:54.930740",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "5e31c0748b5db236",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:55.030774",
+    "modificado": "2026-03-13T14:03:55.030774",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "3e3fee8a7b9846ac",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:55.039049",
+    "modificado": "2026-03-13T14:03:55.039049",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "b8857877743e699e",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:55.065022",
+    "modificado": "2026-03-13T14:03:55.065022",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "1caabef448446952",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:55.070337",
+    "modificado": "2026-03-13T14:03:55.070337",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "9ae433b0b1d6d192",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:55.073348",
+    "modificado": "2026-03-13T14:03:55.073348",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "bea1514e623b9f11",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:55.083761",
+    "modificado": "2026-03-13T14:03:55.083761",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "269408273f115c27",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:55.105833",
+    "modificado": "2026-03-13T14:03:55.105833",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "d8de7dd65e088968",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:55.235450",
+    "modificado": "2026-03-13T14:03:55.235450",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "e59547d110b1a4ac",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:55.312901",
+    "modificado": "2026-03-13T14:03:55.312901",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "0ee31f0f85905073",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:55.335083",
+    "modificado": "2026-03-13T14:03:55.335083",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "3f40801fadfa1944",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:55.345532",
+    "modificado": "2026-03-13T14:03:55.345532",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
   }
 ]
