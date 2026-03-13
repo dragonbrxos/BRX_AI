@@ -3,14 +3,7659 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 5,
+    "ciclos": 6,
     "estado": "aprendiz"
   },
-  "conhecimento": {},
+  "conhecimento": {
+    "dba5c6e325032ebc": {
+      "conteudo": "Related to Is there a \"null coalescing\" operator in JavaScript",
+      "tipo": "fato",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.775625",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c0024f974074ba4e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "95073254037a62ea",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "06e55b633481f7bb",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "91d0079f79eb799f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a38b901d2bd161e8",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a7e2b87f06f3c328",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "59cc180478dd5acf",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "663ea1bfffe5038f": {
+      "conteudo": "to",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or",
+        "https://www.programiz.com/javascript/examples",
+        "https://www.w3schools.com/Js/",
+        "https://www.codecademy.com/catalog/language/javascript",
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://hevodata.com/learn/schema-example/",
+        "https://www.alps.academy/relational-database-design/",
+        "https://dbcode.io/",
+        "https://dbdiagram.io/home/"
+      ],
+      "peso": 1.0500000000000005,
+      "criado": "2026-03-13T14:16:01.777182",
+      "acessos": 12,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b27ad06d123c6145": {
+      "conteudo": "JavaScript",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or",
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript",
+        "https://support.google.com/admanager/answer/12654?hl=es",
+        "https://www.w3schools.com/Js/",
+        "https://www.programiz.com/javascript/examples",
+        "https://javascript-tutor.net/",
+        "https://www.codecademy.com/catalog/language/javascript",
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/",
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 1.3500000000000008,
+      "criado": "2026-03-13T14:16:01.777272",
+      "acessos": 18,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c0024f974074ba4e": {
+      "conteudo": "coalescing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.777346",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "95073254037a62ea": {
+      "conteudo": "null coalescing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.777415",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "06e55b633481f7bb": {
+      "conteudo": "operator",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.777485",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "91d0079f79eb799f": {
+      "conteudo": "de 2013 · 18 JavaScript tem ambas as comparações estritas e abstratas",
+      "tipo": "fato",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.778693",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "45d58c208dd0d3e8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "7931aa2a1bed8554",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "138b77db6cc2d547",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "959a45d44e6fcf58": {
+      "conteudo": "de",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript",
+        "https://support.google.com/admanager/answer/12654?hl=es",
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/",
+        "https://www.dbdesigner.net/",
+        "https://www.guru99.com/pt/database-design.html",
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/",
+        "https://www.exasol.com/hub/database/design-step-by-step/",
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"
+      ],
+      "peso": 1.1000000000000005,
+      "criado": "2026-03-13T14:16:01.778926",
+      "acessos": 13,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "45d58c208dd0d3e8": {
+      "conteudo": "ambas",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779008",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "7931aa2a1bed8554": {
+      "conteudo": "2013",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779065",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "138b77db6cc2d547": {
+      "conteudo": "abstratas",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779121",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a38b901d2bd161e8": {
+      "conteudo": "Uma comparação estrita (===) só é verdade se os operandos são do mesmo tipo e possuem o mesmo valor",
+      "tipo": "fato",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.779197",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "91fd5ee0231afd47",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5ccfab5b5750d307",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "65c74c15a686187b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6adcc016448d707c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "840a8dcfeae95966",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a7e2b87f06f3c328",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "59cc180478dd5acf",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "bbafc504e66f5724",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "271b9c84828c02a4",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "91fd5ee0231afd47": {
+      "conteudo": "operandos",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779390",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5ccfab5b5750d307": {
+      "conteudo": "verdade",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779449",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "65c74c15a686187b": {
+      "conteudo": "o",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779505",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6adcc016448d707c": {
+      "conteudo": "valor",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.779558",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "840a8dcfeae95966": {
+      "conteudo": "os",
+      "tipo": "conceito",
+      "fontes": [
+        "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript",
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.779611",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a7e2b87f06f3c328": {
+      "conteudo": "That is, JavaScript \"short-circuits\" the evaluation of Boolean operators and will return the value associated with either the first non-false variable value or whatever the last variable contains",
+      "tipo": "fato",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.779810",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "de38e0881e31dde6",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "7187f0675eb38279",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e5895263db42699c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fa51fd49abf67705",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "de38e0881e31dde6": {
+      "conteudo": "associated",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780103",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "3973e022e93220f9": {
+      "conteudo": "-",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation",
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d",
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/",
+        "https://www.zhihu.com/question/564687378",
+        "https://github.com/topics/database-design",
+        "https://drawdb.vercel.app/",
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.8500000000000003,
+      "criado": "2026-03-13T14:16:01.780162",
+      "acessos": 8,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "7187f0675eb38279": {
+      "conteudo": "return",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780216",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e5895263db42699c": {
+      "conteudo": "circuits",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780269",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fa51fd49abf67705": {
+      "conteudo": "is",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation",
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf",
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d",
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 0.6500000000000001,
+      "criado": "2026-03-13T14:16:01.780325",
+      "acessos": 4,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "59cc180478dd5acf": {
+      "conteudo": "de 2008 · I'm using JSLint to go through JavaScript, and it's returning many suggestions to replace == (two equals signs) with === (three equals signs) when doing things like comparing …",
+      "tipo": "fato",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.780461",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "e93cb41d4a7d2395",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "be2f0223448086d2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a83dd0ccbffe39d0",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c7f57f541cb0ade3",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "4cd0e21a9a0795a1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "bbafc504e66f5724",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "271b9c84828c02a4",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "50d5db62fec12574",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "f887c5566d341f10",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "e93cb41d4a7d2395": {
+      "conteudo": "equals",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780803",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "be2f0223448086d2": {
+      "conteudo": "JSLint",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780863",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a83dd0ccbffe39d0": {
+      "conteudo": "I",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780919",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c7f57f541cb0ade3": {
+      "conteudo": "doing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.780983",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "4cd0e21a9a0795a1": {
+      "conteudo": "go",
+      "tipo": "conceito",
+      "fontes": [
+        "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781038",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "bbafc504e66f5724": {
+      "conteudo": "En iPhones y iPads JavaScript está activado de forma predeterminada en los dispositivos iPhone y iPad",
+      "tipo": "fato",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.781179",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a1fce4363854ff88",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a2a78ada26ac2cbf",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "459b1c854153d1dc",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "a1fce4363854ff88": {
+      "conteudo": "y",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781391",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a2a78ada26ac2cbf": {
+      "conteudo": "forma",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781465",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "459b1c854153d1dc": {
+      "conteudo": "predeterminada",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781520",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "271b9c84828c02a4": {
+      "conteudo": "Activar JavaScript en otros navegadores Si utilizas un navegador admitido que no es Chrome, …",
+      "tipo": "fato",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.781587",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "689050b30110139b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c0bc1e08f9743b2d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c57b7501cd843672",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8e38c2571d87f6ee",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "50d5db62fec12574",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "f887c5566d341f10",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "7520692f8eae81ba",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "7fc192f67c597790",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "689050b30110139b": {
+      "conteudo": "utilizas",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781802",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c0bc1e08f9743b2d": {
+      "conteudo": "es",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781871",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c57b7501cd843672": {
+      "conteudo": "que",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es",
+        "https://www.guru99.com/pt/database-design.html"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.781919",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8e38c2571d87f6ee": {
+      "conteudo": "Activar",
+      "tipo": "conceito",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.781976",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "50d5db62fec12574": {
+      "conteudo": "Overview: Introduction•About this guide•About JavaScript•JavaScript and Java•ECMAScript•ToolsOverview: Grammar and types•Basic syntax & comments•Declarations•Variable scope•Variable hoisting•Data structures and typesOverview: Control flow and error handling•if",
+      "tipo": "fato",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.782109",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "5f161c9149882e0e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6006cc6c361062bb",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e57e998726030b84",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "cec3a9b89b2e3913",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1325f21d338c7796",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "5f161c9149882e0e": {
+      "conteudo": "scope",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782423",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6006cc6c361062bb": {
+      "conteudo": "typesOverview",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782476",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e57e998726030b84": {
+      "conteudo": "Variable",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782527",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "cec3a9b89b2e3913": {
+      "conteudo": "Data",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.782576",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "1325f21d338c7796": {
+      "conteudo": "Grammar",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782638",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "f887c5566d341f10": {
+      "conteudo": "else•switch•try/catch/throwOverview: Loops and iteration•for•while•do",
+      "tipo": "fato",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.782690",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "8a5edab282632443",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1e262cd7d110812f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "7dd530c4d36da47c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9f925cdc4feedda4",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c08f99e3947df0bf",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "7520692f8eae81ba",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "7fc192f67c597790",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "e81575879907208b",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "aa37a709af01945d",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "8a5edab282632443": {
+      "conteudo": "/",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782862",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "1e262cd7d110812f": {
+      "conteudo": "try",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.782913",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "7dd530c4d36da47c": {
+      "conteudo": "else",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.782962",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9f925cdc4feedda4": {
+      "conteudo": "catch",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783010",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c08f99e3947df0bf": {
+      "conteudo": "Loops",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783058",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "7520692f8eae81ba": {
+      "conteudo": "W3Schools maintains a complete JavaScript reference, including all HTML and browser objects",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.783186",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "093a646721516724",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e4cd302972b0cf4e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "52367a6622b19f08",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5ef5ef0364b6939c",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "093a646721516724": {
+      "conteudo": "W3Schools",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783336",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e4cd302972b0cf4e": {
+      "conteudo": "objects",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783404",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "52367a6622b19f08": {
+      "conteudo": "reference",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.783453",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5ef5ef0364b6939c": {
+      "conteudo": "all",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.783502",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "7fc192f67c597790": {
+      "conteudo": "The reference contains examples for all properties, methods and events, and is continuously updated …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.783553",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "52367a6622b19f08",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "862417b9e7c3720b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5ef5ef0364b6939c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b344d80e24a36799",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0d2e5f939a12d575",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e81575879907208b",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "aa37a709af01945d",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "03a9d8e822aa5887",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "196ecf16fe85fb3e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "862417b9e7c3720b": {
+      "conteudo": "events",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783748",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b344d80e24a36799": {
+      "conteudo": "The",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/",
+        "https://www.programiz.com/javascript/examples",
+        "https://blog.devart.com/sql-database-design-basics-with-example.html"
+      ],
+      "peso": 0.6500000000000001,
+      "criado": "2026-03-13T14:16:01.783817",
+      "acessos": 4,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "0d2e5f939a12d575": {
+      "conteudo": "continuously",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.783867",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e81575879907208b": {
+      "conteudo": "The best way to learn JavaScript is by practicing examples",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.784014",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "c44762e0a2cfe099",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "44c5e7071f3a75a2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b344d80e24a36799",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "c44762e0a2cfe099": {
+      "conteudo": "practicing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.784135",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "44c5e7071f3a75a2": {
+      "conteudo": "way",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.784185",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "aa37a709af01945d": {
+      "conteudo": "The page contains examples on basic concepts of JavaScript",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.784286",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "fbb7b5bf4ca348ee",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b344d80e24a36799",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b8d31e852725afb1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "beeb20fbd6769508",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "03a9d8e822aa5887",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "196ecf16fe85fb3e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "b65bd4af30e4a3db",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "02696044d6d65fe7",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "fbb7b5bf4ca348ee": {
+      "conteudo": "basic",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples",
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.784398",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b8d31e852725afb1": {
+      "conteudo": "on",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.784482",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "beeb20fbd6769508": {
+      "conteudo": "contains",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.784532",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "03a9d8e822aa5887": {
+      "conteudo": "You are advised to take the references from these examples and try them on …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.784593",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "1e262cd7d110812f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b8d31e852725afb1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c9a8dc336964db7f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d1905cf90af29a5a",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "c9a8dc336964db7f": {
+      "conteudo": "them",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.784816",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d1905cf90af29a5a": {
+      "conteudo": "take",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.programiz.com/javascript/examples"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.784871",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "196ecf16fe85fb3e": {
+      "conteudo": "Learn JavaScript programming with this comprehensive tutorial",
+      "tipo": "fato",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.784977",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "4994ad9e4f40b39e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1eb79602411ef02c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ce78afd0e6a225ec",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fe30030e102ecf8f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b65bd4af30e4a3db",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "02696044d6d65fe7",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "11618fd90a09d758",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "1ddc40917cf65a9e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "4994ad9e4f40b39e": {
+      "conteudo": "comprehensive",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785102",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "1eb79602411ef02c": {
+      "conteudo": "this",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785153",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "ce78afd0e6a225ec": {
+      "conteudo": "Learn",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/",
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.785201",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fe30030e102ecf8f": {
+      "conteudo": "tutorial",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785249",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b65bd4af30e4a3db": {
+      "conteudo": "Includes examples, ES6 features, DOM manipulation, and modern web development techniques",
+      "tipo": "fato",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.785311",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "22e15f613c5814a5",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0ec9f3e0e287d841",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5b8a8b56dada6ce7",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "774cdf08f6a80fc9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c0f580d8306c4909",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "22e15f613c5814a5": {
+      "conteudo": "techniques",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785443",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "0ec9f3e0e287d841": {
+      "conteudo": "ES6",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785492",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5b8a8b56dada6ce7": {
+      "conteudo": "features",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785540",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "774cdf08f6a80fc9": {
+      "conteudo": "modern",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785588",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c0f580d8306c4909": {
+      "conteudo": "manipulation",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript-tutor.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.785636",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "02696044d6d65fe7": {
+      "conteudo": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.785759",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "97c10efe01d5c9c8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "187897ce0afcf20b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "faab0dc4735c1cfe",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5d8ac3ca438dc713",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "2975104784a401e3",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "11618fd90a09d758",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "1ddc40917cf65a9e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "c89a7132c2bc2273",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a40d9bd4f0b2a072",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "97c10efe01d5c9c8": {
+      "conteudo": "easy",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp",
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.785999",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "187897ce0afcf20b": {
+      "conteudo": "more",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp",
+        "https://javascript.info/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.786051",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "faab0dc4735c1cfe": {
+      "conteudo": "Bootstrap",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.786110",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5d8ac3ca438dc713": {
+      "conteudo": "tutorials",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.786161",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "2975104784a401e3": {
+      "conteudo": "Web",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/js/js_examples.asp"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.786243",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "11618fd90a09d758": {
+      "conteudo": "This tutorial covers everything from basic JavaScript up to the latest 2025 version",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.786375",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "5ca4f3850ccc331a",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "17ae69cc7e460477",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fbb7b5bf4ca348ee",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1ddc40917cf65a9e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "d840119394699c90",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "785a11075e8d68e8",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a662a85561ac8b7c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "5ca4f3850ccc331a": {
+      "conteudo": "version",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.786522",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "17ae69cc7e460477": {
+      "conteudo": "covers",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.786573",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "1ddc40917cf65a9e": {
+      "conteudo": "Start learning JavaScript now » With our Try it Yourself editor, you can edit the source code …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.786683",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "ed5eb9a37e2d8231",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b708724a23bf11c2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "41cf6794ba4200b8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "262121c5372be8af",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c89a7132c2bc2273",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a40d9bd4f0b2a072",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a662a85561ac8b7c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "85b22b7d28199a02",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ed5eb9a37e2d8231": {
+      "conteudo": "now",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.786887",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b708724a23bf11c2": {
+      "conteudo": "With",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.786940",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "41cf6794ba4200b8": {
+      "conteudo": "source",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.787002",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "262121c5372be8af": {
+      "conteudo": "edit",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.w3schools.com/Js/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.787051",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c89a7132c2bc2273": {
+      "conteudo": "Supercharge your skills with Codecademy's JavaScript courses",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.787181",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "32c1cf49a2feee26",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "12f300e16c5a5274",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "936e5cc5021d8a07",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d0453d627595b632",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "32c1cf49a2feee26": {
+      "conteudo": "skills",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787325",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "12f300e16c5a5274": {
+      "conteudo": "Supercharge",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787376",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "936e5cc5021d8a07": {
+      "conteudo": "courses",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787428",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d0453d627595b632": {
+      "conteudo": "Codecademy",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787477",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a40d9bd4f0b2a072": {
+      "conteudo": "From interactive projects to real-world coding, master JS today for a brighter tomorrow",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.787529",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "472d858d6693becf",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0eb42ac4a5a8a585",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e0f4f767ac88a930",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "bafd151a86f9a573",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a662a85561ac8b7c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "85b22b7d28199a02",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "6f37711ac94bf292",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "397b6e9259c8787c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "472d858d6693becf": {
+      "conteudo": "brighter",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787672",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "0eb42ac4a5a8a585": {
+      "conteudo": "interactive",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript",
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf",
+        "https://dbcode.io/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.787769",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e0f4f767ac88a930": {
+      "conteudo": "today",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787817",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "bafd151a86f9a573": {
+      "conteudo": "tomorrow",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codecademy.com/catalog/language/javascript"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.787878",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a662a85561ac8b7c": {
+      "conteudo": "de 2025 · The JavaScript Guide shows you how to use JavaScript and gives an overview of the language",
+      "tipo": "fato",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.787982",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ea325d761f98c6b7",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "64ea62de2928a9ac",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "85b22b7d28199a02",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "fbcb5619d7194744",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "e252704016f1e0b2",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "d080c523735ebd94",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ea325d761f98c6b7": {
+      "conteudo": "an",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.788159",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "64ea62de2928a9ac": {
+      "conteudo": "gives",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.788218",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "85b22b7d28199a02": {
+      "conteudo": "If you need exhaustive information about a language feature, have a look at the …",
+      "tipo": "fato",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.788265",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "2ad5623197671570",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a4262e1c9bcbc172",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "193c45b5281908d2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "76329da9f8085b2c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "be8dff00b0d468b2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6f37711ac94bf292",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "397b6e9259c8787c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "fbcb5619d7194744",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "11618fd90a09d758",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "2ad5623197671570": {
+      "conteudo": "feature",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.788403",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a4262e1c9bcbc172": {
+      "conteudo": "about",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+        "https://www.exasol.com/hub/database/design-step-by-step/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.788450",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "193c45b5281908d2": {
+      "conteudo": "have",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.788503",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "76329da9f8085b2c": {
+      "conteudo": "exhaustive",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.788551",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "be8dff00b0d468b2": {
+      "conteudo": "need",
+      "tipo": "conceito",
+      "fontes": [
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.788597",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6f37711ac94bf292": {
+      "conteudo": "de 2023 · O JavaScript agora também é a linguagem que alimenta bancos de dados e muitas outras aplicações",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.788719",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "960e9d12f2c0fc86",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "f7070d57bbe5496e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d9cbe02fb4d6f16b",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "960e9d12f2c0fc86": {
+      "conteudo": "alimenta",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.788910",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "f7070d57bbe5496e": {
+      "conteudo": "agora",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.788959",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d9cbe02fb4d6f16b": {
+      "conteudo": "bancos",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.789004",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "397b6e9259c8787c": {
+      "conteudo": "É possível, até, desenvolver aplicações embarcadas, aplicações para …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.789053",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "eb8ac47ac42330a2",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "da94b3b757c8e8f1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a1453f380fa9f1a0",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fbcb5619d7194744",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "11618fd90a09d758",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "1ddc40917cf65a9e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "d840119394699c90",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "eb8ac47ac42330a2": {
+      "conteudo": "desenvolver",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.789174",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "da94b3b757c8e8f1": {
+      "conteudo": "embarcadas",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.789221",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a1453f380fa9f1a0": {
+      "conteudo": "para",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.789269",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fbcb5619d7194744": {
+      "conteudo": "3 dias atrás · Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more",
+      "tipo": "fato",
+      "fontes": [
+        "https://javascript.info/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.789377",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "187897ce0afcf20b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "43cc23fa52b87b4c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c26982b1425da26a",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "eef6c7f6ddd4067e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9c0c1e75e6f9edfc",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e252704016f1e0b2",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "d080c523735ebd94",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "351787eadec0d2c6",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "5b2b199fbb972bf0",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "43cc23fa52b87b4c": {
+      "conteudo": "document",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript.info/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.789602",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c26982b1425da26a": {
+      "conteudo": "Tutorial",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript.info/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.789650",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "eef6c7f6ddd4067e": {
+      "conteudo": "Modern",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript.info/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.789696",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9c0c1e75e6f9edfc": {
+      "conteudo": "explanations",
+      "tipo": "conceito",
+      "fontes": [
+        "https://javascript.info/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.789776",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d840119394699c90": {
+      "conteudo": "JavaScript is a versatile programming language essential for creating dynamic and interactive web applications",
+      "tipo": "fato",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.790182",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "0eb42ac4a5a8a585",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a4ef304ba42a200b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fd54e5a82e36d787",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fa51fd49abf67705",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "785a11075e8d68e8",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "a662a85561ac8b7c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "85b22b7d28199a02",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "fbcb5619d7194744",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "a4ef304ba42a200b": {
+      "conteudo": "language",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.790336",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fd54e5a82e36d787": {
+      "conteudo": "applications",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.790381",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "785a11075e8d68e8": {
+      "conteudo": "This guide introduces JavaScript fundamentals, including variables, data types, …",
+      "tipo": "fato",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.790438",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "83ca68be6227af2f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3a6eb0790f39ac87",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b27ad06d123c6145",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8d8460221bf4eb29",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "86e1de74820a9b25",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "83ca68be6227af2f": {
+      "conteudo": "guide",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.790552",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "3a6eb0790f39ac87": {
+      "conteudo": "data",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.790594",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8d8460221bf4eb29": {
+      "conteudo": "types",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.790656",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "86e1de74820a9b25": {
+      "conteudo": "This",
+      "tipo": "conceito",
+      "fontes": [
+        "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.790712",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e252704016f1e0b2": {
+      "conteudo": "de 2025 · Learn what JavaScript is, how it works, and why it's essential for web development in this beginner-friendly guide with practical examples and code snippets",
+      "tipo": "fato",
+      "fontes": [
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.791288",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5694d08a2e53ffca",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ce78afd0e6a225ec",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fa51fd49abf67705",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "582967534d0f909d",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "5694d08a2e53ffca": {
+      "conteudo": "code",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.791510",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "582967534d0f909d": {
+      "conteudo": "in",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.791577",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d080c523735ebd94": {
+      "conteudo": "de 2026 · DB Designer is a web application that lets you design your database schema without writing SQL",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.791685",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1216b2a88975f9d3",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ee871105e875f3de",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8e7fc0236af43df9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "351787eadec0d2c6",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "5b2b199fbb972bf0",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "96248995ad9f6eea",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "2e688793f628e3b3",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "a77de8a6daa11295": {
+      "conteudo": "design",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/",
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/",
+        "https://blog.devart.com/sql-database-design-basics-with-example.html",
+        "https://www.alps.academy/relational-database-design/",
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/",
+        "https://www.exasol.com/hub/database/design-step-by-step/",
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
+        "https://github.com/topics/database-design",
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 1.0500000000000005,
+      "criado": "2026-03-13T14:16:01.791865",
+      "acessos": 12,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "1216b2a88975f9d3": {
+      "conteudo": "without",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.791913",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "ee871105e875f3de": {
+      "conteudo": "writing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.791954",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8e7fc0236af43df9": {
+      "conteudo": "that",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/",
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.792004",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "351787eadec0d2c6": {
+      "conteudo": "You can import, export, reverse engineer, collaborate and share your database …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.792056",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "c66ebd0878c92a09",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d942f64886578d87",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d46aee08cc49f6d1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "08b041935798fbf6",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9f584196e7fe6de8",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "c66ebd0878c92a09": {
+      "conteudo": "collaborate",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.792175",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d942f64886578d87": {
+      "conteudo": "import",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.792219",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d46aee08cc49f6d1": {
+      "conteudo": "export",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.792261",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "08b041935798fbf6": {
+      "conteudo": "You",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.792303",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9f584196e7fe6de8": {
+      "conteudo": "can",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.dbdesigner.net/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.792351",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5b2b199fbb972bf0": {
+      "conteudo": "Design de banco de dados é uma coleção de processos que facilitam o projeto, desenvolvimento, implementação e manutenção de sistemas de …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.guru99.com/pt/database-design.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.792454",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0072e6b934945d5b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "21209597f685c8be",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c57b7501cd843672",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3658c834b24e31a0",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "96248995ad9f6eea",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "2e688793f628e3b3",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "5844db796fb29e3e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "047636d7de5f66a6",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "0072e6b934945d5b": {
+      "conteudo": "Design",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.guru99.com/pt/database-design.html",
+        "https://hevodata.com/learn/schema-example/",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.792641",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "21209597f685c8be": {
+      "conteudo": "dados",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.guru99.com/pt/database-design.html",
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 0.7000000000000002,
+      "criado": "2026-03-13T14:16:01.792686",
+      "acessos": 5,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "3658c834b24e31a0": {
+      "conteudo": "sistemas",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.guru99.com/pt/database-design.html"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.792770",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "96248995ad9f6eea": {
+      "conteudo": "Database design, ou design de banco de dados, refere-se ao processo de estruturar e organizar dados de forma eficiente e eficaz",
+      "tipo": "fato",
+      "fontes": [
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.792867",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "94034cb2883a054d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "21209597f685c8be",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "2e688793f628e3b3",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "892a0f5018cf11ed",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "f10ebefc99a1381e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "c8adce034393e83f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "94034cb2883a054d": {
+      "conteudo": "eficaz",
+      "tipo": "conceito",
+      "fontes": [
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.793049",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "2e688793f628e3b3": {
+      "conteudo": "Este processo envolve a definição de como os dados serão …",
+      "tipo": "fato",
+      "fontes": [
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.793114",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ea3dc747f15400ac",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "21209597f685c8be",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "840a8dcfeae95966",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d6ab22084cc52159",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5844db796fb29e3e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "047636d7de5f66a6",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "61d7781edee41aec",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "e9f0ff0f0f65793e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ea3dc747f15400ac": {
+      "conteudo": "como",
+      "tipo": "conceito",
+      "fontes": [
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.793223",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d6ab22084cc52159": {
+      "conteudo": "Este",
+      "tipo": "conceito",
+      "fontes": [
+        "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.793284",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5844db796fb29e3e": {
+      "conteudo": "书籍推荐 fundamentals of database systems 7th edition solutions, by Ramez Elmasri, Shamkant B",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.793379",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "42e29d0bfeec5a34",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "64a3f18ab4fab299",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "df7e70e5021544f4",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "23fc951e49177312",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a7e2d26e8d15814d",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "42e29d0bfeec5a34": {
+      "conteudo": "Shamkant",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793509",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "64a3f18ab4fab299": {
+      "conteudo": "fundamentals",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793567",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "df7e70e5021544f4": {
+      "conteudo": "B",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793609",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "23fc951e49177312": {
+      "conteudo": "solutions",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793656",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a7e2d26e8d15814d": {
+      "conteudo": "by",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824",
+        "https://www.zhihu.com/question/564687378"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.793697",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "047636d7de5f66a6": {
+      "conteudo": "Navathe Database System Concepts Seventh Edition, by Silberschatz, Korth and Sudarshan 中文 …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.793753",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "aa59b11eae76ce7c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8bf1d07ca236637d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "c1c71dc60de65612",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6201111b83a0cb5b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fa7fe67124e94375",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "61d7781edee41aec",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "e9f0ff0f0f65793e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "61b1fc4fc0ff77f5",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "48a17781000ed527",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "aa59b11eae76ce7c": {
+      "conteudo": "Sudarshan",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793868",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8bf1d07ca236637d": {
+      "conteudo": "Navathe",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793911",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c1c71dc60de65612": {
+      "conteudo": "Korth",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793950",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6201111b83a0cb5b": {
+      "conteudo": "and",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.793989",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fa7fe67124e94375": {
+      "conteudo": "Database",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/20614824"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794028",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "61d7781edee41aec": {
+      "conteudo": "Database Design and Implementation, by Edward Sciore Database System Implementation， by Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom 中文版：《数据库系统实现》 This book has been …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.zhihu.com/question/564687378"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.794137",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "1cff7713912f5d53",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "92719fe0cf8cd515",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a7e2d26e8d15814d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "aea5a5ee6792fab3",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "1cff7713912f5d53": {
+      "conteudo": "Implementation",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/564687378"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794337",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "92719fe0cf8cd515": {
+      "conteudo": "book",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/564687378"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794388",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "aea5a5ee6792fab3": {
+      "conteudo": "Jeff",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.zhihu.com/question/564687378"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794438",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e9f0ff0f0f65793e": {
+      "conteudo": "Here are the 5 key Database Design along with the Schema Examples: 1",
+      "tipo": "fato",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.794557",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "ef2d127de37b942b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "aa3b17600d88d316",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0072e6b934945d5b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6b86b273ff34fce1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "768c49c9383c77ac",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "61b1fc4fc0ff77f5",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "48a17781000ed527",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "03ec659c8916bb50",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "3f7a108963843a9c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ef2d127de37b942b": {
+      "conteudo": "5",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794666",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "aa3b17600d88d316": {
+      "conteudo": "Here",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794732",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6b86b273ff34fce1": {
+      "conteudo": "1",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794786",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "768c49c9383c77ac": {
+      "conteudo": "along",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.794848",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "61b1fc4fc0ff77f5": {
+      "conteudo": "Financial TransactionDatabase schemas define a database’s architecture and help to ensure database fundamentals such as the following: 1",
+      "tipo": "fato",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.794928",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "4ca303a3bf7ddf7b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e97ba691189f51ad",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "106a5842fc5fce6f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ecd38f260821a09a",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "4ca303a3bf7ddf7b": {
+      "conteudo": "architecture",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795095",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e97ba691189f51ad": {
+      "conteudo": "Financial",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795189",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "106a5842fc5fce6f": {
+      "conteudo": "help",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/",
+        "https://dbdiagram.io/home/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.795261",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "ecd38f260821a09a": {
+      "conteudo": "define",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795304",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "48a17781000ed527": {
+      "conteudo": "A da…A Schema organizes data into Tables with appropriate Attributes, shows the interrelationships between Tables and Columns, and imposes constraints such as Data types",
+      "tipo": "fato",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.795346",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "c39a7d54f55beb00",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "bc846fddca885326",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a5c935d142e9fa6e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "cec3a9b89b2e3913",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fbb27fbdc4f4dd04",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "03ec659c8916bb50",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "3f7a108963843a9c",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "939485fac82b0b56",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "687b64cf5c69d73f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "c39a7d54f55beb00": {
+      "conteudo": "appropriate",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795553",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "bc846fddca885326": {
+      "conteudo": "organizes",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795585",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a5c935d142e9fa6e": {
+      "conteudo": "such",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795616",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "fbb27fbdc4f4dd04": {
+      "conteudo": "between",
+      "tipo": "conceito",
+      "fontes": [
+        "https://hevodata.com/learn/schema-example/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795652",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "03ec659c8916bb50": {
+      "conteudo": "de 2024 · The first article of the series explains the basic concepts of database design and shows how to create a database schema providing a vivid example",
+      "tipo": "fato",
+      "fontes": [
+        "https://blog.devart.com/sql-database-design-basics-with-example.html"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.795761",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6557739a67283a8d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "84393add8c489d33",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b344d80e24a36799",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "df0ad6e43880f09c",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "6557739a67283a8d": {
+      "conteudo": "2024",
+      "tipo": "conceito",
+      "fontes": [
+        "https://blog.devart.com/sql-database-design-basics-with-example.html"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795876",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "84393add8c489d33": {
+      "conteudo": "article",
+      "tipo": "conceito",
+      "fontes": [
+        "https://blog.devart.com/sql-database-design-basics-with-example.html",
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/"
+      ],
+      "peso": 0.6000000000000001,
+      "criado": "2026-03-13T14:16:01.795910",
+      "acessos": 3,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "df0ad6e43880f09c": {
+      "conteudo": "schema",
+      "tipo": "conceito",
+      "fontes": [
+        "https://blog.devart.com/sql-database-design-basics-with-example.html"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.795948",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "3f7a108963843a9c": {
+      "conteudo": "Relational database design is the process of organizing data into tables and relationships",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.796015",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "bde0140b3c4a6ef0",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8346862a9c870a53",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "19ed40bf62c399b8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "fa51fd49abf67705",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "939485fac82b0b56",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "687b64cf5c69d73f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "691df87f82920eda",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "683aef7f17aaa958",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "bde0140b3c4a6ef0": {
+      "conteudo": "organizing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.796094",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8346862a9c870a53": {
+      "conteudo": "relationships",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/",
+        "https://dbcode.io/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.796134",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "19ed40bf62c399b8": {
+      "conteudo": "process",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/",
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.796165",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "939485fac82b0b56": {
+      "conteudo": "A good design makes it easy to store, retrieve, and update data",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.796209",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "97c10efe01d5c9c8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "824d80d71985f082",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "559aead08264d579",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "824d80d71985f082": {
+      "conteudo": "store",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.796312",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "559aead08264d579": {
+      "conteudo": "A",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.alps.academy/relational-database-design/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.796343",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "687b64cf5c69d73f": {
+      "conteudo": "de 2025 · In this article we will explore the basics of database design, covering key stages: requirements analysis, conceptual design, logical design, and physical design",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/"
+      ],
+      "peso": 1.1,
+      "criado": "2026-03-13T14:16:01.796414",
+      "acessos": 2,
+      "conexoes": [
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ac7f39a1e0b7bcd0",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "84393add8c489d33",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ad5fb69f39914e76",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "4b60d190e95e5769",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "691df87f82920eda",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "683aef7f17aaa958",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "f6242e13addd6cbc",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "b997e70813ee558e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ac7f39a1e0b7bcd0": {
+      "conteudo": "logical",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.796556",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "ad5fb69f39914e76": {
+      "conteudo": "basics",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.796594",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "4b60d190e95e5769": {
+      "conteudo": "physical",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.796624",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "691df87f82920eda": {
+      "conteudo": "de 2026 · Learn everything about designing a database: step by step, examples, and a complete DB design tutorial",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.exasol.com/hub/database/design-step-by-step/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.796690",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a4262e1c9bcbc172",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "19a6a9dc4d3816ae",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a0a44ed8cfc32b7e",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "19a6a9dc4d3816ae": {
+      "conteudo": "designing",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.exasol.com/hub/database/design-step-by-step/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.796868",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a0a44ed8cfc32b7e": {
+      "conteudo": "everything",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.exasol.com/hub/database/design-step-by-step/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.796908",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "683aef7f17aaa958": {
+      "conteudo": "de 2025 · We’ll also cover the different stages of the database design process, as well as its key principles, focusing specifically on the design of relational databases",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.796990",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "a7722b765d15608d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "64b218956223eb12",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3fa405a8301ace34",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "959a45d44e6fcf58",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "f6242e13addd6cbc",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "b997e70813ee558e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "9f8081e84736ddc5",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "dfb9cf4b01a265de",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "a7722b765d15608d": {
+      "conteudo": "well",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797160",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "64b218956223eb12": {
+      "conteudo": "principles",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797212",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "3fa405a8301ace34": {
+      "conteudo": "cover",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797253",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "f6242e13addd6cbc": {
+      "conteudo": "DBCode auto-generates interactive ER diagrams so you can literally see how your tables connect",
+      "tipo": "fato",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.797364",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "0eb42ac4a5a8a585",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "7a475a8b0a074fa8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "5a638a128ca67348",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8d6c9c8d5ab509cc",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "929260ad9b9ea9fe",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "7a475a8b0a074fa8": {
+      "conteudo": "ER",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797479",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "5a638a128ca67348": {
+      "conteudo": "connect",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797517",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8d6c9c8d5ab509cc": {
+      "conteudo": "DBCode",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797555",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "929260ad9b9ea9fe": {
+      "conteudo": "auto",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797596",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b997e70813ee558e": {
+      "conteudo": "Drag, zoom, and arrange to untangle complex relationships — no separate modeling tool needed",
+      "tipo": "fato",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.797640",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "8346862a9c870a53",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "f11c5c19583e9b8b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "80ed840f94f7d1bd",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d21bb537725d603e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9f8081e84736ddc5",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "dfb9cf4b01a265de",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "b34c143264a8b428",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "df8fd29405b8d12e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "f11c5c19583e9b8b": {
+      "conteudo": "untangle",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797870",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "80ed840f94f7d1bd": {
+      "conteudo": "separate",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797918",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d21bb537725d603e": {
+      "conteudo": "zoom",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbcode.io/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.797956",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9f8081e84736ddc5": {
+      "conteudo": "Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language",
+      "tipo": "fato",
+      "fontes": [
+        "https://dbdiagram.io/home/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.798061",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "ad95d5fa651ba86d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "663ea1bfffe5038f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "106a5842fc5fce6f",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a24e10fde71a121a",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9f49fadb6a863305",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "ad95d5fa651ba86d": {
+      "conteudo": "free",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbdiagram.io/home/",
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.55,
+      "criado": "2026-03-13T14:16:01.798203",
+      "acessos": 2,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "a24e10fde71a121a": {
+      "conteudo": "using",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbdiagram.io/home/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798271",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9f49fadb6a863305": {
+      "conteudo": "Quick",
+      "tipo": "conceito",
+      "fontes": [
+        "https://dbdiagram.io/home/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798311",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "dfb9cf4b01a265de": {
+      "conteudo": "de 2025 · Free visual database design tool with drag-and-move editing, multi-format export, and migration generation for popular frameworks",
+      "tipo": "fato",
+      "fontes": [
+        "https://github.com/topics/database-design"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.798386",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "683a62ce15fbabb1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e2aa269eb967a885",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "e661f4c935e8a5a8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "b34c143264a8b428",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "df8fd29405b8d12e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "687b64cf5c69d73f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "96248995ad9f6eea",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "683a62ce15fbabb1": {
+      "conteudo": "move",
+      "tipo": "conceito",
+      "fontes": [
+        "https://github.com/topics/database-design"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798561",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e2aa269eb967a885": {
+      "conteudo": "frameworks",
+      "tipo": "conceito",
+      "fontes": [
+        "https://github.com/topics/database-design"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798599",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "e661f4c935e8a5a8": {
+      "conteudo": "generation",
+      "tipo": "conceito",
+      "fontes": [
+        "https://github.com/topics/database-design"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798635",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "b34c143264a8b428": {
+      "conteudo": "Online database entity-realtionship diagram editor, data modeler, and SQL generator",
+      "tipo": "fato",
+      "fontes": [
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.798735",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "3a6eb0790f39ac87",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "bca3685fea8acd4e",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0d21bd52022ca7f7",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9123dcbb0b42652b",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "bca3685fea8acd4e": {
+      "conteudo": "entity",
+      "tipo": "conceito",
+      "fontes": [
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798844",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "0d21bd52022ca7f7": {
+      "conteudo": "Online",
+      "tipo": "conceito",
+      "fontes": [
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798890",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9123dcbb0b42652b": {
+      "conteudo": "generator",
+      "tipo": "conceito",
+      "fontes": [
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.798924",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "df8fd29405b8d12e": {
+      "conteudo": "Design, visualize, and export scripts without an account and completely free of charge",
+      "tipo": "fato",
+      "fontes": [
+        "https://drawdb.vercel.app/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.798969",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "1216b2a88975f9d3",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ea325d761f98c6b7",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ad95d5fa651ba86d",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "0072e6b934945d5b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d46aee08cc49f6d1",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "687b64cf5c69d73f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "96248995ad9f6eea",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "2e688793f628e3b3",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "892a0f5018cf11ed",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "892a0f5018cf11ed": {
+      "conteudo": "Proper database design is crucial for ensuring data integrity, efficient data retrieval, and ease of maintenance",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.799577",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "a77de8a6daa11295",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "ede828cdf3ce4a75",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8589c63b0943a62b",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "914ff41a2b1acf1c",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "6e51d6a3d90b6a32",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "f10ebefc99a1381e",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        },
+        {
+          "para": "c8adce034393e83f",
+          "tipo": "co_ocorrencia",
+          "forca": 0.3
+        }
+      ],
+      "profundidade": 0
+    },
+    "ede828cdf3ce4a75": {
+      "conteudo": "Proper",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.799715",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "8589c63b0943a62b": {
+      "conteudo": "maintenance",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.799755",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "914ff41a2b1acf1c": {
+      "conteudo": "ease",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.799790",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "6e51d6a3d90b6a32": {
+      "conteudo": "retrieval",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.799834",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "f10ebefc99a1381e": {
+      "conteudo": "This tutorial will guide you through the step - by - step process of SQL database …",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.799872",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "19ed40bf62c399b8",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "3973e022e93220f9",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "a7056a455639d1c7",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "9c6725dc269a48ce",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "28391d3bc64ec15c",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "a7056a455639d1c7": {
+      "conteudo": "SQL",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800008",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "9c6725dc269a48ce": {
+      "conteudo": "through",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800044",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "28391d3bc64ec15c": {
+      "conteudo": "of",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800079",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "c8adce034393e83f": {
+      "conteudo": "de 2023 · Database Design is a collective term for processes that aid in designing, developing, implementing and maintaining enterprise data management systems",
+      "tipo": "fato",
+      "fontes": [
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:16:01.800162",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "9b97ac5e767e5393",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "63d0cce6a4391685",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "d398b29d3dbbb9bf",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "abd4c41da3525476",
+          "tipo": "contem",
+          "forca": 0.8
+        },
+        {
+          "para": "8e7fc0236af43df9",
+          "tipo": "contem",
+          "forca": 0.8
+        }
+      ],
+      "profundidade": 0
+    },
+    "9b97ac5e767e5393": {
+      "conteudo": "enterprise",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800317",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "63d0cce6a4391685": {
+      "conteudo": "maintaining",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800355",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "d398b29d3dbbb9bf": {
+      "conteudo": "2023",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800390",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    },
+    "abd4c41da3525476": {
+      "conteudo": "processes",
+      "tipo": "conceito",
+      "fontes": [
+        "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/"
+      ],
+      "peso": 0.5,
+      "criado": "2026-03-13T14:16:01.800425",
+      "acessos": 1,
+      "conexoes": [],
+      "profundidade": 0
+    }
+  },
   "indices": {
-    "por_tipo": {},
-    "por_fonte": {},
-    "por_conceito": {}
+    "por_tipo": {
+      "fato": [
+        "dba5c6e325032ebc",
+        "91d0079f79eb799f",
+        "a38b901d2bd161e8",
+        "a7e2b87f06f3c328",
+        "59cc180478dd5acf",
+        "bbafc504e66f5724",
+        "271b9c84828c02a4",
+        "50d5db62fec12574",
+        "f887c5566d341f10",
+        "7520692f8eae81ba",
+        "7fc192f67c597790",
+        "e81575879907208b",
+        "aa37a709af01945d",
+        "03a9d8e822aa5887",
+        "196ecf16fe85fb3e",
+        "b65bd4af30e4a3db",
+        "02696044d6d65fe7",
+        "11618fd90a09d758",
+        "1ddc40917cf65a9e",
+        "c89a7132c2bc2273",
+        "a40d9bd4f0b2a072",
+        "a662a85561ac8b7c",
+        "85b22b7d28199a02",
+        "6f37711ac94bf292",
+        "397b6e9259c8787c",
+        "fbcb5619d7194744",
+        "d840119394699c90",
+        "785a11075e8d68e8",
+        "e252704016f1e0b2",
+        "d080c523735ebd94",
+        "351787eadec0d2c6",
+        "5b2b199fbb972bf0",
+        "96248995ad9f6eea",
+        "2e688793f628e3b3",
+        "5844db796fb29e3e",
+        "047636d7de5f66a6",
+        "61d7781edee41aec",
+        "e9f0ff0f0f65793e",
+        "61b1fc4fc0ff77f5",
+        "48a17781000ed527",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "939485fac82b0b56",
+        "687b64cf5c69d73f",
+        "691df87f82920eda",
+        "683aef7f17aaa958",
+        "f6242e13addd6cbc",
+        "b997e70813ee558e",
+        "9f8081e84736ddc5",
+        "dfb9cf4b01a265de",
+        "b34c143264a8b428",
+        "df8fd29405b8d12e",
+        "892a0f5018cf11ed",
+        "f10ebefc99a1381e",
+        "c8adce034393e83f"
+      ],
+      "conceito": [
+        "663ea1bfffe5038f",
+        "b27ad06d123c6145",
+        "c0024f974074ba4e",
+        "95073254037a62ea",
+        "06e55b633481f7bb",
+        "959a45d44e6fcf58",
+        "45d58c208dd0d3e8",
+        "7931aa2a1bed8554",
+        "138b77db6cc2d547",
+        "91fd5ee0231afd47",
+        "5ccfab5b5750d307",
+        "65c74c15a686187b",
+        "6adcc016448d707c",
+        "840a8dcfeae95966",
+        "de38e0881e31dde6",
+        "3973e022e93220f9",
+        "7187f0675eb38279",
+        "e5895263db42699c",
+        "fa51fd49abf67705",
+        "e93cb41d4a7d2395",
+        "be2f0223448086d2",
+        "a83dd0ccbffe39d0",
+        "c7f57f541cb0ade3",
+        "4cd0e21a9a0795a1",
+        "a1fce4363854ff88",
+        "a2a78ada26ac2cbf",
+        "459b1c854153d1dc",
+        "689050b30110139b",
+        "c0bc1e08f9743b2d",
+        "c57b7501cd843672",
+        "8e38c2571d87f6ee",
+        "5f161c9149882e0e",
+        "6006cc6c361062bb",
+        "e57e998726030b84",
+        "cec3a9b89b2e3913",
+        "1325f21d338c7796",
+        "8a5edab282632443",
+        "1e262cd7d110812f",
+        "7dd530c4d36da47c",
+        "9f925cdc4feedda4",
+        "c08f99e3947df0bf",
+        "093a646721516724",
+        "e4cd302972b0cf4e",
+        "52367a6622b19f08",
+        "5ef5ef0364b6939c",
+        "862417b9e7c3720b",
+        "b344d80e24a36799",
+        "0d2e5f939a12d575",
+        "c44762e0a2cfe099",
+        "44c5e7071f3a75a2",
+        "fbb7b5bf4ca348ee",
+        "b8d31e852725afb1",
+        "beeb20fbd6769508",
+        "c9a8dc336964db7f",
+        "d1905cf90af29a5a",
+        "4994ad9e4f40b39e",
+        "1eb79602411ef02c",
+        "ce78afd0e6a225ec",
+        "fe30030e102ecf8f",
+        "22e15f613c5814a5",
+        "0ec9f3e0e287d841",
+        "5b8a8b56dada6ce7",
+        "774cdf08f6a80fc9",
+        "c0f580d8306c4909",
+        "97c10efe01d5c9c8",
+        "187897ce0afcf20b",
+        "faab0dc4735c1cfe",
+        "5d8ac3ca438dc713",
+        "2975104784a401e3",
+        "5ca4f3850ccc331a",
+        "17ae69cc7e460477",
+        "ed5eb9a37e2d8231",
+        "b708724a23bf11c2",
+        "41cf6794ba4200b8",
+        "262121c5372be8af",
+        "32c1cf49a2feee26",
+        "12f300e16c5a5274",
+        "936e5cc5021d8a07",
+        "d0453d627595b632",
+        "472d858d6693becf",
+        "0eb42ac4a5a8a585",
+        "e0f4f767ac88a930",
+        "bafd151a86f9a573",
+        "ea325d761f98c6b7",
+        "64ea62de2928a9ac",
+        "2ad5623197671570",
+        "a4262e1c9bcbc172",
+        "193c45b5281908d2",
+        "76329da9f8085b2c",
+        "be8dff00b0d468b2",
+        "960e9d12f2c0fc86",
+        "f7070d57bbe5496e",
+        "d9cbe02fb4d6f16b",
+        "eb8ac47ac42330a2",
+        "da94b3b757c8e8f1",
+        "a1453f380fa9f1a0",
+        "43cc23fa52b87b4c",
+        "c26982b1425da26a",
+        "eef6c7f6ddd4067e",
+        "9c0c1e75e6f9edfc",
+        "a4ef304ba42a200b",
+        "fd54e5a82e36d787",
+        "83ca68be6227af2f",
+        "3a6eb0790f39ac87",
+        "8d8460221bf4eb29",
+        "86e1de74820a9b25",
+        "5694d08a2e53ffca",
+        "582967534d0f909d",
+        "a77de8a6daa11295",
+        "1216b2a88975f9d3",
+        "ee871105e875f3de",
+        "8e7fc0236af43df9",
+        "c66ebd0878c92a09",
+        "d942f64886578d87",
+        "d46aee08cc49f6d1",
+        "08b041935798fbf6",
+        "9f584196e7fe6de8",
+        "0072e6b934945d5b",
+        "21209597f685c8be",
+        "3658c834b24e31a0",
+        "94034cb2883a054d",
+        "ea3dc747f15400ac",
+        "d6ab22084cc52159",
+        "42e29d0bfeec5a34",
+        "64a3f18ab4fab299",
+        "df7e70e5021544f4",
+        "23fc951e49177312",
+        "a7e2d26e8d15814d",
+        "aa59b11eae76ce7c",
+        "8bf1d07ca236637d",
+        "c1c71dc60de65612",
+        "6201111b83a0cb5b",
+        "fa7fe67124e94375",
+        "1cff7713912f5d53",
+        "92719fe0cf8cd515",
+        "aea5a5ee6792fab3",
+        "ef2d127de37b942b",
+        "aa3b17600d88d316",
+        "6b86b273ff34fce1",
+        "768c49c9383c77ac",
+        "4ca303a3bf7ddf7b",
+        "e97ba691189f51ad",
+        "106a5842fc5fce6f",
+        "ecd38f260821a09a",
+        "c39a7d54f55beb00",
+        "bc846fddca885326",
+        "a5c935d142e9fa6e",
+        "fbb27fbdc4f4dd04",
+        "6557739a67283a8d",
+        "84393add8c489d33",
+        "df0ad6e43880f09c",
+        "bde0140b3c4a6ef0",
+        "8346862a9c870a53",
+        "19ed40bf62c399b8",
+        "824d80d71985f082",
+        "559aead08264d579",
+        "ac7f39a1e0b7bcd0",
+        "ad5fb69f39914e76",
+        "4b60d190e95e5769",
+        "19a6a9dc4d3816ae",
+        "a0a44ed8cfc32b7e",
+        "a7722b765d15608d",
+        "64b218956223eb12",
+        "3fa405a8301ace34",
+        "7a475a8b0a074fa8",
+        "5a638a128ca67348",
+        "8d6c9c8d5ab509cc",
+        "929260ad9b9ea9fe",
+        "f11c5c19583e9b8b",
+        "80ed840f94f7d1bd",
+        "d21bb537725d603e",
+        "ad95d5fa651ba86d",
+        "a24e10fde71a121a",
+        "9f49fadb6a863305",
+        "683a62ce15fbabb1",
+        "e2aa269eb967a885",
+        "e661f4c935e8a5a8",
+        "bca3685fea8acd4e",
+        "0d21bd52022ca7f7",
+        "9123dcbb0b42652b",
+        "ede828cdf3ce4a75",
+        "8589c63b0943a62b",
+        "914ff41a2b1acf1c",
+        "6e51d6a3d90b6a32",
+        "a7056a455639d1c7",
+        "9c6725dc269a48ce",
+        "28391d3bc64ec15c",
+        "9b97ac5e767e5393",
+        "63d0cce6a4391685",
+        "d398b29d3dbbb9bf",
+        "abd4c41da3525476"
+      ]
+    },
+    "por_fonte": {
+      "https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or": [
+        "dba5c6e325032ebc",
+        "663ea1bfffe5038f",
+        "b27ad06d123c6145",
+        "c0024f974074ba4e",
+        "95073254037a62ea",
+        "06e55b633481f7bb"
+      ],
+      "https://pt.stackoverflow.com/questions/7/qual-a-diferença-entre-os-operadores-e-em-javascript": [
+        "91d0079f79eb799f",
+        "959a45d44e6fcf58",
+        "45d58c208dd0d3e8",
+        "7931aa2a1bed8554",
+        "138b77db6cc2d547",
+        "a38b901d2bd161e8",
+        "91fd5ee0231afd47",
+        "5ccfab5b5750d307",
+        "65c74c15a686187b",
+        "6adcc016448d707c",
+        "840a8dcfeae95966"
+      ],
+      "https://stackoverflow.com/questions/2100758/javascript-or-variable-assignment-explanation": [
+        "a7e2b87f06f3c328",
+        "de38e0881e31dde6",
+        "3973e022e93220f9",
+        "7187f0675eb38279",
+        "e5895263db42699c",
+        "fa51fd49abf67705"
+      ],
+      "https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons": [
+        "59cc180478dd5acf",
+        "e93cb41d4a7d2395",
+        "be2f0223448086d2",
+        "a83dd0ccbffe39d0",
+        "c7f57f541cb0ade3",
+        "4cd0e21a9a0795a1"
+      ],
+      "https://support.google.com/admanager/answer/12654?hl=es": [
+        "bbafc504e66f5724",
+        "a1fce4363854ff88",
+        "a2a78ada26ac2cbf",
+        "459b1c854153d1dc",
+        "271b9c84828c02a4",
+        "689050b30110139b",
+        "c0bc1e08f9743b2d",
+        "c57b7501cd843672",
+        "8e38c2571d87f6ee"
+      ],
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide": [
+        "50d5db62fec12574",
+        "5f161c9149882e0e",
+        "6006cc6c361062bb",
+        "e57e998726030b84",
+        "cec3a9b89b2e3913",
+        "1325f21d338c7796",
+        "f887c5566d341f10",
+        "8a5edab282632443",
+        "1e262cd7d110812f",
+        "7dd530c4d36da47c",
+        "9f925cdc4feedda4",
+        "c08f99e3947df0bf",
+        "a662a85561ac8b7c",
+        "ea325d761f98c6b7",
+        "64ea62de2928a9ac",
+        "85b22b7d28199a02",
+        "2ad5623197671570",
+        "a4262e1c9bcbc172",
+        "193c45b5281908d2",
+        "76329da9f8085b2c",
+        "be8dff00b0d468b2"
+      ],
+      "https://www.w3schools.com/Js/": [
+        "7520692f8eae81ba",
+        "093a646721516724",
+        "e4cd302972b0cf4e",
+        "52367a6622b19f08",
+        "5ef5ef0364b6939c",
+        "7fc192f67c597790",
+        "862417b9e7c3720b",
+        "b344d80e24a36799",
+        "0d2e5f939a12d575",
+        "11618fd90a09d758",
+        "5ca4f3850ccc331a",
+        "17ae69cc7e460477",
+        "1ddc40917cf65a9e",
+        "ed5eb9a37e2d8231",
+        "b708724a23bf11c2",
+        "41cf6794ba4200b8",
+        "262121c5372be8af"
+      ],
+      "https://www.programiz.com/javascript/examples": [
+        "e81575879907208b",
+        "c44762e0a2cfe099",
+        "44c5e7071f3a75a2",
+        "aa37a709af01945d",
+        "fbb7b5bf4ca348ee",
+        "b8d31e852725afb1",
+        "beeb20fbd6769508",
+        "03a9d8e822aa5887",
+        "c9a8dc336964db7f",
+        "d1905cf90af29a5a"
+      ],
+      "https://javascript-tutor.net/": [
+        "196ecf16fe85fb3e",
+        "4994ad9e4f40b39e",
+        "1eb79602411ef02c",
+        "ce78afd0e6a225ec",
+        "fe30030e102ecf8f",
+        "b65bd4af30e4a3db",
+        "22e15f613c5814a5",
+        "0ec9f3e0e287d841",
+        "5b8a8b56dada6ce7",
+        "774cdf08f6a80fc9",
+        "c0f580d8306c4909"
+      ],
+      "https://www.w3schools.com/js/js_examples.asp": [
+        "02696044d6d65fe7",
+        "97c10efe01d5c9c8",
+        "187897ce0afcf20b",
+        "faab0dc4735c1cfe",
+        "5d8ac3ca438dc713",
+        "2975104784a401e3"
+      ],
+      "https://www.codecademy.com/catalog/language/javascript": [
+        "c89a7132c2bc2273",
+        "32c1cf49a2feee26",
+        "12f300e16c5a5274",
+        "936e5cc5021d8a07",
+        "d0453d627595b632",
+        "a40d9bd4f0b2a072",
+        "472d858d6693becf",
+        "0eb42ac4a5a8a585",
+        "e0f4f767ac88a930",
+        "bafd151a86f9a573"
+      ],
+      "https://www.freecodecamp.org/portuguese/news/o-manual-de-javascript-para-iniciantes/": [
+        "6f37711ac94bf292",
+        "960e9d12f2c0fc86",
+        "f7070d57bbe5496e",
+        "d9cbe02fb4d6f16b",
+        "397b6e9259c8787c",
+        "eb8ac47ac42330a2",
+        "da94b3b757c8e8f1",
+        "a1453f380fa9f1a0"
+      ],
+      "https://javascript.info/": [
+        "fbcb5619d7194744",
+        "43cc23fa52b87b4c",
+        "c26982b1425da26a",
+        "eef6c7f6ddd4067e",
+        "9c0c1e75e6f9edfc"
+      ],
+      "https://basescripts.com/wp-content/uploads/2024/11/JavaScript-Basics_-Comprehensive-Guide.pdf": [
+        "d840119394699c90",
+        "a4ef304ba42a200b",
+        "fd54e5a82e36d787",
+        "785a11075e8d68e8",
+        "83ca68be6227af2f",
+        "3a6eb0790f39ac87",
+        "8d8460221bf4eb29",
+        "86e1de74820a9b25"
+      ],
+      "https://dev.to/abdelhakim_baalla/javascript-explained-beginners-ultimate-guide-c0d": [
+        "e252704016f1e0b2",
+        "5694d08a2e53ffca",
+        "582967534d0f909d"
+      ],
+      "https://www.dbdesigner.net/": [
+        "d080c523735ebd94",
+        "a77de8a6daa11295",
+        "1216b2a88975f9d3",
+        "ee871105e875f3de",
+        "8e7fc0236af43df9",
+        "351787eadec0d2c6",
+        "c66ebd0878c92a09",
+        "d942f64886578d87",
+        "d46aee08cc49f6d1",
+        "08b041935798fbf6",
+        "9f584196e7fe6de8"
+      ],
+      "https://www.guru99.com/pt/database-design.html": [
+        "5b2b199fbb972bf0",
+        "0072e6b934945d5b",
+        "21209597f685c8be",
+        "3658c834b24e31a0"
+      ],
+      "https://techtunes.com.br/glossario/database-design-estrutura-e-importancia/": [
+        "96248995ad9f6eea",
+        "94034cb2883a054d",
+        "2e688793f628e3b3",
+        "ea3dc747f15400ac",
+        "d6ab22084cc52159"
+      ],
+      "https://www.zhihu.com/question/20614824": [
+        "5844db796fb29e3e",
+        "42e29d0bfeec5a34",
+        "64a3f18ab4fab299",
+        "df7e70e5021544f4",
+        "23fc951e49177312",
+        "a7e2d26e8d15814d",
+        "047636d7de5f66a6",
+        "aa59b11eae76ce7c",
+        "8bf1d07ca236637d",
+        "c1c71dc60de65612",
+        "6201111b83a0cb5b",
+        "fa7fe67124e94375"
+      ],
+      "https://www.zhihu.com/question/564687378": [
+        "61d7781edee41aec",
+        "1cff7713912f5d53",
+        "92719fe0cf8cd515",
+        "aea5a5ee6792fab3"
+      ],
+      "https://hevodata.com/learn/schema-example/": [
+        "e9f0ff0f0f65793e",
+        "ef2d127de37b942b",
+        "aa3b17600d88d316",
+        "6b86b273ff34fce1",
+        "768c49c9383c77ac",
+        "61b1fc4fc0ff77f5",
+        "4ca303a3bf7ddf7b",
+        "e97ba691189f51ad",
+        "106a5842fc5fce6f",
+        "ecd38f260821a09a",
+        "48a17781000ed527",
+        "c39a7d54f55beb00",
+        "bc846fddca885326",
+        "a5c935d142e9fa6e",
+        "fbb27fbdc4f4dd04"
+      ],
+      "https://blog.devart.com/sql-database-design-basics-with-example.html": [
+        "03ec659c8916bb50",
+        "6557739a67283a8d",
+        "84393add8c489d33",
+        "df0ad6e43880f09c"
+      ],
+      "https://www.alps.academy/relational-database-design/": [
+        "3f7a108963843a9c",
+        "bde0140b3c4a6ef0",
+        "8346862a9c870a53",
+        "19ed40bf62c399b8",
+        "939485fac82b0b56",
+        "824d80d71985f082",
+        "559aead08264d579"
+      ],
+      "https://www.geeksforgeeks.org/dbms/database-design-fundamentals/": [
+        "687b64cf5c69d73f",
+        "ac7f39a1e0b7bcd0",
+        "ad5fb69f39914e76",
+        "4b60d190e95e5769"
+      ],
+      "https://www.exasol.com/hub/database/design-step-by-step/": [
+        "691df87f82920eda",
+        "19a6a9dc4d3816ae",
+        "a0a44ed8cfc32b7e"
+      ],
+      "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/": [
+        "683aef7f17aaa958",
+        "a7722b765d15608d",
+        "64b218956223eb12",
+        "3fa405a8301ace34"
+      ],
+      "https://dbcode.io/": [
+        "f6242e13addd6cbc",
+        "7a475a8b0a074fa8",
+        "5a638a128ca67348",
+        "8d6c9c8d5ab509cc",
+        "929260ad9b9ea9fe",
+        "b997e70813ee558e",
+        "f11c5c19583e9b8b",
+        "80ed840f94f7d1bd",
+        "d21bb537725d603e"
+      ],
+      "https://dbdiagram.io/home/": [
+        "9f8081e84736ddc5",
+        "ad95d5fa651ba86d",
+        "a24e10fde71a121a",
+        "9f49fadb6a863305"
+      ],
+      "https://github.com/topics/database-design": [
+        "dfb9cf4b01a265de",
+        "683a62ce15fbabb1",
+        "e2aa269eb967a885",
+        "e661f4c935e8a5a8"
+      ],
+      "https://drawdb.vercel.app/": [
+        "b34c143264a8b428",
+        "bca3685fea8acd4e",
+        "0d21bd52022ca7f7",
+        "9123dcbb0b42652b",
+        "df8fd29405b8d12e"
+      ],
+      "https://www.codestudy.net/sql-database-design-tutorial/sql-database-design-a-stepbystep-tutorial/": [
+        "892a0f5018cf11ed",
+        "ede828cdf3ce4a75",
+        "8589c63b0943a62b",
+        "914ff41a2b1acf1c",
+        "6e51d6a3d90b6a32",
+        "f10ebefc99a1381e",
+        "a7056a455639d1c7",
+        "9c6725dc269a48ce",
+        "28391d3bc64ec15c"
+      ],
+      "https://www.sql-easy.com/learn/database-design-in-dbms-tutorial/": [
+        "c8adce034393e83f",
+        "9b97ac5e767e5393",
+        "63d0cce6a4391685",
+        "d398b29d3dbbb9bf",
+        "abd4c41da3525476"
+      ]
+    },
+    "por_conceito": {
+      "to": [
+        "dba5c6e325032ebc",
+        "663ea1bfffe5038f",
+        "59cc180478dd5acf",
+        "e81575879907208b",
+        "03a9d8e822aa5887",
+        "02696044d6d65fe7",
+        "11618fd90a09d758",
+        "a40d9bd4f0b2a072",
+        "a662a85561ac8b7c",
+        "61b1fc4fc0ff77f5",
+        "03ec659c8916bb50",
+        "939485fac82b0b56",
+        "b997e70813ee558e",
+        "9f8081e84736ddc5"
+      ],
+      "JavaScript": [
+        "dba5c6e325032ebc",
+        "b27ad06d123c6145",
+        "91d0079f79eb799f",
+        "a7e2b87f06f3c328",
+        "59cc180478dd5acf",
+        "bbafc504e66f5724",
+        "271b9c84828c02a4",
+        "50d5db62fec12574",
+        "7520692f8eae81ba",
+        "e81575879907208b",
+        "aa37a709af01945d",
+        "196ecf16fe85fb3e",
+        "02696044d6d65fe7",
+        "11618fd90a09d758",
+        "1ddc40917cf65a9e",
+        "c89a7132c2bc2273",
+        "a662a85561ac8b7c",
+        "6f37711ac94bf292",
+        "fbcb5619d7194744",
+        "d840119394699c90",
+        "785a11075e8d68e8",
+        "e252704016f1e0b2"
+      ],
+      "coalescing": [
+        "dba5c6e325032ebc",
+        "c0024f974074ba4e",
+        "95073254037a62ea"
+      ],
+      "null coalescing": [
+        "dba5c6e325032ebc"
+      ],
+      "operator": [
+        "dba5c6e325032ebc",
+        "06e55b633481f7bb"
+      ],
+      "null": [
+        "dba5c6e325032ebc",
+        "95073254037a62ea"
+      ],
+      "in": [
+        "dba5c6e325032ebc",
+        "e252704016f1e0b2",
+        "582967534d0f909d",
+        "c8adce034393e83f"
+      ],
+      "a": [
+        "dba5c6e325032ebc",
+        "7520692f8eae81ba",
+        "a40d9bd4f0b2a072",
+        "85b22b7d28199a02",
+        "6f37711ac94bf292",
+        "d840119394699c90",
+        "d080c523735ebd94",
+        "2e688793f628e3b3",
+        "61b1fc4fc0ff77f5",
+        "03ec659c8916bb50",
+        "691df87f82920eda",
+        "c8adce034393e83f"
+      ],
+      "Related": [
+        "dba5c6e325032ebc"
+      ],
+      "there": [
+        "dba5c6e325032ebc"
+      ],
+      "Is": [
+        "dba5c6e325032ebc"
+      ],
+      "de": [
+        "91d0079f79eb799f",
+        "959a45d44e6fcf58",
+        "59cc180478dd5acf",
+        "bbafc504e66f5724",
+        "a662a85561ac8b7c",
+        "6f37711ac94bf292",
+        "e252704016f1e0b2",
+        "d080c523735ebd94",
+        "5b2b199fbb972bf0",
+        "96248995ad9f6eea",
+        "2e688793f628e3b3",
+        "03ec659c8916bb50",
+        "687b64cf5c69d73f",
+        "691df87f82920eda",
+        "683aef7f17aaa958",
+        "dfb9cf4b01a265de",
+        "c8adce034393e83f"
+      ],
+      "ambas": [
+        "91d0079f79eb799f",
+        "45d58c208dd0d3e8"
+      ],
+      "2013": [
+        "91d0079f79eb799f",
+        "7931aa2a1bed8554"
+      ],
+      "abstratas": [
+        "91d0079f79eb799f",
+        "138b77db6cc2d547"
+      ],
+      "as": [
+        "91d0079f79eb799f",
+        "61b1fc4fc0ff77f5",
+        "48a17781000ed527",
+        "683aef7f17aaa958"
+      ],
+      "estritas": [
+        "91d0079f79eb799f"
+      ],
+      "tem": [
+        "91d0079f79eb799f"
+      ],
+      "18": [
+        "91d0079f79eb799f"
+      ],
+      "e": [
+        "91d0079f79eb799f",
+        "a38b901d2bd161e8",
+        "6f37711ac94bf292",
+        "5b2b199fbb972bf0",
+        "96248995ad9f6eea"
+      ],
+      "operandos": [
+        "a38b901d2bd161e8",
+        "91fd5ee0231afd47"
+      ],
+      "verdade": [
+        "a38b901d2bd161e8",
+        "5ccfab5b5750d307"
+      ],
+      "o": [
+        "a38b901d2bd161e8",
+        "65c74c15a686187b",
+        "5b2b199fbb972bf0"
+      ],
+      "valor": [
+        "a38b901d2bd161e8",
+        "6adcc016448d707c"
+      ],
+      "os": [
+        "a38b901d2bd161e8",
+        "840a8dcfeae95966",
+        "2e688793f628e3b3"
+      ],
+      "estrita": [
+        "a38b901d2bd161e8"
+      ],
+      "mesmo": [
+        "a38b901d2bd161e8"
+      ],
+      "do": [
+        "a38b901d2bd161e8",
+        "f887c5566d341f10"
+      ],
+      "tipo": [
+        "a38b901d2bd161e8"
+      ],
+      "===": [
+        "a38b901d2bd161e8",
+        "59cc180478dd5acf"
+      ],
+      "possuem": [
+        "a38b901d2bd161e8"
+      ],
+      "se": [
+        "a38b901d2bd161e8",
+        "96248995ad9f6eea"
+      ],
+      "Uma": [
+        "a38b901d2bd161e8"
+      ],
+      "associated": [
+        "a7e2b87f06f3c328",
+        "de38e0881e31dde6"
+      ],
+      "-": [
+        "a7e2b87f06f3c328",
+        "3973e022e93220f9",
+        "a40d9bd4f0b2a072",
+        "e252704016f1e0b2",
+        "96248995ad9f6eea",
+        "61d7781edee41aec",
+        "f6242e13addd6cbc",
+        "dfb9cf4b01a265de",
+        "b34c143264a8b428",
+        "f10ebefc99a1381e"
+      ],
+      "return": [
+        "a7e2b87f06f3c328",
+        "7187f0675eb38279"
+      ],
+      "circuits": [
+        "a7e2b87f06f3c328",
+        "e5895263db42699c"
+      ],
+      "is": [
+        "a7e2b87f06f3c328",
+        "fa51fd49abf67705",
+        "7fc192f67c597790",
+        "e81575879907208b",
+        "d840119394699c90",
+        "e252704016f1e0b2",
+        "d080c523735ebd94",
+        "3f7a108963843a9c",
+        "892a0f5018cf11ed",
+        "c8adce034393e83f"
+      ],
+      "false": [
+        "a7e2b87f06f3c328"
+      ],
+      "value": [
+        "a7e2b87f06f3c328"
+      ],
+      "and": [
+        "a7e2b87f06f3c328",
+        "59cc180478dd5acf",
+        "50d5db62fec12574",
+        "f887c5566d341f10",
+        "7520692f8eae81ba",
+        "7fc192f67c597790",
+        "03a9d8e822aa5887",
+        "b65bd4af30e4a3db",
+        "02696044d6d65fe7",
+        "a662a85561ac8b7c",
+        "fbcb5619d7194744",
+        "d840119394699c90",
+        "e252704016f1e0b2",
+        "351787eadec0d2c6",
+        "047636d7de5f66a6",
+        "6201111b83a0cb5b",
+        "61d7781edee41aec",
+        "61b1fc4fc0ff77f5",
+        "48a17781000ed527",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "939485fac82b0b56",
+        "687b64cf5c69d73f",
+        "691df87f82920eda",
+        "b997e70813ee558e",
+        "9f8081e84736ddc5",
+        "dfb9cf4b01a265de",
+        "b34c143264a8b428",
+        "df8fd29405b8d12e",
+        "892a0f5018cf11ed",
+        "c8adce034393e83f"
+      ],
+      "the": [
+        "a7e2b87f06f3c328",
+        "03a9d8e822aa5887",
+        "11618fd90a09d758",
+        "1ddc40917cf65a9e",
+        "a662a85561ac8b7c",
+        "85b22b7d28199a02",
+        "e9f0ff0f0f65793e",
+        "61b1fc4fc0ff77f5",
+        "48a17781000ed527",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "687b64cf5c69d73f",
+        "683aef7f17aaa958",
+        "f10ebefc99a1381e"
+      ],
+      "operators": [
+        "a7e2b87f06f3c328"
+      ],
+      "Boolean": [
+        "a7e2b87f06f3c328"
+      ],
+      "short-circuits": [
+        "a7e2b87f06f3c328"
+      ],
+      "either": [
+        "a7e2b87f06f3c328"
+      ],
+      "short": [
+        "a7e2b87f06f3c328"
+      ],
+      "whatever": [
+        "a7e2b87f06f3c328"
+      ],
+      "contains": [
+        "a7e2b87f06f3c328",
+        "7fc192f67c597790",
+        "aa37a709af01945d",
+        "beeb20fbd6769508"
+      ],
+      "last": [
+        "a7e2b87f06f3c328"
+      ],
+      "of": [
+        "a7e2b87f06f3c328",
+        "aa37a709af01945d",
+        "02696044d6d65fe7",
+        "a662a85561ac8b7c",
+        "5844db796fb29e3e",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "687b64cf5c69d73f",
+        "683aef7f17aaa958",
+        "df8fd29405b8d12e",
+        "892a0f5018cf11ed",
+        "f10ebefc99a1381e",
+        "28391d3bc64ec15c"
+      ],
+      "or": [
+        "a7e2b87f06f3c328"
+      ],
+      "first": [
+        "a7e2b87f06f3c328",
+        "03ec659c8916bb50"
+      ],
+      "That": [
+        "a7e2b87f06f3c328"
+      ],
+      "non": [
+        "a7e2b87f06f3c328"
+      ],
+      "evaluation": [
+        "a7e2b87f06f3c328"
+      ],
+      "variable": [
+        "a7e2b87f06f3c328"
+      ],
+      "will": [
+        "a7e2b87f06f3c328",
+        "687b64cf5c69d73f",
+        "f10ebefc99a1381e"
+      ],
+      "with": [
+        "a7e2b87f06f3c328",
+        "59cc180478dd5acf",
+        "196ecf16fe85fb3e",
+        "02696044d6d65fe7",
+        "c89a7132c2bc2273",
+        "fbcb5619d7194744",
+        "e252704016f1e0b2",
+        "e9f0ff0f0f65793e",
+        "48a17781000ed527",
+        "dfb9cf4b01a265de"
+      ],
+      "equals": [
+        "59cc180478dd5acf",
+        "e93cb41d4a7d2395"
+      ],
+      "JSLint": [
+        "59cc180478dd5acf",
+        "be2f0223448086d2"
+      ],
+      "I": [
+        "59cc180478dd5acf",
+        "a83dd0ccbffe39d0"
+      ],
+      "doing": [
+        "59cc180478dd5acf",
+        "c7f57f541cb0ade3"
+      ],
+      "go": [
+        "59cc180478dd5acf",
+        "4cd0e21a9a0795a1"
+      ],
+      "m": [
+        "59cc180478dd5acf"
+      ],
+      "like": [
+        "59cc180478dd5acf"
+      ],
+      "three": [
+        "59cc180478dd5acf"
+      ],
+      "comparing": [
+        "59cc180478dd5acf"
+      ],
+      "when": [
+        "59cc180478dd5acf"
+      ],
+      "it": [
+        "59cc180478dd5acf",
+        "1ddc40917cf65a9e",
+        "e252704016f1e0b2",
+        "939485fac82b0b56"
+      ],
+      "using": [
+        "59cc180478dd5acf",
+        "9f8081e84736ddc5",
+        "a24e10fde71a121a"
+      ],
+      "through": [
+        "59cc180478dd5acf",
+        "f10ebefc99a1381e",
+        "9c6725dc269a48ce"
+      ],
+      "returning": [
+        "59cc180478dd5acf"
+      ],
+      "==": [
+        "59cc180478dd5acf"
+      ],
+      "suggestions": [
+        "59cc180478dd5acf"
+      ],
+      "replace": [
+        "59cc180478dd5acf"
+      ],
+      "s": [
+        "59cc180478dd5acf",
+        "c89a7132c2bc2273",
+        "e252704016f1e0b2",
+        "61b1fc4fc0ff77f5"
+      ],
+      "signs": [
+        "59cc180478dd5acf"
+      ],
+      "2008": [
+        "59cc180478dd5acf"
+      ],
+      "things": [
+        "59cc180478dd5acf"
+      ],
+      "two": [
+        "59cc180478dd5acf"
+      ],
+      "many": [
+        "59cc180478dd5acf"
+      ],
+      "m using JSLint to go through JavaScript, and it": [
+        "59cc180478dd5acf"
+      ],
+      "y": [
+        "bbafc504e66f5724",
+        "a1fce4363854ff88"
+      ],
+      "forma": [
+        "bbafc504e66f5724",
+        "a2a78ada26ac2cbf",
+        "96248995ad9f6eea"
+      ],
+      "predeterminada": [
+        "bbafc504e66f5724",
+        "459b1c854153d1dc"
+      ],
+      "En": [
+        "bbafc504e66f5724"
+      ],
+      "los": [
+        "bbafc504e66f5724"
+      ],
+      "dispositivos": [
+        "bbafc504e66f5724"
+      ],
+      "iPhones": [
+        "bbafc504e66f5724"
+      ],
+      "iPhone": [
+        "bbafc504e66f5724"
+      ],
+      "iPads": [
+        "bbafc504e66f5724"
+      ],
+      "en": [
+        "bbafc504e66f5724",
+        "271b9c84828c02a4"
+      ],
+      "activado": [
+        "bbafc504e66f5724"
+      ],
+      "iPad": [
+        "bbafc504e66f5724"
+      ],
+      "utilizas": [
+        "271b9c84828c02a4",
+        "689050b30110139b"
+      ],
+      "es": [
+        "271b9c84828c02a4",
+        "c0bc1e08f9743b2d"
+      ],
+      "que": [
+        "271b9c84828c02a4",
+        "c57b7501cd843672",
+        "6f37711ac94bf292",
+        "5b2b199fbb972bf0"
+      ],
+      "Activar": [
+        "271b9c84828c02a4",
+        "8e38c2571d87f6ee"
+      ],
+      "navegador": [
+        "271b9c84828c02a4"
+      ],
+      "navegadores": [
+        "271b9c84828c02a4"
+      ],
+      "no": [
+        "271b9c84828c02a4",
+        "b997e70813ee558e"
+      ],
+      "admitido": [
+        "271b9c84828c02a4"
+      ],
+      "Chrome": [
+        "271b9c84828c02a4"
+      ],
+      "Si": [
+        "271b9c84828c02a4"
+      ],
+      "un": [
+        "271b9c84828c02a4"
+      ],
+      "otros": [
+        "271b9c84828c02a4"
+      ],
+      "scope": [
+        "50d5db62fec12574",
+        "5f161c9149882e0e"
+      ],
+      "typesOverview": [
+        "50d5db62fec12574",
+        "6006cc6c361062bb"
+      ],
+      "Variable": [
+        "50d5db62fec12574",
+        "e57e998726030b84"
+      ],
+      "Data": [
+        "50d5db62fec12574",
+        "cec3a9b89b2e3913",
+        "48a17781000ed527"
+      ],
+      "Grammar": [
+        "50d5db62fec12574",
+        "1325f21d338c7796"
+      ],
+      "flow": [
+        "50d5db62fec12574",
+        "9f8081e84736ddc5"
+      ],
+      "if": [
+        "50d5db62fec12574"
+      ],
+      "hoisting": [
+        "50d5db62fec12574"
+      ],
+      "guide": [
+        "50d5db62fec12574",
+        "785a11075e8d68e8",
+        "83ca68be6227af2f",
+        "e252704016f1e0b2",
+        "f10ebefc99a1381e"
+      ],
+      "error": [
+        "50d5db62fec12574"
+      ],
+      "handling": [
+        "50d5db62fec12574"
+      ],
+      "Overview": [
+        "50d5db62fec12574"
+      ],
+      "About": [
+        "50d5db62fec12574"
+      ],
+      "this": [
+        "50d5db62fec12574",
+        "196ecf16fe85fb3e",
+        "1eb79602411ef02c",
+        "e252704016f1e0b2",
+        "687b64cf5c69d73f"
+      ],
+      "ECMAScript": [
+        "50d5db62fec12574"
+      ],
+      "Declarations": [
+        "50d5db62fec12574"
+      ],
+      "structures": [
+        "50d5db62fec12574"
+      ],
+      "ToolsOverview": [
+        "50d5db62fec12574"
+      ],
+      "Basic": [
+        "50d5db62fec12574"
+      ],
+      "Java": [
+        "50d5db62fec12574",
+        "02696044d6d65fe7"
+      ],
+      "Introduction": [
+        "50d5db62fec12574"
+      ],
+      "types": [
+        "50d5db62fec12574",
+        "785a11075e8d68e8",
+        "8d8460221bf4eb29",
+        "48a17781000ed527"
+      ],
+      "comments": [
+        "50d5db62fec12574"
+      ],
+      "syntax": [
+        "50d5db62fec12574"
+      ],
+      "&": [
+        "50d5db62fec12574"
+      ],
+      "Control": [
+        "50d5db62fec12574"
+      ],
+      "/": [
+        "f887c5566d341f10",
+        "8a5edab282632443"
+      ],
+      "try": [
+        "f887c5566d341f10",
+        "1e262cd7d110812f",
+        "03a9d8e822aa5887"
+      ],
+      "else": [
+        "f887c5566d341f10",
+        "7dd530c4d36da47c"
+      ],
+      "catch": [
+        "f887c5566d341f10",
+        "9f925cdc4feedda4"
+      ],
+      "Loops": [
+        "f887c5566d341f10",
+        "c08f99e3947df0bf"
+      ],
+      "switch": [
+        "f887c5566d341f10"
+      ],
+      "iteration": [
+        "f887c5566d341f10"
+      ],
+      "for": [
+        "f887c5566d341f10",
+        "7fc192f67c597790",
+        "a40d9bd4f0b2a072",
+        "d840119394699c90",
+        "e252704016f1e0b2",
+        "dfb9cf4b01a265de",
+        "892a0f5018cf11ed",
+        "c8adce034393e83f"
+      ],
+      "throwOverview": [
+        "f887c5566d341f10"
+      ],
+      "while": [
+        "f887c5566d341f10"
+      ],
+      "W3Schools": [
+        "7520692f8eae81ba",
+        "093a646721516724"
+      ],
+      "objects": [
+        "7520692f8eae81ba",
+        "e4cd302972b0cf4e"
+      ],
+      "reference": [
+        "7520692f8eae81ba",
+        "52367a6622b19f08",
+        "7fc192f67c597790"
+      ],
+      "all": [
+        "7520692f8eae81ba",
+        "5ef5ef0364b6939c",
+        "7fc192f67c597790"
+      ],
+      "complete": [
+        "7520692f8eae81ba",
+        "691df87f82920eda"
+      ],
+      "HTML": [
+        "7520692f8eae81ba",
+        "02696044d6d65fe7"
+      ],
+      "maintains": [
+        "7520692f8eae81ba"
+      ],
+      "including": [
+        "7520692f8eae81ba",
+        "fbcb5619d7194744",
+        "785a11075e8d68e8"
+      ],
+      "browser": [
+        "7520692f8eae81ba"
+      ],
+      "events": [
+        "7fc192f67c597790",
+        "862417b9e7c3720b",
+        "fbcb5619d7194744"
+      ],
+      "The": [
+        "7fc192f67c597790",
+        "b344d80e24a36799",
+        "e81575879907208b",
+        "aa37a709af01945d",
+        "a662a85561ac8b7c",
+        "03ec659c8916bb50"
+      ],
+      "continuously": [
+        "7fc192f67c597790",
+        "0d2e5f939a12d575"
+      ],
+      "properties": [
+        "7fc192f67c597790"
+      ],
+      "updated": [
+        "7fc192f67c597790"
+      ],
+      "examples": [
+        "7fc192f67c597790",
+        "e81575879907208b",
+        "aa37a709af01945d",
+        "03a9d8e822aa5887",
+        "b65bd4af30e4a3db",
+        "02696044d6d65fe7",
+        "fbcb5619d7194744",
+        "e252704016f1e0b2",
+        "691df87f82920eda"
+      ],
+      "methods": [
+        "7fc192f67c597790"
+      ],
+      "practicing": [
+        "e81575879907208b",
+        "c44762e0a2cfe099"
+      ],
+      "way": [
+        "e81575879907208b",
+        "44c5e7071f3a75a2"
+      ],
+      "learn": [
+        "e81575879907208b"
+      ],
+      "best": [
+        "e81575879907208b"
+      ],
+      "by": [
+        "e81575879907208b",
+        "5844db796fb29e3e",
+        "a7e2d26e8d15814d",
+        "047636d7de5f66a6",
+        "61d7781edee41aec",
+        "691df87f82920eda",
+        "f10ebefc99a1381e"
+      ],
+      "basic": [
+        "aa37a709af01945d",
+        "fbb7b5bf4ca348ee",
+        "11618fd90a09d758",
+        "03ec659c8916bb50"
+      ],
+      "on": [
+        "aa37a709af01945d",
+        "b8d31e852725afb1",
+        "03a9d8e822aa5887",
+        "683aef7f17aaa958"
+      ],
+      "concepts": [
+        "aa37a709af01945d",
+        "03ec659c8916bb50"
+      ],
+      "page": [
+        "aa37a709af01945d"
+      ],
+      "them": [
+        "03a9d8e822aa5887",
+        "c9a8dc336964db7f"
+      ],
+      "take": [
+        "03a9d8e822aa5887",
+        "d1905cf90af29a5a"
+      ],
+      "advised": [
+        "03a9d8e822aa5887"
+      ],
+      "You": [
+        "03a9d8e822aa5887",
+        "351787eadec0d2c6",
+        "08b041935798fbf6"
+      ],
+      "are": [
+        "03a9d8e822aa5887",
+        "e9f0ff0f0f65793e"
+      ],
+      "these": [
+        "03a9d8e822aa5887"
+      ],
+      "references": [
+        "03a9d8e822aa5887"
+      ],
+      "from": [
+        "03a9d8e822aa5887",
+        "11618fd90a09d758"
+      ],
+      "comprehensive": [
+        "196ecf16fe85fb3e",
+        "4994ad9e4f40b39e"
+      ],
+      "Learn": [
+        "196ecf16fe85fb3e",
+        "ce78afd0e6a225ec",
+        "e252704016f1e0b2",
+        "691df87f82920eda"
+      ],
+      "tutorial": [
+        "196ecf16fe85fb3e",
+        "fe30030e102ecf8f",
+        "11618fd90a09d758",
+        "691df87f82920eda",
+        "f10ebefc99a1381e"
+      ],
+      "programming": [
+        "196ecf16fe85fb3e",
+        "fbcb5619d7194744",
+        "d840119394699c90"
+      ],
+      "techniques": [
+        "b65bd4af30e4a3db",
+        "22e15f613c5814a5"
+      ],
+      "ES6": [
+        "b65bd4af30e4a3db",
+        "0ec9f3e0e287d841"
+      ],
+      "features": [
+        "b65bd4af30e4a3db",
+        "5b8a8b56dada6ce7"
+      ],
+      "modern": [
+        "b65bd4af30e4a3db",
+        "774cdf08f6a80fc9"
+      ],
+      "manipulation": [
+        "b65bd4af30e4a3db",
+        "c0f580d8306c4909"
+      ],
+      "Includes": [
+        "b65bd4af30e4a3db"
+      ],
+      "DOM": [
+        "b65bd4af30e4a3db"
+      ],
+      "development": [
+        "b65bd4af30e4a3db",
+        "e252704016f1e0b2"
+      ],
+      "web": [
+        "b65bd4af30e4a3db",
+        "d840119394699c90",
+        "e252704016f1e0b2",
+        "d080c523735ebd94"
+      ],
+      "easy": [
+        "02696044d6d65fe7",
+        "97c10efe01d5c9c8",
+        "939485fac82b0b56"
+      ],
+      "more": [
+        "02696044d6d65fe7",
+        "187897ce0afcf20b",
+        "fbcb5619d7194744"
+      ],
+      "Bootstrap": [
+        "02696044d6d65fe7",
+        "faab0dc4735c1cfe"
+      ],
+      "tutorials": [
+        "02696044d6d65fe7",
+        "5d8ac3ca438dc713"
+      ],
+      "Web": [
+        "02696044d6d65fe7",
+        "2975104784a401e3"
+      ],
+      "XML": [
+        "02696044d6d65fe7"
+      ],
+      "use": [
+        "02696044d6d65fe7",
+        "a662a85561ac8b7c"
+      ],
+      "lots": [
+        "02696044d6d65fe7"
+      ],
+      "building": [
+        "02696044d6d65fe7"
+      ],
+      "understand": [
+        "02696044d6d65fe7"
+      ],
+      "PHP": [
+        "02696044d6d65fe7"
+      ],
+      "SQL": [
+        "02696044d6d65fe7",
+        "d080c523735ebd94",
+        "b34c143264a8b428",
+        "f10ebefc99a1381e",
+        "a7056a455639d1c7"
+      ],
+      "Python": [
+        "02696044d6d65fe7"
+      ],
+      "Well": [
+        "02696044d6d65fe7"
+      ],
+      "CSS": [
+        "02696044d6d65fe7"
+      ],
+      "organized": [
+        "02696044d6d65fe7"
+      ],
+      "how": [
+        "02696044d6d65fe7",
+        "a662a85561ac8b7c",
+        "e252704016f1e0b2",
+        "03ec659c8916bb50",
+        "f6242e13addd6cbc"
+      ],
+      "version": [
+        "11618fd90a09d758",
+        "5ca4f3850ccc331a"
+      ],
+      "covers": [
+        "11618fd90a09d758",
+        "17ae69cc7e460477"
+      ],
+      "2025": [
+        "11618fd90a09d758",
+        "a662a85561ac8b7c",
+        "e252704016f1e0b2",
+        "687b64cf5c69d73f",
+        "683aef7f17aaa958",
+        "dfb9cf4b01a265de"
+      ],
+      "everything": [
+        "11618fd90a09d758",
+        "691df87f82920eda",
+        "a0a44ed8cfc32b7e"
+      ],
+      "This": [
+        "11618fd90a09d758",
+        "785a11075e8d68e8",
+        "86e1de74820a9b25",
+        "61d7781edee41aec",
+        "f10ebefc99a1381e"
+      ],
+      "up": [
+        "11618fd90a09d758"
+      ],
+      "latest": [
+        "11618fd90a09d758"
+      ],
+      "now": [
+        "1ddc40917cf65a9e",
+        "ed5eb9a37e2d8231"
+      ],
+      "With": [
+        "1ddc40917cf65a9e",
+        "b708724a23bf11c2"
+      ],
+      "source": [
+        "1ddc40917cf65a9e",
+        "41cf6794ba4200b8"
+      ],
+      "edit": [
+        "1ddc40917cf65a9e",
+        "262121c5372be8af"
+      ],
+      "our": [
+        "1ddc40917cf65a9e"
+      ],
+      "code": [
+        "1ddc40917cf65a9e",
+        "e252704016f1e0b2",
+        "5694d08a2e53ffca"
+      ],
+      "Yourself": [
+        "1ddc40917cf65a9e"
+      ],
+      "can": [
+        "1ddc40917cf65a9e",
+        "351787eadec0d2c6",
+        "9f584196e7fe6de8",
+        "f6242e13addd6cbc"
+      ],
+      "Try": [
+        "1ddc40917cf65a9e"
+      ],
+      "you": [
+        "1ddc40917cf65a9e",
+        "a662a85561ac8b7c",
+        "85b22b7d28199a02",
+        "d080c523735ebd94",
+        "f6242e13addd6cbc",
+        "9f8081e84736ddc5",
+        "f10ebefc99a1381e"
+      ],
+      "editor": [
+        "1ddc40917cf65a9e",
+        "b34c143264a8b428"
+      ],
+      "learning": [
+        "1ddc40917cf65a9e"
+      ],
+      "Start": [
+        "1ddc40917cf65a9e"
+      ],
+      "skills": [
+        "c89a7132c2bc2273",
+        "32c1cf49a2feee26"
+      ],
+      "Supercharge": [
+        "c89a7132c2bc2273",
+        "12f300e16c5a5274"
+      ],
+      "courses": [
+        "c89a7132c2bc2273",
+        "936e5cc5021d8a07"
+      ],
+      "Codecademy": [
+        "c89a7132c2bc2273",
+        "d0453d627595b632"
+      ],
+      "your": [
+        "c89a7132c2bc2273",
+        "d080c523735ebd94",
+        "351787eadec0d2c6",
+        "f6242e13addd6cbc",
+        "9f8081e84736ddc5"
+      ],
+      "brighter": [
+        "a40d9bd4f0b2a072",
+        "472d858d6693becf"
+      ],
+      "interactive": [
+        "a40d9bd4f0b2a072",
+        "0eb42ac4a5a8a585",
+        "d840119394699c90",
+        "f6242e13addd6cbc"
+      ],
+      "today": [
+        "a40d9bd4f0b2a072",
+        "e0f4f767ac88a930"
+      ],
+      "tomorrow": [
+        "a40d9bd4f0b2a072",
+        "bafd151a86f9a573"
+      ],
+      "world": [
+        "a40d9bd4f0b2a072"
+      ],
+      "From": [
+        "a40d9bd4f0b2a072"
+      ],
+      "real": [
+        "a40d9bd4f0b2a072"
+      ],
+      "JS": [
+        "a40d9bd4f0b2a072"
+      ],
+      "master": [
+        "a40d9bd4f0b2a072"
+      ],
+      "coding": [
+        "a40d9bd4f0b2a072"
+      ],
+      "projects": [
+        "a40d9bd4f0b2a072"
+      ],
+      "an": [
+        "a662a85561ac8b7c",
+        "ea325d761f98c6b7",
+        "df8fd29405b8d12e"
+      ],
+      "gives": [
+        "a662a85561ac8b7c",
+        "64ea62de2928a9ac"
+      ],
+      "language": [
+        "a662a85561ac8b7c",
+        "85b22b7d28199a02",
+        "d840119394699c90",
+        "a4ef304ba42a200b",
+        "9f8081e84736ddc5"
+      ],
+      "shows": [
+        "a662a85561ac8b7c",
+        "48a17781000ed527",
+        "03ec659c8916bb50"
+      ],
+      "overview": [
+        "a662a85561ac8b7c"
+      ],
+      "Guide": [
+        "a662a85561ac8b7c"
+      ],
+      "feature": [
+        "85b22b7d28199a02",
+        "2ad5623197671570"
+      ],
+      "about": [
+        "85b22b7d28199a02",
+        "a4262e1c9bcbc172",
+        "691df87f82920eda"
+      ],
+      "have": [
+        "85b22b7d28199a02",
+        "193c45b5281908d2"
+      ],
+      "exhaustive": [
+        "85b22b7d28199a02",
+        "76329da9f8085b2c"
+      ],
+      "need": [
+        "85b22b7d28199a02",
+        "be8dff00b0d468b2"
+      ],
+      "look": [
+        "85b22b7d28199a02"
+      ],
+      "at": [
+        "85b22b7d28199a02"
+      ],
+      "If": [
+        "85b22b7d28199a02"
+      ],
+      "information": [
+        "85b22b7d28199a02"
+      ],
+      "alimenta": [
+        "6f37711ac94bf292",
+        "960e9d12f2c0fc86"
+      ],
+      "agora": [
+        "6f37711ac94bf292",
+        "f7070d57bbe5496e"
+      ],
+      "bancos": [
+        "6f37711ac94bf292",
+        "d9cbe02fb4d6f16b"
+      ],
+      "linguagem": [
+        "6f37711ac94bf292"
+      ],
+      "dados": [
+        "6f37711ac94bf292",
+        "5b2b199fbb972bf0",
+        "21209597f685c8be",
+        "96248995ad9f6eea",
+        "2e688793f628e3b3"
+      ],
+      "outras": [
+        "6f37711ac94bf292"
+      ],
+      "O": [
+        "6f37711ac94bf292"
+      ],
+      "2023": [
+        "6f37711ac94bf292",
+        "c8adce034393e83f",
+        "d398b29d3dbbb9bf"
+      ],
+      "muitas": [
+        "6f37711ac94bf292"
+      ],
+      "desenvolver": [
+        "397b6e9259c8787c",
+        "eb8ac47ac42330a2"
+      ],
+      "embarcadas": [
+        "397b6e9259c8787c",
+        "da94b3b757c8e8f1"
+      ],
+      "para": [
+        "397b6e9259c8787c",
+        "a1453f380fa9f1a0"
+      ],
+      "document": [
+        "fbcb5619d7194744",
+        "43cc23fa52b87b4c"
+      ],
+      "Tutorial": [
+        "fbcb5619d7194744",
+        "c26982b1425da26a"
+      ],
+      "Modern": [
+        "fbcb5619d7194744",
+        "eef6c7f6ddd4067e"
+      ],
+      "explanations": [
+        "fbcb5619d7194744",
+        "9c0c1e75e6f9edfc"
+      ],
+      "closures": [
+        "fbcb5619d7194744"
+      ],
+      "3": [
+        "fbcb5619d7194744"
+      ],
+      "but": [
+        "fbcb5619d7194744"
+      ],
+      "object": [
+        "fbcb5619d7194744"
+      ],
+      "tasks": [
+        "fbcb5619d7194744"
+      ],
+      "simple": [
+        "fbcb5619d7194744",
+        "9f8081e84736ddc5"
+      ],
+      "detailed": [
+        "fbcb5619d7194744"
+      ],
+      "oriented": [
+        "fbcb5619d7194744"
+      ],
+      "dias": [
+        "fbcb5619d7194744"
+      ],
+      "applications": [
+        "d840119394699c90",
+        "fd54e5a82e36d787"
+      ],
+      "essential": [
+        "d840119394699c90",
+        "e252704016f1e0b2"
+      ],
+      "versatile": [
+        "d840119394699c90"
+      ],
+      "creating": [
+        "d840119394699c90"
+      ],
+      "dynamic": [
+        "d840119394699c90"
+      ],
+      "data": [
+        "785a11075e8d68e8",
+        "3a6eb0790f39ac87",
+        "48a17781000ed527",
+        "3f7a108963843a9c",
+        "939485fac82b0b56",
+        "b34c143264a8b428",
+        "892a0f5018cf11ed",
+        "c8adce034393e83f"
+      ],
+      "variables": [
+        "785a11075e8d68e8"
+      ],
+      "fundamentals": [
+        "785a11075e8d68e8",
+        "5844db796fb29e3e",
+        "64a3f18ab4fab299",
+        "61b1fc4fc0ff77f5"
+      ],
+      "introduces": [
+        "785a11075e8d68e8"
+      ],
+      "practical": [
+        "e252704016f1e0b2"
+      ],
+      "why": [
+        "e252704016f1e0b2"
+      ],
+      "works": [
+        "e252704016f1e0b2"
+      ],
+      "beginner": [
+        "e252704016f1e0b2"
+      ],
+      "what": [
+        "e252704016f1e0b2"
+      ],
+      "snippets": [
+        "e252704016f1e0b2"
+      ],
+      "friendly": [
+        "e252704016f1e0b2"
+      ],
+      "design": [
+        "d080c523735ebd94",
+        "a77de8a6daa11295",
+        "96248995ad9f6eea",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "939485fac82b0b56",
+        "687b64cf5c69d73f",
+        "691df87f82920eda",
+        "683aef7f17aaa958",
+        "dfb9cf4b01a265de",
+        "892a0f5018cf11ed"
+      ],
+      "without": [
+        "d080c523735ebd94",
+        "1216b2a88975f9d3",
+        "df8fd29405b8d12e"
+      ],
+      "writing": [
+        "d080c523735ebd94",
+        "ee871105e875f3de"
+      ],
+      "that": [
+        "d080c523735ebd94",
+        "8e7fc0236af43df9",
+        "c8adce034393e83f"
+      ],
+      "application": [
+        "d080c523735ebd94"
+      ],
+      "schema": [
+        "d080c523735ebd94",
+        "03ec659c8916bb50",
+        "df0ad6e43880f09c"
+      ],
+      "DB": [
+        "d080c523735ebd94",
+        "691df87f82920eda"
+      ],
+      "Designer": [
+        "d080c523735ebd94"
+      ],
+      "lets": [
+        "d080c523735ebd94"
+      ],
+      "2026": [
+        "d080c523735ebd94",
+        "691df87f82920eda"
+      ],
+      "database": [
+        "d080c523735ebd94",
+        "351787eadec0d2c6",
+        "5844db796fb29e3e",
+        "61b1fc4fc0ff77f5",
+        "03ec659c8916bb50",
+        "3f7a108963843a9c",
+        "687b64cf5c69d73f",
+        "691df87f82920eda",
+        "683aef7f17aaa958",
+        "9f8081e84736ddc5",
+        "dfb9cf4b01a265de",
+        "b34c143264a8b428",
+        "892a0f5018cf11ed",
+        "f10ebefc99a1381e"
+      ],
+      "collaborate": [
+        "351787eadec0d2c6",
+        "c66ebd0878c92a09"
+      ],
+      "import": [
+        "351787eadec0d2c6",
+        "d942f64886578d87"
+      ],
+      "export": [
+        "351787eadec0d2c6",
+        "d46aee08cc49f6d1",
+        "dfb9cf4b01a265de",
+        "df8fd29405b8d12e"
+      ],
+      "engineer": [
+        "351787eadec0d2c6"
+      ],
+      "share": [
+        "351787eadec0d2c6"
+      ],
+      "reverse": [
+        "351787eadec0d2c6"
+      ],
+      "Design": [
+        "5b2b199fbb972bf0",
+        "0072e6b934945d5b",
+        "61d7781edee41aec",
+        "e9f0ff0f0f65793e",
+        "df8fd29405b8d12e",
+        "c8adce034393e83f"
+      ],
+      "sistemas": [
+        "5b2b199fbb972bf0",
+        "3658c834b24e31a0"
+      ],
+      "desenvolvimento": [
+        "5b2b199fbb972bf0"
+      ],
+      "facilitam": [
+        "5b2b199fbb972bf0"
+      ],
+      "projeto": [
+        "5b2b199fbb972bf0"
+      ],
+      "banco": [
+        "5b2b199fbb972bf0",
+        "96248995ad9f6eea"
+      ],
+      "processos": [
+        "5b2b199fbb972bf0"
+      ],
+      "uma": [
+        "5b2b199fbb972bf0"
+      ],
+      "eficaz": [
+        "96248995ad9f6eea",
+        "94034cb2883a054d"
+      ],
+      "ao": [
+        "96248995ad9f6eea"
+      ],
+      "estruturar": [
+        "96248995ad9f6eea"
+      ],
+      "Database": [
+        "96248995ad9f6eea",
+        "047636d7de5f66a6",
+        "fa7fe67124e94375",
+        "61d7781edee41aec",
+        "e9f0ff0f0f65793e",
+        "c8adce034393e83f"
+      ],
+      "organizar": [
+        "96248995ad9f6eea"
+      ],
+      "eficiente": [
+        "96248995ad9f6eea"
+      ],
+      "processo": [
+        "96248995ad9f6eea",
+        "2e688793f628e3b3"
+      ],
+      "ou": [
+        "96248995ad9f6eea"
+      ],
+      "refere": [
+        "96248995ad9f6eea"
+      ],
+      "como": [
+        "2e688793f628e3b3",
+        "ea3dc747f15400ac"
+      ],
+      "Este": [
+        "2e688793f628e3b3",
+        "d6ab22084cc52159"
+      ],
+      "envolve": [
+        "2e688793f628e3b3"
+      ],
+      "Shamkant": [
+        "5844db796fb29e3e",
+        "42e29d0bfeec5a34"
+      ],
+      "B": [
+        "5844db796fb29e3e",
+        "df7e70e5021544f4"
+      ],
+      "solutions": [
+        "5844db796fb29e3e",
+        "23fc951e49177312"
+      ],
+      "Ramez": [
+        "5844db796fb29e3e"
+      ],
+      "Elmasri": [
+        "5844db796fb29e3e"
+      ],
+      "edition": [
+        "5844db796fb29e3e"
+      ],
+      "systems": [
+        "5844db796fb29e3e",
+        "c8adce034393e83f"
+      ],
+      "Sudarshan": [
+        "047636d7de5f66a6",
+        "aa59b11eae76ce7c"
+      ],
+      "Navathe": [
+        "047636d7de5f66a6",
+        "8bf1d07ca236637d"
+      ],
+      "Korth": [
+        "047636d7de5f66a6",
+        "c1c71dc60de65612"
+      ],
+      "Silberschatz": [
+        "047636d7de5f66a6"
+      ],
+      "Edition": [
+        "047636d7de5f66a6"
+      ],
+      "Seventh": [
+        "047636d7de5f66a6"
+      ],
+      "Concepts": [
+        "047636d7de5f66a6"
+      ],
+      "System": [
+        "047636d7de5f66a6",
+        "61d7781edee41aec"
+      ],
+      "Implementation": [
+        "61d7781edee41aec",
+        "1cff7713912f5d53"
+      ],
+      "book": [
+        "61d7781edee41aec",
+        "92719fe0cf8cd515"
+      ],
+      "Jeff": [
+        "61d7781edee41aec",
+        "aea5a5ee6792fab3"
+      ],
+      "Jennifer": [
+        "61d7781edee41aec"
+      ],
+      "Ullman": [
+        "61d7781edee41aec"
+      ],
+      "Widom": [
+        "61d7781edee41aec"
+      ],
+      "Molina": [
+        "61d7781edee41aec"
+      ],
+      "Sciore": [
+        "61d7781edee41aec"
+      ],
+      "Garcia": [
+        "61d7781edee41aec"
+      ],
+      "been": [
+        "61d7781edee41aec"
+      ],
+      "Hector": [
+        "61d7781edee41aec"
+      ],
+      "has": [
+        "61d7781edee41aec"
+      ],
+      "Edward": [
+        "61d7781edee41aec"
+      ],
+      "5": [
+        "e9f0ff0f0f65793e",
+        "ef2d127de37b942b"
+      ],
+      "Here": [
+        "e9f0ff0f0f65793e",
+        "aa3b17600d88d316"
+      ],
+      "1": [
+        "e9f0ff0f0f65793e",
+        "6b86b273ff34fce1",
+        "61b1fc4fc0ff77f5"
+      ],
+      "along": [
+        "e9f0ff0f0f65793e",
+        "768c49c9383c77ac"
+      ],
+      "Examples": [
+        "e9f0ff0f0f65793e"
+      ],
+      "key": [
+        "e9f0ff0f0f65793e",
+        "687b64cf5c69d73f",
+        "683aef7f17aaa958"
+      ],
+      "Schema": [
+        "e9f0ff0f0f65793e",
+        "48a17781000ed527"
+      ],
+      "architecture": [
+        "61b1fc4fc0ff77f5",
+        "4ca303a3bf7ddf7b"
+      ],
+      "Financial": [
+        "61b1fc4fc0ff77f5",
+        "e97ba691189f51ad"
+      ],
+      "help": [
+        "61b1fc4fc0ff77f5",
+        "106a5842fc5fce6f",
+        "9f8081e84736ddc5"
+      ],
+      "define": [
+        "61b1fc4fc0ff77f5",
+        "ecd38f260821a09a"
+      ],
+      "following": [
+        "61b1fc4fc0ff77f5"
+      ],
+      "such": [
+        "61b1fc4fc0ff77f5",
+        "48a17781000ed527",
+        "a5c935d142e9fa6e"
+      ],
+      "TransactionDatabase": [
+        "61b1fc4fc0ff77f5"
+      ],
+      "schemas": [
+        "61b1fc4fc0ff77f5"
+      ],
+      "ensure": [
+        "61b1fc4fc0ff77f5"
+      ],
+      "appropriate": [
+        "48a17781000ed527",
+        "c39a7d54f55beb00"
+      ],
+      "organizes": [
+        "48a17781000ed527",
+        "bc846fddca885326"
+      ],
+      "between": [
+        "48a17781000ed527",
+        "fbb27fbdc4f4dd04"
+      ],
+      "A": [
+        "48a17781000ed527",
+        "939485fac82b0b56",
+        "559aead08264d579"
+      ],
+      "into": [
+        "48a17781000ed527",
+        "3f7a108963843a9c"
+      ],
+      "imposes": [
+        "48a17781000ed527"
+      ],
+      "interrelationships": [
+        "48a17781000ed527"
+      ],
+      "constraints": [
+        "48a17781000ed527"
+      ],
+      "da": [
+        "48a17781000ed527"
+      ],
+      "Columns": [
+        "48a17781000ed527"
+      ],
+      "Attributes": [
+        "48a17781000ed527"
+      ],
+      "Tables": [
+        "48a17781000ed527"
+      ],
+      "2024": [
+        "03ec659c8916bb50",
+        "6557739a67283a8d"
+      ],
+      "article": [
+        "03ec659c8916bb50",
+        "84393add8c489d33",
+        "687b64cf5c69d73f"
+      ],
+      "create": [
+        "03ec659c8916bb50"
+      ],
+      "example": [
+        "03ec659c8916bb50"
+      ],
+      "series": [
+        "03ec659c8916bb50"
+      ],
+      "providing": [
+        "03ec659c8916bb50"
+      ],
+      "explains": [
+        "03ec659c8916bb50"
+      ],
+      "vivid": [
+        "03ec659c8916bb50"
+      ],
+      "organizing": [
+        "3f7a108963843a9c",
+        "bde0140b3c4a6ef0"
+      ],
+      "relationships": [
+        "3f7a108963843a9c",
+        "8346862a9c870a53",
+        "b997e70813ee558e"
+      ],
+      "process": [
+        "3f7a108963843a9c",
+        "19ed40bf62c399b8",
+        "683aef7f17aaa958",
+        "f10ebefc99a1381e"
+      ],
+      "tables": [
+        "3f7a108963843a9c",
+        "f6242e13addd6cbc"
+      ],
+      "Relational": [
+        "3f7a108963843a9c"
+      ],
+      "store": [
+        "939485fac82b0b56",
+        "824d80d71985f082"
+      ],
+      "update": [
+        "939485fac82b0b56"
+      ],
+      "makes": [
+        "939485fac82b0b56"
+      ],
+      "retrieve": [
+        "939485fac82b0b56"
+      ],
+      "good": [
+        "939485fac82b0b56"
+      ],
+      "logical": [
+        "687b64cf5c69d73f",
+        "ac7f39a1e0b7bcd0"
+      ],
+      "basics": [
+        "687b64cf5c69d73f",
+        "ad5fb69f39914e76"
+      ],
+      "physical": [
+        "687b64cf5c69d73f",
+        "4b60d190e95e5769"
+      ],
+      "we": [
+        "687b64cf5c69d73f"
+      ],
+      "In": [
+        "687b64cf5c69d73f"
+      ],
+      "covering": [
+        "687b64cf5c69d73f"
+      ],
+      "conceptual": [
+        "687b64cf5c69d73f"
+      ],
+      "requirements": [
+        "687b64cf5c69d73f"
+      ],
+      "analysis": [
+        "687b64cf5c69d73f"
+      ],
+      "explore": [
+        "687b64cf5c69d73f"
+      ],
+      "stages": [
+        "687b64cf5c69d73f",
+        "683aef7f17aaa958"
+      ],
+      "designing": [
+        "691df87f82920eda",
+        "19a6a9dc4d3816ae",
+        "c8adce034393e83f"
+      ],
+      "step": [
+        "691df87f82920eda",
+        "f10ebefc99a1381e"
+      ],
+      "well": [
+        "683aef7f17aaa958",
+        "a7722b765d15608d"
+      ],
+      "principles": [
+        "683aef7f17aaa958",
+        "64b218956223eb12"
+      ],
+      "cover": [
+        "683aef7f17aaa958",
+        "3fa405a8301ace34"
+      ],
+      "also": [
+        "683aef7f17aaa958"
+      ],
+      "We": [
+        "683aef7f17aaa958"
+      ],
+      "ll": [
+        "683aef7f17aaa958"
+      ],
+      "databases": [
+        "683aef7f17aaa958"
+      ],
+      "relational": [
+        "683aef7f17aaa958"
+      ],
+      "different": [
+        "683aef7f17aaa958"
+      ],
+      "specifically": [
+        "683aef7f17aaa958"
+      ],
+      "focusing": [
+        "683aef7f17aaa958"
+      ],
+      "its": [
+        "683aef7f17aaa958"
+      ],
+      "ER": [
+        "f6242e13addd6cbc",
+        "7a475a8b0a074fa8"
+      ],
+      "connect": [
+        "f6242e13addd6cbc",
+        "5a638a128ca67348"
+      ],
+      "DBCode": [
+        "f6242e13addd6cbc",
+        "8d6c9c8d5ab509cc"
+      ],
+      "auto": [
+        "f6242e13addd6cbc",
+        "929260ad9b9ea9fe"
+      ],
+      "so": [
+        "f6242e13addd6cbc"
+      ],
+      "diagrams": [
+        "f6242e13addd6cbc",
+        "9f8081e84736ddc5"
+      ],
+      "see": [
+        "f6242e13addd6cbc"
+      ],
+      "generates": [
+        "f6242e13addd6cbc"
+      ],
+      "literally": [
+        "f6242e13addd6cbc"
+      ],
+      "untangle": [
+        "b997e70813ee558e",
+        "f11c5c19583e9b8b"
+      ],
+      "separate": [
+        "b997e70813ee558e",
+        "80ed840f94f7d1bd"
+      ],
+      "zoom": [
+        "b997e70813ee558e",
+        "d21bb537725d603e"
+      ],
+      "modeling": [
+        "b997e70813ee558e"
+      ],
+      "complex": [
+        "b997e70813ee558e"
+      ],
+      "arrange": [
+        "b997e70813ee558e"
+      ],
+      "tool": [
+        "b997e70813ee558e",
+        "9f8081e84736ddc5",
+        "dfb9cf4b01a265de"
+      ],
+      "Drag": [
+        "b997e70813ee558e"
+      ],
+      "needed": [
+        "b997e70813ee558e"
+      ],
+      "free": [
+        "9f8081e84736ddc5",
+        "ad95d5fa651ba86d",
+        "df8fd29405b8d12e"
+      ],
+      "Quick": [
+        "9f8081e84736ddc5",
+        "9f49fadb6a863305"
+      ],
+      "relationship": [
+        "9f8081e84736ddc5"
+      ],
+      "DSL": [
+        "9f8081e84736ddc5"
+      ],
+      "quickly": [
+        "9f8081e84736ddc5"
+      ],
+      "draw": [
+        "9f8081e84736ddc5"
+      ],
+      "move": [
+        "dfb9cf4b01a265de",
+        "683a62ce15fbabb1"
+      ],
+      "frameworks": [
+        "dfb9cf4b01a265de",
+        "e2aa269eb967a885"
+      ],
+      "generation": [
+        "dfb9cf4b01a265de",
+        "e661f4c935e8a5a8"
+      ],
+      "multi": [
+        "dfb9cf4b01a265de"
+      ],
+      "format": [
+        "dfb9cf4b01a265de"
+      ],
+      "migration": [
+        "dfb9cf4b01a265de"
+      ],
+      "visual": [
+        "dfb9cf4b01a265de"
+      ],
+      "drag": [
+        "dfb9cf4b01a265de"
+      ],
+      "Free": [
+        "dfb9cf4b01a265de"
+      ],
+      "editing": [
+        "dfb9cf4b01a265de"
+      ],
+      "popular": [
+        "dfb9cf4b01a265de"
+      ],
+      "entity": [
+        "b34c143264a8b428",
+        "bca3685fea8acd4e"
+      ],
+      "Online": [
+        "b34c143264a8b428",
+        "0d21bd52022ca7f7"
+      ],
+      "generator": [
+        "b34c143264a8b428",
+        "9123dcbb0b42652b"
+      ],
+      "modeler": [
+        "b34c143264a8b428"
+      ],
+      "diagram": [
+        "b34c143264a8b428"
+      ],
+      "realtionship": [
+        "b34c143264a8b428"
+      ],
+      "charge": [
+        "df8fd29405b8d12e"
+      ],
+      "account": [
+        "df8fd29405b8d12e"
+      ],
+      "completely": [
+        "df8fd29405b8d12e"
+      ],
+      "visualize": [
+        "df8fd29405b8d12e"
+      ],
+      "scripts": [
+        "df8fd29405b8d12e"
+      ],
+      "Proper": [
+        "892a0f5018cf11ed",
+        "ede828cdf3ce4a75"
+      ],
+      "maintenance": [
+        "892a0f5018cf11ed",
+        "8589c63b0943a62b"
+      ],
+      "ease": [
+        "892a0f5018cf11ed",
+        "914ff41a2b1acf1c"
+      ],
+      "retrieval": [
+        "892a0f5018cf11ed",
+        "6e51d6a3d90b6a32"
+      ],
+      "ensuring": [
+        "892a0f5018cf11ed"
+      ],
+      "efficient": [
+        "892a0f5018cf11ed"
+      ],
+      "integrity": [
+        "892a0f5018cf11ed"
+      ],
+      "crucial": [
+        "892a0f5018cf11ed"
+      ],
+      "enterprise": [
+        "c8adce034393e83f",
+        "9b97ac5e767e5393"
+      ],
+      "maintaining": [
+        "c8adce034393e83f",
+        "63d0cce6a4391685"
+      ],
+      "processes": [
+        "c8adce034393e83f",
+        "abd4c41da3525476"
+      ],
+      "management": [
+        "c8adce034393e83f"
+      ],
+      "term": [
+        "c8adce034393e83f"
+      ],
+      "developing": [
+        "c8adce034393e83f"
+      ],
+      "implementing": [
+        "c8adce034393e83f"
+      ],
+      "collective": [
+        "c8adce034393e83f"
+      ],
+      "aid": [
+        "c8adce034393e83f"
+      ]
+    }
   },
   "padroes": {
     "linguagens": {},
