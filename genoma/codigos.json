@@ -310,5 +310,104 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "02b1ef9574bc920d",
+    "tipo": "codigo",
+    "conteudo": "Modulo neural: transformers processamento linguagem",
+    "criado": "2026-03-13T13:52:45.465348",
+    "modificado": "2026-03-13T13:52:45.465348",
+    "conexoes": [
+      {
+        "para": "d7b63b374b406eaa",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "arquivo": "mod_13e2f205_neural.py",
+      "tipo": "neural",
+      "linhas": 65,
+      "conceitos_base": [
+        "relentlessly",
+        "loyal",
+        "queen",
+        "tarn",
+        "colony"
+      ]
+    },
+    "origem": "d7b63b374b406eaa",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "1595e9259ab6bba0",
+    "tipo": "codigo",
+    "conteudo": "Modulo dados: machine learning nao supervisionado",
+    "criado": "2026-03-13T13:53:05.407194",
+    "modificado": "2026-03-13T13:53:05.407194",
+    "conexoes": [
+      {
+        "para": "4714f9fe9ed8ae28",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "arquivo": "mod_71faa7b7_dados.py",
+      "tipo": "dados",
+      "linhas": 51,
+      "conceitos_base": [
+        "steam",
+        "child",
+        "dias",
+        "mudando",
+        "processamos"
+      ]
+    },
+    "origem": "4714f9fe9ed8ae28",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "35b00159a1657718",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado transferencia transfer learn",
+    "criado": "2026-03-13T13:53:27.566921",
+    "modificado": "2026-03-13T13:53:27.566921",
+    "conexoes": [
+      {
+        "para": "c4f31fcb04baa782",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "arquivo": "mod_3f2ee707_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "intencional",
+        "ocorre",
+        "acontece",
+        "sistemática",
+        "aluno"
+      ]
+    },
+    "origem": "c4f31fcb04baa782",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
