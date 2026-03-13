@@ -284,5 +284,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "c53efe8aec3a142c",
+    "tipo": "codigo",
+    "conteudo": "Modulo ml: transformers arquitetura aplicacoes praticas",
+    "criado": "2026-03-13T13:48:04.215482",
+    "modificado": "2026-03-13T13:48:04.215482",
+    "conexoes": [
+      {
+        "para": "71c41cdd98570fc6",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "arquivo": "modulo_01baa5_ml.py",
+      "tipo": "ml",
+      "linhas": 28
+    },
+    "origem": "71c41cdd98570fc6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
