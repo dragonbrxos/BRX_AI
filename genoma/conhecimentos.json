@@ -2072,5 +2072,217 @@
       "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
       "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
     ]
+  },
+  {
+    "id": "efabd40c68384788",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado transferencia transfer learning\n\nEvolucao: ## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoe......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:39.997674",
+    "modificado": "2026-03-13T13:59:40.459906",
+    "conexoes": [
+      {
+        "para": "1c76e5fbe530a38c",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado transferencia transfer learning",
+        "aprendizado transferencia transfer learning algoritmos",
+        "aprendizado transferencia transfer learning aplicacoes",
+        "aprendizado transferencia transfer learning fundamentos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado transferencia transfer learning",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:40.459582",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 236 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:40.459682",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 11.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:40.459776",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Estrutural: aprendizado transferencia transfer learning\n\nConceitos mapeados: 0\nBase empirica: 20 observacoe...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:40.459844",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado transferencia transfer learning\n\nEvolucao: ## Analise Relacional (v2): aprendizado transferencia transfer learning\n\nDensidade: 11.8 conexoes/celula\nClusters iden...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:40.459898",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "014ca44319aab395",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:40.461355",
+    "modificado": "2026-03-13T13:59:40.909280",
+    "conexoes": [
+      {
+        "para": "c7ebc55c3e12a5a0",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT",
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:40.908963",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:40.909082",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:40.909141",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:40.909197",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:40.909272",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "d727ae1958781104",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: algoritmos geneticos otimizacao\n\nEvolucao: ## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 13 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:40.910767",
+    "modificado": "2026-03-13T13:59:41.479026",
+    "conexoes": [
+      {
+        "para": "c336fce152acd2a2",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "algoritmos geneticos otimizacao",
+        "algoritmos geneticos otimizacao fundamentos",
+        "algoritmos geneticos otimizacao aplicacoes",
+        "algoritmos geneticos otimizacao algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: algoritmos geneticos otimizacao",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:41.478765",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:41.478876",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:41.478926",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:41.478973",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:41.479019",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "https://www.significados.com.br/algoritmo/",
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "https://pt.wikipedia.org/wiki/Algoritmo",
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
   }
 ]
