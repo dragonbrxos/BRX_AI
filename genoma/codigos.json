@@ -508,5 +508,104 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "da62bc45c6cdf73a",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T13:56:04.368350",
+    "modificado": "2026-03-13T13:56:04.368350",
+    "conexoes": [
+      {
+        "para": "9c5220c143033d17",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "Inspirados",
+        "seleção",
+        "navegar",
+        "inteligente",
+        "oferecem"
+      ]
+    },
+    "origem": "9c5220c143033d17",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "6663e7dbeb43362e",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: modelos transformers GPT",
+    "criado": "2026-03-13T13:56:27.072034",
+    "modificado": "2026-03-13T13:56:27.072034",
+    "conexoes": [
+      {
+        "para": "cdaa1d16ed098d6b",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "mod_a0fc032d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "oferecemos",
+        "nossos",
+        "variedade",
+        "clientes",
+        "necessidades"
+      ]
+    },
+    "origem": "cdaa1d16ed098d6b",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "d391d8b795d3c642",
+    "tipo": "codigo",
+    "conteudo": "Modulo neural: redes neurais profundas",
+    "criado": "2026-03-13T13:56:51.579174",
+    "modificado": "2026-03-13T13:56:51.579174",
+    "conexoes": [
+      {
+        "para": "ff3ce495ec76d12b",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais profundas",
+      "arquivo": "mod_dc09c36e_neural.py",
+      "tipo": "neural",
+      "linhas": 65,
+      "conceitos_base": [
+        "mercado",
+        "computadores",
+        "Neste",
+        "alcance",
+        "classificadas"
+      ]
+    },
+    "origem": "ff3ce495ec76d12b",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
