@@ -65,6 +65,21 @@
         "para": "90ebb0ba231dc1c6",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -82,7 +97,10 @@
       "https://www.dicio.com.br/etica/",
       "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
       "https://pt.wikipedia.org/wiki/Ética",
-      "https://www.todamateria.com.br/etica/"
+      "https://www.todamateria.com.br/etica/",
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial",
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
     ]
   },
   {
@@ -1375,6 +1393,16 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1400,7 +1428,9 @@
       "https://www.mecalux.com.br/blog/ia-explicavel",
       "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
       "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
     ]
   },
   {
@@ -1494,6 +1524,11 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1517,7 +1552,8 @@
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
       "https://www.mecalux.com.br/blog/ia-explicavel",
       "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
     ]
   },
   {
@@ -3056,6 +3092,11 @@
         "para": "53b3d34597a51c5b",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -3070,7 +3111,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.alura.com.br/artigos/visao-computacional",
-      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
     ]
   },
   {
@@ -5709,6 +5751,11 @@
         "para": "992710ac9f762580",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -5721,7 +5768,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente",
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
     ]
   },
   {
@@ -6671,6 +6719,11 @@
         "para": "e527f1b6389a964c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6683,7 +6736,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
     ]
   },
   {
@@ -8363,6 +8417,396 @@
     "profundidade": 0,
     "fontes": [
       "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+    ]
+  },
+  {
+    "id": "31b925914cb91d04",
+    "tipo": "conceito",
+    "conteudo": "parte",
+    "criado": "2026-03-13T13:47:11.623919",
+    "modificado": "2026-03-13T13:47:11.623919",
+    "conexoes": [
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "da4393ed17a4d4d3",
+    "tipo": "conceito",
+    "conteudo": "nosso",
+    "criado": "2026-03-13T13:47:11.624597",
+    "modificado": "2026-03-13T13:47:11.624597",
+    "conexoes": [
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "dc98859f029b1f01",
+    "tipo": "conceito",
+    "conteudo": "trouxe",
+    "criado": "2026-03-13T13:47:11.625261",
+    "modificado": "2026-03-13T13:47:11.625261",
+    "conexoes": [
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "9ce200a290dad2b7",
+    "tipo": "conceito",
+    "conteudo": "condutas",
+    "criado": "2026-03-13T13:47:11.625579",
+    "modificado": "2026-03-13T13:47:11.625579",
+    "conexoes": [
+      {
+        "para": "2713e278564d3c6b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "7a25bcb67cf8f0cb",
+    "tipo": "conceito",
+    "conteudo": "aprovou",
+    "criado": "2026-03-13T13:47:11.727897",
+    "modificado": "2026-03-13T13:47:11.727897",
+    "conexoes": [
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "7a96a744bdb6ddac",
+    "tipo": "conceito",
+    "conteudo": "geral",
+    "criado": "2026-03-13T13:47:11.728400",
+    "modificado": "2026-03-13T13:47:11.728400",
+    "conexoes": [
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "8b64c7360013bd1e",
+    "tipo": "conceito",
+    "conteudo": "unesco",
+    "criado": "2026-03-13T13:47:11.728960",
+    "modificado": "2026-03-13T13:47:11.728960",
+    "conexoes": [
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "885a4fc7c9ce391a",
+    "tipo": "conceito",
+    "conteudo": "primeiro",
+    "criado": "2026-03-13T13:47:11.730105",
+    "modificado": "2026-03-13T13:47:11.730105",
+    "conexoes": [
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "3f2b2abf285a3904",
+    "tipo": "conceito",
+    "conteudo": "novembro",
+    "criado": "2026-03-13T13:47:11.731634",
+    "modificado": "2026-03-13T13:47:11.731634",
+    "conexoes": [
+      {
+        "para": "2233bef0b19be171",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil"
+    ]
+  },
+  {
+    "id": "89b38f0009b9b806",
+    "tipo": "conceito",
+    "conteudo": "percebe",
+    "criado": "2026-03-13T13:47:11.832495",
+    "modificado": "2026-03-13T13:47:11.832495",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "9d822914104707fa",
+    "tipo": "conceito",
+    "conteudo": "excelente",
+    "criado": "2026-03-13T13:47:11.833054",
+    "modificado": "2026-03-13T13:47:11.833054",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "182641f129fb8b48",
+    "tipo": "conceito",
+    "conteudo": "concluir",
+    "criado": "2026-03-13T13:47:11.833527",
+    "modificado": "2026-03-13T13:47:11.833527",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "b97764e8e2df6ec1",
+    "tipo": "conceito",
+    "conteudo": "percorreu",
+    "criado": "2026-03-13T13:47:11.834544",
+    "modificado": "2026-03-13T13:47:11.834544",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "3674412644905f58",
+    "tipo": "conceito",
+    "conteudo": "blemas",
+    "criado": "2026-03-13T13:47:11.835114",
+    "modificado": "2026-03-13T13:47:11.835114",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+    ]
+  },
+  {
+    "id": "dc6fe012a4dff509",
+    "tipo": "conceito",
+    "conteudo": "leitor",
+    "criado": "2026-03-13T13:47:11.835787",
+    "modificado": "2026-03-13T13:47:11.835787",
+    "conexoes": [
+      {
+        "para": "2bfb1216f2a0c228",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
     ]
   }
 ]
