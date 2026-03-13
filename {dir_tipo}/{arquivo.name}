@@ -1,55 +1,22 @@
 [
   {
-    "id": "3c3b7e423154924d",
-    "tipo": "modelo",
-    "conteudo": "Modelo de 'etica em IA' centrado em: ética, filosofia, dedicada, ações, comportamento. Baseado em 5 observacoes e 20 conceitos extraidos.",
-    "criado": "2026-03-13T13:33:38.357348",
-    "modificado": "2026-03-13T13:33:38.357348",
+    "id": "e4b3ca60a5ea1dc3",
+    "tipo": "expansao",
+    "conteudo": "Extensao evolutiva v3",
+    "criado": "2026-03-13T13:34:16.570840",
+    "modificado": "2026-03-13T13:34:16.570840",
     "conexoes": [],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
-      "topico": "etica em IA",
-      "arquivo": "etica_em_ia.json",
-      "conceitos_count": 10
-    },
-    "origem": null,
-    "historico": [],
-    "profundidade": 0,
-    "fontes": []
-  },
-  {
-    "id": "ff272defc3a8f602",
-    "tipo": "modelo",
-    "conteudo": "Modelo de '{ultimo} aplicacoes praticas' centrado em: aplicações, práticas, atrás, artigo, descubra. Baseado em 5 observacoes e 19 conceitos extraidos.",
-    "criado": "2026-03-13T13:33:55.299889",
-    "modificado": "2026-03-13T13:33:55.299889",
-    "conexoes": [],
-    "energia": 1.0,
-    "geracao": 0,
-    "meta": {
-      "topico": "{ultimo} aplicacoes praticas",
-      "arquivo": "_ultimo__aplicacoes_praticas.json",
-      "conceitos_count": 10
-    },
-    "origem": null,
-    "historico": [],
-    "profundidade": 0,
-    "fontes": []
-  },
-  {
-    "id": "eec91d6232d36b61",
-    "tipo": "modelo",
-    "conteudo": "Modelo de 'inteligencia artificial generativa' centrado em: generativa, vezes, chamada, sistema, generativo. Baseado em 5 observacoes e 14 conceitos extraidos.",
-    "criado": "2026-03-13T13:34:16.570003",
-    "modificado": "2026-03-13T13:34:16.570003",
-    "conexoes": [],
-    "energia": 1.0,
-    "geracao": 0,
-    "meta": {
-      "topico": "inteligencia artificial generativa",
-      "arquivo": "inteligencia_artificial_genera.json",
-      "conceitos_count": 10
+      "arquivo": "extensao_v3.py",
+      "nivel": 3,
+      "linhas": 54,
+      "baseado_em": [
+        "etica em IA",
+        "{ultimo} aplicacoes praticas",
+        "inteligencia artificial generativa"
+      ]
     },
     "origem": null,
     "historico": [],
