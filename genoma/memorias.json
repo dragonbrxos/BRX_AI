@@ -3433,5 +3433,191 @@
     "fontes": [
       "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
     ]
+  },
+  {
+    "id": "c17afacdee0d86f3",
+    "tipo": "memoria",
+    "conteudo": "9 de out. de 2024 · Com os embeddings formados, estamos prontos para entrar de fato na arquitetura Transformers. A arquitetura é composta por dois mecanismos principais: o encoder e o decoder.",
+    "criado": "2026-03-13T13:47:37.333036",
+    "modificado": "2026-03-13T13:47:37.333036",
+    "conexoes": [
+      {
+        "para": "03e104ac31e8f16b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1fe29de824c780bb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "04db98a2c09505a0",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "37a5505c34461681",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1dc8192bab731b98",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "603b5f8ac8cfa25f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "fonte": "https://www.alura.com.br/artigos/transformers",
+      "indice": 0
+    },
+    "origem": "082e2acd68e5d906",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "4b71a41e2132566f",
+    "tipo": "memoria",
+    "conteudo": "Nesta seção, veremos a arquitetura geral do modelo Transformer. Não se preocupe se você não entender alguns dos conceitos; há seções detalhadas posteriormente cobrindo cada um dos …",
+    "criado": "2026-03-13T13:47:37.436656",
+    "modificado": "2026-03-13T13:47:37.436656",
+    "conexoes": [
+      {
+        "para": "6ea7fb3a82e27c01",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e5f3beef6333836f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78e3c2b1651ef309",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "aa2c072092225d3a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d378b3e1a357ddcb",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "fonte": "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "indice": 0
+    },
+    "origem": "082e2acd68e5d906",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
+  },
+  {
+    "id": "e98097238c2dbac6",
+    "tipo": "memoria",
+    "conteudo": "3 de jul. de 2025 · Aprenda tudo sobre transformers, arquiteturas essenciais para IA generativa e PNL. Descubra recursos visuais, cursos e técnicas para dominar o tema.",
+    "criado": "2026-03-13T13:47:37.540334",
+    "modificado": "2026-03-13T13:47:37.540334",
+    "conexoes": [
+      {
+        "para": "02b02e12f9fe1fcb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7b8e33d501b4de24",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e8a4f53f86b6b32e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8c420f231228619b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "b1ca0478586db19a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "fonte": "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118",
+      "indice": 0
+    },
+    "origem": "082e2acd68e5d906",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
   }
 ]
