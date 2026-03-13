@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 34,
+    "ciclos": 35,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 229943
+    "caracteres_aprendidos": 271811
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9960,6 +9960,72 @@
       "criado": "2026-03-13T14:31:35.641146",
       "acessos": 1,
       "conexoes": []
+    },
+    "63cccdfba6defaab": {
+      "conteudo": "Cybersecurity Fundamentals Specialization Limited time! Save 40% on 3 months of Coursera Plus and full access to thousands of courses. Cybersecurity Fundamentals Specialization Unlock your cybersecurity professional potential. Develop fluency in essential Cybersecurity skills and competencies and safeguard your digital assets. Instructors: Jeff Crume +5 more Instructors Top Instructor Jeff Crume IBM 3 Courses 19,070 learners IBM Skills Network Team 91 Courses 1,835,412 learners Dee Dee Collette IBM 11 Courses 719,664 learners Dr. Manish Kumar IBM 8 Courses 204,519 learners Rav Ahuja IBM 55 Courses 4,847,488 learners Ramanujam Srinivasan IBM 22 Courses 198,110 learners OK Top Instructor Enroll for free Starts Mar 13 9,109 already enrolled Included with Coursera Plus Learn more 4 course series Get in-depth knowledge of a subject 4.8 from 2,281 reviews of courses in this program Beginner level Recommended experience Recommended experience Beginner level No prior work experience is required. Basic knowledge of IT and networking terminology is recommended for better understanding of the content. OK 12 weeks to complete at 2 hours a week Flexible schedule Learn at your own pace 4 course series Get in-depth knowledge of a subject 4.8 from 2,281 reviews of courses in this program Beginner level Recommended experience Recommended experience Beginner level No prior work experience is required. Basic knowledge of IT and networking terminology is recommended for better understanding of the content. OK 12 weeks to complete at 2 hours a week Flexible schedule Learn at your own pace What you'll learn Identify common security threats and risks; explain characteristics of cyberattacks and best practices to guard against them Discuss cybersecurity fundamentals, including topics like the five security principles, CIA triad, IAM, endpoint security, and security domains Explain how organizations respond to, recover from, and continue to operate during unplanned disruptions Explain cybersecurity roles, including their key responsibilities, daily tasks, career path, relevant certifications, and salary ranges Skills you'll gain Advanced Encryption Standard (AES) Application Security Authentications Authorization (Computing) Computer Security Awareness Training Computer Security Incident Management Cryptographic Protocols Cryptography Cyber Security Policies Cyber Security Strategy Cyber Attacks Cybersecurity Data Security Encryption Information Technology Network Security Personally Identifiable Information Public Key Infrastructure Security Awareness Security Controls Show all Details to know Shareable certificate Add to your LinkedIn profile Taught in English 3 languages available See how employees at top companies are mastering in-demand skills Learn more about Coursera for Business Advance your subject-matter expertise Learn in-demand skills from university and industry experts Master a subject or tool with hands-on projects Develop a deep understanding of key concepts Earn a career certificate from IBM Specialization - 4 course series Vigilance against cyberthreats and attacks becomes increasingly important year over year as we continue to accelerate the amount of sensitive information in digital, web-accessible formats. Do you want to arm yourself with the required knowledge to ensure protection for yourself or your organization? Take this cybersecurity Specialization to learn the basics! This cybersecurity fundamentals program from IBM can help every individual with limited or no experience in IT or cybersecurity, whether you are a developer, a manager, an IT professional, or a digital consumer interested in learning about issues in the field and the measures you can take to ensure organizational security. This specialization will equip learners with an understanding of the fundamental concepts, processes, tools, and strategies of cybersecurity, in combination with hands-on exercises and activities, to gain the experience necessary to implement security best practices and take informed decisions in case of a cyberattack. Investigate topics like authorization, authentication, encryption, firewalls, detection, safety practices, and safe-guarding applications, data, and networks. Explore cybersecurity-related roles and career paths. Get started with your cybersecurity learning today! Applied Learning Project This Specialization emphasizes applied learning and includes a series of hands-on activities and projects. In these exercises, you’ll take the theory and skills you’ve gained and practice them with real-world scenarios. You will explore networking ports and protocols and perform network troubleshooting. You will install Windows updates, anti-virus software, and use Windows Defender firewall. Additionally, manage browser privacy settings and configure a secure network. Regarding cybersecurity-related careers, you will search for job postings with the required skills and qualifications for specific roles and even start to develop your own resume and portfolio. Introduction to Cybersecurity Essentials Course 1 13 hours Course details What you'll learn Learn how to identify common cybersecurity threats, including malware, social engineering, breaches, and other attack vectors Install software updates and patches, and apply authentication, encryption, and device-hardening techniques to protect sensitive information Explore physical security, environmental safeguards, and access control measures used to prevent unauthorized access and ensure business continuity Apply cybersecurity best practices using strong password creation and management strategies, and identify use cases for encryption Skills you'll gain Category: Personally Identifiable Information Personally Identifiable Information Category: Encryption Encryption Category: Malware Protection Malware Protection Category: Multi-Factor Authentication Multi-Factor Authentication Category: Cyber Attacks Cyber Attacks Category: Data Security Data Security Category: Email Security Email Security Category: Security Controls Security Controls Category: Data Integrity Data Integrity Category: Application Security Application Security Category: Vulnerability Assessments Vulnerability Assessments Category: Security Awareness Security Awareness Category: Hardening Hardening Category: Identity and Access Management Identity and Access Management Category: Cryptography Cryptography Category: Authentications Authentications Category: Cybersecurity Cybersecurity Category: Information Privacy Information Privacy Category: Authorization (Computing) Authorization (Computing) Category: Computer Security Awareness Training Computer Security Awareness Training Cybersecurity Architecture Course 2 14 hours Course details What you'll learn Apply the five foundational principles of cybersecurity and CIA triad to real-world scenarios to design and evaluate secure systems Integrate key areas a cybersecurity architect must consider when developing a secure enterprise solution, including governance, and risk management Assess and implement Identity and Access Management (IAM), endpoint security, application security, and data security, to strengthen security Evaluate scenarios & recommend practical methods to enhance its security through improved configurations, monitoring, and incident response planning Skills you'll gain Category: Application Security Application Security Category: Data Security Data Security Category: Network Security Network Security Category: Information Technology Architecture Information Technology Architecture Category: Cybersecurity Cybersecurity Encryption and Cryptography Essentials Course 3 16 hours Course details What you'll learn Job-ready encryption and cryptography skills for cybersecurity employers need in just 4 weeks. How to classify cryptographic algorithms and key exchange protocols and identify their applications in securing data How to identify and apply encryption techniques to secure communication and ensure data privacy. How to use hashing algorithms and digital signatures in blockchain to secure transactions, validate identities, and ensure data integrity. Skills you'll gain Category: Cryptography Cryptography Category: Encryption Encryption Category: Public Key Infrastructure Public Key Infrastructure Category: Advanced Encryption Standard (AES) Advanced Encryption Standard (AES) Category: Data Security Data Security Category: Cryptographic Protocols Cryptographic Protocols Category: Data Integrity Data Integrity Category: Classification Algorithms Classification Algorithms Category: Authentications Authentications Category: Cybersecurity Cybersecurity Category: Blockchain Blockchain Category: Network Security Network Security Introduction to Cybersecurity Careers Course 4 8 hours Course details What you'll learn Compare the roles and responsibilities of various careers within the cybersecurity field and how to progress from one level to the next level. Map IT fundamental skills, technical skills, and soft skills to the different job roles at various levels in cybersecurity. Identify the required certifications, such as Security+, A+, CISSP, and CEH, for different job roles and the contents of each certification. Discover the right role for you in cybersecurity and learn how to prepare for your chosen career path. Skills you'll gain Category: Information Assurance Information Assurance Category: Data Security Data Security Category: Cybersecurity Cybersecurity Category: Cyber Security Strategy Cyber Security Strategy Category: Security Awareness Security Awareness Category: Information Technology Information Technology Category: Application Security Application Security Category: Technical Support Technical Support Category: Technical Support and Services Technical Support and Services Category: Computer Hardware Computer Hardware Category: Network Security Network Security Category: Cyber Security Policies Cyber Security Policies Category: General Networking General Networking Category: ISO/IEC 27001 ISO/IEC 27001 Category: Information Systems Security Assessment Framework (ISSAF) Information Systems Security Assessment Framework (ISSAF) Category: Computer Security Awareness Training Computer Security Awareness Training Earn a career certificate Add this credential to your LinkedIn profile, resume, or CV. Share it on social media and in your performance review. Instructors IBM Skills Network Team 91 Courses 1,835,412 learners View all 6 instructors Instructors IBM Skills Network Team 91 Courses 1,835,412 learners Dee Dee Collette IBM 11 Courses 719,664 learners Top Instructor Jeff Crume IBM 3 Courses 19,070 learners Dr. Manish Kumar IBM 8 Courses 204,519 learners Rav Ahuja IBM 55 Courses 4,847,488 learners Ramanujam Srinivasan IBM 22 Courses 198,110 learners OK Offered by IBM Learn more Offered by IBM At IBM, we know how rapidly tech evolves and recognize the crucial need for businesses and professionals to build job-ready, hands-on skills quickly. As a market-leading tech innovator, we’re committed to helping you thrive in this dynamic landscape. Through IBM Skills Network, our expertly designed training programs in AI, software development, cybersecurity, data science, business management, and more, provide the essential skills you need to secure your first job, advance your career, or drive business success. Whether you’re upskilling yourself or your team, our courses, Specializations, and Professional Certificates build the technical expertise that ensures you, and your organization, excel in a competitive world. OK Why people choose Coursera for their career Felipe M. Learner since 2018 \"To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood.\" Jennifer J. Learner since 2020 \"I directly applied the concepts and skills I learned from my courses to an exciting new project at work.\" Larry W. Learner since 2021 \"When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go.\" Chaitanya A. \"Learning isn't just about being better at your job: it's so much more than that. Coursera allows me to learn without limits.\" Open new doors with Coursera Plus Unlimited access to 10,000+ world-class courses, hands-on projects, and job-ready certificate programs - all included in your subscription Learn more Advance your career with an online degree Earn a degree from world-class universities - 100% online Explore degrees Join over 3,400 global companies that choose Coursera for Business Upskill your employees to excel in the digital economy Learn more Frequently asked questions Who is this program for? Anyone interested in getting a basic understanding of cybersecurity concepts. Basic knowledge of IT and networking terminology is recommended for better understanding of the content. Is this course really 100% online? Do I need to attend any classes in person? This course is completely online, so there’s no need to show up to a classroom in person. You can access your lectures, readings, and assignments anytime and anywhere via the web or your mobile device. What background knowledge is necessary? This Specialization is open for anyone with any job and academic background. Do I need to take the courses in a specific order? Yes, it is highly recommended to take the courses in the order they are listed, as they progressively build on concepts taught in previous courses. Will I earn university credit for completing the Specialization? At this time, college credit is not available for completing this program. How long does it take to complete the Specialization? The specialization is self paced and can be completed as quickly or slowly you prefer. If spending 10 hours a week you can complete the specialization in 1 month. Spending 2-3 hours a week will take about 3 months. What will I be able to do upon completing the Specialization? After completing the specialization you will be able to: Identify common security threats and risks; explain characteristics of cyberattacks and best practices to guard against them. Discuss the foundational concepts of the five cybersecurity principles and the CIA triad. Explain how organizations respond to, recover from, and continue to operate during unplanned disruptions. Explain cybersecurity roles, including their key responsibilities, daily tasks, career path, relevant certifications, and salary ranges. Can I just enroll in a single course? Yes! To get started, click the course card that interests you and enroll. You can enroll and complete the course to earn a shareable certificate. When you subscribe to a course that is part of a Specialization, you’re automatically subscribed to the full Specialization. Visit your learner dashboard to track your progress. Is financial aid available? Yes. In select learning programs, you can apply for financial aid or a scholarship if you can’t afford the enrollment fee. If fin aid or scholarship is available for your learning program selection, you’ll find a link to apply on the description page. Can I take the course for free? No, you cannot take this course for free. When you enroll in the course, you get access to all of the courses in the Specialization, and you earn a certificate when you complete the work. If you cannot afford the fee, you can apply for financial aid. Show all 10 frequently asked questions More questions Visit the learner help center Financial aid available, learn more Enroll for free Starts Mar 13",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.coursera.org/specializations/cybersecurity-fundamentals?msockid=3150a54ea81569103860b255a9d468c8"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:34:37.511051",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "a2bd74e873119959": {
+      "conteudo": "TITULO: Cybersecurity Fundamentals | Coursera\nCONTEUDO: Cybersecurity Fundamentals Specialization Limited time! Save 40% on 3 months of Coursera Plus and full access to thousands of courses. Cybersecurity Fundamentals Specialization Unlock your cybersecurity professional potential. Develop fluency in essential Cybersecurity skills and competencies and safeguard your digital assets. Instructors: Jeff Crume +5 more Instructors Top Instructor Jeff Crume IBM 3 Courses 19,070 learners IBM Skills Network Team 91 Courses 1,835,412 learners Dee Dee Collette ...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.coursera.org/specializations/cybersecurity-fundamentals?msockid=3150a54ea81569103860b255a9d468c8"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:34:37.512089",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "233ff78d2aee3830": {
+      "conteudo": "Course Foundations of Cybersecurity 3 hours 15 minutes Introductory Updated 5 months ago Learn about the foundations of Cybersecurity. This course introduces you to the field, explaining its importance in business, and exploring the responsibilities and skills of an entry-level cybersecurity analyst. Google employees guide you through interactive videos and hands-on activities to build your skills. This is the first course in the Google Cybersecurity Certificate, a series designed to prepare you for an entry-level cybersecurity role.",
+      "tipo": "texto",
+      "fontes": [
+        "https://www.skills.google/paths/2268/course_templates/1214"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:34:46.412759",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "bd98ca4333ae9b5d": {
+      "conteudo": "TITULO: Foundations of Cybersecurity | Google Skills\nCONTEUDO: Course Foundations of Cybersecurity 3 hours 15 minutes Introductory Updated 5 months ago Learn about the foundations of Cybersecurity. This course introduces you to the field, explaining its importance in business, and exploring the responsibilities and skills of an entry-level cybersecurity analyst. Google employees guide you through interactive videos and hands-on activities to build your skills. This is the first course in the Google Cybersecurity Certificate, a series designed to prepare you...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.skills.google/paths/2268/course_templates/1214"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:34:46.412935",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "83d7352ddb89d173": {
+      "conteudo": "Home Blog Security Fundamentals of Cybersecurity [2026 Beginner's Guide] Fundamentals of Cybersecurity [2026 Beginner's Guide] By Shweta Lakhwani Updated on Feb 04, 2026 | 17 min read | 51.27K+ views Share: Table of Contents View all Important Cybersecurity Fundamentals Key Concept of Cybersecurity Basic Terminologies of Cyber Security Common Types of Cyber Attacks Cybersecurity Best Practices History of Cyberthreats Explained Why is Cybersecurity Critical? Cyber Security Certifications Conclusion As the digital era has gifted us technological innovation, organizations have spent decades increasing their online presence to reach new customers and grow their digital footprint. Cybercrime has escalated simultaneously. The omnipresence of the internet and growing access have made it easier for cybercriminals to target businesses and access personal information. The concept of computer security extends beyond safeguarding devices against external threats. To prevent unauthorized access, organizations must ensure network security. Regardless of your field or data security measures, online threats can always put your company’s information at risk. Learning about cybersecurity fundamentals will equip you with the knowledge needed to safeguard networks from potential attacks and safely maintain privileged user access. Make time for learning about the best online Cybersecurity certificate programs for you. Master the Right Skills & Boost Your Career Avail your free 1:1 mentorship session Schedule Free Call! Important Cybersecurity Fundamentals The IT Security Fundamentals skill path includes an understanding of computer hardware, software, and network security. The cybersecurity fundamentals course trains you in developing and implementing security solutions for small and large organizations, protecting systems and network infrastructures. Four Fundamentals of Cybersecurity 1. Device Protection With the rise in cyber threats, individuals and companies should prioritize device protection. It is crucial to protect devices that connect to the internet using anti-virus software, enables the lock-and-erase options, activate two-factor authentication, and perform a regular automatic update of the system software, whether they are laptops, PCs, mobile phones, AI-based devices (Alexa, smart watches, etc.), iPads, tables, or any device that connects to the internet. Device protection will significantly reduce the risk of attacks on individuals and their devices regardless of their location. 2. Securing Online Connection Once an individual device is connected online, information transmitted over the Internet requires more defenses. Furthermore, one should use VPNs: Virtual Private Networks as they automatically encrypt internet traffic. By using a VPN, all online transactions are secured, including the user’s identity, location, browsing details, and any sensitive information such as passwords and bank details. 3. Securing Email Communication Cybercriminals often use email to gather sensitive information about individuals or companies. It is highly recommended to encrypt emails to prevent sensitive data from being accessed by anyone other than the intended recipient since they mask the original information. In addition, email encryption often includes one-time password authentication. 4. Protecting and Performing Timely Backups of Files and Documents Backups fall into two categories: Remote backups (offline) and cloud storage (online). Solutions differ in their advantages and disadvantages. Remote backup services are convenient and inexpensive, but it is not easily accessible from anywhere. Alternatively, cloud solutions can be accessed from anywhere and are suitable for an organization that operates from different locations. However, one must ensure that critical documents should have their own digital vault with encryption codes, as anything connected to the internet has a cyber threat risk. Cyber threats can, however, affect anything connected to the internet. With a database and infrastructure security management system, the cloud computing solution is highly secure, with strong network security, application security, and cloud security. Additionally, strong mobile security enhances cloud computing security. By implementing a BCDR plan, an organization can recover quickly from unforeseen cloud security situations such as natural disasters, power outages, team member negligence, hardware failure, and cyberattacks, allowing routine operations to resume in less time. Moreover, identity management frameworks provide endpoint security and data security at the highest level. Key Concept of Cybersecurity Cybersecurity refers to protecting systems, networks, programs, devices, and data from cyber-attacks using technologies, processes, and controls. The basic cybersecurity concepts involve reducing cyber-attack risks and preventing unauthorized access to systems, networks, and technologies. A. Three Concepts of Cybersecurity WallarmThe fundamentals of cybersecurity lies in the CIA triad which are: Confidentiality Integrity Availability B. Primary Key Concepts of Cybersecurity Threat identification Keeping information safe Detecting intrusions and attacks Respond to intrusions and attacks. Rebuild intrusion defenses and recover database security. Basic Terminologies of Cyber Security Cybersecurity basics for beginners should include these terminologies. Knowing the cybersecurity basics terminology will help you better understand the high-tech world. However, technological advances in cybersecurity are accompanied by the emergence of new jargon. 1. Internet Protocol (IP) Address Hardware devices on a network are identified by IP addresses (Internet Protocol addresses). On a local network or over the internet, these devices can communicate with each other and transfer data. Numbers are separated by periods in each address. It comprises four digits with a range of 0 to 255. An IP address might look like this: 192.159.1.98 Internet computers, routers, and websites need billions of unique IP addresses to be identified as one cannot repeat them. IPv6 is a new protocol designed to meet the day's needs when the system runs out of unique addresses in the future. 2. VPN - Virtual Private Network Virtual Private Network, popularly known as VPN, allows users to maintain their privacy and anonymity while browsing the internet. VPNs make online activities virtually untraceable by masking the internet protocol (IP) address. In addition to providing greater privacy than secured Wi-Fi hotspots, VPN services establish secure and highly encrypted connections. With a VPN, online activity is hidden from cybercriminals, businesses, governments, and other snoopers who tend to lure users into clicking on anonymous links. 3. Firewall A firewall monitors and filters the system's incoming and outgoing network traffic as per a company’s security policies. Firewalls are a barrier between a private internal network and the Internet at its primary level. A firewall blocks virtual traffic, which looks destructive, and allows secure and non-threatening traffic to flow uninterrupted. 4. Domain Name Server (DNS) DNS - Domain Name Server operates as the internet’s virtual phone book. As every browser on the internet is known by its IP address which allows users to locate the device, the DNS converts the domain name into an IP address. For instance, the DNS converts the URL of www.mycompany123.com to a numerical IP address 204.0.6.42. Browsers send data to the origin servers on the content delivery network (CDN) using the IP address found by DNS servers. 5. Encryption and Decryption Encryption is a process of converting plain text (readable message) into codes using an encryption algorithm known as ciphertext. While, Decryption is a process of converting the ciphertext into plain text. 6. Encryption Key Data that is encrypted is decrypted and unscrambled using an encryption key. Keys are unique and complex to replicate since they are associated with specific encryption codes. In addition, here are the top 50 cybersecurity terms you should learn to become a pro in cybersecurity. Common Types of Cyber Attacks The world today is plagued by a variety of cyberattacks. However, our networks and systems are better protected if we know the types of cyberattacks. Here are the five most common types of cyberattacks: 1. Malware Attack Virus: A virus is a type of malware that can infect all the files on the network, which is one of the most challenging types to eliminate. A computer virus can replicate itself by inserting its malicious code into other programs. Worm: Have the power to infect the entire network quickly and require no end-user involvement as the worms can self-replicate. Trojan: One of the most challenging types of malware to detect is Trojan malware, as it disguises itself as a legitimate program. As soon as the victim executes the malicious code and instructions, the malware can function independently. It is often used as an entry point for other forms of malware. Adware: End-users are served unwanted advertising (for instance, contact pop-ups) by adware. Spyware: This type of malware collects sensitive data like user ids and passwords without suspecting the end-user. Ransomware: Known as one of the most dangerous types of malware attack that infects the system, encrypting files and holding onto the encryption key until the victim pays a ransom. The ransom is mainly in the form of cryptocurrency with a P2P network. Increasingly, organizations are being attacked by ransomware that costs them millions to restore vital systems as they pay off the attackers to recover them. There are several ransomware families, but CryptoLocker, Petya, and Locky are the most recognized ones. 2. Password Attack Password attacks most commonly cause data breaches. To gain access to user accounts, the hacker tries to bypass the authentication. 3. Phishing Attack The hacker can steal user data through phishing attacks, including login credentials, bank account details, and credit card numbers. Attackers use disguises to trick victims into opening emails, instant messages, or text messages that appear to come from trusted entities. After the recipient clicks a malicious link, sensitive information is revealed, and malware is installed. 4. Clickjacking In clickjacking, the attacker usually uses some sort of ad online to lure the user. They are tricking a user into clicking on buttons or links that open to another page that installs malware into the user's system. The Adobe Flash plugin settings page is one of the most scandalous examples of clickjacking. This page could be loaded into an invisible iframe and enable an attacker to manipulate the security settings in Flash, allowing the computer’s microphone and camera to be used remotely by Flash animations. 5. Cryptocurrency Hijacking Cryptocurrency hijacking is a new cyber-attack that grew rigorously after the cryptocurrency was introduced widely. Attackers use cryptojacking to mine cryptocurrency on someone else’s computer. During the attack, the attacker gains access to the user's computer by infecting their system or manipulating them to click on malicious links. In most cases, the users are unaware of this since the Crypto Mining code works in the background, and the only indication that something is wrong is a delay in the execution. Cybersecurity Best Practices Cyberattacks can be challenging, and keeping up with cybercriminals who constantly seek out innovative methods of exposing security risks is tough. However, one can still prevent cyberattacks in some ways: 1. Updating the Software Regularly A typical software update includes updated features, bug fixes, and security updates. It is always a good idea to update your software to the latest version to ensure your safety. 2. Making Sure the Computer is Protected from Viruses and Malware You can’t be entirely protected from malware as long as you’re connected to the internet. The vulnerability of your computer will be significantly reduced if you install an anti-virus program and at least one anti-malware program. 3. Set up 2-factor Authentication In addition, web security is strengthened by two-factor authentication because it eliminates the risk of a compromised password immediately. Two-factor authentication is now available on several platforms to keep your accounts safer. 4. Protect your Connections with a VPN Use a virtual private network (VPN) for a more secure web. Even your internet service provider won’t be able to have a glimpse of your confidential information because VPN will encrypt the connection. 5. Being Careful While Clicking on Links Whenever you click on random hyperlink messages, make sure you double-check their legitimacy since links can easily be masked as something they are not. 6. Make Sure Bluetooth is Disabled When Not in Use Hackers can steal your private information via Bluetooth if your devices are on. If you aren't using Bluetooth, please do turn it off. 7. Delete Adware on your Computer You will receive more targeted ads via adware as it collects information about you. To maintain your privacy, keep your computer free of adware and install an ad blocker. 8. Upgrade your Security System Make sure to invest in a good security system and upgrades when they are available. Investing in high-grade security is better than paying a huge amount for security breaches. 9. Virus Scan External Storage Devices In addition to internal storage devices, external storage devices can also be exposed to malware. Infected external devices can spread malware to your computer if you connect them. Therefore, before accessing external devices, scan the device to ensure they are malware-free. 10. Ensure Critical Data is Backed Up Sensitive information can be lost as a result of security breaches. Highly advisable to take back up of your critical data to the cloud or a local storage device frequently to ensure you are prepared to restore it in the event of a loss. In addition, ensure you store the sensitive files with password protected system. History of Cyberthreats Explained There has been a turbulent history of cyber threats. It was challenging to carry out a cyberattack in an era when technology was limited. Only a few people knew how to operate the giant electronic machines, which weren't networked, therefore, it was virtually not hackable. John von Neumann proposed storing the program instructions in the same memory as the data in 1945. Stored programs made it easier for computers to reprogram and complete the fetch-decode-execute cycle (FDE). This idea is often called ‘Von Neumann’ architecture. In the late 1950s, phone phreaking—hijacking the phone protocols that enabled the ‘phreaks’ to work remotely on the network without contacting the telecom engineering to make free calls and avoid paying for long-distance calls got popular. Unfortunately, the phone companies could not control the phreaks due to limited sources and eventually, phone phreaking faded in the 1980s. In 1979, Kevin Mitnick made copies of the operating systems developed by the Digital Equipment Corporation using the Ark computer. In the following decades, he committed several cyberattacks that led to his arrest and imprisonment. Currently, he serves as the CEO and founder of Mitnick Security Consulting. Since this field has such a rich history, it's not surprising that people are concerned about the recent developments since hackers can easily penetrate increasingly robust security software. Why is Cybersecurity Critical? Cybersecurity is a fast-evolving field that continually poses new challenges for companies, government agencies, and individuals. While some may assume that cybersecurity means protecting computers from viruses and other types of malware using anti-virus software or other security programs, this is only one aspect of the subject. It is more common than ever for data breaches and cyberattacks to occur. They’re no longer limited to large corporations with vast resources and sophisticated information security practices. Today, smaller businesses and those operating online marketplace sites or other e-commerce services are also at risk. It takes one mischievous user with access to a computer or mobile device to break into an organization’s network, steal confidential information, cause damage and result in lost revenue and penalties for failing to safeguard assets. They can also expose companies to liability risks. Thus, every organization must understand the basics of information security and why it’s essential for their business. The excellent accessibility of cloud computing also makes it a popular choice for many companies, which can access information anywhere, anytime, and from any location. There are, however, some risks associated with cloud computing, such as the fact that few services are available in the public domain, and third parties can access these services. Therefore, hackers may be able to hack these services easily. In addition, cloud computing also poses a severe security risk of account hijacking. When information in cloud accounts such as email, bank, social media, etc., is not password protected, it becomes vulnerable, and hackers can access it to perform unauthorized activities. Cyber Security Certifications In addition to having a bachelor’s degree in computer science, most cybersecurity professionals also need to have certifications that prove their knowledge of best practices. From entry-level to advanced, hundreds of cyber security certifications are available. Therefore, finding a certificate that will give you a competitive advantage is crucial before you spend your money and time on it. The following are the top three cybersecurity certifications that offer best practices in the industry: 1. Certified Information Systems Security Professional (CISSP) Undoubtedly, CISSP certification is one of the most sought-after credentials in the cybersecurity industry, awarded by the cybersecurity professional organization (ISC)2. CISSP certification shows you are knowledgeable about IT security and capable of designing, implementing, monitoring, and maintaining cybersecurity programs. 2. ISACA CSX Cybersecurity Fundamentals Certificate With the ISACA cybersecurity fundamentals certificate, individuals can learn advanced technology and develop their best skills. In addition, the course allows you to demonstrate real-life skills and experience through CSX’s performance-based certification and certificate programs. CISM (Certified Information Security Manager) and CISA (Certified Information Systems Auditor) grant intermediate to advanced credentials and are among the long-running ISACA certifications in the security industry. 3. Certified Ethical Hacker (CEH) It involves lawfully hacking organizations to find vulnerabilities before malicious players do, a practice known as ethical hacking, also known as white hat hacking, penetration testing , or red teams. EC-Council offers this certification as part of its CEH program. Learn the best Ethical Hacking Certification course, and you will be able to demonstrate your ability to conduct penetration testing, detect, vector, and prevent attacks. These certifications open doors for various cybersecurity job roles mentioned below: Roles Description Network Security Engineer Every organization needs a network security engineer to ensure security systems are in place to stop and counter threats. In addition, Network Security engineers are also responsible for systems maintenance, vulnerability identification, and automation of the system. The engineers also oversee the maintenance of routers, firewalls, switches, and VPNs (virtual private networks). Cybersecurity Analyst Security measures and controls are planned, implemented, and upgraded by a cybersecurity analyst. Security audits are conducted internally and externally to ensure no loopholes or security lapses. In addition to conducting vulnerability testing, risk analyses, and security assessments, a cybersecurity analyst is also responsible for managing the network. The analyst also trains colleagues in security awareness and procedures to prevent security breaches Chief Information Security Officer (CISO) In an organization, the Chief Information Security Officer (CISO) ensures that cybersecurity plans are aligned with the business’s vision, operations, and technologies. Security-related processes are also developed, implemented, and maintained by CISOs in collaboration with their staff. Ethical Hackers Due to the intuitive knowledge and skills, they possess, ethical hackers are a valuable resource for organizations. They tested and picked apart to reveal vulnerabilities. Additionally, ethical hackers provide high-level cyberattack prevention information that is gaining momentum in the market. Cloud Security Engineer An organization’s cloud-based networks and systems are built and maintained by a cloud security engineer. They manage the organization’s cloud computing environments, core infrastructure, and software platforms. In addition to providing security recommendations, they also offer advice on designing and developing secure applications. Unlock your potential with ITIL 4 Foundation Certification . Gain the skills and knowledge to excel in the ever-evolving IT industry. Enroll now! Conclusion Businesses of all sizes are becoming increasingly concerned about cybersecurity, which is a rapidly growing field. While cyberattacks may seem like science fiction movies, the reality is that they are becoming common. Moreover, cybercrimes will only increase over the next few years. A cybersecurity breach can happen anywhere. Explore KnowledgeHut’s best online Cybersecurity Certificate programs and learn how you can start cost-effectively creating a robust cybersecurity program. Frequently Asked Questions (FAQs) 1. What are the four cybersecurity protocols? The four cybersecurity protocols are access control, authentication, information protection, and automated monitoring. 2. How do I start learning cybersecurity? Learning about cybersecurity’s areas of specialization in which you are interested, looking for resources, and creating a learning plan is crucial to pursuing a career in cybersecurity. 3. What should I learn before cybersecurity? The first requirement for starting a career in cybersecurity is having a computer and an in-depth understanding of networking. 4. What skills are needed for cybersecurity? To be a successful cybersecurity professional, you need to have a wide range of skills, including Networking and System Administration, Network Security Control, Operating Systems & Virtual Machines, Coding, and The Internet of Things (IoT). 5. How do I create a cybersecurity plan? The software should be updated regularly, anti-malware software should be installed, a firewall should be erected, wireless networks should be secured, strong passwords should be used, and back-ups should be performed regularly. Shweta Lakhwani 11 articles published Shweta Lakhwani runs a travel business - \"Voyage Planner\" based in Ahmedabad (Gujarat), India. In addition, she is a freelance writer and wins her clients with her creative writing skill. She creates ... Get Free Consultation +91 Submit By submitting, I accept the T&C and Privacy Policy Suggested Blogs SECURITY Cybersecurity Engineer Salary: A Detailed Guide 2026 By Vitesh Sharma 12 Jan 2026 9 min read SECURITY Top 15 Important Applications of Cybersecurity in 2026 By Vitesh Sharma 04 Feb 2026 10 min read SECURITY The Future Scope of Ethical Hacking in 2026 and beyond? By Vitesh Sharma 12 Mar 2026 8 min read SECURITY Top 35 Ethical Hacking Tools in 2026 [With Pricing & Rating] By Vitesh Sharma 12 Mar 2026 9 min read SECURITY Top 20+ Cyber Security Projects for 2026 [With Source Code] By Sulaiman Asif 12 Mar 2026 9 min read SECURITY Top 15 Famous Ethical Hackers in India to Know in 2026 By Vitesh Sharma 12 Mar 2026 8 min read View All security Blogs",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.knowledgehut.com/blog/security/cyber-security-fundamentals"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:34:49.575616",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "29f959514c4bbb81": {
+      "conteudo": "TITULO: Fundamentals of Cybersecurity [2026 Beginner's Guide]\nCONTEUDO: Home Blog Security Fundamentals of Cybersecurity [2026 Beginner's Guide] Fundamentals of Cybersecurity [2026 Beginner's Guide] By Shweta Lakhwani Updated on Feb 04, 2026 | 17 min read | 51.27K+ views Share: Table of Contents View all Important Cybersecurity Fundamentals Key Concept of Cybersecurity Basic Terminologies of Cyber Security Common Types of Cyber Attacks Cybersecurity Best Practices History of Cyberthreats Explained Why is Cybersecurity Critical? Cyber Security Certifications Conclusi...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.knowledgehut.com/blog/security/cyber-security-fundamentals"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:34:49.577235",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10166,6 +10232,24 @@
       "texto_completo": "git git Public Notifications You must be signed in to change notification settings Fork 27.6k Star 59.7k master Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 80,133 Commits 80,133 Commits .github .github Documentation Documentation bin-wrappers bin-wrappers block-sha1 block-sha1 builtin builtin ci ci compat compat compiler-tricks compiler-tricks contrib contrib ewah ewah git-gui git-gui gitk-git gitk-git gitweb gitweb mergetools mergetools negotiator negotiator odb odb oss-fuzz oss-fuzz perl perl po po refs refs reftable reftable sha1 sha1 sha1collisiondetection @ 855827c sha1collisiondetection @ 855827c sha1dc sha1dc sha256 sha256 src src subprojects subprojects t t templates templates trace2 trace2 xdiff xdiff .cirrus.yml .cirrus.yml .clang-format .clang-format .editorconfig .editorconfig .gitattributes .gitattributes .gitignore .gitignore .gitlab-ci.yml .gitlab-ci.yml .gitmodules .gitmodules .mailmap .mailmap .tsan-suppressions .tsan-suppressions CODE_OF_CONDUCT.md CODE_OF_CONDUCT.md COPYING COPYING Cargo.toml Cargo.toml GIT-BUILD-OPTIONS.in GIT-BUILD-OPTIONS.in GIT-VERSION-FILE.in GIT-VERSION-FILE.in GIT-VERSION-GEN GIT-VERSION-GEN INSTALL INSTALL LGPL-2.1 LGPL-2.1 Makefile Makefile README.md README.md RelNotes RelNotes SECURITY.md SECURITY.md abspath.c abspath.c abspath.h abspath.h aclocal.m4 aclocal.m4 add-interactive.c add-interactive.c add-interactive.h add-interactive.h add-patch.c add-patch.c advice.c advice.c advice.h advice.h alias.c alias.c alias.h alias.h alloc.c alloc.c alloc.h alloc.h apply.c apply.c apply.h apply.h archive-tar.c archive-tar.c archive-zip.c archive-zip.c archive.c archive.c archive.h archive.h attr.c attr.c attr.h attr.h banned.h banned.h base85.c base85.c base85.h base85.h bisect.c bisect.c bisect.h bisect.h blame.c blame.c blame.h blame.h blob.c blob.c blob.h blob.h bloom.c bloom.c bloom.h bloom.h branch.c branch.c branch.h branch.h build.rs build.rs builtin.h builtin.h bundle-uri.c bundle-uri.c bundle-uri.h bundle-uri.h bundle.c bundle.c bundle.h bundle.h cache-tree.c cache-tree.c cache-tree.h cache-tree.h cbtree.c cbtree.c cbtree.h cbtree.h chdir-notify.c chdir-notify.c chdir-notify.h chdir-notify.h check-builtins.sh check-builtins.sh checkout.c checkout.c checkout.h checkout.h View all files Repository files navigation Git - fast, scalable, distributed revision control system Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Git is an Open Source project covered by the GNU General Public License version 2 (some parts of it are under different licenses, compatible with the GPLv2). It was originally written by Linus Torvalds with help of a group of hackers around the net. Please read the file INSTALL for installation instructions. Many Git online resources are accessible from https://git-scm.com/ including full documentation and Git related tools. See Documentation/gittutorial.adoc to get started, then see Documentation/giteveryday.adoc for a useful minimum set of commands, and Documentation/git-<commandname>.adoc for documentation of each command. If git has been correctly installed, then the tutorial can also be read with man gittutorial or git help tutorial , and the documentation of each command with man git-<commandname> or git help <commandname> CVS users may also want to read Documentation/gitcvs-migration.adoc man gitcvs-migration or git help cvs-migration if git is installed). The user discussion and development of Git take place on the Git mailing list -- everyone is welcome to post bug reports, feature requests, comments and patches to git@vger.kernel.org (read Documentation/SubmittingPatches for instructions on patch submission and Documentation/CodingGuidelines Those wishing to help with error message, usage and informational message string translations (localization l10) should see po/README.md (a po file is a Portable Object file that holds the translations). To subscribe to the list, send an email to git+subscribe@vger.kernel.org (see https://subspace.kernel.org/subscribing.html for details). The mailing list archives are available at https://lore.kernel.org/git/ https://marc.info/?l=git and other archival sites. Issues which are security relevant should be disclosed privately to the Git Security mailing list git-security@googlegroups.com The maintainer frequently sends the \"What's cooking\" reports that list the current status of various development topics to the mailing list. The discussion following them give a good reference for project status, development direction and remaining tasks. The name \"git\" was given by Linus Torvalds when he wrote the very first version. He described the tool as \"the stupid content tracker\" and the name as (depending on your mood): random three-letter combination that is pronounceable, and not actually used by any common UNIX command. The fact that it is a mispronunciation of \"get\" may or may not be relevant. stupid. contemptible and despicable. simple. Take your pick from the dictionary of slang. \"global information tracker\": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room. \"goddamn idiotic truckload of sh*t\": when it breaks About Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget ( https://gitgitgadget.github.io/ ). Please follow Documentation/SubmittingPatches procedure for any of your improvements. Topics c shell hacktoberfest Resources Readme License View license Code of conduct Code of conduct Contributing Contributing Security policy Security policy Uh oh! There was an error while loading. Please reload this page Activity Custom properties Stars 59.7k stars Watchers 2.5k watching Forks 27.6k forks Report repository Releases 1,000 tags Packages 0 Uh oh! There was an error while loading. Please reload this page Uh oh! There was an error while loading. Please reload this page Contributors 1,825 + 1,811 contributors Languages C 50.5% Shell 38.3% Perl 4.4% Tcl 3.6% Python 0.8% Makefile 0.7% Other 1.7%",
       "data_acesso": "2026-03-13T14:31:35.640072",
       "tamanho": 6252
+    },
+    "https://www.coursera.org/specializations/cybersecurity-fundamentals?msockid=3150a54ea81569103860b255a9d468c8": {
+      "titulo": "Cybersecurity Fundamentals | Coursera",
+      "texto_completo": "Cybersecurity Fundamentals Specialization Limited time! Save 40% on 3 months of Coursera Plus and full access to thousands of courses. Cybersecurity Fundamentals Specialization Unlock your cybersecurity professional potential. Develop fluency in essential Cybersecurity skills and competencies and safeguard your digital assets. Instructors: Jeff Crume +5 more Instructors Top Instructor Jeff Crume IBM 3 Courses 19,070 learners IBM Skills Network Team 91 Courses 1,835,412 learners Dee Dee Collette IBM 11 Courses 719,664 learners Dr. Manish Kumar IBM 8 Courses 204,519 learners Rav Ahuja IBM 55 Courses 4,847,488 learners Ramanujam Srinivasan IBM 22 Courses 198,110 learners OK Top Instructor Enroll for free Starts Mar 13 9,109 already enrolled Included with Coursera Plus Learn more 4 course series Get in-depth knowledge of a subject 4.8 from 2,281 reviews of courses in this program Beginner level Recommended experience Recommended experience Beginner level No prior work experience is required. Basic knowledge of IT and networking terminology is recommended for better understanding of the content. OK 12 weeks to complete at 2 hours a week Flexible schedule Learn at your own pace 4 course series Get in-depth knowledge of a subject 4.8 from 2,281 reviews of courses in this program Beginner level Recommended experience Recommended experience Beginner level No prior work experience is required. Basic knowledge of IT and networking terminology is recommended for better understanding of the content. OK 12 weeks to complete at 2 hours a week Flexible schedule Learn at your own pace What you'll learn Identify common security threats and risks; explain characteristics of cyberattacks and best practices to guard against them Discuss cybersecurity fundamentals, including topics like the five security principles, CIA triad, IAM, endpoint security, and security domains Explain how organizations respond to, recover from, and continue to operate during unplanned disruptions Explain cybersecurity roles, including their key responsibilities, daily tasks, career path, relevant certifications, and salary ranges Skills you'll gain Advanced Encryption Standard (AES) Application Security Authentications Authorization (Computing) Computer Security Awareness Training Computer Security Incident Management Cryptographic Protocols Cryptography Cyber Security Policies Cyber Security Strategy Cyber Attacks Cybersecurity Data Security Encryption Information Technology Network Security Personally Identifiable Information Public Key Infrastructure Security Awareness Security Controls Show all Details to know Shareable certificate Add to your LinkedIn profile Taught in English 3 languages available See how employees at top companies are mastering in-demand skills Learn more about Coursera for Business Advance your subject-matter expertise Learn in-demand skills from university and industry experts Master a subject or tool with hands-on projects Develop a deep understanding of key concepts Earn a career certificate from IBM Specialization - 4 course series Vigilance against cyberthreats and attacks becomes increasingly important year over year as we continue to accelerate the amount of sensitive information in digital, web-accessible formats. Do you want to arm yourself with the required knowledge to ensure protection for yourself or your organization? Take this cybersecurity Specialization to learn the basics! This cybersecurity fundamentals program from IBM can help every individual with limited or no experience in IT or cybersecurity, whether you are a developer, a manager, an IT professional, or a digital consumer interested in learning about issues in the field and the measures you can take to ensure organizational security. This specialization will equip learners with an understanding of the fundamental concepts, processes, tools, and strategies of cybersecurity, in combination with hands-on exercises and activities, to gain the experience necessary to implement security best practices and take informed decisions in case of a cyberattack. Investigate topics like authorization, authentication, encryption, firewalls, detection, safety practices, and safe-guarding applications, data, and networks. Explore cybersecurity-related roles and career paths. Get started with your cybersecurity learning today! Applied Learning Project This Specialization emphasizes applied learning and includes a series of hands-on activities and projects. In these exercises, you’ll take the theory and skills you’ve gained and practice them with real-world scenarios. You will explore networking ports and protocols and perform network troubleshooting. You will install Windows updates, anti-virus software, and use Windows Defender firewall. Additionally, manage browser privacy settings and configure a secure network. Regarding cybersecurity-related careers, you will search for job postings with the required skills and qualifications for specific roles and even start to develop your own resume and portfolio. Introduction to Cybersecurity Essentials Course 1 13 hours Course details What you'll learn Learn how to identify common cybersecurity threats, including malware, social engineering, breaches, and other attack vectors Install software updates and patches, and apply authentication, encryption, and device-hardening techniques to protect sensitive information Explore physical security, environmental safeguards, and access control measures used to prevent unauthorized access and ensure business continuity Apply cybersecurity best practices using strong password creation and management strategies, and identify use cases for encryption Skills you'll gain Category: Personally Identifiable Information Personally Identifiable Information Category: Encryption Encryption Category: Malware Protection Malware Protection Category: Multi-Factor Authentication Multi-Factor Authentication Category: Cyber Attacks Cyber Attacks Category: Data Security Data Security Category: Email Security Email Security Category: Security Controls Security Controls Category: Data Integrity Data Integrity Category: Application Security Application Security Category: Vulnerability Assessments Vulnerability Assessments Category: Security Awareness Security Awareness Category: Hardening Hardening Category: Identity and Access Management Identity and Access Management Category: Cryptography Cryptography Category: Authentications Authentications Category: Cybersecurity Cybersecurity Category: Information Privacy Information Privacy Category: Authorization (Computing) Authorization (Computing) Category: Computer Security Awareness Training Computer Security Awareness Training Cybersecurity Architecture Course 2 14 hours Course details What you'll learn Apply the five foundational principles of cybersecurity and CIA triad to real-world scenarios to design and evaluate secure systems Integrate key areas a cybersecurity architect must consider when developing a secure enterprise solution, including governance, and risk management Assess and implement Identity and Access Management (IAM), endpoint security, application security, and data security, to strengthen security Evaluate scenarios & recommend practical methods to enhance its security through improved configurations, monitoring, and incident response planning Skills you'll gain Category: Application Security Application Security Category: Data Security Data Security Category: Network Security Network Security Category: Information Technology Architecture Information Technology Architecture Category: Cybersecurity Cybersecurity Encryption and Cryptography Essentials Course 3 16 hours Course details What you'll learn Job-ready encryption and cryptography skills for cybersecurity employers need in just 4 weeks. How to classify cryptographic algorithms and key exchange protocols and identify their applications in securing data How to identify and apply encryption techniques to secure communication and ensure data privacy. How to use hashing algorithms and digital signatures in blockchain to secure transactions, validate identities, and ensure data integrity. Skills you'll gain Category: Cryptography Cryptography Category: Encryption Encryption Category: Public Key Infrastructure Public Key Infrastructure Category: Advanced Encryption Standard (AES) Advanced Encryption Standard (AES) Category: Data Security Data Security Category: Cryptographic Protocols Cryptographic Protocols Category: Data Integrity Data Integrity Category: Classification Algorithms Classification Algorithms Category: Authentications Authentications Category: Cybersecurity Cybersecurity Category: Blockchain Blockchain Category: Network Security Network Security Introduction to Cybersecurity Careers Course 4 8 hours Course details What you'll learn Compare the roles and responsibilities of various careers within the cybersecurity field and how to progress from one level to the next level. Map IT fundamental skills, technical skills, and soft skills to the different job roles at various levels in cybersecurity. Identify the required certifications, such as Security+, A+, CISSP, and CEH, for different job roles and the contents of each certification. Discover the right role for you in cybersecurity and learn how to prepare for your chosen career path. Skills you'll gain Category: Information Assurance Information Assurance Category: Data Security Data Security Category: Cybersecurity Cybersecurity Category: Cyber Security Strategy Cyber Security Strategy Category: Security Awareness Security Awareness Category: Information Technology Information Technology Category: Application Security Application Security Category: Technical Support Technical Support Category: Technical Support and Services Technical Support and Services Category: Computer Hardware Computer Hardware Category: Network Security Network Security Category: Cyber Security Policies Cyber Security Policies Category: General Networking ",
+      "data_acesso": "2026-03-13T14:34:37.510065",
+      "tamanho": 15543
+    },
+    "https://www.skills.google/paths/2268/course_templates/1214": {
+      "titulo": "Foundations of Cybersecurity | Google Skills",
+      "texto_completo": "Course Foundations of Cybersecurity 3 hours 15 minutes Introductory Updated 5 months ago Learn about the foundations of Cybersecurity. This course introduces you to the field, explaining its importance in business, and exploring the responsibilities and skills of an entry-level cybersecurity analyst. Google employees guide you through interactive videos and hands-on activities to build your skills. This is the first course in the Google Cybersecurity Certificate, a series designed to prepare you for an entry-level cybersecurity role.",
+      "data_acesso": "2026-03-13T14:34:46.412441",
+      "tamanho": 539
+    },
+    "https://www.knowledgehut.com/blog/security/cyber-security-fundamentals": {
+      "titulo": "Fundamentals of Cybersecurity [2026 Beginner's Guide]",
+      "texto_completo": "Home Blog Security Fundamentals of Cybersecurity [2026 Beginner's Guide] Fundamentals of Cybersecurity [2026 Beginner's Guide] By Shweta Lakhwani Updated on Feb 04, 2026 | 17 min read | 51.27K+ views Share: Table of Contents View all Important Cybersecurity Fundamentals Key Concept of Cybersecurity Basic Terminologies of Cyber Security Common Types of Cyber Attacks Cybersecurity Best Practices History of Cyberthreats Explained Why is Cybersecurity Critical? Cyber Security Certifications Conclusion As the digital era has gifted us technological innovation, organizations have spent decades increasing their online presence to reach new customers and grow their digital footprint. Cybercrime has escalated simultaneously. The omnipresence of the internet and growing access have made it easier for cybercriminals to target businesses and access personal information. The concept of computer security extends beyond safeguarding devices against external threats. To prevent unauthorized access, organizations must ensure network security. Regardless of your field or data security measures, online threats can always put your company’s information at risk. Learning about cybersecurity fundamentals will equip you with the knowledge needed to safeguard networks from potential attacks and safely maintain privileged user access. Make time for learning about the best online Cybersecurity certificate programs for you. Master the Right Skills & Boost Your Career Avail your free 1:1 mentorship session Schedule Free Call! Important Cybersecurity Fundamentals The IT Security Fundamentals skill path includes an understanding of computer hardware, software, and network security. The cybersecurity fundamentals course trains you in developing and implementing security solutions for small and large organizations, protecting systems and network infrastructures. Four Fundamentals of Cybersecurity 1. Device Protection With the rise in cyber threats, individuals and companies should prioritize device protection. It is crucial to protect devices that connect to the internet using anti-virus software, enables the lock-and-erase options, activate two-factor authentication, and perform a regular automatic update of the system software, whether they are laptops, PCs, mobile phones, AI-based devices (Alexa, smart watches, etc.), iPads, tables, or any device that connects to the internet. Device protection will significantly reduce the risk of attacks on individuals and their devices regardless of their location. 2. Securing Online Connection Once an individual device is connected online, information transmitted over the Internet requires more defenses. Furthermore, one should use VPNs: Virtual Private Networks as they automatically encrypt internet traffic. By using a VPN, all online transactions are secured, including the user’s identity, location, browsing details, and any sensitive information such as passwords and bank details. 3. Securing Email Communication Cybercriminals often use email to gather sensitive information about individuals or companies. It is highly recommended to encrypt emails to prevent sensitive data from being accessed by anyone other than the intended recipient since they mask the original information. In addition, email encryption often includes one-time password authentication. 4. Protecting and Performing Timely Backups of Files and Documents Backups fall into two categories: Remote backups (offline) and cloud storage (online). Solutions differ in their advantages and disadvantages. Remote backup services are convenient and inexpensive, but it is not easily accessible from anywhere. Alternatively, cloud solutions can be accessed from anywhere and are suitable for an organization that operates from different locations. However, one must ensure that critical documents should have their own digital vault with encryption codes, as anything connected to the internet has a cyber threat risk. Cyber threats can, however, affect anything connected to the internet. With a database and infrastructure security management system, the cloud computing solution is highly secure, with strong network security, application security, and cloud security. Additionally, strong mobile security enhances cloud computing security. By implementing a BCDR plan, an organization can recover quickly from unforeseen cloud security situations such as natural disasters, power outages, team member negligence, hardware failure, and cyberattacks, allowing routine operations to resume in less time. Moreover, identity management frameworks provide endpoint security and data security at the highest level. Key Concept of Cybersecurity Cybersecurity refers to protecting systems, networks, programs, devices, and data from cyber-attacks using technologies, processes, and controls. The basic cybersecurity concepts involve reducing cyber-attack risks and preventing unauthorized access to systems, networks, and technologies. A. Three Concepts of Cybersecurity WallarmThe fundamentals of cybersecurity lies in the CIA triad which are: Confidentiality Integrity Availability B. Primary Key Concepts of Cybersecurity Threat identification Keeping information safe Detecting intrusions and attacks Respond to intrusions and attacks. Rebuild intrusion defenses and recover database security. Basic Terminologies of Cyber Security Cybersecurity basics for beginners should include these terminologies. Knowing the cybersecurity basics terminology will help you better understand the high-tech world. However, technological advances in cybersecurity are accompanied by the emergence of new jargon. 1. Internet Protocol (IP) Address Hardware devices on a network are identified by IP addresses (Internet Protocol addresses). On a local network or over the internet, these devices can communicate with each other and transfer data. Numbers are separated by periods in each address. It comprises four digits with a range of 0 to 255. An IP address might look like this: 192.159.1.98 Internet computers, routers, and websites need billions of unique IP addresses to be identified as one cannot repeat them. IPv6 is a new protocol designed to meet the day's needs when the system runs out of unique addresses in the future. 2. VPN - Virtual Private Network Virtual Private Network, popularly known as VPN, allows users to maintain their privacy and anonymity while browsing the internet. VPNs make online activities virtually untraceable by masking the internet protocol (IP) address. In addition to providing greater privacy than secured Wi-Fi hotspots, VPN services establish secure and highly encrypted connections. With a VPN, online activity is hidden from cybercriminals, businesses, governments, and other snoopers who tend to lure users into clicking on anonymous links. 3. Firewall A firewall monitors and filters the system's incoming and outgoing network traffic as per a company’s security policies. Firewalls are a barrier between a private internal network and the Internet at its primary level. A firewall blocks virtual traffic, which looks destructive, and allows secure and non-threatening traffic to flow uninterrupted. 4. Domain Name Server (DNS) DNS - Domain Name Server operates as the internet’s virtual phone book. As every browser on the internet is known by its IP address which allows users to locate the device, the DNS converts the domain name into an IP address. For instance, the DNS converts the URL of www.mycompany123.com to a numerical IP address 204.0.6.42. Browsers send data to the origin servers on the content delivery network (CDN) using the IP address found by DNS servers. 5. Encryption and Decryption Encryption is a process of converting plain text (readable message) into codes using an encryption algorithm known as ciphertext. While, Decryption is a process of converting the ciphertext into plain text. 6. Encryption Key Data that is encrypted is decrypted and unscrambled using an encryption key. Keys are unique and complex to replicate since they are associated with specific encryption codes. In addition, here are the top 50 cybersecurity terms you should learn to become a pro in cybersecurity. Common Types of Cyber Attacks The world today is plagued by a variety of cyberattacks. However, our networks and systems are better protected if we know the types of cyberattacks. Here are the five most common types of cyberattacks: 1. Malware Attack Virus: A virus is a type of malware that can infect all the files on the network, which is one of the most challenging types to eliminate. A computer virus can replicate itself by inserting its malicious code into other programs. Worm: Have the power to infect the entire network quickly and require no end-user involvement as the worms can self-replicate. Trojan: One of the most challenging types of malware to detect is Trojan malware, as it disguises itself as a legitimate program. As soon as the victim executes the malicious code and instructions, the malware can function independently. It is often used as an entry point for other forms of malware. Adware: End-users are served unwanted advertising (for instance, contact pop-ups) by adware. Spyware: This type of malware collects sensitive data like user ids and passwords without suspecting the end-user. Ransomware: Known as one of the most dangerous types of malware attack that infects the system, encrypting files and holding onto the encryption key until the victim pays a ransom. The ransom is mainly in the form of cryptocurrency with a P2P network. Increasingly, organizations are being attacked by ransomware that costs them millions to restore vital systems as they pay off the attackers to recover them. There are several ransomware families, but CryptoLocker, Petya, and Locky are the most recognized ones. 2. Password Attack Password attacks most commonly cause data breaches. To gain access to user accounts, the hacker tries to bypass the authentication. 3. Phishing Attack The hacker can steal user ",
+      "data_acesso": "2026-03-13T14:34:49.574391",
+      "tamanho": 24086
     }
   },
   "indices": {
@@ -10611,7 +10695,8 @@
         "59c1f7af031c6db5",
         "dd7e384a921fc225",
         "6ab1d04c7b4b949f",
-        "0116c4c6c3da46e7"
+        "0116c4c6c3da46e7",
+        "233ff78d2aee3830"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10647,7 +10732,10 @@
         "ad4f0965ff4a91ea",
         "8b1b7a10f27a7fc5",
         "b734cca537f5beff",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "a2bd74e873119959",
+        "bd98ca4333ae9b5d",
+        "29f959514c4bbb81"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10675,7 +10763,9 @@
         "b850a0f81ab34e71",
         "4ee54da053c5a92b",
         "75a5d338dbd99a0c",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ]
     },
     "por_fonte": {
@@ -11357,6 +11447,18 @@
       "https://github.com/git/git": [
         "4263343f5723c911",
         "e9b87086091506eb"
+      ],
+      "https://www.coursera.org/specializations/cybersecurity-fundamentals?msockid=3150a54ea81569103860b255a9d468c8": [
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
+      ],
+      "https://www.skills.google/paths/2268/course_templates/1214": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "https://www.knowledgehut.com/blog/security/cyber-security-fundamentals": [
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ]
     },
     "por_palavra": {
@@ -11380,16 +11482,28 @@
         "ad4f0965ff4a91ea",
         "c81451f3ca585417",
         "b734cca537f5beff",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "63cccdfba6defaab",
+        "a2bd74e873119959",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "83d7352ddb89d173"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
         "869ef110cbcdc27e",
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "63cccdfba6defaab",
+        "a2bd74e873119959",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "malware": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "83d7352ddb89d173"
       ],
       "software": [
         "76e1b1a09f317aa1",
@@ -11398,7 +11512,8 @@
         "6cb9dd3ec0aa8739",
         "111b3fbd6b950047",
         "66af99b6e8fa3152",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "83d7352ddb89d173"
       ],
       "malicious": [
         "76e1b1a09f317aa1"
@@ -11406,7 +11521,9 @@
       "information": [
         "76e1b1a09f317aa1",
         "869ef110cbcdc27e",
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "that": [
         "76e1b1a09f317aa1",
@@ -11422,12 +11539,15 @@
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
         "c81451f3ca585417",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "83d7352ddb89d173"
       ],
       "computer": [
         "76e1b1a09f317aa1",
         "0e103e53f9552598",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "passwords": [
         "76e1b1a09f317aa1"
@@ -11436,7 +11556,8 @@
         "76e1b1a09f317aa1",
         "73c30f0c4a60b045",
         "0e103e53f9552598",
-        "5ded4e12b42ae651"
+        "5ded4e12b42ae651",
+        "83d7352ddb89d173"
       ],
       "risks": [
         "76e1b1a09f317aa1"
@@ -11470,7 +11591,8 @@
       ],
       "blog": [
         "76e1b1a09f317aa1",
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "29f959514c4bbb81"
       ],
       "best": [
         "76e1b1a09f317aa1",
@@ -11482,7 +11604,9 @@
         "b8f86559bf96fa79",
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "from": [
         "76e1b1a09f317aa1",
@@ -11497,13 +11621,16 @@
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
         "75a5d338dbd99a0c",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "systems": [
         "76e1b1a09f317aa1",
         "0e103e53f9552598",
         "5ded4e12b42ae651",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "83d7352ddb89d173"
       ],
       "more": [
         "76e1b1a09f317aa1",
@@ -11514,7 +11641,9 @@
         "9d3eef28d73f90e5",
         "cc6901ebb1f7f3e7",
         "b850a0f81ab34e71",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
       ],
       "with": [
         "76e1b1a09f317aa1",
@@ -11538,13 +11667,16 @@
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
         "c81451f3ca585417",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "user": [
         "76e1b1a09f317aa1",
         "95e3a5b592935fe3",
         "75a5d338dbd99a0c",
-        "ad4f0965ff4a91ea"
+        "ad4f0965ff4a91ea",
+        "83d7352ddb89d173"
       ],
       "what": [
         "76e1b1a09f317aa1",
@@ -11553,7 +11685,8 @@
         "91e38248c22bb7fb",
         "08b5b3a969983ea5",
         "0c698dccfe6ccd1c",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "63cccdfba6defaab"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -11580,7 +11713,9 @@
         "9d3eef28d73f90e5",
         "cc6901ebb1f7f3e7",
         "b850a0f81ab34e71",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -11607,18 +11742,21 @@
       ],
       "take": [
         "76e1b1a09f317aa1",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "63cccdfba6defaab"
       ],
       "yourself": [
         "76e1b1a09f317aa1"
       ],
       "their": [
         "76e1b1a09f317aa1",
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "83d7352ddb89d173"
       ],
       "they": [
         "76e1b1a09f317aa1",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "83d7352ddb89d173"
       ],
       "this": [
         "76e1b1a09f317aa1",
@@ -11642,7 +11780,11 @@
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
         "4263343f5723c911",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "83d7352ddb89d173"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -11731,7 +11873,10 @@
         "ad4f0965ff4a91ea",
         "8b1b7a10f27a7fc5",
         "b734cca537f5beff",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "a2bd74e873119959",
+        "bd98ca4333ae9b5d",
+        "29f959514c4bbb81"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11772,7 +11917,10 @@
         "ad4f0965ff4a91ea",
         "8b1b7a10f27a7fc5",
         "b734cca537f5beff",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "a2bd74e873119959",
+        "bd98ca4333ae9b5d",
+        "29f959514c4bbb81"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11795,13 +11943,16 @@
       "practices": [
         "869ef110cbcdc27e",
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "29f959514c4bbb81"
       ],
       "networks": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "83d7352ddb89d173"
       ],
       "devices": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "83d7352ddb89d173"
       ],
       "data": [
         "869ef110cbcdc27e",
@@ -11819,12 +11970,17 @@
         "e6d382a3c8d852d4",
         "95e3a5b592935fe3",
         "b850a0f81ab34e71",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
       ],
       "access": [
         "869ef110cbcdc27e",
         "242d8505c4a22160",
-        "95e3a5b592935fe3"
+        "95e3a5b592935fe3",
+        "63cccdfba6defaab",
+        "a2bd74e873119959",
+        "83d7352ddb89d173"
       ],
       "criminal": [
         "869ef110cbcdc27e"
@@ -11859,7 +12015,8 @@
         "17ce6e361a1d01ee",
         "50d89ae937544a7e",
         "f4274a87f70b7a9c",
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "83d7352ddb89d173"
       ],
       "communication": [
         "869ef110cbcdc27e"
@@ -11879,7 +12036,9 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "b850a0f81ab34e71",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "video": [
         "869ef110cbcdc27e"
@@ -11897,7 +12056,8 @@
       ],
       "awareness": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "63cccdfba6defaab"
       ],
       "resources": [
         "fe0a23e029896722"
@@ -11905,7 +12065,8 @@
       "program": [
         "fe0a23e029896722",
         "7a07f2ff806d1129",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "63cccdfba6defaab"
       ],
       "online": [
         "fe0a23e029896722",
@@ -11915,12 +12076,16 @@
         "e6d382a3c8d852d4",
         "dd7e384a921fc225",
         "0116c4c6c3da46e7",
-        "8b1b7a10f27a7fc5"
+        "8b1b7a10f27a7fc5",
+        "83d7352ddb89d173"
       ],
       "security": [
         "fe0a23e029896722",
         "75a5d338dbd99a0c",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "2012": [
         "fe0a23e029896722"
@@ -11929,7 +12094,8 @@
         "fe0a23e029896722"
       ],
       "view": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "29f959514c4bbb81"
       ],
       "files": [
         "fe0a23e029896722",
@@ -11964,12 +12130,18 @@
         "e6d382a3c8d852d4",
         "b850a0f81ab34e71",
         "75a5d338dbd99a0c",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "about": [
         "fe0a23e029896722",
         "91e38248c22bb7fb",
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "83d7352ddb89d173"
       ],
       "community": [
         "fe0a23e029896722",
@@ -12008,7 +12180,10 @@
       ],
       "cyber": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "63cccdfba6defaab",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "part": [
         "fe0a23e029896722",
@@ -12022,7 +12197,8 @@
         "b850a0f81ab34e71",
         "6ab1d04c7b4b949f",
         "ad4f0965ff4a91ea",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "83d7352ddb89d173"
       ],
       "federal": [
         "fe0a23e029896722"
@@ -12056,15 +12232,20 @@
       ],
       "network": [
         "fe0a23e029896722",
-        "3ba7175038ddccc0"
+        "3ba7175038ddccc0",
+        "63cccdfba6defaab",
+        "a2bd74e873119959",
+        "83d7352ddb89d173"
       ],
       "critical": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "29f959514c4bbb81"
       ],
       "share": [
         "fe0a23e029896722",
         "71a1a96eb62a2f10",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "29f959514c4bbb81"
       ],
       "partnerships": [
         "fe0a23e029896722",
@@ -12080,7 +12261,8 @@
         "7a07f2ff806d1129"
       ],
       "understanding": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "63cccdfba6defaab"
       ],
       "empowering": [
         "7a07f2ff806d1129"
@@ -12135,7 +12317,8 @@
         "7a07f2ff806d1129",
         "c6b34bef6d7f378b",
         "69480fe95ce24a31",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "29f959514c4bbb81"
       ],
       "workplace": [
         "7a07f2ff806d1129"
@@ -12162,7 +12345,8 @@
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
         "4ee54da053c5a92b",
-        "8e7082345d2edf03"
+        "8e7082345d2edf03",
+        "83d7352ddb89d173"
       ],
       "datahoarder": [
         "581c8fb845bd6d65",
@@ -12192,7 +12376,8 @@
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "29f959514c4bbb81"
       ],
       "provider": [
         "581c8fb845bd6d65",
@@ -12241,7 +12426,8 @@
       "also": [
         "581c8fb845bd6d65",
         "b8f86559bf96fa79",
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "83d7352ddb89d173"
       ],
       "cookiedelivery": [
         "581c8fb845bd6d65",
@@ -12355,7 +12541,9 @@
         "1af3e9801063ed28",
         "06412b81f68bbfee",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "spreadsheets": [
         "581c8fb845bd6d65",
@@ -12448,7 +12636,8 @@
         "0897ec52374a6727",
         "0e103e53f9552598",
         "75a5d338dbd99a0c",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "29f959514c4bbb81"
       ],
       "started": [
         "b8f86559bf96fa79",
@@ -12487,7 +12676,10 @@
       ],
       "hours": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "total": [
         "b8f86559bf96fa79",
@@ -12897,7 +13089,8 @@
         "ad4f0965ff4a91ea",
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "83d7352ddb89d173"
       ],
       "以及远程操控和监控的设备": [
         "1b875cbff8d9d6f0"
@@ -12950,7 +13143,8 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "b850a0f81ab34e71",
-        "4ee54da053c5a92b"
+        "4ee54da053c5a92b",
+        "63cccdfba6defaab"
       ],
       "mathworks": [
         "3e417395659575d0",
@@ -13504,7 +13698,8 @@
       ],
       "device": [
         "17380aa1e75c8e1c",
-        "b742dc8a21aec10c"
+        "b742dc8a21aec10c",
+        "83d7352ddb89d173"
       ],
       "一栏是否选择了正确的stm32微控制器型号": [
         "17380aa1e75c8e1c",
@@ -13764,7 +13959,9 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
-        "0116c4c6c3da46e7"
+        "0116c4c6c3da46e7",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "pelo": [
         "8ed8baff7acd22b8",
@@ -14556,7 +14753,8 @@
         "9d3eef28d73f90e5",
         "b850a0f81ab34e71",
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "83d7352ddb89d173"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -14613,7 +14811,8 @@
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
         "08b5b3a969983ea5",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "63cccdfba6defaab"
       ],
       "lambda": [
         "026f23a1d4ac4177"
@@ -14667,7 +14866,8 @@
       ],
       "experience": [
         "026f23a1d4ac4177",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "63cccdfba6defaab"
       ],
       "dynamodb": [
         "026f23a1d4ac4177"
@@ -14679,7 +14879,10 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "91e38248c22bb7fb",
-        "66af99b6e8fa3152"
+        "66af99b6e8fa3152",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "29f959514c4bbb81"
       ],
       "developer": [
         "026f23a1d4ac4177",
@@ -14700,7 +14903,8 @@
         "0414d536276c3f78"
       ],
       "complete": [
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "63cccdfba6defaab"
       ],
       "tutorialq": [
         "71a1a96eb62a2f10"
@@ -14801,7 +15005,8 @@
       "which": [
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "83d7352ddb89d173"
       ],
       "native": [
         "1d4e81d94c23b2c2"
@@ -14823,7 +15028,9 @@
       ],
       "business": [
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "amazon": [
         "1d4e81d94c23b2c2",
@@ -14863,7 +15070,9 @@
       ],
       "through": [
         "1d4e81d94c23b2c2",
-        "c81451f3ca585417"
+        "c81451f3ca585417",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "migration": [
         "1d4e81d94c23b2c2",
@@ -14991,7 +15200,8 @@
       ],
       "virtual": [
         "aa95eaa70b67371b",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "83d7352ddb89d173"
       ],
       "gerenciar": [
         "aa95eaa70b67371b"
@@ -15459,7 +15669,8 @@
         "4263343f5723c911"
       ],
       "important": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "29f959514c4bbb81"
       ],
       "developers": [
         "9d3eef28d73f90e5",
@@ -15482,7 +15693,8 @@
         "9d3eef28d73f90e5",
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa",
-        "75a5d338dbd99a0c"
+        "75a5d338dbd99a0c",
+        "a2bd74e873119959"
       ],
       "means": [
         "9d3eef28d73f90e5"
@@ -15492,7 +15704,8 @@
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
         "0116c4c6c3da46e7",
-        "8b1b7a10f27a7fc5"
+        "8b1b7a10f27a7fc5",
+        "83d7352ddb89d173"
       ],
       "many": [
         "9d3eef28d73f90e5",
@@ -15836,7 +16049,8 @@
         "66af99b6e8fa3152"
       ],
       "beginner": [
-        "66af99b6e8fa3152"
+        "66af99b6e8fa3152",
+        "29f959514c4bbb81"
       ],
       "escrito": [
         "66af99b6e8fa3152"
@@ -15987,7 +16201,8 @@
       ],
       "explain": [
         "08b5b3a969983ea5",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "63cccdfba6defaab"
       ],
       "columns": [
         "08b5b3a969983ea5"
@@ -16087,7 +16302,9 @@
         "0c698dccfe6ccd1c",
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "solve": [
         "0c698dccfe6ccd1c"
@@ -16118,7 +16335,8 @@
         "0897ec52374a6727"
       ],
       "career": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "63cccdfba6defaab"
       ],
       "path": [
         "0c698dccfe6ccd1c"
@@ -16146,7 +16364,8 @@
       ],
       "management": [
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "63cccdfba6defaab"
       ],
       "modeling": [
         "d44db2d70aa038be",
@@ -16446,7 +16665,9 @@
       "types": [
         "69480fe95ce24a31",
         "0897ec52374a6727",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
       ],
       "casting": [
         "69480fe95ce24a31",
@@ -16554,7 +16775,8 @@
       "other": [
         "cc6901ebb1f7f3e7",
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "83d7352ddb89d173"
       ],
       "defining": [
         "cc6901ebb1f7f3e7"
@@ -16568,7 +16790,8 @@
       ],
       "history": [
         "cc6901ebb1f7f3e7",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "29f959514c4bbb81"
       ],
       "page": [
         "cc6901ebb1f7f3e7"
@@ -16592,7 +16815,9 @@
         "4caa16206e5fd138"
       ],
       "designed": [
-        "4caa16206e5fd138"
+        "4caa16206e5fd138",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "programmers": [
         "4caa16206e5fd138",
@@ -16617,7 +16842,10 @@
       ],
       "level": [
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "structures": [
         "4caa16206e5fd138"
@@ -16647,7 +16875,8 @@
       "basic": [
         "0897ec52374a6727",
         "95e3a5b592935fe3",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "29f959514c4bbb81"
       ],
       "welcome": [
         "0897ec52374a6727"
@@ -16670,7 +16899,9 @@
       ],
       "learners": [
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
       ],
       "today": [
         "0897ec52374a6727",
@@ -16713,10 +16944,13 @@
         "e6d382a3c8d852d4"
       ],
       "videos": [
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
       ],
       "instructors": [
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "a2bd74e873119959"
       ],
       "start": [
         "e6d382a3c8d852d4"
@@ -16725,7 +16959,8 @@
         "e6d382a3c8d852d4"
       ],
       "save": [
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "a2bd74e873119959"
       ],
       "thread": [
         "95e3a5b592935fe3"
@@ -16741,7 +16976,8 @@
       ],
       "concepts": [
         "95e3a5b592935fe3",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "63cccdfba6defaab"
       ],
       "questions": [
         "95e3a5b592935fe3",
@@ -16883,7 +17119,8 @@
       "application": [
         "73c30f0c4a60b045",
         "c81451f3ca585417",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "63cccdfba6defaab"
       ],
       "setup": [
         "73c30f0c4a60b045",
@@ -17431,7 +17668,10 @@
         "ad4f0965ff4a91ea"
       ],
       "updated": [
-        "0116c4c6c3da46e7"
+        "0116c4c6c3da46e7",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d",
+        "29f959514c4bbb81"
       ],
       "past": [
         "0116c4c6c3da46e7"
@@ -17572,7 +17812,8 @@
         "c81451f3ca585417"
       ],
       "common": [
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "29f959514c4bbb81"
       ],
       "operating": [
         "b734cca537f5beff"
@@ -17622,7 +17863,8 @@
         "4263343f5723c911"
       ],
       "apply": [
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "63cccdfba6defaab"
       ],
       "attr": [
         "4263343f5723c911"
@@ -17722,12 +17964,270 @@
       ],
       "master": [
         "e9b87086091506eb"
+      ],
+      "category": [
+        "63cccdfba6defaab"
+      ],
+      "courses": [
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
+      ],
+      "skills": [
+        "63cccdfba6defaab",
+        "a2bd74e873119959",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "course": [
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "specialization": [
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
+      ],
+      "encryption": [
+        "63cccdfba6defaab",
+        "83d7352ddb89d173"
+      ],
+      "coursera": [
+        "63cccdfba6defaab",
+        "a2bd74e873119959"
+      ],
+      "recommended": [
+        "63cccdfba6defaab"
+      ],
+      "knowledge": [
+        "63cccdfba6defaab"
+      ],
+      "identify": [
+        "63cccdfba6defaab"
+      ],
+      "roles": [
+        "63cccdfba6defaab"
+      ],
+      "cryptography": [
+        "63cccdfba6defaab"
+      ],
+      "enroll": [
+        "63cccdfba6defaab"
+      ],
+      "networking": [
+        "63cccdfba6defaab"
+      ],
+      "gain": [
+        "63cccdfba6defaab"
+      ],
+      "training": [
+        "63cccdfba6defaab"
+      ],
+      "certificate": [
+        "63cccdfba6defaab",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "fundamentals": [
+        "a2bd74e873119959",
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
+      ],
+      "jeff": [
+        "a2bd74e873119959"
+      ],
+      "crume": [
+        "a2bd74e873119959"
+      ],
+      "limited": [
+        "a2bd74e873119959"
+      ],
+      "months": [
+        "a2bd74e873119959",
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "plus": [
+        "a2bd74e873119959"
+      ],
+      "full": [
+        "a2bd74e873119959"
+      ],
+      "thousands": [
+        "a2bd74e873119959"
+      ],
+      "unlock": [
+        "a2bd74e873119959"
+      ],
+      "professional": [
+        "a2bd74e873119959"
+      ],
+      "potential": [
+        "a2bd74e873119959"
+      ],
+      "develop": [
+        "a2bd74e873119959"
+      ],
+      "fluency": [
+        "a2bd74e873119959"
+      ],
+      "essential": [
+        "a2bd74e873119959"
+      ],
+      "competencies": [
+        "a2bd74e873119959"
+      ],
+      "safeguard": [
+        "a2bd74e873119959"
+      ],
+      "digital": [
+        "a2bd74e873119959"
+      ],
+      "assets": [
+        "a2bd74e873119959"
+      ],
+      "instructor": [
+        "a2bd74e873119959"
+      ],
+      "team": [
+        "a2bd74e873119959"
+      ],
+      "collette": [
+        "a2bd74e873119959"
+      ],
+      "foundations": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "entry": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "minutes": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "introductory": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "introduces": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "field": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "explaining": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "importance": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "exploring": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "responsibilities": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "analyst": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "employees": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "hands": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "activities": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "first": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "series": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "prepare": [
+        "233ff78d2aee3830",
+        "bd98ca4333ae9b5d"
+      ],
+      "role": [
+        "233ff78d2aee3830"
+      ],
+      "addition": [
+        "83d7352ddb89d173"
+      ],
+      "attacks": [
+        "83d7352ddb89d173",
+        "29f959514c4bbb81"
+      ],
+      "ensure": [
+        "83d7352ddb89d173"
+      ],
+      "organization": [
+        "83d7352ddb89d173"
+      ],
+      "cyberattacks": [
+        "83d7352ddb89d173"
+      ],
+      "ethical": [
+        "83d7352ddb89d173"
+      ],
+      "programs": [
+        "83d7352ddb89d173"
+      ],
+      "address": [
+        "83d7352ddb89d173"
+      ],
+      "hackers": [
+        "83d7352ddb89d173"
+      ],
+      "shweta": [
+        "29f959514c4bbb81"
+      ],
+      "lakhwani": [
+        "29f959514c4bbb81"
+      ],
+      "views": [
+        "29f959514c4bbb81"
+      ],
+      "contents": [
+        "29f959514c4bbb81"
+      ],
+      "concept": [
+        "29f959514c4bbb81"
+      ],
+      "terminologies": [
+        "29f959514c4bbb81"
+      ],
+      "cyberthreats": [
+        "29f959514c4bbb81"
+      ],
+      "explained": [
+        "29f959514c4bbb81"
+      ],
+      "certifications": [
+        "29f959514c4bbb81"
+      ],
+      "conclusi": [
+        "29f959514c4bbb81"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 34,
-    "paginas_falhas": 144,
-    "total_caracteres": 210704
+    "paginas_baixadas": 37,
+    "paginas_falhas": 149,
+    "total_caracteres": 250872
   }
 }
