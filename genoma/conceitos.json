@@ -2932,6 +2932,11 @@
         "para": "8f9bc35009cc771e",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2946,7 +2951,8 @@
     "profundidade": 0,
     "fontes": [
       "https://aws.amazon.com/pt/what-is/computer-vision/",
-      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
   },
   {
@@ -7563,6 +7569,16 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7576,7 +7592,9 @@
     "profundidade": 0,
     "fontes": [
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.ime.usp.br/~slago/IA-pln.pdf",
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
   },
   {
@@ -7595,6 +7613,16 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7608,7 +7636,9 @@
     "profundidade": 0,
     "fontes": [
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.ime.usp.br/~slago/IA-pln.pdf",
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
   },
   {
@@ -7627,6 +7657,16 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7640,7 +7680,9 @@
     "profundidade": 0,
     "fontes": [
       "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.ime.usp.br/~slago/IA-pln.pdf",
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
   },
   {
@@ -7732,6 +7774,11 @@
         "para": "76abf8fa5dc87a55",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7744,7 +7791,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
     ]
   },
   {
@@ -7771,6 +7819,214 @@
     "profundidade": 0,
     "fontes": [
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
+  },
+  {
+    "id": "80ffb4502f7f1613",
+    "tipo": "conceito",
+    "conteudo": "aticas",
+    "criado": "2026-03-13T13:46:20.609451",
+    "modificado": "2026-03-13T13:46:20.609451",
+    "conexoes": [
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "385da76e0e3df0ef",
+    "tipo": "conceito",
+    "conteudo": "podemos",
+    "criado": "2026-03-13T13:46:20.610051",
+    "modificado": "2026-03-13T13:46:20.610051",
+    "conexoes": [
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "f75f53f432b83267",
+    "tipo": "conceito",
+    "conteudo": "prolog",
+    "criado": "2026-03-13T13:46:20.610570",
+    "modificado": "2026-03-13T13:46:20.610570",
+    "conexoes": [
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "6f2d951d4652e3a5",
+    "tipo": "conceito",
+    "conteudo": "recurso",
+    "criado": "2026-03-13T13:46:20.611353",
+    "modificado": "2026-03-13T13:46:20.611353",
+    "conexoes": [
+      {
+        "para": "9668d50763fb84e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "62db86228612a1c3",
+    "tipo": "conceito",
+    "conteudo": "fundamentais",
+    "criado": "2026-03-13T13:46:20.712923",
+    "modificado": "2026-03-13T13:46:20.712923",
+    "conexoes": [
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+    ]
+  },
+  {
+    "id": "6db97df12a00ac80",
+    "tipo": "conceito",
+    "conteudo": "importância",
+    "criado": "2026-03-13T13:46:20.713343",
+    "modificado": "2026-03-13T13:46:20.713343",
+    "conexoes": [
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+    ]
+  },
+  {
+    "id": "0208384a624404a3",
+    "tipo": "conceito",
+    "conteudo": "técnicas",
+    "criado": "2026-03-13T13:46:20.714232",
+    "modificado": "2026-03-13T13:46:20.714232",
+    "conexoes": [
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
+    ]
+  },
+  {
+    "id": "7fada83de133be27",
+    "tipo": "conceito",
+    "conteudo": "abordou",
+    "criado": "2026-03-13T13:46:20.714581",
+    "modificado": "2026-03-13T13:46:20.714581",
+    "conexoes": [
+      {
+        "para": "17c1439940506515",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
   }
 ]
