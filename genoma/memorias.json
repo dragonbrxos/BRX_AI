@@ -28828,5 +28828,5034 @@
     "fontes": [
       "https://transformers.hasbro.com/en-us/bios/skyzmqof"
     ]
+  },
+  {
+    "id": "cf362a526ba161a0",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:59:39.998206",
+    "modificado": "2026-03-13T13:59:39.998206",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "f26bbc2677316b95",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:59:40.010762",
+    "modificado": "2026-03-13T13:59:40.010762",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "3e1149d7ec284ee7",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:59:40.010954",
+    "modificado": "2026-03-13T13:59:40.010954",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "0d06502b714c73f9",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:59:40.011076",
+    "modificado": "2026-03-13T13:59:40.011076",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "4dbbbee450955863",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:59:40.012760",
+    "modificado": "2026-03-13T13:59:40.012760",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "6f50c136eebb8165",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:59:40.012969",
+    "modificado": "2026-03-13T13:59:40.012969",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "3d5d37e7a650a04e",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:59:40.013151",
+    "modificado": "2026-03-13T13:59:40.013151",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "e7969b24d6976cc4",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:59:40.013274",
+    "modificado": "2026-03-13T13:59:40.013274",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "d9cfa037ee6f0f25",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:59:40.110293",
+    "modificado": "2026-03-13T13:59:40.110293",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "469195a42c6eab2f",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:59:40.175438",
+    "modificado": "2026-03-13T13:59:40.175438",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "94f975792bd47665",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:59:40.184438",
+    "modificado": "2026-03-13T13:59:40.184438",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "eccc3dfb2a388219",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:59:40.196090",
+    "modificado": "2026-03-13T13:59:40.196090",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "c488185fdda56ed2",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:59:40.199905",
+    "modificado": "2026-03-13T13:59:40.199905",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "bd0111eee824740c",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:59:40.201532",
+    "modificado": "2026-03-13T13:59:40.201532",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "68789dc3219f7234",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:59:40.201817",
+    "modificado": "2026-03-13T13:59:40.201817",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "92305615f7d6f9d2",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:59:40.205176",
+    "modificado": "2026-03-13T13:59:40.205176",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "0a0aa3d0d2bf2dd3",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:59:40.287991",
+    "modificado": "2026-03-13T13:59:40.287991",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "9f05a9b759ebd0c3",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:59:40.370798",
+    "modificado": "2026-03-13T13:59:40.370798",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "7f4c0f03b1385071",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:59:40.375925",
+    "modificado": "2026-03-13T13:59:40.375925",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "22871e5383ba3e06",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:59:40.383833",
+    "modificado": "2026-03-13T13:59:40.383833",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "3c573ea663b085e7",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T13:59:40.461866",
+    "modificado": "2026-03-13T13:59:40.461866",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "c22c5ccb53ddebe6",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T13:59:40.473939",
+    "modificado": "2026-03-13T13:59:40.473939",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "5986318a6fede0bc",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T13:59:40.474482",
+    "modificado": "2026-03-13T13:59:40.474482",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "3d4b9d749edb8ba4",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T13:59:40.479793",
+    "modificado": "2026-03-13T13:59:40.479793",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "87aa60f992907a06",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T13:59:40.479953",
+    "modificado": "2026-03-13T13:59:40.479953",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "2a2b4a2618daf844",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T13:59:40.480076",
+    "modificado": "2026-03-13T13:59:40.480076",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "9ed430df76596445",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T13:59:40.480230",
+    "modificado": "2026-03-13T13:59:40.480230",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "ba3b41cdd9a5b21c",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T13:59:40.480351",
+    "modificado": "2026-03-13T13:59:40.480351",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "89d836533e2032d7",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T13:59:40.538626",
+    "modificado": "2026-03-13T13:59:40.538626",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "c86e2bf9c8d1a986",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T13:59:40.640406",
+    "modificado": "2026-03-13T13:59:40.640406",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "ec9fc3216e6cfd99",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T13:59:40.646652",
+    "modificado": "2026-03-13T13:59:40.646652",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "c5380f6754c9d4d6",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T13:59:40.649820",
+    "modificado": "2026-03-13T13:59:40.649820",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "6054b1375e300006",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T13:59:40.678920",
+    "modificado": "2026-03-13T13:59:40.678920",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "695aa93637d665db",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T13:59:40.680617",
+    "modificado": "2026-03-13T13:59:40.680617",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "057dba1d3e0ee81c",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T13:59:40.706106",
+    "modificado": "2026-03-13T13:59:40.706106",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "43a21eaf9fcd607c",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T13:59:40.720520",
+    "modificado": "2026-03-13T13:59:40.720520",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "44afb2827e214817",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T13:59:40.720748",
+    "modificado": "2026-03-13T13:59:40.720748",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "a8392d885ec3386e",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T13:59:40.789786",
+    "modificado": "2026-03-13T13:59:40.789786",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "a9811bfad725a145",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T13:59:40.810290",
+    "modificado": "2026-03-13T13:59:40.810290",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "90bc7bbc45c9da5d",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T13:59:40.856979",
+    "modificado": "2026-03-13T13:59:40.856979",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "eae2dfff9b975bf9",
+    "tipo": "memoria",
+    "conteudo": "Esta é uma discussão imprescindível tanto para a academia quanto para os profissionais que utilizam o AG. Evidentemente, uma configuração inadequada dos operadores genéticos pode levar à convergência prematura ou a um esforço computacional elevado que inviabilizará a aplicação do AG (ver mais em 34).",
+    "criado": "2026-03-13T13:59:40.911246",
+    "modificado": "2026-03-13T13:59:40.911246",
+    "conexoes": [
+      {
+        "para": "19a800b26f4aa089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0fc947496814c98a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7abd5f60a074edf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45611d5fe1e46d2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "906d350d921f3ae9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ce2d8838d8ab56b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b849ea1287af5d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "034d6e5d0deffae0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ec515855136511b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61fde4bf8fb0ca99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72fa54a1ef5044e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html"
+    ]
+  },
+  {
+    "id": "e132c7144e5c6e01",
+    "tipo": "memoria",
+    "conteudo": "Um algoritmo genético (AG) é uma técnica de busca utilizada na ciência da computação e em investigação operacional para achar soluções …",
+    "criado": "2026-03-13T13:59:40.928025",
+    "modificado": "2026-03-13T13:59:40.928025",
+    "conexoes": [
+      {
+        "para": "bffdbc0882976c2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1681987de19ee9b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33795381101b8529",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea9f19317791d4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético"
+    ]
+  },
+  {
+    "id": "2b75cfb3877459ad",
+    "tipo": "memoria",
+    "conteudo": "8 de ago. de 2025 · Inspirados na evolução por seleção natural, os Algoritmos Genéticos oferecem uma forma inteligente de navegar …",
+    "criado": "2026-03-13T13:59:40.935257",
+    "modificado": "2026-03-13T13:59:40.935257",
+    "conexoes": [
+      {
+        "para": "015391fccb9862f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "74c535c7a5b2c238",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c8db9190186150e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f835750971bc7f24",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.datageeks.com.br/algoritmos-geneticos/"
+    ]
+  },
+  {
+    "id": "b273c9af1adfaf55",
+    "tipo": "memoria",
+    "conteudo": "algoritmo genético é um método de otimização bio insperado, desenvolvida por John Henry Holland em 1975. Segundo a teoria …",
+    "criado": "2026-03-13T13:59:40.935605",
+    "modificado": "2026-03-13T13:59:40.935605",
+    "conexoes": [
+      {
+        "para": "c5e4c35aafb3cb7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2b92c6760ee57ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3d1c767d52cb3e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e396b1285107e19d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b4509f281d8ff91",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c95f8a32f5677a9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b961de291977f513",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6e4c72dcd264c89",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf"
+    ]
+  },
+  {
+    "id": "7093d027f8734698",
+    "tipo": "memoria",
+    "conteudo": "Serão analisados os principais aspectos e características da Computação Evolucionária e dos Algoritmos Genéticos (AGs) que os fazem …",
+    "criado": "2026-03-13T13:59:40.939306",
+    "modificado": "2026-03-13T13:59:40.939306",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e724c76bf578d37",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9961c5483ef8296",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "628a2c95c083a52a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://sites.icmc.usp.br/andre/research/genetic/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sites.icmc.usp.br/andre/research/genetic/"
+    ]
+  },
+  {
+    "id": "47c43599cfd1330c",
+    "tipo": "memoria",
+    "conteudo": "6 dias atrás · About Algoritmo genético para otimização e maximização de funções matemáticas, utilizando técnicas de seleção …",
+    "criado": "2026-03-13T13:59:40.939421",
+    "modificado": "2026-03-13T13:59:40.939421",
+    "conexoes": [
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3bd7680ba1249912",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9766fe0129c370fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "be84cfa12ec06a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "baeaa26ae4fbd9ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer"
+    ]
+  },
+  {
+    "id": "d264fc66bc362add",
+    "tipo": "memoria",
+    "conteudo": "Algoritmos Genéticos (Gas-Genetic Algorithms) constituem uma técnica de busca e otimização, altamente paralela, inspirada no princípio …",
+    "criado": "2026-03-13T13:59:40.939560",
+    "modificado": "2026-03-13T13:59:40.939560",
+    "conexoes": [
+      {
+        "para": "a863c48f29e989cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f05e8b50d573a0fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d649c5fab35a5435",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39ad1292679bf364",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40520c826ab84c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b41d735ab10a6ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "275b1e2e4a7f9ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf"
+    ]
+  },
+  {
+    "id": "8648b9b5aa453c9f",
+    "tipo": "memoria",
+    "conteudo": "Descubra tudo sobre algoritmos genéticos, desde sua invenção até suas aplicações em inteligência artificial e otimização. Aprenda …",
+    "criado": "2026-03-13T13:59:40.939661",
+    "modificado": "2026-03-13T13:59:40.939661",
+    "conexoes": [
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c420f231228619b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72e9c4263ce1d7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263"
+    ]
+  },
+  {
+    "id": "84baad12e3a6c71a",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T13:59:41.019135",
+    "modificado": "2026-03-13T13:59:41.019135",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "a5ea4fafc338a4b0",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T13:59:41.059741",
+    "modificado": "2026-03-13T13:59:41.059741",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "1c63d90489287874",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T13:59:41.112497",
+    "modificado": "2026-03-13T13:59:41.112497",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "e9d4f72565ef8f40",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T13:59:41.136528",
+    "modificado": "2026-03-13T13:59:41.136528",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "3ee7796107111a86",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T13:59:41.163461",
+    "modificado": "2026-03-13T13:59:41.163461",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "802663844cf5dca3",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T13:59:41.174140",
+    "modificado": "2026-03-13T13:59:41.174140",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "2318bf070182ae6d",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T13:59:41.174404",
+    "modificado": "2026-03-13T13:59:41.174404",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "61e9746234f10f30",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T13:59:41.189893",
+    "modificado": "2026-03-13T13:59:41.189893",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "23a4a898e2afc90b",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T13:59:41.190177",
+    "modificado": "2026-03-13T13:59:41.190177",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "ada3c77821c219f5",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T13:59:41.297046",
+    "modificado": "2026-03-13T13:59:41.297046",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "0681b08b38c0e275",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T13:59:41.297393",
+    "modificado": "2026-03-13T13:59:41.297393",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "82c8441fdfea3aac",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T13:59:41.299592",
+    "modificado": "2026-03-13T13:59:41.299592",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "49cb7a31f25c8f33",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T13:59:41.364678",
+    "modificado": "2026-03-13T13:59:41.364678",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "6a38093724ed3e1a",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T13:59:41.370019",
+    "modificado": "2026-03-13T13:59:41.370019",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "1e4a635a0cb8d509",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T13:59:41.371979",
+    "modificado": "2026-03-13T13:59:41.371979",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
   }
 ]
