@@ -76,5 +76,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "4adaaf7d3322810d",
+    "tipo": "codigo",
+    "conteudo": "Modulo ml: aprendizado por reforco profundo",
+    "criado": "2026-03-13T13:42:48.134682",
+    "modificado": "2026-03-13T13:42:48.134682",
+    "conexoes": [
+      {
+        "para": "a1ed2b36b3de357d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "arquivo": "modulo_6314ba_ml.py",
+      "tipo": "ml",
+      "linhas": 28
+    },
+    "origem": "a1ed2b36b3de357d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
