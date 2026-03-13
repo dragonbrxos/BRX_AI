@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 60,
+    "ciclos": 61,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 318392
+    "caracteres_aprendidos": 323120
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -10494,6 +10494,28 @@
       "criado": "2026-03-13T14:43:24.482419",
       "acessos": 1,
       "conexoes": []
+    },
+    "ed6dd4e25dc07293": {
+      "conteudo": "Neural Networks Explained: What They are and How They Work Arohi Patel 3 min read Jul 3, 2025 Listen Share A simple and clear introduction to neural networks — what they are, how they function, and where they’re used in real-world AI. Neural networks are at the core of today’s most exciting AI developments — from language models like ChatGPT to self-driving cars and facial recognition. But what exactly is a neural network? How does it learn? And when should you use one? In this post, you’ll learn: What a neural network is How it processes data and learns Where it’s useful How it compares to other machine learning models Let’s explore. What is a Neural Network? A neural network is a machine learning model inspired by the human brain. It processes data through layers of interconnected nodes (or “neurons”) to learn patterns and make predictions. Neural networks are especially good at working with: Images Audio Natural language Complex patterns in large datasets Press enter or click to view image in full size Photo by Ecliptic Graphic on Unsplash How a Neural Network is Structured Neural network are made of three main parts: 1. Input Layer This is where the raw data enters — like pixel values for an image or token vectors for a sentence. 2. Hidden Layers These layers process the input step-by-step. The more hidden layers a network has, the deeper and more powerful it becomes. 3. Output Layer This layer produces the final prediction, like identifying a dog in a photo or generating a sentence. How Do Neural Networks Learn? Neural networks learn by adjusting their internal parameters (called weights) during training. The process involves: 1. Forward Pass The input flows through the network to make a prediction. 2. Loss Calculation The prediction is compared to the correct result using a loss function. 3. Backpropagation The error is sent backward through the network to update weights. 4. Optimization An optimizer (like adam or SGD) updates the weights to improve performance. This cycle is repeated thousands of times untill the model performs well. Core Concepts Inside Neural Networks Neurons: Basic units that pass and transform data Weights & Biases: Parameters the network learns Activation Functions: Add non-linearity (e.g., ReLU, Sigmoid) Loss Functions: Measure how far off a prediction is Optimizers: Algorithms to help the network improve Where Are Neural Networks Used? Neural networks are widely used in: Computer Vision Image classification Object detection Medical imaging Natural Language Processing (NLP) Sentiment analysis Chatbots Translation Speech Recognition Voice assistants Audio-to-text systems Finance & Business Fraud detection Credit risk scoring Recommendation engines Neural Networks vs Traditional ML Models Use Case: Small, structured datasets Best Model: Decision Trees, SVMs Use Case: Large, unstructured data (like images or text) Best Model: Neural Networks Use Case: When high interpretability is important Best Model: Linear Models (like logistic regression) Use Case: Complex patterns in images Best Model: CNNs (Convolutional Neural Networks) Tools You Can Use to Build Neural Networks You don’t need to start from scratch. These tools and platforms help you build and train models easily: Keras (with TensorFlow): Beginner friendly, high level API PyTorch: Flexible and widely used in research Scikit-learn: Offers simple neural nets for structured data Google Colab: Train models in the cloud, free Kaggle Notebooks: Great for experiments and tutorials Final Thoughts Neural networks are flexible, powerful models that can learn directly from data — even when the data is complex or messy. They’re not always the best tool for every problem, but when used right, they form the backbone of deep learning systems in real-world AI. More Posts You Might Like 10 Common AI Models Explained Simply: From Trees to Neural Networks Beginner’s guide to popular AI and machine learning models — what they are, how they work, and when to use them. medium.com Types of AI: ANI, AGI, and ASI Explained Simply From Siri to Superintelligence: Understanding the 3 Stages of AI medium.com",
+      "tipo": "codigo",
+      "fontes": [
+        "https://medium.com/@arohipatel270/neural-networks-explained-what-they-are-and-how-they-work-83dddca02f1b"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:44:12.399395",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "912d1d92910d9b32": {
+      "conteudo": "TITULO: Neural Networks in AI: A Beginner's Guide to How They Work | Medium\nCONTEUDO: Neural Networks Explained: What They are and How They Work Arohi Patel 3 min read Jul 3, 2025 Listen Share A simple and clear introduction to neural networks — what they are, how they function, and where they’re used in real-world AI. Neural networks are at the core of today’s most exciting AI developments — from language models like ChatGPT to self-driving cars and facial recognition. But what exactly is a neural network? How does it learn? And when should you use one? In this post, you’ll lear...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://medium.com/@arohipatel270/neural-networks-explained-what-they-are-and-how-they-work-83dddca02f1b"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:44:12.400002",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10766,6 +10788,12 @@
       "texto_completo": "Top 15 SQL Query Optimization Techniques for Big Datasets Code With Hannan 4 min read Jul 13, 2025 Listen Share Introduction When working with large datasets, performance becomes a critical concern. Poorly optimized SQL queries can lead to long execution times, memory issues, and slow applications. Query optimization is the process of making queries more efficient without altering their results. PostgreSQL, MySQL, SQL Server, and other relational databases offer powerful tools to help you improve query performance. This guide covers 15 proven SQL query optimization techniques to handle big data efficiently. Each technique includes a theoretical explanation, real-world use cases, hands-on SQL examples, and formatted outputs. Press enter or click to view image in full size 1. Use SELECT Only the Columns You Need Theory: Avoid using SELECT * to reduce I/O overhead. Selecting unnecessary columns can slow down queries. -- Inefficient SELECT * FROM orders; -- Optimized SELECT order_id, customer_id, order_date FROM orders; Output Table: | order_id | customer_id | order_date | |----------|-------------|------------| | 1001 | C123 | 2024-05-10 | 2. Use WHERE Clauses to Filter Early Theory: Apply filters as early as possible to reduce the number of rows processed. SELECT order_id, amount FROM orders WHERE amount > 500; 3. Use Indexes Strategically Theory: Indexes improve lookup speed for frequently queried columns. CREATE INDEX idx_customer_id ON orders(customer_id); Use EXPLAIN ANALYZE to verify index usage. 4. Avoid Functions on Indexed Columns Theory: Using functions on indexed columns can prevent index usage. -- Avoid this: SELECT * FROM orders WHERE YEAR(order_date) = 2024; -- Use this: SELECT * FROM orders WHERE order_date BETWEEN '2024-01-01' AND '2024-12-31'; 5. Use Joins Instead of Sub-queries Where Appropriate Theory: Sub-queries can cause performance bottlenecks. Joins are often more efficient. -- Subquery SELECT name FROM customers WHERE id IN ( SELECT customer_id FROM orders WHERE amount > 500 -- Optimized join SELECT DISTINCT c.name FROM customers c JOIN orders o ON c.id = o.customer_id WHERE o.amount > 500; 6. Use EXISTS Instead of IN for Large Sub-queries -- IN (slower for large subqueries) SELECT name FROM customers WHERE id IN (SELECT customer_id FROM orders); -- EXISTS (faster) SELECT name FROM customers c WHERE EXISTS ( SELECT 1 FROM orders o WHERE o.customer_id = c.id 7. Use LIMIT with ORDER BY Theory: If you only need top N results, use LIMIT with ORDER BY to reduce sorting overhead. SELECT * FROM products ORDER BY rating DESC LIMIT 10; 8. Avoid Using NOT IN with NULLs Theory: NOT IN may return unexpected results with NULL values. -- Avoid this: SELECT * FROM products WHERE id NOT IN (SELECT product_id FROM sales); -- Use this: SELECT * FROM products p WHERE NOT EXISTS ( SELECT 1 FROM sales s WHERE s.product_id = p.id 9. Partition Large Tables Theory: Partitioning improves query performance by splitting data into manageable chunks. CREATE TABLE sales_2024 ( sale_id INT, sale_date DATE ) PARTITION BY RANGE (sale_date); 10. Use ANALYZE and EXPLAIN Theory: Use EXPLAIN and ANALYZE to understand query execution plans and bottlenecks. EXPLAIN ANALYZE SELECT * FROM orders WHERE amount > 500; Output Table: | Step | Time (ms) | |---------------------|-----------| | Seq Scan on orders | 14.632 | 11. Avoid Wildcard Characters at Start of LIKE Theory: Patterns starting with prevent index usage. -- Avoid: SELECT * FROM products WHERE name LIKE '%phone'; -- Use: SELECT * FROM products WHERE name LIKE 'iPhone%'; 12. Use UNION ALL Instead of UNION Theory: UNION removes duplicates, adding overhead. Use UNION ALL if duplicates are not a concern. -- Slower SELECT id FROM customers_a UNION SELECT id FROM customers_b; -- Faster SELECT id FROM customers_a UNION ALL SELECT id FROM customers_b; 13. Create Covering Indexes Theory: Include all queried columns in the index to avoid accessing the table. CREATE INDEX idx_covering ON orders (customer_id, order_date, amount); 14. Optimize JOIN Order and Types Theory: Put the smaller table first in JOIN and use INNER JOIN when filtering rows. -- Optimized join order SELECT * FROM small_table s JOIN large_table l ON s.id = l.ref_id; 15. Materialize Repeated Sub-queries or Use CTEs Theory: Avoid recomputing expensive sub-queries multiple times. -- CTE to materialize results WITH high_value_orders AS ( SELECT * FROM orders WHERE amount > 1000 SELECT * FROM high_value_orders JOIN customers USING(customer_id); Conclusion Optimizing SQL queries for big datasets isn’t just about making them faster, it’s about scalability, system health, and cost savings. The 15 techniques discussed here are used by experienced engineers and DBAs in production systems every day. Whether you’re optimizing PostgreSQL, MySQL, SQL Server, or Oracle, these methods apply broadly and help you identify performance bottlenecks. Always test changes using EXPLAIN , track execution plans, and benchmark improvements.",
       "data_acesso": "2026-03-13T14:43:24.481236",
       "tamanho": 5003
+    },
+    "https://medium.com/@arohipatel270/neural-networks-explained-what-they-are-and-how-they-work-83dddca02f1b": {
+      "titulo": "Neural Networks in AI: A Beginner's Guide to How They Work | Medium",
+      "texto_completo": "Neural Networks Explained: What They are and How They Work Arohi Patel 3 min read Jul 3, 2025 Listen Share A simple and clear introduction to neural networks — what they are, how they function, and where they’re used in real-world AI. Neural networks are at the core of today’s most exciting AI developments — from language models like ChatGPT to self-driving cars and facial recognition. But what exactly is a neural network? How does it learn? And when should you use one? In this post, you’ll learn: What a neural network is How it processes data and learns Where it’s useful How it compares to other machine learning models Let’s explore. What is a Neural Network? A neural network is a machine learning model inspired by the human brain. It processes data through layers of interconnected nodes (or “neurons”) to learn patterns and make predictions. Neural networks are especially good at working with: Images Audio Natural language Complex patterns in large datasets Press enter or click to view image in full size Photo by Ecliptic Graphic on Unsplash How a Neural Network is Structured Neural network are made of three main parts: 1. Input Layer This is where the raw data enters — like pixel values for an image or token vectors for a sentence. 2. Hidden Layers These layers process the input step-by-step. The more hidden layers a network has, the deeper and more powerful it becomes. 3. Output Layer This layer produces the final prediction, like identifying a dog in a photo or generating a sentence. How Do Neural Networks Learn? Neural networks learn by adjusting their internal parameters (called weights) during training. The process involves: 1. Forward Pass The input flows through the network to make a prediction. 2. Loss Calculation The prediction is compared to the correct result using a loss function. 3. Backpropagation The error is sent backward through the network to update weights. 4. Optimization An optimizer (like adam or SGD) updates the weights to improve performance. This cycle is repeated thousands of times untill the model performs well. Core Concepts Inside Neural Networks Neurons: Basic units that pass and transform data Weights & Biases: Parameters the network learns Activation Functions: Add non-linearity (e.g., ReLU, Sigmoid) Loss Functions: Measure how far off a prediction is Optimizers: Algorithms to help the network improve Where Are Neural Networks Used? Neural networks are widely used in: Computer Vision Image classification Object detection Medical imaging Natural Language Processing (NLP) Sentiment analysis Chatbots Translation Speech Recognition Voice assistants Audio-to-text systems Finance & Business Fraud detection Credit risk scoring Recommendation engines Neural Networks vs Traditional ML Models Use Case: Small, structured datasets Best Model: Decision Trees, SVMs Use Case: Large, unstructured data (like images or text) Best Model: Neural Networks Use Case: When high interpretability is important Best Model: Linear Models (like logistic regression) Use Case: Complex patterns in images Best Model: CNNs (Convolutional Neural Networks) Tools You Can Use to Build Neural Networks You don’t need to start from scratch. These tools and platforms help you build and train models easily: Keras (with TensorFlow): Beginner friendly, high level API PyTorch: Flexible and widely used in research Scikit-learn: Offers simple neural nets for structured data Google Colab: Train models in the cloud, free Kaggle Notebooks: Great for experiments and tutorials Final Thoughts Neural networks are flexible, powerful models that can learn directly from data — even when the data is complex or messy. They’re not always the best tool for every problem, but when used right, they form the backbone of deep learning systems in real-world AI. More Posts You Might Like 10 Common AI Models Explained Simply: From Trees to Neural Networks Beginner’s guide to popular AI and machine learning models — what they are, how they work, and when to use them. medium.com Types of AI: ANI, AGI, and ASI Explained Simply From Siri to Superintelligence: Understanding the 3 Stages of AI medium.com",
+      "data_acesso": "2026-03-13T14:44:12.398967",
+      "tamanho": 4139
     }
   },
   "indices": {
@@ -11273,7 +11301,8 @@
         "32fb397d927bda9c",
         "6785f05bf642785f",
         "d325046e81e2049f",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -11315,7 +11344,8 @@
         "97fb7ceef896c7bb",
         "9a7c89f34880249e",
         "eaa81f2af19b42d4",
-        "74cbeeb101dd8323"
+        "74cbeeb101dd8323",
+        "ed6dd4e25dc07293"
       ]
     },
     "por_fonte": {
@@ -12059,6 +12089,10 @@
       "https://medium.com/@CodeWithHannan/top-15-sql-query-optimization-techniques-for-big-datasets-6d808745fa98": [
         "74cbeeb101dd8323",
         "facba5bfeb0813c9"
+      ],
+      "https://medium.com/@arohipatel270/neural-networks-explained-what-they-are-and-how-they-work-83dddca02f1b": [
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ]
     },
     "por_palavra": {
@@ -12241,7 +12275,8 @@
         "71a1a96eb62a2f10",
         "0c698dccfe6ccd1c",
         "83d7352ddb89d173",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "ed6dd4e25dc07293"
       ],
       "from": [
         "76e1b1a09f317aa1",
@@ -12266,7 +12301,9 @@
         "350fbd9ded26941f",
         "a097e618de3ed01d",
         "bfc7a4d8c3bb62b7",
-        "74cbeeb101dd8323"
+        "74cbeeb101dd8323",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "systems": [
         "76e1b1a09f317aa1",
@@ -12294,7 +12331,8 @@
         "7b50322b5a753f68",
         "bfc7a4d8c3bb62b7",
         "9a7c89f34880249e",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "ed6dd4e25dc07293"
       ],
       "with": [
         "76e1b1a09f317aa1",
@@ -12336,7 +12374,8 @@
         "c43fa8d7f1d5c752",
         "9a7c89f34880249e",
         "74cbeeb101dd8323",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "ed6dd4e25dc07293"
       ],
       "user": [
         "76e1b1a09f317aa1",
@@ -12359,7 +12398,9 @@
         "f0c2f536dcbaf6b1",
         "f107e4b01ec0b955",
         "97fb7ceef896c7bb",
-        "32fb397d927bda9c"
+        "32fb397d927bda9c",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -12452,7 +12493,9 @@
         "0414d536276c3f78",
         "83d7352ddb89d173",
         "4f7c658b5322e06d",
-        "a62ca3630b4c6371"
+        "a62ca3630b4c6371",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "this": [
         "76e1b1a09f317aa1",
@@ -12497,7 +12540,9 @@
         "9a7c89f34880249e",
         "eaa81f2af19b42d4",
         "d325046e81e2049f",
-        "74cbeeb101dd8323"
+        "74cbeeb101dd8323",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -12600,7 +12645,8 @@
         "32fb397d927bda9c",
         "6785f05bf642785f",
         "d325046e81e2049f",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -12652,7 +12698,8 @@
         "32fb397d927bda9c",
         "6785f05bf642785f",
         "d325046e81e2049f",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -12680,7 +12727,9 @@
       ],
       "networks": [
         "869ef110cbcdc27e",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "devices": [
         "869ef110cbcdc27e",
@@ -12708,7 +12757,8 @@
         "b538f01e5184994e",
         "6657cde91a25b327",
         "520a09954944c445",
-        "9a7c89f34880249e"
+        "9a7c89f34880249e",
+        "ed6dd4e25dc07293"
       ],
       "access": [
         "869ef110cbcdc27e",
@@ -12886,7 +12936,9 @@
         "bd98ca4333ae9b5d",
         "b538f01e5184994e",
         "6657cde91a25b327",
-        "f107e4b01ec0b955"
+        "f107e4b01ec0b955",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "about": [
         "fe0a23e029896722",
@@ -13002,7 +13054,9 @@
         "3ba7175038ddccc0",
         "63cccdfba6defaab",
         "a2bd74e873119959",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "critical": [
         "fe0a23e029896722",
@@ -13014,7 +13068,8 @@
         "71a1a96eb62a2f10",
         "0414d536276c3f78",
         "29f959514c4bbb81",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "partnerships": [
         "fe0a23e029896722",
@@ -13089,7 +13144,9 @@
         "bfc7a4d8c3bb62b7",
         "c43fa8d7f1d5c752",
         "74cbeeb101dd8323",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "simple": [
         "7a07f2ff806d1129",
@@ -13097,7 +13154,9 @@
         "b850a0f81ab34e71",
         "dd687126eb7367e3",
         "520a09954944c445",
-        "9a7c89f34880249e"
+        "9a7c89f34880249e",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "steps": [
         "7a07f2ff806d1129",
@@ -13179,7 +13238,8 @@
       ],
       "case": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "ed6dd4e25dc07293"
       ],
       "lifetime": [
         "581c8fb845bd6d65",
@@ -13215,7 +13275,8 @@
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "520a09954944c445"
+        "520a09954944c445",
+        "ed6dd4e25dc07293"
       ],
       "also": [
         "581c8fb845bd6d65",
@@ -13452,7 +13513,8 @@
         "75a5d338dbd99a0c",
         "4263343f5723c911",
         "29f959514c4bbb81",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "started": [
         "b8f86559bf96fa79",
@@ -13749,7 +13811,8 @@
         "e21f689f4d1500b8",
         "28507d9dd792b9d2",
         "4ee54da053c5a92b",
-        "b734cca537f5beff"
+        "b734cca537f5beff",
+        "ed6dd4e25dc07293"
       ],
       "誉祥祥知识": [
         "1b875cbff8d9d6f0",
@@ -13968,7 +14031,8 @@
         "e6d382a3c8d852d4",
         "b850a0f81ab34e71",
         "4ee54da053c5a92b",
-        "63cccdfba6defaab"
+        "63cccdfba6defaab",
+        "ed6dd4e25dc07293"
       ],
       "mathworks": [
         "3e417395659575d0",
@@ -13992,7 +14056,8 @@
         "357ae7ac9bd5d805",
         "c6b34bef6d7f378b",
         "8e7082345d2edf03",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "分享生活中的小惊喜": [
         "3e417395659575d0",
@@ -15617,7 +15682,8 @@
         "b734cca537f5beff",
         "83d7352ddb89d173",
         "43d8975edd1d52c6",
-        "570616be0c9f7cd8"
+        "570616be0c9f7cd8",
+        "912d1d92910d9b32"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -15634,7 +15700,8 @@
         "026f23a1d4ac4177",
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa",
-        "eaa81f2af19b42d4"
+        "eaa81f2af19b42d4",
+        "ed6dd4e25dc07293"
       ],
       "serverless": [
         "026f23a1d4ac4177"
@@ -15669,7 +15736,9 @@
       ],
       "core": [
         "026f23a1d4ac4177",
-        "d325046e81e2049f"
+        "d325046e81e2049f",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "need": [
         "026f23a1d4ac4177",
@@ -15755,7 +15824,8 @@
         "bd98ca4333ae9b5d",
         "29f959514c4bbb81",
         "b538f01e5184994e",
-        "97fb7ceef896c7bb"
+        "97fb7ceef896c7bb",
+        "912d1d92910d9b32"
       ],
       "developer": [
         "026f23a1d4ac4177",
@@ -15793,7 +15863,8 @@
       "clear": [
         "71a1a96eb62a2f10",
         "a62ca3630b4c6371",
-        "7b50322b5a753f68"
+        "7b50322b5a753f68",
+        "912d1d92910d9b32"
       ],
       "strengths": [
         "71a1a96eb62a2f10"
@@ -15965,7 +16036,8 @@
         "c81451f3ca585417",
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
-        "520a09954944c445"
+        "520a09954944c445",
+        "ed6dd4e25dc07293"
       ],
       "migration": [
         "1d4e81d94c23b2c2",
@@ -16489,7 +16561,9 @@
         "62f1bd97f2f5f854",
         "75a5d338dbd99a0c",
         "a097e618de3ed01d",
-        "6785f05bf642785f"
+        "6785f05bf642785f",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "push": [
         "9d3eef28d73f90e5",
@@ -16530,7 +16604,9 @@
         "bfc7a4d8c3bb62b7",
         "9a7c89f34880249e",
         "6785f05bf642785f",
-        "74cbeeb101dd8323"
+        "74cbeeb101dd8323",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "commits": [
         "9d3eef28d73f90e5",
@@ -16623,7 +16699,8 @@
         "62f1bd97f2f5f854",
         "0116c4c6c3da46e7",
         "8b1b7a10f27a7fc5",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "912d1d92910d9b32"
       ],
       "many": [
         "9d3eef28d73f90e5",
@@ -16974,7 +17051,8 @@
       ],
       "beginner": [
         "66af99b6e8fa3152",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "912d1d92910d9b32"
       ],
       "escrito": [
         "66af99b6e8fa3152"
@@ -17095,7 +17173,9 @@
         "08b5b3a969983ea5",
         "75a5d338dbd99a0c",
         "ad4f0965ff4a91ea",
-        "74cbeeb101dd8323"
+        "74cbeeb101dd8323",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "join": [
         "08b5b3a969983ea5",
@@ -17186,7 +17266,8 @@
         "9a7c89f34880249e",
         "6785f05bf642785f",
         "74cbeeb101dd8323",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "ed6dd4e25dc07293"
       ],
       "measure": [
         "08b5b3a969983ea5"
@@ -17384,7 +17465,9 @@
       ],
       "real": [
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "aqua": [
         "d44db2d70aa038be",
@@ -17794,7 +17877,9 @@
         "32fb397d927bda9c",
         "9a7c89f34880249e",
         "eaa81f2af19b42d4",
-        "d325046e81e2049f"
+        "d325046e81e2049f",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "interpreter": [
         "cc6901ebb1f7f3e7",
@@ -17852,7 +17937,9 @@
         "cc6901ebb1f7f3e7",
         "ad4f0965ff4a91ea",
         "4f7c658b5322e06d",
-        "7b50322b5a753f68"
+        "7b50322b5a753f68",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "arguments": [
         "cc6901ebb1f7f3e7",
@@ -18099,7 +18186,8 @@
       ],
       "today": [
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "912d1d92910d9b32"
       ],
       "good": [
         "0897ec52374a6727",
@@ -18124,7 +18212,9 @@
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
         "73c30f0c4a60b045",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "conditions": [
         "0897ec52374a6727"
@@ -18307,7 +18397,9 @@
         "ea1004b3a713e118",
         "943300b4da67886f",
         "570616be0c9f7cd8",
-        "bfc7a4d8c3bb62b7"
+        "bfc7a4d8c3bb62b7",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "companies": [
         "b850a0f81ab34e71"
@@ -18468,7 +18560,8 @@
       "does": [
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
-        "570616be0c9f7cd8"
+        "570616be0c9f7cd8",
+        "912d1d92910d9b32"
       ],
       "running": [
         "6ab1d04c7b4b949f",
@@ -18533,7 +18626,8 @@
       "exactly": [
         "6ab1d04c7b4b949f",
         "62f1bd97f2f5f854",
-        "f0c2f536dcbaf6b1"
+        "f0c2f536dcbaf6b1",
+        "912d1d92910d9b32"
       ],
       "instantly": [
         "6ab1d04c7b4b949f",
@@ -19541,7 +19635,9 @@
         "29f959514c4bbb81"
       ],
       "explained": [
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
       ],
       "certifications": [
         "29f959514c4bbb81",
@@ -19852,7 +19948,8 @@
         "c18268c1929fa35e",
         "c43fa8d7f1d5c752",
         "eaa81f2af19b42d4",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "cybersecuity": [
         "f0c2f536dcbaf6b1",
@@ -19974,7 +20071,8 @@
       "input": [
         "c18268c1929fa35e",
         "c43fa8d7f1d5c752",
-        "eaa81f2af19b42d4"
+        "eaa81f2af19b42d4",
+        "ed6dd4e25dc07293"
       ],
       "prompts": [
         "c18268c1929fa35e",
@@ -20908,7 +21006,8 @@
       ],
       "datasets": [
         "74cbeeb101dd8323",
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "ed6dd4e25dc07293"
       ],
       "reduce": [
         "74cbeeb101dd8323"
@@ -20936,10 +21035,12 @@
         "facba5bfeb0813c9"
       ],
       "medium": [
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "listen": [
-        "facba5bfeb0813c9"
+        "facba5bfeb0813c9",
+        "912d1d92910d9b32"
       ],
       "becomes": [
         "facba5bfeb0813c9"
@@ -20970,12 +21071,102 @@
       ],
       "offer": [
         "facba5bfeb0813c9"
+      ],
+      "neural": [
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
+      ],
+      "models": [
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
+      ],
+      "layers": [
+        "ed6dd4e25dc07293"
+      ],
+      "prediction": [
+        "ed6dd4e25dc07293"
+      ],
+      "weights": [
+        "ed6dd4e25dc07293"
+      ],
+      "patterns": [
+        "ed6dd4e25dc07293"
+      ],
+      "images": [
+        "ed6dd4e25dc07293"
+      ],
+      "complex": [
+        "ed6dd4e25dc07293"
+      ],
+      "image": [
+        "ed6dd4e25dc07293"
+      ],
+      "structured": [
+        "ed6dd4e25dc07293"
+      ],
+      "layer": [
+        "ed6dd4e25dc07293"
+      ],
+      "loss": [
+        "ed6dd4e25dc07293"
+      ],
+      "recognition": [
+        "ed6dd4e25dc07293",
+        "912d1d92910d9b32"
+      ],
+      "processes": [
+        "ed6dd4e25dc07293"
+      ],
+      "learns": [
+        "ed6dd4e25dc07293"
+      ],
+      "neurons": [
+        "ed6dd4e25dc07293"
+      ],
+      "audio": [
+        "ed6dd4e25dc07293"
+      ],
+      "natural": [
+        "ed6dd4e25dc07293"
+      ],
+      "arohi": [
+        "912d1d92910d9b32"
+      ],
+      "patel": [
+        "912d1d92910d9b32"
+      ],
+      "exciting": [
+        "912d1d92910d9b32"
+      ],
+      "developments": [
+        "912d1d92910d9b32"
+      ],
+      "chatgpt": [
+        "912d1d92910d9b32"
+      ],
+      "self": [
+        "912d1d92910d9b32"
+      ],
+      "driving": [
+        "912d1d92910d9b32"
+      ],
+      "cars": [
+        "912d1d92910d9b32"
+      ],
+      "facial": [
+        "912d1d92910d9b32"
+      ],
+      "post": [
+        "912d1d92910d9b32"
+      ],
+      "lear": [
+        "912d1d92910d9b32"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 45,
-    "paginas_falhas": 258,
-    "total_caracteres": 294812
+    "paginas_baixadas": 46,
+    "paginas_falhas": 264,
+    "total_caracteres": 298951
   }
 }
