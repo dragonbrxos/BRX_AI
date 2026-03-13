@@ -24,5 +24,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "72f07153365775b6",
+    "tipo": "codigo",
+    "conteudo": "Modulo generico: machine learning auto supervisionado",
+    "criado": "2026-03-13T13:41:56.803427",
+    "modificado": "2026-03-13T13:41:56.803427",
+    "conexoes": [
+      {
+        "para": "5b785a0a895ad19d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "arquivo": "modulo_179131_generico.py",
+      "tipo": "generico",
+      "linhas": 28
+    },
+    "origem": "5b785a0a895ad19d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
