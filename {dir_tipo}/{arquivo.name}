@@ -1,40 +1,36 @@
-[
-  {
-    "id": "3c3b7e423154924d",
-    "tipo": "modelo",
-    "conteudo": "Modelo de 'etica em IA' centrado em: ética, filosofia, dedicada, ações, comportamento. Baseado em 5 observacoes e 20 conceitos extraidos.",
-    "criado": "2026-03-13T13:33:38.357348",
-    "modificado": "2026-03-13T13:33:38.357348",
-    "conexoes": [],
-    "energia": 1.0,
-    "geracao": 0,
-    "meta": {
-      "topico": "etica em IA",
-      "arquivo": "etica_em_ia.json",
-      "conceitos_count": 10
+{
+  "query": "etica em IA",
+  "resultados": [
+    {
+      "titulo": "Ética: o que é, o que significa e a melhor definição - Significados",
+      "corpo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
+      "url": "https://www.significados.com.br/etica/",
+      "timestamp": 1773419618.3474529
     },
-    "origem": null,
-    "historico": [],
-    "profundidade": 0,
-    "fontes": []
-  },
-  {
-    "id": "ff272defc3a8f602",
-    "tipo": "modelo",
-    "conteudo": "Modelo de '{ultimo} aplicacoes praticas' centrado em: aplicações, práticas, atrás, artigo, descubra. Baseado em 5 observacoes e 19 conceitos extraidos.",
-    "criado": "2026-03-13T13:33:55.299889",
-    "modificado": "2026-03-13T13:33:55.299889",
-    "conexoes": [],
-    "energia": 1.0,
-    "geracao": 0,
-    "meta": {
-      "topico": "{ultimo} aplicacoes praticas",
-      "arquivo": "_ultimo__aplicacoes_praticas.json",
-      "conceitos_count": 10
+    {
+      "titulo": "O que é Ética (significado e definição) - Dicio",
+      "corpo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
+      "url": "https://www.dicio.com.br/etica/",
+      "timestamp": 1773419618.3474634
     },
-    "origem": null,
-    "historico": [],
-    "profundidade": 0,
-    "fontes": []
-  }
-]
+    {
+      "titulo": "O que é ética? - Brasil Escola",
+      "corpo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
+      "url": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "timestamp": 1773419618.347467
+    },
+    {
+      "titulo": "Ética – Wikipédia, a enciclopédia livre",
+      "corpo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
+      "url": "https://pt.wikipedia.org/wiki/Ética",
+      "timestamp": 1773419618.347469
+    },
+    {
+      "titulo": "Ética - Toda Matéria",
+      "corpo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
+      "url": "https://www.todamateria.com.br/etica/",
+      "timestamp": 1773419618.3474715
+    }
+  ],
+  "timestamp": "2026-03-13T13:33:38.348005"
+}
