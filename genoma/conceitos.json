@@ -2839,6 +2839,21 @@
         "para": "7618ad64a30d28d8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2852,7 +2867,10 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://aws.amazon.com/pt/what-is/computer-vision/"
+      "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2",
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
     ]
   },
   {
@@ -3651,6 +3669,492 @@
     "profundidade": 0,
     "fontes": [
       "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "6616c2a852a03deb",
+    "tipo": "conceito",
+    "conteudo": "treinarem",
+    "criado": "2026-03-13T13:41:56.491616",
+    "modificado": "2026-03-13T13:41:56.491616",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "80ca533e566d47d5",
+    "tipo": "conceito",
+    "conteudo": "autossupervisionado",
+    "criado": "2026-03-13T13:41:56.492275",
+    "modificado": "2026-03-13T13:41:56.492275",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "89060c8670bfe82a",
+    "tipo": "conceito",
+    "conteudo": "tarefas",
+    "criado": "2026-03-13T13:41:56.492591",
+    "modificado": "2026-03-13T13:41:56.492591",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2",
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "adde53f0b8809794",
+    "tipo": "conceito",
+    "conteudo": "empresarial",
+    "criado": "2026-03-13T13:41:56.492924",
+    "modificado": "2026-03-13T13:41:56.492924",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "d81b0b89804729f5",
+    "tipo": "conceito",
+    "conteudo": "última",
+    "criado": "2026-03-13T13:41:56.493244",
+    "modificado": "2026-03-13T13:41:56.493244",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "cbcc98bb68774e75",
+    "tipo": "conceito",
+    "conteudo": "humano",
+    "criado": "2026-03-13T13:41:56.493535",
+    "modificado": "2026-03-13T13:41:56.493535",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "3d9d47fbe5fe694d",
+    "tipo": "conceito",
+    "conteudo": "feedback",
+    "criado": "2026-03-13T13:41:56.493839",
+    "modificado": "2026-03-13T13:41:56.493839",
+    "conexoes": [
+      {
+        "para": "1eb2b9b67d52661e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "00a266e733caaa21",
+    "tipo": "conceito",
+    "conteudo": "também",
+    "criado": "2026-03-13T13:41:56.594414",
+    "modificado": "2026-03-13T13:41:56.594414",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "e5a71b67f9aa10d8",
+    "tipo": "conceito",
+    "conteudo": "learning",
+    "criado": "2026-03-13T13:41:56.594667",
+    "modificado": "2026-03-13T13:41:56.594667",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "ec6ae1d6a2a75b45",
+    "tipo": "conceito",
+    "conteudo": "iterativas",
+    "criado": "2026-03-13T13:41:56.594951",
+    "modificado": "2026-03-13T13:41:56.594951",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "f787a9e0688f281e",
+    "tipo": "conceito",
+    "conteudo": "machine",
+    "criado": "2026-03-13T13:41:56.595371",
+    "modificado": "2026-03-13T13:41:56.595371",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "e62ddefa4d0d4155",
+    "tipo": "conceito",
+    "conteudo": "automatiza",
+    "criado": "2026-03-13T13:41:56.595904",
+    "modificado": "2026-03-13T13:41:56.595904",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "48aad43c8d94099f",
+    "tipo": "conceito",
+    "conteudo": "conhecido",
+    "criado": "2026-03-13T13:41:56.596290",
+    "modificado": "2026-03-13T13:41:56.596290",
+    "conexoes": [
+      {
+        "para": "324250596d1a5234",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "b5fa3de3e13b280f",
+    "tipo": "conceito",
+    "conteudo": "cenários",
+    "criado": "2026-03-13T13:41:56.697243",
+    "modificado": "2026-03-13T13:41:56.697243",
+    "conexoes": [
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "fef8e20aafa1a2b1",
+    "tipo": "conceito",
+    "conteudo": "precipitações",
+    "criado": "2026-03-13T13:41:56.697740",
+    "modificado": "2026-03-13T13:41:56.697740",
+    "conexoes": [
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "2ce5c6f4a1743b86",
+    "tipo": "conceito",
+    "conteudo": "vários",
+    "criado": "2026-03-13T13:41:56.698557",
+    "modificado": "2026-03-13T13:41:56.698557",
+    "conexoes": [
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "8fcccda358878085",
+    "tipo": "conceito",
+    "conteudo": "prever",
+    "criado": "2026-03-13T13:41:56.698938",
+    "modificado": "2026-03-13T13:41:56.698938",
+    "conexoes": [
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "bea888b676799030",
+    "tipo": "conceito",
+    "conteudo": "aplicadas",
+    "criado": "2026-03-13T13:41:56.700123",
+    "modificado": "2026-03-13T13:41:56.700123",
+    "conexoes": [
+      {
+        "para": "e133acfa4480895c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
     ]
   }
 ]
