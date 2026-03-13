@@ -1,98 +1,101 @@
 {
-  "topico": "etica em IA",
-  "criado_em": "2026-03-13T13:33:38.355766",
+  "topico": "{ultimo} aplicacoes praticas",
+  "criado_em": "2026-03-13T13:33:55.298539",
   "conceitos_principais": [
     {
-      "termo": "ética",
-      "conexoes": 12,
+      "termo": "aplicações",
+      "conexoes": 10,
       "categoria": "geral",
       "fontes": [
-        "https://www.significados.com.br/etica/",
-        "https://www.dicio.com.br/etica/",
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+        "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+        "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+        "https://mdbf.com.br/blog/aplicacoes-praticas"
       ]
     },
     {
-      "termo": "filosofia",
+      "termo": "práticas",
+      "conexoes": 10,
+      "categoria": "geral",
+      "fontes": [
+        "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+        "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+        "https://mdbf.com.br/blog/aplicacoes-praticas"
+      ]
+    },
+    {
+      "termo": "atrás",
       "conexoes": 6,
       "categoria": "geral",
       "fontes": [
-        "https://www.significados.com.br/etica/",
-        "https://www.todamateria.com.br/etica/"
+        "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+        "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
       ]
     },
     {
-      "termo": "dedicada",
+      "termo": "artigo",
+      "conexoes": 6,
+      "categoria": "filosofico",
+      "fontes": [
+        "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+        "https://mdbf.com.br/blog/aplicacoes-praticas"
+      ]
+    },
+    {
+      "termo": "descubra",
       "conexoes": 5,
       "categoria": "geral",
       "fontes": [
-        "https://www.significados.com.br/etica/"
+        "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
       ]
     },
     {
-      "termo": "ações",
+      "termo": "exemplos",
       "conexoes": 5,
       "categoria": "geral",
       "fontes": [
-        "https://www.significados.com.br/etica/"
+        "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
       ]
     },
     {
-      "termo": "comportamento",
+      "termo": "reais",
       "conexoes": 5,
       "categoria": "geral",
       "fontes": [
-        "https://www.significados.com.br/etica/"
+        "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
       ]
     },
     {
-      "termo": "porfírio",
+      "termo": "aborda",
       "conexoes": 5,
-      "categoria": "geral",
+      "categoria": "filosofico",
       "fontes": [
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+        "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
       ]
     },
     {
-      "termo": "francisco",
+      "termo": "maneira",
       "conexoes": 5,
-      "categoria": "geral",
+      "categoria": "filosofico",
       "fontes": [
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+        "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
       ]
     },
     {
-      "termo": "dilema",
+      "termo": "detalhada",
       "conexoes": 5,
-      "categoria": "geral",
+      "categoria": "filosofico",
       "fontes": [
-        "https://pt.wikipedia.org/wiki/Ética"
-      ]
-    },
-    {
-      "termo": "significado",
-      "conexoes": 4,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.dicio.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "dicio",
-      "conexoes": 4,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.dicio.com.br/etica/"
+        "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
       ]
     }
   ],
   "relacoes": [],
-  "sintese": "Modelo de 'etica em IA' centrado em: ética, filosofia, dedicada, ações, comportamento. Baseado em 5 observacoes e 20 conceitos extraidos.",
+  "sintese": "Modelo de '{ultimo} aplicacoes praticas' centrado em: aplicações, práticas, atrás, artigo, descubra. Baseado em 5 observacoes e 19 conceitos extraidos.",
   "fontes": [
-    "https://www.todamateria.com.br/etica/",
-    "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
-    "https://pt.wikipedia.org/wiki/Ética",
-    "https://www.significados.com.br/etica/",
-    "https://www.dicio.com.br/etica/"
+    "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+    "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+    "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+    "https://mdbf.com.br/blog/aplicacoes-praticas",
+    "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
   ]
 }
