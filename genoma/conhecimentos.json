@@ -1414,5 +1414,233 @@
       "https://www.sinonimos.com.br/processamento/",
       "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
     ]
+  },
+  {
+    "id": "9c5220c143033d17",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: algoritmos geneticos otimizacao\n\nEvolucao: ## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1094 co......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 13 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:56:03.675029",
+    "modificado": "2026-03-13T13:56:04.367110",
+    "conexoes": [
+      {
+        "para": "da62bc45c6cdf73a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "algoritmos geneticos otimizacao",
+        "algoritmos geneticos otimizacao aplicacoes",
+        "algoritmos geneticos otimizacao algoritmos",
+        "algoritmos geneticos otimizacao fundamentos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: algoritmos geneticos otimizacao",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:56:04.366561",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1094 conexoes\n\nTermos chave: desenvolvida, utilizam, inspirada, algébricas, g...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:04.366892",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n- outros: Inspirados, seleção, navegar\n\nFontes: 13 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:04.366968",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1094 co...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:04.367037",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n- outros: Ins...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:04.367103",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "https://www.significados.com.br/algoritmo/",
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "https://pt.wikipedia.org/wiki/Algoritmo",
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "cdaa1d16ed098d6b",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 714 conexoes\n\nTermos ......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:56:26.647247",
+    "modificado": "2026-03-13T13:56:27.070015",
+    "conexoes": [
+      {
+        "para": "6663e7dbeb43362e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:56:27.069230",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 714 conexoes\n\nTermos chave: agências, moda, nossos, marcaram, história",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:27.069574",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 12.1 conexoes/celula\nClusters identificados:\n- outros: oferecemos, nossos, variedade\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:27.069723",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 714 conexoes\n\nTermos ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:27.069870",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 12.1 conexoes/celula\nClusters identificados:\n- outros: oferecemos, nosso...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:27.070002",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "ff3ce495ec76d12b",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: redes neurais profundas\n\nEvolucao: ## Sintese Consolidada v3: redes neurais profundas\n\nEvolucao: ## Analise Estrutural: redes neurais profundas\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1100 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 21 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:56:50.715576",
+    "modificado": "2026-03-13T13:56:51.576042",
+    "conexoes": [
+      {
+        "para": "d391d8b795d3c642",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "redes neurais profundas",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "redes neurais profundas",
+        "redes neurais profundas fundamentos",
+        "redes neurais profundas aplicacoes",
+        "redes neurais profundas algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: redes neurais profundas",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:56:51.574140",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: redes neurais profundas\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1100 conexoes\n\nTermos chave: mercado, roteadores, capítulos, local, computadores",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:51.575228",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): redes neurais profundas\n\nDensidade: 9.8 conexoes/celula\nClusters identificados:\n- outros: mercado, computadores, Neste\n- tecnico: neural\n\nFontes: 21 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:56:51.575475",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: redes neurais profundas\n\nEvolucao: ## Analise Estrutural: redes neurais profundas\n\nConceitos mapeados: 10\nBase empirica: 23 observacoes\nRede inicial: 1100 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:51.575743",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: redes neurais profundas\n\nEvolucao: ## Analise Relacional (v2): redes neurais profundas\n\nDensidade: 9.8 conexoes/celula\nClusters identificados:\n- outros: mercado, computadore...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:56:51.576018",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.alura.com.br/artigos/rede-de-computadores",
+      "https://www.ibm.com/br-pt/think/topics/networking",
+      "https://tecnoblog.net/responde/o-que-sao-redes-de-computadores-veja-tipos-e-exemplos-de-computer-networks/",
+      "https://prp.unicamp.br/inscricao-congresso/resumos/2024P23792A40210O568.pdf",
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "https://www.avast.com/pt-br/c-what-is-computer-network",
+      "https://files.cercomp.ufg.br/weby/up/873/o/RedesNeuraisProfundas.pdf",
+      "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/networking-basics.html",
+      "https://flammadesign.com.br/glossario/o-que-e-redes-neurais-profundas-e-suas-aplicacoes/",
+      "https://www.datacamp.com/pt/tutorial/introduction-to-deep-neural-networks",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "https://www.deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/",
+      "https://elisaterumi.substack.com/p/deep-learning-entendendo-as-redes",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/",
+      "https://www.hostragons.com/pt/blog/redes-neurais-redes-neurais-de-aprendizagem-profunda/",
+      "https://www.academia.edu/62176715/Fundamentos_de_redes_neurais_profundas",
+      "https://www.alura.com.br/artigos/deep-learning",
+      "https://debom.cbpf.br/teach/crb_aula01.pdf",
+      "https://www.ibm.com/br-pt/think/topics/neural-networks",
+      "https://prp.unicamp.br/inscricao-congresso/resumos/2023P22060A38854O568.pdf",
+      "https://conceitos.tech/inteligencia-artificial/deep-learning/redes-neurais-profundas/"
+    ]
   }
 ]
