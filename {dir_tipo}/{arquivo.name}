@@ -1,46 +1,64 @@
-{
-  "indice_topico": {
-    "etica em IA": [
-      "32670491cbba1e9f",
-      "66db97981fde6f2f",
-      "660e0be793cf1092",
-      "774dd9af8ca1aef9",
-      "689999653226b84a",
-      "7284d66d269796ee",
-      "a50ee62ab8cef13c",
-      "ade0935ee1d334ce",
-      "279540b6711bd135",
-      "615588092259ca35",
-      "42b4801b2ce1a550",
-      "2adde769ed727704",
-      "ca062175472f3e5c",
-      "a82c7170e407797a",
-      "45e685289e373f92",
-      "f122204db68ea271",
-      "05dd7f701992e11b",
-      "630f9cc32439f835",
-      "6ef615bdffd3d01b",
-      "c2a6a8914906fa07",
-      "7e82fd1e939e1d51",
-      "50a2ef1d62cfd1b6",
-      "90ebb0ba231dc1c6",
-      "650d2dd8a7ee9d66",
-      "c8876264fe881f05",
-      "14fce0d25336018a",
-      "3c3b7e423154924d"
+[
+  {
+    "id": "32670491cbba1e9f",
+    "tipo": "conhecimento",
+    "conteudo": "## Consolidacao v5: etica em IA\n\n## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam.....\n\n- Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, socie...\n\n- 1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em...\n\n**Evolucao:** Documento refinado por 5 iteracoes. Qualidade atual: 0.84. Baseado em 5 fontes unicas.",
+    "criado": "2026-03-13T13:33:38.348977",
+    "modificado": "2026-03-13T13:33:38.355698",
+    "conexoes": [],
+    "energia": 0.99,
+    "geracao": 6,
+    "meta": {
+      "topico": "etica em IA",
+      "fase": "coleta",
+      "fontes_count": 5
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao inicial: etica em IA",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:33:38.354826",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica em IA\n\n**Conceitos Identificados (8):** significado, ações, dicio, comportamento, dicionário, dedicada, ética, filosofia\n\n**Base Empirica:** 5 observacoes coletadas de 5 f...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:38.355072",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional: etica em IA\n\n**Rede Conceitual:** 93 conexoes mapeadas entre 20 conceitos.\n\n**Clusters Identificados:**\n- **geral**: ética, filosofia, dedicada\n\n**Densidade:** 4.7 conexoes/conc...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:38.355240",
+        "razao": "refinamento_v3"
+      },
+      {
+        "conteudo": "## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípio...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355388",
+        "razao": "refinamento_v4"
+      },
+      {
+        "conteudo": "## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355526",
+        "razao": "refinamento_v5"
+      },
+      {
+        "conteudo": "## Consolidacao v5: etica em IA\n\n## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento hum...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355666",
+        "razao": "consolidacao_final"
+      }
+    ],
+    "profundidade": 6,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.dicio.com.br/etica/",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.todamateria.com.br/etica/"
     ]
-  },
-  "estatisticas": {
-    "ciclos": 1,
-    "nascimentos": 27,
-    "mortes": 0,
-    "refinamentos": 6,
-    "pesquisas_realizadas": 1,
-    "arquivos_gerados": 0
-  },
-  "topico_atual": "etica em IA",
-  "historico_topicos": [
-    "etica em IA"
-  ],
-  "timestamp": "2026-03-13T13:33:38.357695"
-}
+  }
+]
