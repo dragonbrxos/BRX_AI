@@ -607,5 +607,104 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "50dcf1519f1fdf6e",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: etica IA responsavel",
+    "criado": "2026-03-13T13:57:49.559811",
+    "modificado": "2026-03-13T13:57:49.559811",
+    "conexoes": [
+      {
+        "para": "b0a1ede2fabfaf3f",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "arquivo": "mod_d00abbfe_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "princípios",
+        "normas",
+        "discutido",
+        "desenvolvido",
+        "platão"
+      ]
+    },
+    "origem": "b0a1ede2fabfaf3f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "265a73ba4d7cc25f",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado por reforco",
+    "criado": "2026-03-13T13:58:12.361456",
+    "modificado": "2026-03-13T13:58:12.361456",
+    "conexoes": [
+      {
+        "para": "d1d4025e153cb7c3",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "arquivo": "mod_e6d1a987_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "alcançar",
+        "enquadrar",
+        "interpretadas",
+        "típica",
+        "tange"
+      ]
+    },
+    "origem": "d1d4025e153cb7c3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "d62ed912eaf556d5",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: redes neurais recorrentes LSTM",
+    "criado": "2026-03-13T13:58:31.081303",
+    "modificado": "2026-03-13T13:58:31.081303",
+    "conexoes": [
+      {
+        "para": "c4bf5b40185f576b",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "arquivo": "mod_d604f74b_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "simplificado",
+        "diagrama",
+        "campos",
+        "brasileiro",
+        "relacionados"
+      ]
+    },
+    "origem": "c4bf5b40185f576b",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
