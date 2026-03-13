@@ -4217,5 +4217,224 @@
       "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
       "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/"
     ]
+  },
+  {
+    "id": "63364fab4552800e",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: machine learning nao supervisionado\n\nEvolucao: ## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: ......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 15 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:06:30.412974",
+    "modificado": "2026-03-13T14:06:31.118575",
+    "conexoes": [
+      {
+        "para": "27b6214e64b0bd10",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "machine learning nao supervisionado fundamentos",
+        "machine learning nao supervisionado aplicacoes",
+        "machine learning nao supervisionado",
+        "machine learning nao supervisionado algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: machine learning nao supervisionado",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:06:31.118289",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 147 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:31.118393",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 4.9 conexoes/celula\nClusters identificados:\n\n\nFontes: 15 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:31.118453",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:31.118511",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: machine learning nao supervisionado\n\nEvolucao: ## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 4.9 conexoes/celula\nClusters identificados:\n\n\nFont...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:31.118566",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389",
+      "https://www.zhihu.com/question/1933486708491530514",
+      "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "https://www.zhihu.com/question/1900776580537619430",
+      "https://zhidao.baidu.com/question/341255177978476405.html",
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "https://www.hashtagtreinamentos.com/area-de-dados",
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/"
+    ]
+  },
+  {
+    "id": "3a66bb621effbf85",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:06:31.120473",
+    "modificado": "2026-03-13T14:06:32.004737",
+    "conexoes": [
+      {
+        "para": "b3d7ee5433d51913",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT",
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:06:32.004473",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:32.004557",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:32.004604",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:32.004650",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:32.004694",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "a32598dec1261fc3",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado por reforco\n\nEvolucao: ## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos cha......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 10 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:06:32.006477",
+    "modificado": "2026-03-13T14:06:32.939999",
+    "conexoes": [
+      {
+        "para": "4fd404d830a7e083",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado por reforco",
+        "aprendizado por reforco fundamentos",
+        "aprendizado por reforco aplicacoes",
+        "aprendizado por reforco algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado por reforco",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:06:32.939668",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:32.939814",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 10 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:06:32.939874",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos cha...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:32.939934",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado por reforco\n\nEvolucao: ## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 10 referencias...\n\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:06:32.939991",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "https://www.significados.com.br/aprendizagem/",
+      "https://www.dicio.com.br/aprendizado/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
   }
 ]
