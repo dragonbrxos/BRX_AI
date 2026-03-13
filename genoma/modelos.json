@@ -302,5 +302,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "83221fd03e703cda",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'etica inteligencia artificial': parte, nosso, trouxe, condutas, aprovou. Base: 3 obs, 15 conceitos.",
+    "criado": "2026-03-13T13:47:11.937586",
+    "modificado": "2026-03-13T13:47:11.937586",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica inteligencia artificial",
+      "arquivo": "etica_inteligencia_artifi.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
