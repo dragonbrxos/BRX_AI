@@ -3101,8 +3101,176 @@
       "para": "301e8a29139160ec1d9a",
       "tipo": "mesma_pagina",
       "peso": 0.8
+    },
+    {
+      "de": "fc78bef4e656f6759c9d",
+      "para": "25bcb00ba0065d3f15f3",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "fc78bef4e656f6759c9d",
+      "para": "2dd33a82b020d2756038",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "25bcb00ba0065d3f15f3",
+      "para": "2dd33a82b020d2756038",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "25bcb00ba0065d3f15f3",
+      "para": "490b6aff38a51d32dcd4",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2dd33a82b020d2756038",
+      "para": "490b6aff38a51d32dcd4",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2dd33a82b020d2756038",
+      "para": "1d9d00d274410cebbb09",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "490b6aff38a51d32dcd4",
+      "para": "1d9d00d274410cebbb09",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "490b6aff38a51d32dcd4",
+      "para": "7318250f75ca4214399d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1d9d00d274410cebbb09",
+      "para": "7318250f75ca4214399d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "2dea1cd1e6ecdf37f044",
+      "para": "652c02f742ffbb14fcaa",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8ba9bf5ccb140db405ff",
+      "para": "7daf3a998175105fc07b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1fda63efdbd03ce831a1",
+      "para": "458087f53b921e9612ae",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1fda63efdbd03ce831a1",
+      "para": "d6655dccc13a2e602f2b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "458087f53b921e9612ae",
+      "para": "d6655dccc13a2e602f2b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "458087f53b921e9612ae",
+      "para": "d9e553b6dfa21aa4a020",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d6655dccc13a2e602f2b",
+      "para": "d9e553b6dfa21aa4a020",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a9953eb4345ef3772299",
+      "para": "185aba1cef04316a8b84",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a9953eb4345ef3772299",
+      "para": "7ef2384e741bf25cc257",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "185aba1cef04316a8b84",
+      "para": "7ef2384e741bf25cc257",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8efb38962e7ba6e629dc",
+      "para": "1cb883e83f68057907c2",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "8efb38962e7ba6e629dc",
+      "para": "6db148e38985a0532e7b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1cb883e83f68057907c2",
+      "para": "6db148e38985a0532e7b",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1cb883e83f68057907c2",
+      "para": "d196aef6fb6cf6922f55",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6db148e38985a0532e7b",
+      "para": "d196aef6fb6cf6922f55",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6db148e38985a0532e7b",
+      "para": "a600d93294276041b3b9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d196aef6fb6cf6922f55",
+      "para": "a600d93294276041b3b9",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "d196aef6fb6cf6922f55",
+      "para": "5ef35cff6c3c3435b9cb",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a600d93294276041b3b9",
+      "para": "5ef35cff6c3c3435b9cb",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
     }
   ],
-  "total": 517,
-  "atualizado": "2026-03-13T14:52:14"
+  "total": 545,
+  "atualizado": "2026-03-13T14:53:39"
 }
