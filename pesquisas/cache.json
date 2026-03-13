@@ -238,5 +238,29 @@
     ],
     "timestamp": 1773420167.8187969,
     "usos": 0
+  },
+  "sistemas multiagentes": {
+    "resultados": [
+      {
+        "titulo": "O que é um sistema multiagentes? - IBM",
+        "corpo": "Um sistema multiagentes (MAS) consiste em vários agentes de inteligência artificial (IA) trabalhando coletivamente para executar tarefas em nome de um usuário ou de outro sistema.Aproveite conteúdo informativo como blogs, artigos, vídeos, podcasts, tutoriais, …Bem-vindo à Academia de IA da IBM, uma experiência educacional de IA para …",
+        "url": "https://www.ibm.com/br-pt/think/topics/multiagent-system",
+        "timestamp": 1773420192.9330585
+      },
+      {
+        "titulo": "O que é um sistema multiagente na IA? | Google Cloud",
+        "corpo": "Um sistema multiagente é composto por várias entidades computacionais autônomas e interativas, conhecidas como agentes, situadas em um ambiente compartilhado. Esses agentes colaboram, se...",
+        "url": "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
+        "timestamp": 1773420192.933093
+      },
+      {
+        "titulo": "Sistema multiagente – Wikipédia, a enciclopédia livre",
+        "corpo": "A ideia principal em um sistema multiagente é que um comportamento global inteligente pode ser alcançado a partir do comportamento individual dos agentes. Em um SMA não é necessário que cada …",
+        "url": "https://pt.wikipedia.org/wiki/Sistema_multiagente",
+        "timestamp": 1773420192.9331014
+      }
+    ],
+    "timestamp": 1773420192.9331326,
+    "usos": 0
   }
 }
