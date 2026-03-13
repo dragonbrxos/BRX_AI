@@ -235,6 +235,26 @@
         "para": "a736929bde2a7b4a",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -831,6 +851,26 @@
         "para": "f1cffb878467e330",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -1026,6 +1066,26 @@
       },
       {
         "para": "d242442aaf195fde",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -1253,6 +1313,26 @@
         "para": "d242442aaf195fde",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -1418,6 +1498,26 @@
       },
       {
         "para": "d242442aaf195fde",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -1853,6 +1953,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -2069,6 +2189,26 @@
         "para": "d0247e40b3fdefa6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -2193,6 +2333,21 @@
         "para": "10995533dc7f5b71",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -2708,6 +2863,71 @@
         "para": "67005d27241338d1",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -2903,6 +3123,11 @@
         "para": "8f4fd15a3b2ff86e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -3185,6 +3410,26 @@
         "para": "8c4523ff083df70b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -3326,6 +3571,11 @@
       },
       {
         "para": "06da82ac180ff404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -3609,6 +3859,11 @@
       },
       {
         "para": "f18ed5a275fbec62",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -3903,6 +4158,11 @@
       },
       {
         "para": "f18ed5a275fbec62",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -4209,6 +4469,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -4358,6 +4638,11 @@
       },
       {
         "para": "f18ed5a275fbec62",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b75cfb3877459ad",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -4636,6 +4921,11 @@
         "para": "8b74197043eb4014",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -4856,6 +5146,21 @@
         "para": "638e2d2d23179915",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -5836,6 +6141,86 @@
       },
       {
         "para": "da42ff26b1c63df2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -6863,6 +7248,26 @@
         "para": "0559a05187307aba",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7233,6 +7638,26 @@
         "para": "e32aad9b92ef0a28",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7329,6 +7754,21 @@
       },
       {
         "para": "972c94e8db15bbb3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -8764,6 +9204,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -10239,6 +10699,21 @@
         "para": "ef8ab7448dd9a755",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -10939,6 +11414,31 @@
       },
       {
         "para": "50f6f74036a566a2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -12080,6 +12580,11 @@
         "para": "9ec3edd321e9d193",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -12676,6 +13181,21 @@
       },
       {
         "para": "e32aad9b92ef0a28",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -14530,6 +15050,146 @@
         "para": "50f6f74036a566a2",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -14746,6 +15406,21 @@
         "para": "bb456bc9e9b634b6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -14817,6 +15492,26 @@
       },
       {
         "para": "2d2debb2f1ce3b87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -15113,6 +15808,41 @@
       },
       {
         "para": "913c34d7feb0b0ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -15570,6 +16300,21 @@
         "para": "06da82ac180ff404",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -15723,6 +16468,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -16266,6 +17031,116 @@
       },
       {
         "para": "5d3c3a34010a3dce",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -16818,6 +17693,26 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -16955,6 +17850,21 @@
       },
       {
         "para": "6f21d7d466cfd0aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -17284,6 +18194,26 @@
       },
       {
         "para": "e812dee4ad8f5f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -18248,6 +19178,11 @@
         "para": "ab0161204de54f93",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -18431,6 +19366,26 @@
       },
       {
         "para": "30060f78b05503fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -18804,6 +19759,21 @@
         "para": "ca2f6a87bd8d774d",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -19062,6 +20032,36 @@
         "para": "fb93b7422bc1a072",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -19396,6 +20396,26 @@
         "para": "d242442aaf195fde",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -19679,6 +20699,11 @@
       },
       {
         "para": "ab0161204de54f93",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -20180,6 +21205,26 @@
       },
       {
         "para": "42de0b224d643269",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -23798,6 +24843,26 @@
         "para": "68c068bfdee52594",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -24588,6 +25653,11 @@
       },
       {
         "para": "30231bd001ce7d33",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -27635,6 +28705,81 @@
         "para": "ab0161204de54f93",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -28210,6 +29355,21 @@
         "para": "ab0161204de54f93",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -28616,6 +29776,16 @@
       },
       {
         "para": "f18ed5a275fbec62",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e132c7144e5c6e01",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -29448,6 +30618,106 @@
         "para": "da42ff26b1c63df2",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -30137,6 +31407,11 @@
         "para": "06da82ac180ff404",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -30657,6 +31932,26 @@
         "para": "47c25e3344b37fb1",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -30989,6 +32284,41 @@
       },
       {
         "para": "ef8ab7448dd9a755",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -33161,6 +34491,21 @@
         "para": "67005d27241338d1",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34315,6 +35660,26 @@
         "para": "f7b0b63d7bd8bbd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34853,6 +36218,11 @@
         "para": "33795381101b8529",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35462,6 +36832,11 @@
         "para": "280f9d7619d38ca8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35724,6 +37099,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35826,6 +37221,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35923,6 +37338,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36018,6 +37453,26 @@
       },
       {
         "para": "fcf5ef1ab77568ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -36187,6 +37642,46 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36283,6 +37778,26 @@
       },
       {
         "para": "fcf5ef1ab77568ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -36382,6 +37897,26 @@
         "para": "fcf5ef1ab77568ff",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36477,6 +38012,26 @@
       },
       {
         "para": "fcf5ef1ab77568ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf362a526ba161a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4dbbbee450955863",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eccc3dfb2a388219",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0aa3d0d2bf2dd3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -36584,6 +38139,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -36696,6 +38271,26 @@
       },
       {
         "para": "e812dee4ad8f5f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -36892,6 +38487,26 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37002,6 +38617,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -37136,6 +38771,26 @@
         "para": "21ca7e6e664b4114",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37247,6 +38902,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -37406,6 +39081,26 @@
         "para": "ef8ab7448dd9a755",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37520,6 +39215,26 @@
         "para": "fa6b55a0bbf990c0",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37630,6 +39345,26 @@
       },
       {
         "para": "fa6b55a0bbf990c0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -37744,6 +39479,26 @@
         "para": "fa6b55a0bbf990c0",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37829,6 +39584,26 @@
       },
       {
         "para": "d0247e40b3fdefa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -37927,6 +39702,26 @@
       },
       {
         "para": "42de0b224d643269",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -38042,6 +39837,26 @@
         "para": "d0247e40b3fdefa6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "0d06502b714c73f9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e1149d7ec284ee7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "94f975792bd47665",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92305615f7d6f9d2",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38151,6 +39966,26 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38256,6 +40091,26 @@
       },
       {
         "para": "e812dee4ad8f5f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -38400,6 +40255,31 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38506,6 +40386,26 @@
       },
       {
         "para": "e812dee4ad8f5f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -38680,6 +40580,61 @@
         "para": "42de0b224d643269",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38784,6 +40739,26 @@
         "para": "fa6b55a0bbf990c0",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38886,6 +40861,26 @@
         "para": "fa6b55a0bbf990c0",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d5d37e7a650a04e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f50c136eebb8165",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c488185fdda56ed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f05a9b759ebd0c3",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38978,6 +40973,26 @@
         "para": "e812dee4ad8f5f4b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e7969b24d6976cc4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "469195a42c6eab2f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68789dc3219f7234",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22871e5383ba3e06",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39063,6 +41078,26 @@
       },
       {
         "para": "42de0b224d643269",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -39157,6 +41192,26 @@
         "para": "07e63c1950a2ee04",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39263,6 +41318,26 @@
       },
       {
         "para": "2b82d34bfdf4f69e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f26bbc2677316b95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9cfa037ee6f0f25",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd0111eee824740c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7f4c0f03b1385071",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -39966,6 +42041,11 @@
       },
       {
         "para": "67005d27241338d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7093d027f8734698",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -41524,6 +43604,21 @@
       },
       {
         "para": "e0d81ac70e9e36a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -45393,6 +47488,21 @@
         "para": "11cb11d283e8d258",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -46537,6 +48647,31 @@
       },
       {
         "para": "2b82d34bfdf4f69e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9d4f72565ef8f40",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23a4a898e2afc90b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -48794,6 +50929,21 @@
         "para": "4c8c83f3606b9177",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49460,6 +51610,11 @@
         "para": "f835750971bc7f24",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49547,6 +51702,16 @@
         "para": "3bd7680ba1249912",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49615,6 +51780,11 @@
         "para": "f835750971bc7f24",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49732,6 +51902,11 @@
         "para": "b8a47b40f25fb7f5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49830,6 +52005,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49907,6 +52087,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49989,6 +52174,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50096,6 +52286,21 @@
         "para": "baeaa26ae4fbd9ec",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50195,6 +52400,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50287,6 +52497,31 @@
         "para": "f7b0b63d7bd8bbd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50370,6 +52605,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50457,6 +52697,11 @@
         "para": "baeaa26ae4fbd9ec",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50559,6 +52804,11 @@
         "para": "9ec3edd321e9d193",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50643,6 +52893,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50790,6 +53045,26 @@
         "para": "9b41d735ab10a6ea",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50865,6 +53140,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50922,6 +53202,11 @@
         "para": "f835750971bc7f24",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -50969,6 +53254,11 @@
         "para": "7c8db9190186150e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51056,6 +53346,21 @@
         "para": "2209257a62a12f2c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51128,6 +53433,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51255,6 +53565,11 @@
         "para": "e357d60d5fdce173",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51373,6 +53688,31 @@
         "para": "f7b0b63d7bd8bbd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51446,6 +53786,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51528,6 +53873,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51608,6 +53958,21 @@
       },
       {
         "para": "2209257a62a12f2c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -51692,6 +54057,21 @@
         "para": "2209257a62a12f2c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51764,6 +54144,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51856,6 +54241,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -51936,6 +54326,21 @@
       },
       {
         "para": "2209257a62a12f2c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -52020,6 +54425,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52087,6 +54497,11 @@
         "para": "f950c9ce68e12b6d",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52159,6 +54574,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52251,6 +54671,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52318,6 +54743,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52380,6 +54810,11 @@
         "para": "628a2c95c083a52a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52460,6 +54895,21 @@
       },
       {
         "para": "2209257a62a12f2c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -52554,6 +55004,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52626,6 +55081,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52688,6 +55148,11 @@
         "para": "f950c9ce68e12b6d",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52750,6 +55215,11 @@
         "para": "628a2c95c083a52a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52897,6 +55367,26 @@
         "para": "b961de291977f513",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52962,6 +55452,11 @@
         "para": "628a2c95c083a52a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53019,6 +55514,11 @@
         "para": "e9961c5483ef8296",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53086,6 +55586,11 @@
         "para": "b6e4c72dcd264c89",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53138,6 +55643,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53215,6 +55725,21 @@
         "para": "2209257a62a12f2c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53272,6 +55797,11 @@
         "para": "baeaa26ae4fbd9ec",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53344,6 +55874,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53449,6 +55984,36 @@
       },
       {
         "para": "4758ed61edfd9c75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -53559,6 +56124,21 @@
         "para": "9137e208b95fdf64",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53635,6 +56215,21 @@
       },
       {
         "para": "2209257a62a12f2c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84baad12e3a6c71a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "802663844cf5dca3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -53719,6 +56314,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53799,6 +56399,21 @@
       },
       {
         "para": "ad7eec7cd1a4c131",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -53883,6 +56498,21 @@
         "para": "ad7eec7cd1a4c131",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -53963,6 +56593,21 @@
       },
       {
         "para": "ad7eec7cd1a4c131",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -54047,6 +56692,21 @@
         "para": "ad7eec7cd1a4c131",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54099,6 +56759,11 @@
         "para": "baeaa26ae4fbd9ec",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54221,6 +56886,21 @@
         "para": "05cc51860b4c23ec",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54269,6 +56949,11 @@
         "para": "be84cfa12ec06a86",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54356,6 +57041,21 @@
         "para": "8878312778ae2f5a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54418,6 +57118,11 @@
         "para": "b961de291977f513",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54495,6 +57200,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54582,6 +57292,21 @@
         "para": "c91a63e53a10c40f",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54660,6 +57385,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54725,6 +57455,21 @@
       },
       {
         "para": "ca2f6a87bd8d774d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -54804,6 +57549,11 @@
         "para": "72fa54a1ef5044e7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -54879,6 +57629,21 @@
       },
       {
         "para": "4758ed61edfd9c75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -54958,6 +57723,11 @@
         "para": "61fde4bf8fb0ca99",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55033,6 +57803,21 @@
       },
       {
         "para": "4758ed61edfd9c75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -55112,6 +57897,21 @@
         "para": "9d0bfe8dc8464ddb",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55173,6 +57973,21 @@
       },
       {
         "para": "ca2f6a87bd8d774d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -55237,6 +58052,11 @@
         "para": "0208384a624404a3",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55304,6 +58124,21 @@
         "para": "ad7eec7cd1a4c131",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "1c63d90489287874",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61e9746234f10f30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55366,6 +58201,21 @@
         "para": "ca2f6a87bd8d774d",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a5ea4fafc338a4b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2318bf070182ae6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55426,6 +58276,21 @@
       },
       {
         "para": "4758ed61edfd9c75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -55505,6 +58370,21 @@
         "para": "2c16de24167d00c7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "3ee7796107111a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada3c77821c219f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55609,6 +58489,26 @@
         "para": "8c4523ff083df70b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55704,6 +58604,26 @@
       },
       {
         "para": "f7b0b63d7bd8bbd3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -55808,6 +58728,26 @@
         "para": "cbe6f45758113865",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55903,6 +58843,26 @@
       },
       {
         "para": "8c4523ff083df70b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56099,6 +59059,46 @@
         "para": "8c4523ff083df70b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56187,6 +59187,26 @@
         "para": "66746ddf616a104e",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56262,6 +59282,26 @@
       },
       {
         "para": "cbe6f45758113865",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56468,6 +59508,26 @@
         "para": "75b6c83b5da74af4",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56567,6 +59627,26 @@
         "para": "8c4523ff083df70b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56647,6 +59727,26 @@
       },
       {
         "para": "f7b0b63d7bd8bbd3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56744,6 +59844,26 @@
       },
       {
         "para": "f7b0b63d7bd8bbd3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56898,6 +60018,26 @@
       },
       {
         "para": "cbe6f45758113865",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57059,6 +60199,26 @@
         "para": "45bf72a608000667",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57151,6 +60311,26 @@
         "para": "f7b0b63d7bd8bbd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57238,6 +60418,26 @@
         "para": "66746ddf616a104e",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57313,6 +60513,26 @@
       },
       {
         "para": "cbe6f45758113865",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57469,6 +60689,26 @@
         "para": "45bf72a608000667",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57551,6 +60791,26 @@
         "para": "45bf72a608000667",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57631,6 +60891,26 @@
       },
       {
         "para": "45bf72a608000667",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57745,6 +61025,26 @@
         "para": "9aa9c60f41278a44",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57853,6 +61153,26 @@
         "para": "860fa2c719222d6a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57934,6 +61254,26 @@
       },
       {
         "para": "8c4523ff083df70b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58031,6 +61371,26 @@
       },
       {
         "para": "cbe6f45758113865",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58160,6 +61520,26 @@
         "para": "06da82ac180ff404",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58253,6 +61633,26 @@
         "para": "cbe6f45758113865",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3c573ea663b085e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9ed430df76596445",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec9fc3216e6cfd99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "43a21eaf9fcd607c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58323,6 +61723,26 @@
       },
       {
         "para": "8c4523ff083df70b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a2b4a2618daf844",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87aa60f992907a06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5380f6754c9d4d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44afb2827e214817",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58400,6 +61820,26 @@
       },
       {
         "para": "45bf72a608000667",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58489,6 +61929,26 @@
         "para": "f7b0b63d7bd8bbd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "5986318a6fede0bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba3b41cdd9a5b21c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6054b1375e300006",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a8392d885ec3386e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58569,6 +62029,26 @@
       },
       {
         "para": "66746ddf616a104e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58653,6 +62133,26 @@
         "para": "66746ddf616a104e",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58735,6 +62235,26 @@
         "para": "66746ddf616a104e",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58810,6 +62330,26 @@
       },
       {
         "para": "45bf72a608000667",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3d4b9d749edb8ba4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89d836533e2032d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "695aa93637d665db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9811bfad725a145",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58889,6 +62429,26 @@
         "para": "66746ddf616a104e",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58964,6 +62524,26 @@
       },
       {
         "para": "66746ddf616a104e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c22c5ccb53ddebe6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c86e2bf9c8d1a986",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "057dba1d3e0ee81c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90bc7bbc45c9da5d",
         "tipo": "menciona",
         "forca": 0.6
       }
