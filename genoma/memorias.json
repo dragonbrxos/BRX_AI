@@ -2255,5 +2255,191 @@
     "fontes": [
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
     ]
+  },
+  {
+    "id": "032e810ff0d2f7ae",
+    "tipo": "memoria",
+    "conteudo": "12 de fev. de 2026 · A Inteligência Artificial Explicável é um ramo da IA que torna os processos internos dos algoritmos compreensíveis e transparentes.",
+    "criado": "2026-03-13T13:44:35.799774",
+    "modificado": "2026-03-13T13:44:35.799774",
+    "conexoes": [
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2d5b04bb1c5c2d9e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1180f052e441083c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3d26cb227a42bd53",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "fonte": "https://www.mecalux.com.br/blog/ia-explicavel",
+      "indice": 0
+    },
+    "origem": "ab8be1692728f933",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "53b3d34597a51c5b",
+    "tipo": "memoria",
+    "conteudo": "Desta forma, a problemática central deste trabalho reside em responder: Como a Inteligência Artificial Explicável (XAI) pode ser estabelecida como um requisito fundamental para a implementação da …",
+    "criado": "2026-03-13T13:44:35.907325",
+    "modificado": "2026-03-13T13:44:35.907325",
+    "conexoes": [
+      {
+        "para": "f00a3c9ab1185c69",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "00b2a62ba4b28b20",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e3c4d34660a28e87",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9bb5fc35bb569b68",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "de0831ff843ea27e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "fonte": "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
+      "indice": 0
+    },
+    "origem": "ab8be1692728f933",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "2ec07b6b5492f65a",
+    "tipo": "memoria",
+    "conteudo": "13 de mai. de 2025 · É nesse contexto que surge a Inteligência Artificial Explicável (XAI), um movimento que visa transformar a relação entre humanos e algoritmos, substituindo opacidade por …",
+    "criado": "2026-03-13T13:44:36.013974",
+    "modificado": "2026-03-13T13:44:36.013974",
+    "conexoes": [
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4cf6dac9e9c9ca5e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "978ee5d7f706d674",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e2d9dc9789b7af9e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8d871da789fa0f8c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "fonte": "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
+      "indice": 0
+    },
+    "origem": "ab8be1692728f933",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
   }
 ]
