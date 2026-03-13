@@ -233,17 +233,40 @@
       "40be3c82ded3d22a",
       "20a8e0622097caaa",
       "7400841f1172a454"
+    ],
+    "sistemas multiagentes desafios limitacoes": [
+      "85a4ec8167a23401",
+      "45563e1240a0a790",
+      "e01c589a662842d2",
+      "c20fb3696a0d077c",
+      "31e70f981d2ad67b",
+      "945d812cc7d99049",
+      "4aae0b8870b38aec",
+      "5979fe669699c740",
+      "a8c96145194c5d78",
+      "232046c765d15fdb",
+      "a5c2591a2c4362bf",
+      "9c45ea9f5074a4f4",
+      "6f84a8434192ef87",
+      "7b8e33d501b4de24",
+      "8f9bc35009cc771e",
+      "7007c16ecb1aeda5",
+      "961703357048f640",
+      "bd445ef565fdfc34",
+      "eef3e924cb6b36bc",
+      "d04228977c88e4f0",
+      "ca3caac3344d871a"
     ]
   },
   "estatisticas": {
-    "ciclos": 9,
-    "nascimentos": 214,
+    "ciclos": 10,
+    "nascimentos": 235,
     "mortes": 0,
-    "refinamentos": 39,
-    "pesquisas_realizadas": 9,
+    "refinamentos": 42,
+    "pesquisas_realizadas": 10,
     "arquivos_gerados": 7
   },
-  "topico_atual": "sistemas multiagentes",
+  "topico_atual": "sistemas multiagentes desafios limitacoes",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -253,7 +276,8 @@
     "machine learning auto supervisionado",
     "machine learning auto supervisionado desafios limitacoes",
     "aprendizado por reforco profundo",
-    "sistemas multiagentes"
+    "sistemas multiagentes",
+    "sistemas multiagentes desafios limitacoes"
   ],
-  "timestamp": "2026-03-13T13:43:13.244540"
+  "timestamp": "2026-03-13T13:43:40.114004"
 }
