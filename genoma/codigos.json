@@ -787,5 +787,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "1c76e5fbe530a38c",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado transferencia transfer learn",
+    "criado": "2026-03-13T13:59:40.460341",
+    "modificado": "2026-03-13T13:59:40.460341",
+    "conexoes": [
+      {
+        "para": "efabd40c68384788",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "arquivo": "mod_3f2ee707_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "efabd40c68384788",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "c7ebc55c3e12a5a0",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: modelos transformers GPT",
+    "criado": "2026-03-13T13:59:40.909679",
+    "modificado": "2026-03-13T13:59:40.909679",
+    "conexoes": [
+      {
+        "para": "014ca44319aab395",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "mod_a0fc032d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "014ca44319aab395",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "c336fce152acd2a2",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T13:59:41.479396",
+    "modificado": "2026-03-13T13:59:41.479396",
+    "conexoes": [
+      {
+        "para": "d727ae1958781104",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "d727ae1958781104",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
