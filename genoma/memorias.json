@@ -1883,5 +1883,191 @@
     "fontes": [
       "https://pt.wikipedia.org/wiki/Sistema_multiagente"
     ]
+  },
+  {
+    "id": "45563e1240a0a790",
+    "tipo": "memoria",
+    "conteudo": "Ao usar esses serviços do Google Cloud, os desenvolvedores podem criar sistemas multiagentes robustos, escalonáveis e inteligentes, permitindo aplicativos de IA sofisticados que enfrentam...",
+    "criado": "2026-03-13T13:43:39.790519",
+    "modificado": "2026-03-13T13:43:39.790519",
+    "conexoes": [
+      {
+        "para": "e01c589a662842d2",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c20fb3696a0d077c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "31e70f981d2ad67b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "945d812cc7d99049",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4aae0b8870b38aec",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "fonte": "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
+      "indice": 0
+    },
+    "origem": "85a4ec8167a23401",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "a8c96145194c5d78",
+    "tipo": "memoria",
+    "conteudo": "22 de jan. de 2026 · Dominar os sistemas multiagentes é se preparar para a próxima fase da economia digital. Se você deseja transitar da simples resolução de problemas para a criação de sistemas …",
+    "criado": "2026-03-13T13:43:39.897220",
+    "modificado": "2026-03-13T13:43:39.897220",
+    "conexoes": [
+      {
+        "para": "232046c765d15fdb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a5c2591a2c4362bf",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9c45ea9f5074a4f4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7b8e33d501b4de24",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "fonte": "https://www.alura.com.br/artigos/multiagentes-de-ia",
+      "indice": 0
+    },
+    "origem": "85a4ec8167a23401",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "8f9bc35009cc771e",
+    "tipo": "memoria",
+    "conteudo": "Nos últimos dias, exploramos como os sistemas multiagentes funcionam e os benefícios que podem trazer para diferentes áreas. Porém, como qualquer tecnologia, eles enfrentam desafios que...",
+    "criado": "2026-03-13T13:43:40.003616",
+    "modificado": "2026-03-13T13:43:40.003616",
+    "conexoes": [
+      {
+        "para": "7007c16ecb1aeda5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "fonte": "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
+      "indice": 0
+    },
+    "origem": "85a4ec8167a23401",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
   }
 ]
