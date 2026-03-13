@@ -940,5 +940,53 @@
       "https://huggingface.co/learn/llm-course/pt/chapter1/4",
       "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
+  },
+  {
+    "id": "71c41cdd98570fc6",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: transformers arquitetura aplicacoes praticas\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:48:03.895759",
+    "modificado": "2026-03-13T13:48:04.214645",
+    "conexoes": [
+      {
+        "para": "c53efe8aec3a142c",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 3,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: transformers arquitetura aplicacoes praticas",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:48:04.214300",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: transformers arquitetura aplicacoes praticas\nConceitos: inovadora, impressionantes, resposta, redefiniu, outros, comparações\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:48:04.214558",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: transformers arquitetura aplicacoes praticas\nRede: 6 conexoes. Conceitos-chave: inovadora, resposta, outros.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:48:04.214637",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/",
+      "https://www.alura.com.br/artigos/transformers",
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
   }
 ]
