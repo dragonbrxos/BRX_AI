@@ -3805,5 +3805,4683 @@
     "fontes": [
       "https://huggingface.co/learn/llm-course/pt/chapter1/4"
     ]
+  },
+  {
+    "id": "a787a047125a7fb9",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:52:45.155581",
+    "modificado": "2026-03-13T13:52:45.155581",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "74298bca220b8783",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "30275f9f044021ef",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:52:45.162857",
+    "modificado": "2026-03-13T13:52:45.162857",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f3a2941ec1bae1a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "6f15a95dbeb72f31",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:52:45.163760",
+    "modificado": "2026-03-13T13:52:45.163760",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "773828d7fdb13f9a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "f3073fdfec4d5743",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:52:45.164188",
+    "modificado": "2026-03-13T13:52:45.164188",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e58eb08dc57e9d71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89be76c695c4f67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "967d46700307199b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "dfecbc1586915b95",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:52:45.165683",
+    "modificado": "2026-03-13T13:52:45.165683",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "d254aff88628aa4e",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:52:45.166512",
+    "modificado": "2026-03-13T13:52:45.166512",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "a1390da325364b99",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:52:45.168346",
+    "modificado": "2026-03-13T13:52:45.168346",
+    "conexoes": [
+      {
+        "para": "ee568c8273491f37",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93b152582b52547c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "77fc5c12572f8286",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:52:45.173479",
+    "modificado": "2026-03-13T13:52:45.173479",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8e4d9c7a15c1989a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "911b075b70718a30",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:52:45.220450",
+    "modificado": "2026-03-13T13:52:45.220450",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "34d3cf320a5f40be",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:52:45.235119",
+    "modificado": "2026-03-13T13:52:45.235119",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "71e5d54e0ca71c52",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:52:45.237968",
+    "modificado": "2026-03-13T13:52:45.237968",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "611e4703c13f6e8c",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:52:45.245025",
+    "modificado": "2026-03-13T13:52:45.245025",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "6c30faebece1219b",
+    "tipo": "memoria",
+    "conteudo": "Explore como os Transformers estão redefinindo os limites da Inteligência Artificial, desde o processamento de linguagem natural até …",
+    "criado": "2026-03-13T13:52:45.251101",
+    "modificado": "2026-03-13T13:52:45.251101",
+    "conexoes": [
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac677152cc680f07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "02e7d72a2b7fa6b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7adfc5e5245db042",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "cd048bed69f0ec43",
+    "tipo": "memoria",
+    "conteudo": "O Processamento de Linguagem Natural, ou PLN, combina poder computacional, inteligência artificial e linguística humana para permitir …",
+    "criado": "2026-03-13T13:52:45.275801",
+    "modificado": "2026-03-13T13:52:45.275801",
+    "conexoes": [
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8acd5aace13f4cdb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4515197c59c066b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "637a402790c9374b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0bffdba92fece71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322"
+    ]
+  },
+  {
+    "id": "990549d2c99bed57",
+    "tipo": "memoria",
+    "conteudo": "30 de out. de 2024 · Além disso, GANs são usadas em arte, geração de imagens de alta resolução e até na criação de modelos 3D. Transformers As redes Transformers representam uma evolução significativa no campo do aprendizado de máquina, especialmente em tarefas relacionadas a processamento de linguagem natural (NLP).",
+    "criado": "2026-03-13T13:52:45.285600",
+    "modificado": "2026-03-13T13:52:45.285600",
+    "conexoes": [
+      {
+        "para": "0c87630117ed9fa2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7bc3be7fced50b4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e765a685f30e21b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f7a4d6d7620bd9a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f2eb012a19709741",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04156b75f627ea6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85a992349f561940",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f81b338d6f5b7f12",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+    ]
+  },
+  {
+    "id": "522d564470101e55",
+    "tipo": "memoria",
+    "conteudo": "PPC Engenharia de Software 2024 (oficial atualizado) - 223 -",
+    "criado": "2026-03-13T13:52:45.301455",
+    "modificado": "2026-03-13T13:52:45.301455",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7be5d610be2b27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a848f2dadd8ae8b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf"
+    ]
+  },
+  {
+    "id": "e8e33438556bee8a",
+    "tipo": "memoria",
+    "conteudo": "Save and Share: No mundo da inteligência artificial, em rápida evolução, a busca por arquiteturas mais poderosas e versáteis tem …",
+    "criado": "2026-03-13T13:52:45.312691",
+    "modificado": "2026-03-13T13:52:45.312691",
+    "conexoes": [
+      {
+        "para": "6d873496fcaca2ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9208c6bf924bf64c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de43bf2a89b35d8a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a961d97b83afc209",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "95877163a42915fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50587d57729168e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee455559b1057642",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/"
+    ]
+  },
+  {
+    "id": "4a684e6469359901",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:52:45.328092",
+    "modificado": "2026-03-13T13:52:45.328092",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "824bbf635ebf5c89",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:52:45.336139",
+    "modificado": "2026-03-13T13:52:45.336139",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "2df4d3c5651e2089",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:52:45.371870",
+    "modificado": "2026-03-13T13:52:45.371870",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "8d8b700cfec3c72b",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:52:45.374504",
+    "modificado": "2026-03-13T13:52:45.374504",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "be95bd280d466b8a",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T13:53:05.125904",
+    "modificado": "2026-03-13T13:53:05.125904",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "e3103ee5adfc17fe",
+    "tipo": "memoria",
+    "conteudo": "3 dias atrás · O Machine Learning não só está mudando a maneira como processamos dados, mas também está impactando diversas áreas, …",
+    "criado": "2026-03-13T13:53:05.129168",
+    "modificado": "2026-03-13T13:53:05.129168",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "66dcaeed9aae3500",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2c48dc6217ab10e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e51a2064ba5ea306",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c0a2aa252234f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/"
+    ]
+  },
+  {
+    "id": "afedc76cfd136cfd",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T13:53:05.135974",
+    "modificado": "2026-03-13T13:53:05.135974",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "f2c942829471c2b4",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T13:53:05.136134",
+    "modificado": "2026-03-13T13:53:05.136134",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "08a8addaf13c600b",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T13:53:05.136596",
+    "modificado": "2026-03-13T13:53:05.136596",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "ccb3fb51b68cdfaa",
+    "tipo": "memoria",
+    "conteudo": "Pipelines de dados; Engenharia de atributos (feature engineering) Inteligência Artificial e Ciência de Dados: Fundamentos de IA …",
+    "criado": "2026-03-13T13:53:05.137061",
+    "modificado": "2026-03-13T13:53:05.137061",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c867e91fdb6439ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c6af2e16b33816c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72aa34c5f762902a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93ee3856349f33a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3644575fab36c3b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/"
+    ]
+  },
+  {
+    "id": "36f33ed5cf3356d0",
+    "tipo": "memoria",
+    "conteudo": "🎲 Temos uma vaga para Líder de Dados Se você é uma pessoa que busca excelência técnica, gosta de trabalhar em equipe e tem autonomia …",
+    "criado": "2026-03-13T13:53:05.137378",
+    "modificado": "2026-03-13T13:53:05.137378",
+    "conexoes": [
+      {
+        "para": "80eca338132e57cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4de7a072de368a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5ca6c4279c85af5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a9268d929859381",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58ad2edd5b99d43a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f20fa63263026d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6b2eda8d959b772",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04cbe6f799ad79e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH"
+    ]
+  },
+  {
+    "id": "9d469b145dc70de5",
+    "tipo": "memoria",
+    "conteudo": "Baixar SalvarSalvar Template Simac 2025 Nao Identificado para ler mais tarde Compartilhar 0%0% acharam este documento útil, undefined …",
+    "criado": "2026-03-13T13:53:05.137674",
+    "modificado": "2026-03-13T13:53:05.137674",
+    "conexoes": [
+      {
+        "para": "40d1a9effc985fdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a41eb404258db3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "021acf4b34f56737",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00de45459a93372c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf10ae61c4e5c95a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1dfb331049d92d9e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39f96b9ed93615b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e2a7f1d7dbf3308",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f87ff7da1428963",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado"
+    ]
+  },
+  {
+    "id": "7bbab1f99647ead1",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T13:53:05.140603",
+    "modificado": "2026-03-13T13:53:05.140603",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "f4ef38eb068b5288",
+    "tipo": "memoria",
+    "conteudo": "2 dias atrás · Entre as habilidades mais exigidas estão Python ou R, estatística avançada, machine learning, modelagem preditiva e …",
+    "criado": "2026-03-13T13:53:05.171745",
+    "modificado": "2026-03-13T13:53:05.171745",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db400185796f5c59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c9cd003a5d9db30f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a69927985dfb6f57",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7cb04a383bb07708",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "907e4867546c63ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.hashtagtreinamentos.com/area-de-dados",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.hashtagtreinamentos.com/area-de-dados"
+    ]
+  },
+  {
+    "id": "dde4546448cecf53",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T13:53:05.176942",
+    "modificado": "2026-03-13T13:53:05.176942",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "f0b8aba20cc7ec42",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T13:53:05.187075",
+    "modificado": "2026-03-13T13:53:05.187075",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "894b0e7e437570e0",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T13:53:05.194163",
+    "modificado": "2026-03-13T13:53:05.194163",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "2c78ffaf398800ea",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T13:53:05.195209",
+    "modificado": "2026-03-13T13:53:05.195209",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "8751d1198e87ac91",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T13:53:05.197772",
+    "modificado": "2026-03-13T13:53:05.197772",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "c1acd5d7667d2b14",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T13:53:05.199787",
+    "modificado": "2026-03-13T13:53:05.199787",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "c9f01e8ea7c5c932",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T13:53:05.201648",
+    "modificado": "2026-03-13T13:53:05.201648",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "4d8b827082e21969",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T13:53:05.202741",
+    "modificado": "2026-03-13T13:53:05.202741",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "5f104f10943560b0",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T13:53:05.204730",
+    "modificado": "2026-03-13T13:53:05.204730",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "561005a633d7ff51",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T13:53:05.212273",
+    "modificado": "2026-03-13T13:53:05.212273",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "b520c643345703b1",
+    "tipo": "memoria",
+    "conteudo": "11 de mai. de 2025 · Outro estudo nessa mesma linha de pensamento pesquisou a influência dos sistemas de ensino superior: “ Higher …",
+    "criado": "2026-03-13T13:53:05.220890",
+    "modificado": "2026-03-13T13:53:05.220890",
+    "conexoes": [
+      {
+        "para": "b71ad60821d97199",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "962cd01e0f693d8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fddb00e31f4bf00",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae2324174e3f5390",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6e01df33597a193c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "984f93997002b18d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c00a77dcd8b9590d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d16a4f6ff613616a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/"
+    ]
+  },
+  {
+    "id": "595a54b32de6292d",
+    "tipo": "memoria",
+    "conteudo": "No machine learning, o algoritmo passa a construir representações internas a partir dos dados fornecidos, permitindo adaptação a …",
+    "criado": "2026-03-13T13:53:05.224496",
+    "modificado": "2026-03-13T13:53:05.224496",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8018228e0f56024b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "570edd12713fa549",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "166e980673b16fe9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf377698bf067fbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "933ad991b15b3386",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6231c013fb7dbab4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "20a8e0622097caaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios"
+    ]
+  },
+  {
+    "id": "52ff68c17c60d002",
+    "tipo": "memoria",
+    "conteudo": "Em aplicações odontológicas, segmentar regiões suspeitas pode reduzir interferências de estruturas não relevantes e contribuir para a …",
+    "criado": "2026-03-13T13:53:05.232201",
+    "modificado": "2026-03-13T13:53:05.232201",
+    "conexoes": [
+      {
+        "para": "565d4af7298af0f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "62ff339aec28f24e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8888dfdd54b3f720",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d8f1bbed69cfb5f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26384f277ac60310",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09843a523930571a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4e64eeb9946134a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3ef771cbd1dddd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4423566418f74f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf"
+    ]
+  },
+  {
+    "id": "0cb750703da4dc05",
+    "tipo": "memoria",
+    "conteudo": "- Outros tipos de aprendizado: por reforço (reinforcement learning), não supervisionado, bayesianno e por explicações (explanation …",
+    "criado": "2026-03-13T13:53:05.245224",
+    "modificado": "2026-03-13T13:53:05.245224",
+    "conexoes": [
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf3b54f3565b83c6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c8ec97b38b227f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5befcafa9b362377",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b9ab5b777be323c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em"
+    ]
+  },
+  {
+    "id": "c820c7e77b85accd",
+    "tipo": "memoria",
+    "conteudo": "13 de mar. de 2025 · as bibliotecas. O investimento em aprendizado profundo e técnicas avançadas de machine learning …",
+    "criado": "2026-03-13T13:53:05.246139",
+    "modificado": "2026-03-13T13:53:05.246139",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eaff3864ab741fb3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d3c6419ed5105179",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdc71bbb9f63cc0e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833"
+    ]
+  },
+  {
+    "id": "a810ad3ef1bb9596",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T13:53:05.308403",
+    "modificado": "2026-03-13T13:53:05.308403",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "08b1d318cb01f90b",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T13:53:05.313300",
+    "modificado": "2026-03-13T13:53:05.313300",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "d36824ad8095ceb8",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T13:53:05.314411",
+    "modificado": "2026-03-13T13:53:05.314411",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "e31422d60080237b",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T13:53:05.315494",
+    "modificado": "2026-03-13T13:53:05.315494",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "2b869ed2b0535e57",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T13:53:05.333915",
+    "modificado": "2026-03-13T13:53:05.333915",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "00e5660e68e9527a",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:53:27.133087",
+    "modificado": "2026-03-13T13:53:27.133087",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "07384d5630fba478",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:53:27.149654",
+    "modificado": "2026-03-13T13:53:27.149654",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "7b5c02e2d4e8fb7c",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:53:27.150140",
+    "modificado": "2026-03-13T13:53:27.150140",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "7a1d91009209541a",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:53:27.150446",
+    "modificado": "2026-03-13T13:53:27.150446",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "322421179cd6964e",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:53:27.150683",
+    "modificado": "2026-03-13T13:53:27.150683",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "a61d1b827cef3da4",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:53:27.150839",
+    "modificado": "2026-03-13T13:53:27.150839",
+    "conexoes": [
+      {
+        "para": "f15235433f0b9b07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "adb3c71705ef4378",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:53:27.150989",
+    "modificado": "2026-03-13T13:53:27.150989",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "73a0b0940a5a9896",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:53:27.151855",
+    "modificado": "2026-03-13T13:53:27.151855",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "088227ac3210fddd",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:53:27.195354",
+    "modificado": "2026-03-13T13:53:27.195354",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "a05a1599c591b252",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:53:27.222648",
+    "modificado": "2026-03-13T13:53:27.222648",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "75bfe1be8dbb89f4",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:53:27.239617",
+    "modificado": "2026-03-13T13:53:27.239617",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "9a821616635c26e2",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:53:27.240313",
+    "modificado": "2026-03-13T13:53:27.240313",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "7315770eaba9b62e",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:53:27.272248",
+    "modificado": "2026-03-13T13:53:27.272248",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "e7a3bbe3d3fc9d46",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:53:27.279555",
+    "modificado": "2026-03-13T13:53:27.279555",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "25e01d7721ad84d8",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:53:27.287157",
+    "modificado": "2026-03-13T13:53:27.287157",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "ccf97537a3348fac",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T13:53:27.345893",
+    "modificado": "2026-03-13T13:53:27.345893",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "f9c1b701ac1a48de",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T13:53:27.387322",
+    "modificado": "2026-03-13T13:53:27.387322",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "a92d713648bb9a55",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T13:53:27.399309",
+    "modificado": "2026-03-13T13:53:27.399309",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "19d39e30db286e28",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T13:53:27.401561",
+    "modificado": "2026-03-13T13:53:27.401561",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "fe4cf4e3b5dd5ae6",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T13:53:27.462117",
+    "modificado": "2026-03-13T13:53:27.462117",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
   }
 ]
