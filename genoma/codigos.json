@@ -1444,5 +1444,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "706cd23e229eb7e7",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: modelos transformers GPT",
+    "criado": "2026-03-13T14:05:14.218589",
+    "modificado": "2026-03-13T14:05:14.218589",
+    "conexoes": [
+      {
+        "para": "f578bbfdb2fbf845",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "mod_a0fc032d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "f578bbfdb2fbf845",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "37a299f382f02f67",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T14:05:16.007643",
+    "modificado": "2026-03-13T14:05:16.007643",
+    "conexoes": [
+      {
+        "para": "f981a5b349a144e6",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "f981a5b349a144e6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "2596fe8e835958ea",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: visao computacional CNN",
+    "criado": "2026-03-13T14:05:17.885178",
+    "modificado": "2026-03-13T14:05:17.885178",
+    "conexoes": [
+      {
+        "para": "ff077b67de701a2f",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "arquivo": "mod_e472f55c_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "ff077b67de701a2f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
