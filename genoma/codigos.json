@@ -128,5 +128,31 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "14da38da52e5c19b",
+    "tipo": "codigo",
+    "conteudo": "Modulo generico: inteligencia artificial explicavel",
+    "criado": "2026-03-13T13:44:08.419245",
+    "modificado": "2026-03-13T13:44:08.419245",
+    "conexoes": [
+      {
+        "para": "5bf4fef128ea8331",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "arquivo": "modulo_dafefd_generico.py",
+      "tipo": "generico",
+      "linhas": 28
+    },
+    "origem": "5bf4fef128ea8331",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
