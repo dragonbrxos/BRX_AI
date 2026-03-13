@@ -44839,5 +44839,4849 @@
     "fontes": [
       "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
     ]
+  },
+  {
+    "id": "159cb74668a72f5e",
+    "tipo": "memoria",
+    "conteudo": "Esta é uma discussão imprescindível tanto para a academia quanto para os profissionais que utilizam o AG. Evidentemente, uma configuração inadequada dos operadores genéticos pode levar à convergência prematura ou a um esforço computacional elevado que inviabilizará a aplicação do AG (ver mais em 34).",
+    "criado": "2026-03-13T14:01:37.150778",
+    "modificado": "2026-03-13T14:01:37.150778",
+    "conexoes": [
+      {
+        "para": "19a800b26f4aa089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0fc947496814c98a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7abd5f60a074edf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45611d5fe1e46d2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "906d350d921f3ae9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ce2d8838d8ab56b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b849ea1287af5d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "034d6e5d0deffae0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ec515855136511b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "61fde4bf8fb0ca99",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72fa54a1ef5044e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html"
+    ]
+  },
+  {
+    "id": "deae265468e598d5",
+    "tipo": "memoria",
+    "conteudo": "8 de ago. de 2025 · Inspirados na evolução por seleção natural, os Algoritmos Genéticos oferecem uma forma inteligente de navegar …",
+    "criado": "2026-03-13T14:01:37.167200",
+    "modificado": "2026-03-13T14:01:37.167200",
+    "conexoes": [
+      {
+        "para": "015391fccb9862f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "74c535c7a5b2c238",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c8db9190186150e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f835750971bc7f24",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.datageeks.com.br/algoritmos-geneticos/"
+    ]
+  },
+  {
+    "id": "a470bc2977c26630",
+    "tipo": "memoria",
+    "conteudo": "Algoritmos Genéticos (Gas-Genetic Algorithms) constituem uma técnica de busca e otimização, altamente paralela, inspirada no princípio …",
+    "criado": "2026-03-13T14:01:37.167349",
+    "modificado": "2026-03-13T14:01:37.167349",
+    "conexoes": [
+      {
+        "para": "a863c48f29e989cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f05e8b50d573a0fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d649c5fab35a5435",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39ad1292679bf364",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40520c826ab84c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b41d735ab10a6ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "275b1e2e4a7f9ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf"
+    ]
+  },
+  {
+    "id": "227e4e1875d2f02d",
+    "tipo": "memoria",
+    "conteudo": "Descubra tudo sobre algoritmos genéticos, desde sua invenção até suas aplicações em inteligência artificial e otimização. Aprenda …",
+    "criado": "2026-03-13T14:01:37.169952",
+    "modificado": "2026-03-13T14:01:37.169952",
+    "conexoes": [
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c420f231228619b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72e9c4263ce1d7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263"
+    ]
+  },
+  {
+    "id": "7e870f609474e36f",
+    "tipo": "memoria",
+    "conteudo": "Um algoritmo genético (AG) é uma técnica de busca utilizada na ciência da computação e em investigação operacional para achar soluções …",
+    "criado": "2026-03-13T14:01:37.170162",
+    "modificado": "2026-03-13T14:01:37.170162",
+    "conexoes": [
+      {
+        "para": "bffdbc0882976c2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1681987de19ee9b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33795381101b8529",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea9f19317791d4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético"
+    ]
+  },
+  {
+    "id": "902ff8f099159312",
+    "tipo": "memoria",
+    "conteudo": "Serão analisados os principais aspectos e características da Computação Evolucionária e dos Algoritmos Genéticos (AGs) que os fazem …",
+    "criado": "2026-03-13T14:01:37.170308",
+    "modificado": "2026-03-13T14:01:37.170308",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ce97b3a93d4d4ce7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e724c76bf578d37",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9961c5483ef8296",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "628a2c95c083a52a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://sites.icmc.usp.br/andre/research/genetic/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sites.icmc.usp.br/andre/research/genetic/"
+    ]
+  },
+  {
+    "id": "a7f6bf6090f2bb92",
+    "tipo": "memoria",
+    "conteudo": "algoritmo genético é um método de otimização bio insperado, desenvolvida por John Henry Holland em 1975. Segundo a teoria …",
+    "criado": "2026-03-13T14:01:37.170444",
+    "modificado": "2026-03-13T14:01:37.170444",
+    "conexoes": [
+      {
+        "para": "c5e4c35aafb3cb7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2b92c6760ee57ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3d1c767d52cb3e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e396b1285107e19d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2b4509f281d8ff91",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c95f8a32f5677a9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b961de291977f513",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6e4c72dcd264c89",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf"
+    ]
+  },
+  {
+    "id": "bcfac56c7c994bae",
+    "tipo": "memoria",
+    "conteudo": "6 dias atrás · About Algoritmo genético para otimização e maximização de funções matemáticas, utilizando técnicas de seleção …",
+    "criado": "2026-03-13T14:01:37.170537",
+    "modificado": "2026-03-13T14:01:37.170537",
+    "conexoes": [
+      {
+        "para": "c6b2d283fe1e98d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3bd7680ba1249912",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad89d24b74ab9d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9766fe0129c370fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52715e09d249a534",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "be84cfa12ec06a86",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "baeaa26ae4fbd9ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao",
+      "fonte": "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer"
+    ]
+  },
+  {
+    "id": "d4bd77b844807fb4",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:01:37.311219",
+    "modificado": "2026-03-13T14:01:37.311219",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "f69f00ac0cfd0057",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:01:37.398786",
+    "modificado": "2026-03-13T14:01:37.398786",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "3ad50635667d1c09",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:01:37.409154",
+    "modificado": "2026-03-13T14:01:37.409154",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "eda132f7a9fdc4b4",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:01:37.434648",
+    "modificado": "2026-03-13T14:01:37.434648",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "22d8e267cd643334",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:01:37.449467",
+    "modificado": "2026-03-13T14:01:37.449467",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao fundamentos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "e0d591211a4d7602",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:01:37.453926",
+    "modificado": "2026-03-13T14:01:37.453926",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "1ce953026776668b",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:01:37.483041",
+    "modificado": "2026-03-13T14:01:37.483041",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "381793ff235cbbaf",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:01:37.495002",
+    "modificado": "2026-03-13T14:01:37.495002",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "aab35d1a768bcc8b",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:01:37.522633",
+    "modificado": "2026-03-13T14:01:37.522633",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "4ba86bcd9ffc9d54",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:01:37.587580",
+    "modificado": "2026-03-13T14:01:37.587580",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao aplicacoes",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "9de5b72dcdd70ce6",
+    "tipo": "memoria",
+    "conteudo": "Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser aplicados a …",
+    "criado": "2026-03-13T14:01:37.596331",
+    "modificado": "2026-03-13T14:01:37.596331",
+    "conexoes": [
+      {
+        "para": "3d3f7eccbeb598bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e7196b7e43b32b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f5eb694be71919b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04c22c8406e613da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b355b6accf4af9c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cd6a409018069d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3bdd79c1dbe4f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.significados.com.br/algoritmo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/algoritmo/"
+    ]
+  },
+  {
+    "id": "60a2b57a71e88d2b",
+    "tipo": "memoria",
+    "conteudo": "A seguir, você vai entender melhor como os algoritmos funcionam, quais os tipos existentes, a importância deles e onde estão presentes no …",
+    "criado": "2026-03-13T14:01:37.651836",
+    "modificado": "2026-03-13T14:01:37.651836",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae862eefa04d1404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2fbf929fa3298a0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6b400e3019833a08",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4734317d773a1761",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3046adb8da9c923c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "39bbfa4aad6b4a96",
+    "tipo": "memoria",
+    "conteudo": "8 de nov. de 2024 · Os algoritmos são muito utilizados a área de programação, descrevendo as etapas que precisam ser efetuadas para …",
+    "criado": "2026-03-13T14:01:37.654848",
+    "modificado": "2026-03-13T14:01:37.654848",
+    "conexoes": [
+      {
+        "para": "73131887d333b4f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa40c8513a8e926a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0109152db925d63f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd7073461502400d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2aa59e8389dfdeba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8838bc48616ca38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm"
+    ]
+  },
+  {
+    "id": "da07b9f719af43ea",
+    "tipo": "memoria",
+    "conteudo": "A análise de algoritmos é um ramo da ciência da computação que estuda as técnicas de projeto de algoritmos e os algoritmos de forma …",
+    "criado": "2026-03-13T14:01:37.675316",
+    "modificado": "2026-03-13T14:01:37.675316",
+    "conexoes": [
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Algoritmo",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Algoritmo"
+    ]
+  },
+  {
+    "id": "93a71aa0099bd15c",
+    "tipo": "memoria",
+    "conteudo": "2 de dez. de 2025 · Os algoritmos servem para organizar informações, tomar decisões e automatizar processos. Eles ajudam a …",
+    "criado": "2026-03-13T14:01:37.678004",
+    "modificado": "2026-03-13T14:01:37.678004",
+    "conexoes": [
+      {
+        "para": "a5d2ca4f1e2baee3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7c5ebad6176fea9c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3d7a01b06529fad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a0af8027fba89d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51495a317892687a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "subtopico": "algoritmos geneticos otimizacao algoritmos",
+      "fonte": "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "e2d16933e597e597",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:01:37.817385",
+    "modificado": "2026-03-13T14:01:37.817385",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "7edcf11773957d17",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:01:37.821744",
+    "modificado": "2026-03-13T14:01:37.821744",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "67dfad3c815dfb50",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:01:37.829306",
+    "modificado": "2026-03-13T14:01:37.829306",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "1d4f834fa6c563a8",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:01:37.829595",
+    "modificado": "2026-03-13T14:01:37.829595",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "99f6e9f0697c6f76",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:01:37.829758",
+    "modificado": "2026-03-13T14:01:37.829758",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "492f84fdc878c2b7",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:01:37.829946",
+    "modificado": "2026-03-13T14:01:37.829946",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "c91d59c54c3cd1b8",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:01:37.830072",
+    "modificado": "2026-03-13T14:01:37.830072",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "b072644f4cb2c1c4",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:01:37.830245",
+    "modificado": "2026-03-13T14:01:37.830245",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "924eb04a993f556f",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:01:37.852590",
+    "modificado": "2026-03-13T14:01:37.852590",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "32836a0d5e78be6d",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:01:37.862098",
+    "modificado": "2026-03-13T14:01:37.862098",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "d2e7919b5706039e",
+    "tipo": "memoria",
+    "conteudo": "Pipelines de dados; Engenharia de atributos (feature engineering) Inteligência Artificial e Ciência de Dados: Fundamentos de IA …",
+    "criado": "2026-03-13T14:01:37.882929",
+    "modificado": "2026-03-13T14:01:37.882929",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c867e91fdb6439ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c6af2e16b33816c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72aa34c5f762902a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93ee3856349f33a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3644575fab36c3b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/"
+    ]
+  },
+  {
+    "id": "1e0dc22e7cf595cb",
+    "tipo": "memoria",
+    "conteudo": "Baixar SalvarSalvar Template Simac 2025 Nao Identificado para ler mais tarde Compartilhar 0%0% acharam este documento útil, undefined …",
+    "criado": "2026-03-13T14:01:37.883126",
+    "modificado": "2026-03-13T14:01:37.883126",
+    "conexoes": [
+      {
+        "para": "40d1a9effc985fdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a41eb404258db3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "021acf4b34f56737",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00de45459a93372c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf10ae61c4e5c95a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1dfb331049d92d9e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39f96b9ed93615b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e2a7f1d7dbf3308",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f87ff7da1428963",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado"
+    ]
+  },
+  {
+    "id": "bb46a2678fd17312",
+    "tipo": "memoria",
+    "conteudo": "🎲 Temos uma vaga para Líder de Dados Se você é uma pessoa que busca excelência técnica, gosta de trabalhar em equipe e tem autonomia …",
+    "criado": "2026-03-13T14:01:37.883309",
+    "modificado": "2026-03-13T14:01:37.883309",
+    "conexoes": [
+      {
+        "para": "80eca338132e57cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4de7a072de368a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5ca6c4279c85af5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a9268d929859381",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58ad2edd5b99d43a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f20fa63263026d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6b2eda8d959b772",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04cbe6f799ad79e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH"
+    ]
+  },
+  {
+    "id": "2c1a9c2ff7b43c67",
+    "tipo": "memoria",
+    "conteudo": "3 dias atrás · O Machine Learning não só está mudando a maneira como processamos dados, mas também está impactando diversas áreas, …",
+    "criado": "2026-03-13T14:01:37.893584",
+    "modificado": "2026-03-13T14:01:37.893584",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "66dcaeed9aae3500",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2c48dc6217ab10e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e51a2064ba5ea306",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c0a2aa252234f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/"
+    ]
+  },
+  {
+    "id": "e071075bb85d2f20",
+    "tipo": "memoria",
+    "conteudo": "2 dias atrás · Entre as habilidades mais exigidas estão Python ou R, estatística avançada, machine learning, modelagem preditiva e …",
+    "criado": "2026-03-13T14:01:37.902801",
+    "modificado": "2026-03-13T14:01:37.902801",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db400185796f5c59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c9cd003a5d9db30f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a69927985dfb6f57",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7cb04a383bb07708",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "907e4867546c63ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.hashtagtreinamentos.com/area-de-dados",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.hashtagtreinamentos.com/area-de-dados"
+    ]
+  },
+  {
+    "id": "2275288b86298579",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:01:37.905408",
+    "modificado": "2026-03-13T14:01:37.905408",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "03d19ec9df04e38d",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:01:37.909743",
+    "modificado": "2026-03-13T14:01:37.909743",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "0fc1e471d2bb259b",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:01:37.933078",
+    "modificado": "2026-03-13T14:01:37.933078",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "86f95023a0726615",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:01:37.950172",
+    "modificado": "2026-03-13T14:01:37.950172",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "3422fdba313b3f8e",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:01:37.952786",
+    "modificado": "2026-03-13T14:01:37.952786",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "4e41a0446c4dfc12",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:01:37.976020",
+    "modificado": "2026-03-13T14:01:37.976020",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "39f94140cc14bcfa",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:01:38.019474",
+    "modificado": "2026-03-13T14:01:38.019474",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "f4421c59dcafbc00",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:01:38.028802",
+    "modificado": "2026-03-13T14:01:38.028802",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "e30e2d3244efa41e",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:01:38.033055",
+    "modificado": "2026-03-13T14:01:38.033055",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "474350b04be611d9",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:01:38.058073",
+    "modificado": "2026-03-13T14:01:38.058073",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "64808609cefea728",
+    "tipo": "memoria",
+    "conteudo": "11 de mai. de 2025 · Outro estudo nessa mesma linha de pensamento pesquisou a influência dos sistemas de ensino superior: “ Higher …",
+    "criado": "2026-03-13T14:01:38.067227",
+    "modificado": "2026-03-13T14:01:38.067227",
+    "conexoes": [
+      {
+        "para": "b71ad60821d97199",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "962cd01e0f693d8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fddb00e31f4bf00",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae2324174e3f5390",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6e01df33597a193c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "984f93997002b18d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c00a77dcd8b9590d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d16a4f6ff613616a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/"
+    ]
+  },
+  {
+    "id": "2af53194e185d766",
+    "tipo": "memoria",
+    "conteudo": "No machine learning, o algoritmo passa a construir representações internas a partir dos dados fornecidos, permitindo adaptação a …",
+    "criado": "2026-03-13T14:01:38.102782",
+    "modificado": "2026-03-13T14:01:38.102782",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8018228e0f56024b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "570edd12713fa549",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "166e980673b16fe9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf377698bf067fbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "933ad991b15b3386",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6231c013fb7dbab4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "20a8e0622097caaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios"
+    ]
+  },
+  {
+    "id": "8c660dfb7342a6d5",
+    "tipo": "memoria",
+    "conteudo": "Em aplicações odontológicas, segmentar regiões suspeitas pode reduzir interferências de estruturas não relevantes e contribuir para a …",
+    "criado": "2026-03-13T14:01:38.139154",
+    "modificado": "2026-03-13T14:01:38.139154",
+    "conexoes": [
+      {
+        "para": "565d4af7298af0f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "62ff339aec28f24e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8888dfdd54b3f720",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d8f1bbed69cfb5f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26384f277ac60310",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09843a523930571a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4e64eeb9946134a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3ef771cbd1dddd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4423566418f74f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf"
+    ]
+  },
+  {
+    "id": "89599c0bd2d71c19",
+    "tipo": "memoria",
+    "conteudo": "- Outros tipos de aprendizado: por reforço (reinforcement learning), não supervisionado, bayesianno e por explicações (explanation …",
+    "criado": "2026-03-13T14:01:38.157246",
+    "modificado": "2026-03-13T14:01:38.157246",
+    "conexoes": [
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf3b54f3565b83c6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c8ec97b38b227f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5befcafa9b362377",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b9ab5b777be323c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em"
+    ]
+  },
+  {
+    "id": "374f561333c69404",
+    "tipo": "memoria",
+    "conteudo": "13 de mar. de 2025 · as bibliotecas. O investimento em aprendizado profundo e técnicas avançadas de machine learning …",
+    "criado": "2026-03-13T14:01:38.157545",
+    "modificado": "2026-03-13T14:01:38.157545",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eaff3864ab741fb3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d3c6419ed5105179",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdc71bbb9f63cc0e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833"
+    ]
+  },
+  {
+    "id": "6a6b10346e89e684",
+    "tipo": "memoria",
+    "conteudo": "A Inteligência Artificial Generativa é um ramo da inteligência artificial projetado para criar conteúdos, como textos, áudios, imagens, vídeos e até códigos de software.",
+    "criado": "2026-03-13T14:01:52.524542",
+    "modificado": "2026-03-13T14:01:52.524542",
+    "conexoes": [
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6fd5fdd923205e23",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c6b67d117ceca91",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
+    ]
+  },
+  {
+    "id": "1147694ebd7a3e06",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial generativa (IA generativa) é um tipo de IA que pode criar novos conteúdos e ideias, incluindo conversas, histórias, imagens, vídeos e músicas.",
+    "criado": "2026-03-13T14:01:52.536543",
+    "modificado": "2026-03-13T14:01:52.536543",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40d5a991b1d268e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "2d1565ef9d04a909",
+    "tipo": "memoria",
+    "conteudo": "Um sistema de IA generativo é construído aplicando aprendizado de máquina não supervisionado ou autossupervisionado a um conjunto de dados. As capacidades e aplicações de um sistema de IA …",
+    "criado": "2026-03-13T14:01:52.536754",
+    "modificado": "2026-03-13T14:01:52.536754",
+    "conexoes": [
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7001ce88e431ce7c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "033934386ec91def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "e8292a17ce5747d3",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:01:52.536970",
+    "modificado": "2026-03-13T14:01:52.536970",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "fdacdacbca0d6cf7",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:01:52.537116",
+    "modificado": "2026-03-13T14:01:52.537116",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "78d440d0d729ddaa",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:01:52.537239",
+    "modificado": "2026-03-13T14:01:52.537239",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "f83a3c90cdd95f4b",
+    "tipo": "memoria",
+    "conteudo": "O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode criar conteúdo original, como texto, imagens, vídeo, áudio ou código de software, em resposta …",
+    "criado": "2026-03-13T14:01:52.537356",
+    "modificado": "2026-03-13T14:01:52.537356",
+    "conexoes": [
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f6eb4b8796f61dc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "a9514160e3e2568a",
+    "tipo": "memoria",
+    "conteudo": "1 dia atrás · Diferenças entre IA preditiva e generativa Com a tecnologia tão presente, cresce a dúvida sobre como adotar esse tipo de ferramenta nas empresas, já que nem toda inteligência artificial é ...",
+    "criado": "2026-03-13T14:01:52.537501",
+    "modificado": "2026-03-13T14:01:52.537501",
+    "conexoes": [
+      {
+        "para": "112c740645cd8fd5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c932178da988098",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "82ef5a82a1df00e0",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:01:52.765771",
+    "modificado": "2026-03-13T14:01:52.765771",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "fa016e7848ed1ce6",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:01:52.786021",
+    "modificado": "2026-03-13T14:01:52.786021",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "f11a51c9ee39771d",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:01:52.801563",
+    "modificado": "2026-03-13T14:01:52.801563",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "949d8eaa23fb70b4",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:01:52.806527",
+    "modificado": "2026-03-13T14:01:52.806527",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "a9492771c3ac98ee",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:01:52.806651",
+    "modificado": "2026-03-13T14:01:52.806651",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "41302c46b8a2a861",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:01:52.932311",
+    "modificado": "2026-03-13T14:01:52.932311",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "50c4d8d772f72ee5",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:01:52.934536",
+    "modificado": "2026-03-13T14:01:52.934536",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "aa823fed6791c4d8",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:01:52.934935",
+    "modificado": "2026-03-13T14:01:52.934935",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "c1a40836bcc56f81",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:01:52.957739",
+    "modificado": "2026-03-13T14:01:52.957739",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "8ae5f3fb4bab411f",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:01:52.976090",
+    "modificado": "2026-03-13T14:01:52.976090",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "51930e7ccb1c77c8",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:01:52.996432",
+    "modificado": "2026-03-13T14:01:52.996432",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "da3e0cd95389788c",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:01:53.001348",
+    "modificado": "2026-03-13T14:01:53.001348",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
   }
 ]
