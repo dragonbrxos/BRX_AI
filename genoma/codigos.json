@@ -949,5 +949,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "06d16174290b8d16",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: etica IA responsavel",
+    "criado": "2026-03-13T14:01:01.403987",
+    "modificado": "2026-03-13T14:01:01.403987",
+    "conexoes": [
+      {
+        "para": "01cc47df2ffc141c",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "arquivo": "mod_d00abbfe_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "01cc47df2ffc141c",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "df8b2d05002b6a0a",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: processamento linguagem natural BERT",
+    "criado": "2026-03-13T14:01:01.919770",
+    "modificado": "2026-03-13T14:01:01.919770",
+    "conexoes": [
+      {
+        "para": "1ca342a3e083c824",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "arquivo": "mod_6e458fcc_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "1ca342a3e083c824",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "884985a58356618e",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: redes neurais recorrentes LSTM",
+    "criado": "2026-03-13T14:01:02.669121",
+    "modificado": "2026-03-13T14:01:02.669121",
+    "conexoes": [
+      {
+        "para": "05233a9fd9f3545e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "arquivo": "mod_d604f74b_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "05233a9fd9f3545e",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
