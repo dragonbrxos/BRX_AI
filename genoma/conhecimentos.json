@@ -3576,5 +3576,219 @@
       "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
       "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
     ]
+  },
+  {
+    "id": "13cc63b248f1f42e",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: aprendizado por reforco\n\nEvolucao: ## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos cha......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 10 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:04:31.802441",
+    "modificado": "2026-03-13T14:04:33.117168",
+    "conexoes": [
+      {
+        "para": "39663b2befa72524",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "aprendizado por reforco",
+        "aprendizado por reforco aplicacoes",
+        "aprendizado por reforco fundamentos",
+        "aprendizado por reforco algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: aprendizado por reforco",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:04:33.116828",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:33.116948",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 10 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:33.117022",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: aprendizado por reforco\n\nEvolucao: ## Analise Estrutural: aprendizado por reforco\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 229 conexoes\n\nTermos cha...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:33.117098",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: aprendizado por reforco\n\nEvolucao: ## Analise Relacional (v2): aprendizado por reforco\n\nDensidade: 11.4 conexoes/celula\nClusters identificados:\n\n\nFontes: 10 referencias...\n\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:33.117159",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "https://www.significados.com.br/aprendizagem/",
+      "https://www.dicio.com.br/aprendizado/",
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "a337d5446694bb8e",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: inteligencia artificial generativa\n\nEvolucao: ## Sintese Consolidada v3: inteligencia artificial generativa\n\nEvolucao: ## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 22......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 10 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:04:33.119155",
+    "modificado": "2026-03-13T14:04:34.220525",
+    "conexoes": [
+      {
+        "para": "bd568b31952780d9",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "inteligencia artificial generativa fundamentos",
+        "inteligencia artificial generativa",
+        "inteligencia artificial generativa aplicacoes",
+        "inteligencia artificial generativa algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: inteligencia artificial generativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:04:34.219863",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 222 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:34.220082",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): inteligencia artificial generativa\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n\n\nFontes: 10 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:34.220224",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: inteligencia artificial generativa\n\nEvolucao: ## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 22...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:34.220365",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: inteligencia artificial generativa\n\nEvolucao: ## Analise Relacional (v2): inteligencia artificial generativa\n\nDensidade: 11.1 conexoes/celula\nClusters identificados:\n\n\nFonte...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:34.220505",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "https://openai.com/pt-BR/",
+      "https://pt.wikipedia.org/wiki/Inteligência",
+      "https://www.dicio.com.br/inteligencia/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "f85ae8d342ff3873",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: visao computacional CNN\n\nEvolucao: ## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos cha......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:04:34.223764",
+    "modificado": "2026-03-13T14:04:35.219071",
+    "conexoes": [
+      {
+        "para": "64fbe26abbecba2e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "visao computacional CNN",
+        "visao computacional CNN aplicacoes",
+        "visao computacional CNN algoritmos",
+        "visao computacional CNN fundamentos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: visao computacional CNN",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:04:35.218771",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:35.218887",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 11.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:04:35.218954",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos cha...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:35.219009",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: visao computacional CNN\n\nEvolucao: ## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 11.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n\nC...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:04:35.219062",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "https://www.todamateria.com.br/visao/",
+      "https://pt.wikipedia.org/wiki/Visão",
+      "https://www.dicio.com.br/visao/"
+    ]
   }
 ]
