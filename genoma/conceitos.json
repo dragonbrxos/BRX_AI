@@ -3121,6 +3121,11 @@
         "para": "0d487f1293d46246",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -3134,7 +3139,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.datacamp.com/pt/blog/what-is-computer-vision"
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision",
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
     ]
   },
   {
@@ -3713,6 +3719,16 @@
         "para": "e133acfa4480895c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -3726,7 +3742,9 @@
     "profundidade": 0,
     "fontes": [
       "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
-      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
     ]
   },
   {
@@ -4155,6 +4173,532 @@
     "profundidade": 0,
     "fontes": [
       "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
+  },
+  {
+    "id": "86c42e152199a36b",
+    "tipo": "conceito",
+    "conteudo": "dados",
+    "criado": "2026-03-13T13:42:22.191030",
+    "modificado": "2026-03-13T13:42:22.191030",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "ff092c5dde25c7b9",
+    "tipo": "conceito",
+    "conteudo": "assinala",
+    "criado": "2026-03-13T13:42:22.191230",
+    "modificado": "2026-03-13T13:42:22.191230",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "bf82e60efec59100",
+    "tipo": "conceito",
+    "conteudo": "automóveis",
+    "criado": "2026-03-13T13:42:22.191471",
+    "modificado": "2026-03-13T13:42:22.191471",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "e9da6466f16f5c8f",
+    "tipo": "conceito",
+    "conteudo": "funcionamento",
+    "criado": "2026-03-13T13:42:22.191681",
+    "modificado": "2026-03-13T13:42:22.191681",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "03615111df9aa97b",
+    "tipo": "conceito",
+    "conteudo": "padrões",
+    "criado": "2026-03-13T13:42:22.192007",
+    "modificado": "2026-03-13T13:42:22.192007",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "3eaa7a0756915e80",
+    "tipo": "conceito",
+    "conteudo": "explora",
+    "criado": "2026-03-13T13:42:22.192266",
+    "modificado": "2026-03-13T13:42:22.192266",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "c643c7137409bbb7",
+    "tipo": "conceito",
+    "conteudo": "personalizada",
+    "criado": "2026-03-13T13:42:22.192516",
+    "modificado": "2026-03-13T13:42:22.192516",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "08215e2d493cf6ce",
+    "tipo": "conceito",
+    "conteudo": "descobre",
+    "criado": "2026-03-13T13:42:22.192805",
+    "modificado": "2026-03-13T13:42:22.192805",
+    "conexoes": [
+      {
+        "para": "820f54220d72f3d4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "81c3aad4736b1f95",
+    "tipo": "conceito",
+    "conteudo": "ainda",
+    "criado": "2026-03-13T13:42:22.293432",
+    "modificado": "2026-03-13T13:42:22.293432",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "370131d6a76a6a5e",
+    "tipo": "conceito",
+    "conteudo": "completamente",
+    "criado": "2026-03-13T13:42:22.293662",
+    "modificado": "2026-03-13T13:42:22.293662",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "86bac5746684e517",
+    "tipo": "conceito",
+    "conteudo": "capturar",
+    "criado": "2026-03-13T13:42:22.294148",
+    "modificado": "2026-03-13T13:42:22.294148",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "6cf41f4e74526e6c",
+    "tipo": "conceito",
+    "conteudo": "hierarquicamente",
+    "criado": "2026-03-13T13:42:22.294365",
+    "modificado": "2026-03-13T13:42:22.294365",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "725ecab119cc703e",
+    "tipo": "conceito",
+    "conteudo": "construção",
+    "criado": "2026-03-13T13:42:22.294575",
+    "modificado": "2026-03-13T13:42:22.294575",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "1da6100f52bffa0a",
+    "tipo": "conceito",
+    "conteudo": "limitações",
+    "criado": "2026-03-13T13:42:22.294961",
+    "modificado": "2026-03-13T13:42:22.294961",
+    "conexoes": [
+      {
+        "para": "aa1c21f7c20f6085",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "45b2f45ad0b48a77",
+    "tipo": "conceito",
+    "conteudo": "desempenho",
+    "criado": "2026-03-13T13:42:22.396816",
+    "modificado": "2026-03-13T13:42:22.396816",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "2f308f1d75da8823",
+    "tipo": "conceito",
+    "conteudo": "potencial",
+    "criado": "2026-03-13T13:42:22.397068",
+    "modificado": "2026-03-13T13:42:22.397068",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "6a4b93f2cacde656",
+    "tipo": "conceito",
+    "conteudo": "níveis",
+    "criado": "2026-03-13T13:42:22.397530",
+    "modificado": "2026-03-13T13:42:22.397530",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "284f30024bb6b90f",
+    "tipo": "conceito",
+    "conteudo": "mostrou",
+    "criado": "2026-03-13T13:42:22.397901",
+    "modificado": "2026-03-13T13:42:22.397901",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "9603e18be72f55e3",
+    "tipo": "conceito",
+    "conteudo": "desafios",
+    "criado": "2026-03-13T13:42:22.398487",
+    "modificado": "2026-03-13T13:42:22.398487",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
+  },
+  {
+    "id": "bd07a7369ca84cd4",
+    "tipo": "conceito",
+    "conteudo": "grande",
+    "criado": "2026-03-13T13:42:22.398697",
+    "modificado": "2026-03-13T13:42:22.398697",
+    "conexoes": [
+      {
+        "para": "e138a9632ce924a8",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
     ]
   }
 ]
