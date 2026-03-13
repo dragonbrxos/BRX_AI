@@ -1117,5 +1117,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "fbe78616cd09e128",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: transformers processamento linguagem",
+    "criado": "2026-03-13T14:02:27.827795",
+    "modificado": "2026-03-13T14:02:27.827795",
+    "conexoes": [
+      {
+        "para": "7d18277c6bf0a665",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "arquivo": "mod_13e2f205_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "7d18277c6bf0a665",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "eb797c0652dcea19",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T14:02:28.552412",
+    "modificado": "2026-03-13T14:02:28.552412",
+    "conexoes": [
+      {
+        "para": "08f509cec6924043",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "08f509cec6924043",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "c9248a0689dce432",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: sistemas recomendacao colaborativa",
+    "criado": "2026-03-13T14:02:29.215781",
+    "modificado": "2026-03-13T14:02:29.215781",
+    "conexoes": [
+      {
+        "para": "2832c56de44ee484",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "arquivo": "mod_966ad913_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "2832c56de44ee484",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
