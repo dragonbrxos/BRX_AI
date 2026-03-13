@@ -419,5 +419,65 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "c658fdb0b98967bd",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'sistemas recomendacao colaborativa'. Estrutura conceitual com 38 nos e 718 conexoes. Nucleo: informação, Lattes, Centrais, inclusão, gestão, atena, grupos.",
+    "criado": "2026-03-13T13:54:24.195411",
+    "modificado": "2026-03-13T13:54:24.195411",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "arquivo": "sistemas_recomendacao_colabora_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "cd99bee9f1c51b33",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'visao computacional CNN'. Estrutura conceitual com 18 nos e 464 conexoes. Nucleo: órgãos, vista, dotados, permite, visao, oscincosentidos, brasilescola.",
+    "criado": "2026-03-13T13:54:46.091467",
+    "modificado": "2026-03-13T13:54:46.091467",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "arquivo": "visao_computacional_cnn_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "cbd9191e5fa35667",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'processamento linguagem natural BERT'. Estrutura conceitual com 43 nos e 695 conexoes. Nucleo: preparação, informações, meio, estruturadas, etapas, três, unifica.",
+    "criado": "2026-03-13T13:55:07.051206",
+    "modificado": "2026-03-13T13:55:07.051206",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "arquivo": "processamento_linguagem_natura_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
