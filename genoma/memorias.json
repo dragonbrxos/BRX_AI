@@ -24038,5 +24038,4795 @@
     "fontes": [
       "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
     ]
+  },
+  {
+    "id": "70d8a3eb3362e8b3",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:59:04.624955",
+    "modificado": "2026-03-13T13:59:04.624955",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "e6d3eaf32b81d03f",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:59:04.636482",
+    "modificado": "2026-03-13T13:59:04.636482",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "8939948a251de368",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:59:04.636647",
+    "modificado": "2026-03-13T13:59:04.636647",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "5efaaaa1fbd0ec08",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:59:04.636835",
+    "modificado": "2026-03-13T13:59:04.636835",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "dc48e5d79328ed0f",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:59:04.636961",
+    "modificado": "2026-03-13T13:59:04.636961",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "aacf00bc89340573",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:59:04.637139",
+    "modificado": "2026-03-13T13:59:04.637139",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "9ff0f00930775f40",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:59:04.637251",
+    "modificado": "2026-03-13T13:59:04.637251",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "5074b2f25a6504f8",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:59:04.637350",
+    "modificado": "2026-03-13T13:59:04.637350",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "0854141271b50b38",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:59:04.688808",
+    "modificado": "2026-03-13T13:59:04.688808",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "c16ebed1304bb241",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:59:04.783997",
+    "modificado": "2026-03-13T13:59:04.783997",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "2b82d34bfdf4f69e",
+    "tipo": "memoria",
+    "conteudo": "Sinônimos de Processamento no Dicionário de Sinônimos. Processamento é sinônimo de: tratamento, computação, processo, …",
+    "criado": "2026-03-13T13:59:04.800839",
+    "modificado": "2026-03-13T13:59:04.800839",
+    "conexoes": [
+      {
+        "para": "aa770e1b47831f8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3de851c7006f161",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.sinonimos.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.sinonimos.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "e4e974fdeac19f0e",
+    "tipo": "memoria",
+    "conteudo": "1. O que significa processamento? Processamento é um conceito amplo que se refere à transformação de dados, materiais ou …",
+    "criado": "2026-03-13T13:59:04.803750",
+    "modificado": "2026-03-13T13:59:04.803750",
+    "conexoes": [
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f0a76d46b1d1f2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad0cca7cdd81d85",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9475fb1e281840f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/o-que-significa-processamento/"
+    ]
+  },
+  {
+    "id": "5d3c3a34010a3dce",
+    "tipo": "memoria",
+    "conteudo": "24 de jul. de 2023 · Processamento propriamente dito: os dados são submetidos a algoritmos e instruções programadas, que realizam as …",
+    "criado": "2026-03-13T13:59:04.803856",
+    "modificado": "2026-03-13T13:59:04.803856",
+    "conexoes": [
+      {
+        "para": "d6cf53f6bf984806",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "351f3a8a8021acf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "547c40f83b80d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d1f3b15b5190ba69",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a2ae739cddecc38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6656b60906d26c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/"
+    ]
+  },
+  {
+    "id": "e32aad9b92ef0a28",
+    "tipo": "memoria",
+    "conteudo": "O processamento é um conceito fundamental em diversas áreas, incluindo tecnologia, música e design. Em termos gerais, refere-se à …",
+    "criado": "2026-03-13T13:59:04.803984",
+    "modificado": "2026-03-13T13:59:04.803984",
+    "conexoes": [
+      {
+        "para": "d1e07f4787549477",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d399bce31ca1a9e6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdcca6dafa074184",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de0831ff843ea27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+    ]
+  },
+  {
+    "id": "496021de38f7df83",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:59:04.806116",
+    "modificado": "2026-03-13T13:59:04.806116",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "6736cc7bcffb1a77",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:59:04.812319",
+    "modificado": "2026-03-13T13:59:04.812319",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "46438046cb5ecf29",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:59:04.850885",
+    "modificado": "2026-03-13T13:59:04.850885",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "ddf48d100f12f8b9",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:59:04.925563",
+    "modificado": "2026-03-13T13:59:04.925563",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "9f7ca335925a33cf",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:59:04.940438",
+    "modificado": "2026-03-13T13:59:04.940438",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "d242442aaf195fde",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T13:59:04.946450",
+    "modificado": "2026-03-13T13:59:04.946450",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "03334c3e7d1fcf21",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T13:59:04.961382",
+    "modificado": "2026-03-13T13:59:04.961382",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "4c8c83f3606b9177",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T13:59:04.984611",
+    "modificado": "2026-03-13T13:59:04.984611",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "f1cffb878467e330",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T13:59:04.994503",
+    "modificado": "2026-03-13T13:59:04.994503",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "11cb11d283e8d258",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T13:59:04.996464",
+    "modificado": "2026-03-13T13:59:04.996464",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "ed29ed33488e65d9",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:59:05.105024",
+    "modificado": "2026-03-13T13:59:05.105024",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "6a5b638fe5b40e9e",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:59:05.116338",
+    "modificado": "2026-03-13T13:59:05.116338",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "f6d74359677240a0",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:59:05.116509",
+    "modificado": "2026-03-13T13:59:05.116509",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "97a805a6f5d334ed",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:59:05.116621",
+    "modificado": "2026-03-13T13:59:05.116621",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "9db0451b6d66ca59",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:59:05.116856",
+    "modificado": "2026-03-13T13:59:05.116856",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "0c9157f0fa2940b7",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:59:05.117005",
+    "modificado": "2026-03-13T13:59:05.117005",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "efb0bf765d932d93",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:59:05.117115",
+    "modificado": "2026-03-13T13:59:05.117115",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "d81816de0a20836e",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:59:05.118620",
+    "modificado": "2026-03-13T13:59:05.118620",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "8905694d67e740c1",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:59:05.250231",
+    "modificado": "2026-03-13T13:59:05.250231",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "1d1f166dada66216",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:59:05.290091",
+    "modificado": "2026-03-13T13:59:05.290091",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa fundamentos",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "bbe93dc99c9ee69e",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:59:05.300739",
+    "modificado": "2026-03-13T13:59:05.300739",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "6d3876511229d756",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:59:05.322383",
+    "modificado": "2026-03-13T13:59:05.322383",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "8c2a49cebb3e5a43",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:59:05.326861",
+    "modificado": "2026-03-13T13:59:05.326861",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "22708395ca03605b",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:59:05.332681",
+    "modificado": "2026-03-13T13:59:05.332681",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "0e7a61b86dd4d9ed",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:59:05.342952",
+    "modificado": "2026-03-13T13:59:05.342952",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa aplicacoes",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "e0d81ac70e9e36a5",
+    "tipo": "memoria",
+    "conteudo": "Pesquisa Atena Currículo Lattes Grupos de Pesquisa Gestão da Informação de Projetos weR_USP Centrais Multiusuários Inclusão e …",
+    "criado": "2026-03-13T13:59:05.349402",
+    "modificado": "2026-03-13T13:59:05.349402",
+    "conexoes": [
+      {
+        "para": "5a39cb7824671d52",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "887611e929c7a929",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f34b5a795de6c36a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "499792eafdbe13f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e98bbc60018e685",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b207e1cef019a28e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a4cf2d33b371266a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a0da94b888021fa6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a01dc0209e4597f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://uspdigital.usp.br/pt/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/"
+    ]
+  },
+  {
+    "id": "913c34d7feb0b0ea",
+    "tipo": "memoria",
+    "conteudo": "Lista de Sistemas Consultas Consulta ao Cadastro da CVM, Processos Administrativos, Fundo 157 e Demais Regulados",
+    "criado": "2026-03-13T13:59:05.400378",
+    "modificado": "2026-03-13T13:59:05.400378",
+    "conexoes": [
+      {
+        "para": "d6065c8f8ccd2764",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "17806b91a1c5c278",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09586f66dfb159da",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dff7ba2fc9cc7e80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6180ceea5d4643f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "90f2d128dc326bb6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d96edb6f686cff88",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://sistemas.cvm.gov.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://sistemas.cvm.gov.br/"
+    ]
+  },
+  {
+    "id": "4cc386c50bc3cfb6",
+    "tipo": "memoria",
+    "conteudo": "Definição de Sistema Classe gramatical: substantivo masculino Flexão do verbo sistemar na: 3ª pessoa do singular do presente do …",
+    "criado": "2026-03-13T13:59:05.454571",
+    "modificado": "2026-03-13T13:59:05.454571",
+    "conexoes": [
+      {
+        "para": "3ec98df17f74cb0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e0cfbabd569eac4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "37c8a0622e9b0652",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40e23489e6f80659",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dd0a817c333401e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2758c1015451760",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1641e8408d09cfb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb8d3b21cb0b906b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fea99a75e991818",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://www.dicio.com.br/sistema/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "30060f78b05503fa",
+    "tipo": "memoria",
+    "conteudo": "Existem diferentes tipos de sistemas de computador, como sistemas operacionais, bancos de dados e sistemas de rede. Os …",
+    "criado": "2026-03-13T13:59:05.477042",
+    "modificado": "2026-03-13T13:59:05.477042",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ef66e33b57b00dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8f919c2a7a06310b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b7b8beddcdec530",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/"
+    ]
+  },
+  {
+    "id": "67005d27241338d1",
+    "tipo": "memoria",
+    "conteudo": "22 de abr. de 2025 · Descubra todos os tipos de sistemas de informação, seus exemplos, vantagens e principais benefícios para o seu …",
+    "criado": "2026-03-13T13:59:05.492263",
+    "modificado": "2026-03-13T13:59:05.492263",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e7014185a7a12d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "693473828f7ddead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6b8c6b4b3df5b38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eab76d6999bbadec",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "subtopico": "sistemas recomendacao colaborativa algoritmos",
+      "fonte": "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "a361e89a33f1c84a",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:59:05.583815",
+    "modificado": "2026-03-13T13:59:05.583815",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "e23406bd9837751f",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:59:05.594078",
+    "modificado": "2026-03-13T13:59:05.594078",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "378ce3f288f0852e",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:59:05.600216",
+    "modificado": "2026-03-13T13:59:05.600216",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "18d73d71741f25f3",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:59:05.600506",
+    "modificado": "2026-03-13T13:59:05.600506",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "a4d0277eea78c630",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:59:05.600609",
+    "modificado": "2026-03-13T13:59:05.600609",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "bf78aa513b86d961",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:59:05.600744",
+    "modificado": "2026-03-13T13:59:05.600744",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "739c6f376fc7a7c4",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:59:05.600894",
+    "modificado": "2026-03-13T13:59:05.600894",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "16b78f1785391d63",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:59:05.601072",
+    "modificado": "2026-03-13T13:59:05.601072",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "07cfb6a5bedc1cef",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:59:05.601169",
+    "modificado": "2026-03-13T13:59:05.601169",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "a13ebcdb0e2153f3",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:59:05.712246",
+    "modificado": "2026-03-13T13:59:05.712246",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "c7907c9f5f812fce",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:59:05.719671",
+    "modificado": "2026-03-13T13:59:05.719671",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "12d7d759dc0229f1",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:59:05.737357",
+    "modificado": "2026-03-13T13:59:05.737357",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "ab0161204de54f93",
+    "tipo": "memoria",
+    "conteudo": "Explore como os Transformers estão redefinindo os limites da Inteligência Artificial, desde o processamento de linguagem natural até …",
+    "criado": "2026-03-13T13:59:05.790385",
+    "modificado": "2026-03-13T13:59:05.790385",
+    "conexoes": [
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac677152cc680f07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "02e7d72a2b7fa6b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7adfc5e5245db042",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "50f6f74036a566a2",
+    "tipo": "memoria",
+    "conteudo": "O Processamento de Linguagem Natural, ou PLN, combina poder computacional, inteligência artificial e linguística humana para permitir …",
+    "criado": "2026-03-13T13:59:05.797739",
+    "modificado": "2026-03-13T13:59:05.797739",
+    "conexoes": [
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8acd5aace13f4cdb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4515197c59c066b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "637a402790c9374b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0bffdba92fece71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322"
+    ]
+  },
+  {
+    "id": "da42ff26b1c63df2",
+    "tipo": "memoria",
+    "conteudo": "30 de out. de 2024 · Além disso, GANs são usadas em arte, geração de imagens de alta resolução e até na criação de modelos 3D. Transformers As redes Transformers representam uma evolução significativa no campo do aprendizado de máquina, especialmente em tarefas relacionadas a processamento de linguagem natural (NLP).",
+    "criado": "2026-03-13T13:59:05.805019",
+    "modificado": "2026-03-13T13:59:05.805019",
+    "conexoes": [
+      {
+        "para": "0c87630117ed9fa2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7bc3be7fced50b4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e765a685f30e21b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f7a4d6d7620bd9a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f2eb012a19709741",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04156b75f627ea6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85a992349f561940",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f81b338d6f5b7f12",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+    ]
+  },
+  {
+    "id": "7bba193f705c4eef",
+    "tipo": "memoria",
+    "conteudo": "PPC Engenharia de Software 2024 (oficial atualizado) - 223 -",
+    "criado": "2026-03-13T13:59:05.817732",
+    "modificado": "2026-03-13T13:59:05.817732",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7be5d610be2b27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a848f2dadd8ae8b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf"
+    ]
+  },
+  {
+    "id": "f18ed5a275fbec62",
+    "tipo": "memoria",
+    "conteudo": "Save and Share: No mundo da inteligência artificial, em rápida evolução, a busca por arquiteturas mais poderosas e versáteis tem …",
+    "criado": "2026-03-13T13:59:05.819345",
+    "modificado": "2026-03-13T13:59:05.819345",
+    "conexoes": [
+      {
+        "para": "6d873496fcaca2ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9208c6bf924bf64c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de43bf2a89b35d8a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a961d97b83afc209",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "95877163a42915fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50587d57729168e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee455559b1057642",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/"
+    ]
+  },
+  {
+    "id": "68c068bfdee52594",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T13:59:05.916862",
+    "modificado": "2026-03-13T13:59:05.916862",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "658db43e8e39f0d8",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T13:59:05.921352",
+    "modificado": "2026-03-13T13:59:05.921352",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "3f56b22743602eb4",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T13:59:05.940870",
+    "modificado": "2026-03-13T13:59:05.940870",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "30231bd001ce7d33",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T13:59:05.949582",
+    "modificado": "2026-03-13T13:59:05.949582",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
   }
 ]
