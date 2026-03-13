@@ -245,5 +245,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "b6b0cd354ce13bf8",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'processamento linguagem natural': linguagem, processamento, natural, diferentes, oferece. Base: 2 obs, 8 conceitos.",
+    "criado": "2026-03-13T13:45:54.224898",
+    "modificado": "2026-03-13T13:45:54.224898",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "arquivo": "processamento_linguagem_n.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
