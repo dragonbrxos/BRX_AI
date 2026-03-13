@@ -3790,5 +3790,217 @@
       "https://pt.wikipedia.org/wiki/Visão",
       "https://www.dicio.com.br/visao/"
     ]
+  },
+  {
+    "id": "f578bbfdb2fbf845",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: modelos transformers GPT\n\nEvolucao: ## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:05:12.354650",
+    "modificado": "2026-03-13T14:05:14.217620",
+    "conexoes": [
+      {
+        "para": "706cd23e229eb7e7",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "modelos transformers GPT",
+        "modelos transformers GPT aplicacoes",
+        "modelos transformers GPT fundamentos",
+        "modelos transformers GPT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: modelos transformers GPT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:05:14.216998",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:14.217210",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:14.217344",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: modelos transformers GPT\n\nEvolucao: ## Analise Estrutural: modelos transformers GPT\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos c...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:14.217475",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: modelos transformers GPT\n\nEvolucao: ## Analise Relacional (v2): modelos transformers GPT\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:14.217600",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/",
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://www.forummodel.com.br/modelos-famosos/",
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "f981a5b349a144e6",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: algoritmos geneticos otimizacao\n\nEvolucao: ## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 13 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:05:14.220974",
+    "modificado": "2026-03-13T14:05:16.006796",
+    "conexoes": [
+      {
+        "para": "37a299f382f02f67",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "algoritmos geneticos otimizacao",
+        "algoritmos geneticos otimizacao fundamentos",
+        "algoritmos geneticos otimizacao aplicacoes",
+        "algoritmos geneticos otimizacao algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: algoritmos geneticos otimizacao",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:05:16.006126",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:16.006340",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:16.006481",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:16.006616",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:16.006774",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://www.significados.com.br/algoritmo/",
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "https://pt.wikipedia.org/wiki/Algoritmo",
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "ff077b67de701a2f",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: visao computacional CNN\n\nEvolucao: ## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos cha......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:05:16.010257",
+    "modificado": "2026-03-13T14:05:17.884694",
+    "conexoes": [
+      {
+        "para": "2596fe8e835958ea",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "visao computacional CNN algoritmos",
+        "visao computacional CNN",
+        "visao computacional CNN fundamentos",
+        "visao computacional CNN aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: visao computacional CNN",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:05:17.884393",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:17.884511",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 11.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:05:17.884577",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 224 conexoes\n\nTermos cha...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:17.884633",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: visao computacional CNN\n\nEvolucao: ## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 11.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias...\n\nC...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:05:17.884686",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/",
+      "https://pt.wikipedia.org/wiki/Visão",
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "https://www.dicio.com.br/visao/"
+    ]
   }
 ]
