@@ -1206,5 +1206,213 @@
       "https://www.dicio.com.br/aprendizado/",
       "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
     ]
+  },
+  {
+    "id": "e54e21d26bc8551f",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: sistemas recomendacao colaborativa\n\nEvolucao: ## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 7......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:54:23.606784",
+    "modificado": "2026-03-13T13:54:24.193071",
+    "conexoes": [
+      {
+        "para": "68865e22cdb91699",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "sistemas recomendacao colaborativa",
+        "sistemas recomendacao colaborativa fundamentos",
+        "sistemas recomendacao colaborativa aplicacoes",
+        "sistemas recomendacao colaborativa algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: sistemas recomendacao colaborativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:54:24.191920",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 718 conexoes\n\nTermos chave: principais, administrativos, grupos, Consulta,...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:54:24.192470",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 12.4 conexoes/celula\nClusters identificados:\n- outros: atena, Lattes, pesquisa\n- dados: informação\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:54:24.192654",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 7...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:54:24.192881",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 12.4 conexoes/celula\nClusters identificados:\n- outro...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:54:24.193050",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/",
+      "https://sistemas.cvm.gov.br/",
+      "https://www.dicio.com.br/sistema/",
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
+    ]
+  },
+  {
+    "id": "dcfbe4ddd19804e3",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: visao computacional CNN\n\nEvolucao: ## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 464 conexoes\n\nTermos ch......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:54:45.614620",
+    "modificado": "2026-03-13T13:54:46.088035",
+    "conexoes": [
+      {
+        "para": "236d640d8d5a2fbf",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "visao computacional CNN",
+        "visao computacional CNN fundamentos",
+        "visao computacional CNN algoritmos",
+        "visao computacional CNN aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: visao computacional CNN",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:54:46.086663",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 464 conexoes\n\nTermos chave: visao, Entenda, oscincosentidos, brasilescola, percepção",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:54:46.087299",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 12.2 conexoes/celula\nClusters identificados:\n- outros: visao, oscincosentidos, brasilescola\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:54:46.087552",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: visao computacional CNN\n\nEvolucao: ## Analise Estrutural: visao computacional CNN\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 464 conexoes\n\nTermos ch...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:54:46.087800",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: visao computacional CNN\n\nEvolucao: ## Analise Relacional (v2): visao computacional CNN\n\nDensidade: 12.2 conexoes/celula\nClusters identificados:\n- outros: visao, oscincosenti...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:54:46.088006",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "https://www.todamateria.com.br/visao/",
+      "https://pt.wikipedia.org/wiki/Visão",
+      "https://www.dicio.com.br/visao/",
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "8b74bdbec2937885",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: processamento linguagem natural BERT\n\nEvolucao: ## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 10\nBase empirica: 24 observacoes\nRede inicia......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:55:06.705063",
+    "modificado": "2026-03-13T13:55:07.049995",
+    "conexoes": [
+      {
+        "para": "18cc3cfb7de479ee",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "fase": "coleta",
+      "fontes_count": 24,
+      "queries": [
+        "processamento linguagem natural BERT fundamentos",
+        "processamento linguagem natural BERT algoritmos",
+        "processamento linguagem natural BERT",
+        "processamento linguagem natural BERT aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: processamento linguagem natural BERT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:55:07.049562",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 10\nBase empirica: 24 observacoes\nRede inicial: 695 conexoes\n\nTermos chave: música, refere, informática, Portuguesa, des...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:55:07.049804",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n- dados: processar, informações, informática\n- outros: três, unifica, judiciai...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:55:07.049873",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 10\nBase empirica: 24 observacoes\nRede inicia...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:55:07.049932",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: processamento linguagem natural BERT\n\nEvolucao: ## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n- d...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:55:07.049988",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/",
+      "https://www.tjsp.jus.br/UPJ",
+      "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "https://www.dicionario.info/processamento/",
+      "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "https://www.sinonimos.com.br/processamento/",
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
   }
 ]
