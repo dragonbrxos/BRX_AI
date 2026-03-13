@@ -868,5 +868,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "76ed224e53337acb",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: redes neurais recorrentes LSTM",
+    "criado": "2026-03-13T14:00:19.828758",
+    "modificado": "2026-03-13T14:00:19.828758",
+    "conexoes": [
+      {
+        "para": "9a6d79b18c0df46d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais recorrentes LSTM",
+      "arquivo": "mod_d604f74b_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "9a6d79b18c0df46d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "b41b2df72264e88a",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: modelos transformers GPT",
+    "criado": "2026-03-13T14:00:20.952660",
+    "modificado": "2026-03-13T14:00:20.952660",
+    "conexoes": [
+      {
+        "para": "1f035d258aac19cc",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "mod_a0fc032d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "1f035d258aac19cc",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "bb5f06f6c4b3dd2d",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: etica IA responsavel",
+    "criado": "2026-03-13T14:00:22.013456",
+    "modificado": "2026-03-13T14:00:22.013456",
+    "conexoes": [
+      {
+        "para": "ddebcfde10097581",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "arquivo": "mod_d00abbfe_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "ddebcfde10097581",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
