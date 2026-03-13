@@ -706,5 +706,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "5c7089c029d698a7",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: processamento linguagem natural BERT",
+    "criado": "2026-03-13T13:59:05.103436",
+    "modificado": "2026-03-13T13:59:05.103436",
+    "conexoes": [
+      {
+        "para": "130058e2c0179cd3",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "arquivo": "mod_6e458fcc_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "130058e2c0179cd3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "329966f771b9697a",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: sistemas recomendacao colaborativa",
+    "criado": "2026-03-13T13:59:05.582299",
+    "modificado": "2026-03-13T13:59:05.582299",
+    "conexoes": [
+      {
+        "para": "679d92acd1d91d9a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "arquivo": "mod_966ad913_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "679d92acd1d91d9a",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "8541c267122165ff",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: transformers processamento linguagem",
+    "criado": "2026-03-13T13:59:06.074021",
+    "modificado": "2026-03-13T13:59:06.074021",
+    "conexoes": [
+      {
+        "para": "18ad097006ede3d6",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "arquivo": "mod_13e2f205_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "18ad097006ede3d6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
