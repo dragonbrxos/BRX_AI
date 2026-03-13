@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 13,
+    "ciclos": 14,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 59166
+    "caracteres_aprendidos": 96032
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9437,6 +9437,116 @@
       "criado": "2026-03-13T14:24:11.378089",
       "acessos": 1,
       "conexoes": []
+    },
+    "6fddd04117eaedbc": {
+      "conteudo": "13 de março de 2026 13 de março de 2026 Cloud Quando uma empresa decide migrar sua infraestrutura para a nuvem, uma das primeiras perguntas que surge é: Azure ou AWS? As duas plataformas dominam o mercado global de cloud computing, mas atendem perfis diferentes de organizações. Em termos práticos, AWS é frequentemente escolhida por empresas de tecnologia e startups , enquanto o Microsoft Azure costuma ser preferido por organizações que já utilizam o ecossistema Microsoft A melhor escolha depende menos da tecnologia isolada e mais de fatores como integração com sistemas existentes, estratégia de dados, equipe de TI e objetivos de transformação digital Neste guia vamos analisar de forma realista a comparação Azure AWS , explicando onde cada plataforma se destaca e quando uma delas costuma ser a escolha mais estratégica. Leia mais em: Microsoft Azure: Guia Completo para Empresas (Arquitetura, Custos, Segurança e Inteligência Artificial) O que realmente muda na prática entre Azure e AWS? Tanto Microsoft Azure quanto Amazon Web Services (AWS) oferecem praticamente os mesmos pilares de infraestrutura: computação armazenamento banco de dados inteligência artificial networking segurança. A diferença está na forma como esses serviços se integram ao ambiente de TI da empresa A AWS foi pioneira no mercado de cloud pública e construiu ao longo dos anos um enorme catálogo de serviços. Já o Azure cresceu rapidamente apoiado na base corporativa da Microsoft, especialmente entre empresas que utilizam: Microsoft 365 Windows Server Active Directory SQL Server .NET Essa integração acaba pesando muito na decisão final. Azure vs AWS: quem lidera o mercado de cloud? De acordo com dados recentes de mercado, a AWS ainda possui a maior participação global em cloud pública. Estimativas de mercado apontam aproximadamente: AWS: cerca de 30% do mercado Microsoft Azure: cerca de 25% Google Cloud: cerca de 10% Mesmo assim, o Azure vem crescendo rapidamente, especialmente no segmento corporativo. Muitas organizações que historicamente utilizavam infraestrutura Microsoft migraram naturalmente para Azure como extensão da própria arquitetura existente Azure ou AWS: qual plataforma é mais usada por empresas? A resposta depende muito do tipo de empresa. AWS costuma dominar empresas digitais Empresas que nasceram na era da internet frequentemente adotaram AWS desde o início. Exemplos incluem plataformas digitais como: Netflix Airbnb Slack Pinterest Essas empresas utilizam AWS para executar arquiteturas altamente distribuídas baseadas em microsserviços A maturidade da AWS nesse tipo de arquitetura ainda é considerada uma das melhores do mercado. Azure domina ambientes corporativos tradicionais Por outro lado, grandes organizações com infraestrutura Microsoft tendem a escolher Azure. Isso acontece porque o Azure se conecta naturalmente com ferramentas amplamente utilizadas no mundo corporativo. Por exemplo: autenticação via Microsoft Entra ID (Azure AD) integração direta com Microsoft 365 gestão de servidores Windows integração com SQL Server e Power BI Em muitos projetos, o Azure acaba sendo adotado inicialmente para backup, disaster recovery ou extensão de datacenter , evoluindo depois para aplicações cloud-native. Comparação Azure AWS: serviços equivalentes Apesar dos nomes diferentes, muitos serviços são equivalentes. Servidores virtuais AWS utiliza: EC2 Azure utiliza: Azure Virtual Machines Ambos permitem criar servidores sob demanda com escalabilidade. Containers e Kubernetes AWS oferece: Elastic Kubernetes Service (EKS) Azure oferece: Azure Kubernetes Service (AKS) Esses serviços são usados para executar aplicações modernas baseadas em containers. Armazenamento AWS possui o famoso: S3 Azure oferece: Blob Storage Ambos são usados para armazenar grandes volumes de dados, backups e arquivos. Azure vantagens e desvantagens Em projetos corporativos, algumas vantagens do Azure aparecem com frequência. Integração com identidade corporativa Uma das maiores vantagens do Azure é a integração direta com Microsoft Entra ID Isso permite centralizar autenticação e políticas de acesso para: Microsoft 365 aplicações corporativas infraestrutura cloud. Estratégias híbridas Muitas empresas ainda operam parte da infraestrutura local. O Azure possui ferramentas muito maduras para cenários hybrid cloud , conectando datacenters locais à nuvem. Inteligência artificial integrada O Azure oferece integração nativa com Azure OpenAI , facilitando a implementação de IA em aplicações corporativas. AWS vantagens e desvantagens Maturidade do ecossistema AWS possui um catálogo gigantesco de serviços e uma comunidade técnica muito consolidada. Isso facilita encontrar ferramentas, bibliotecas e arquiteturas já testadas. Forte adoção em cloud-native Aplicações modernas baseadas em microservices e arquitetura distribuída frequentemente nascem em AWS. Qual é a melhor cloud para empresas? Na prática, a resposta depende muito da realidade da organização. Algumas perguntas ajudam a tomar essa decisão: A empresa já utiliza tecnologias Microsoft? A equipe de TI possui experiência com qual plataforma? As aplicações são legadas ou cloud-native? Existe necessidade de infraestrutura híbrida? Esses fatores influenciam mais do que a comparação técnica isolada. Quando Azure costuma ser a escolha mais estratégica Em muitos projetos corporativos, Azure se torna a escolha natural quando a empresa já utiliza: Microsoft 365 Active Directory SQL Server aplicações baseadas em .NET. Nesse cenário, a integração entre identidade, segurança e infraestrutura costuma ser muito mais simples. FAQ — Azure vs AWS Azure ou AWS: qual é mais barato? Depende da arquitetura. Ambas usam modelo pay-as-you-go e os custos variam conforme uso e otimização. AWS é melhor que Azure? Não necessariamente. Cada plataforma possui vantagens dependendo do cenário. Azure funciona melhor com Microsoft 365? Sim. O Azure possui integração nativa com identidade e segurança do Microsoft 365. Empresas podem usar Azure e AWS ao mesmo tempo? Sim. Muitas organizações adotam estratégia multi-cloud Conclusão A discussão Azure vs AWS não deve ser tratada como uma disputa simples entre duas tecnologias. Na prática, a escolha da melhor cloud depende da estratégia de TI da empresa, do ecossistema já utilizado e do tipo de aplicação que será executada. Para organizações que já utilizam tecnologias Microsoft, o Azure frequentemente oferece uma integração mais natural com identidade, segurança e produtividade corporativa Se sua empresa está avaliando migrar para cloud ou modernizar sua infraestrutura, uma análise arquitetural adequada pode evitar custos desnecessários e acelerar os resultados. 👉 A Infob pode ajudar sua empresa a avaliar a melhor estratégia de cloud, desenhar arquiteturas seguras e implementar ambientes Azure preparados para crescimento e inovação. Prev Post Quais são os principais. Next Post Azure vs Google Cloud:.",
+      "tipo": "texto",
+      "fontes": [
+        "https://infob.com.br/azure-vs-aws-qual-melhor-cloud-empresas/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:25:25.987780",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "f542a8a92a748193": {
+      "conteudo": "TITULO: Azure vs AWS: qual cloud faz mais sentido para empresas?\nCONTEUDO: 13 de março de 2026 13 de março de 2026 Cloud Quando uma empresa decide migrar sua infraestrutura para a nuvem, uma das primeiras perguntas que surge é: Azure ou AWS? As duas plataformas dominam o mercado global de cloud computing, mas atendem perfis diferentes de organizações. Em termos práticos, AWS é frequentemente escolhida por empresas de tecnologia e startups , enquanto o Microsoft Azure costuma ser preferido por organizações que já utilizam o ecossistema Microsoft A melhor escolha depende...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://infob.com.br/azure-vs-aws-qual-melhor-cloud-empresas/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:25:25.988662",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "026f23a1d4ac4177": {
+      "conteudo": "AWS vs Azure vs GCP — Complete Comparison (2026) Three clouds dominate the market. Each has clear strengths and weaknesses. This guide helps you pick the right one for your workload. Copy AWS → Most services, largest ecosystem, default enterprise choice Azure → Best Microsoft/hybrid integration, strong enterprise identity GCP → Best data/AI/ML, superior Kubernetes, developer-friendly Market Position (2026) Cloud Market Share Revenue (Annual) Key Advantage AWS ~31% ~$110B+ Broadest service catalog, most mature Azure ~25% ~$85B+ Microsoft ecosystem, hybrid cloud GCP ~12% ~$45B+ AI/ML leadership, data analytics All three are converging in core capabilities. The differences are in maturity, pricing, ecosystem, and specialized services. Compute Virtual Machines Feature AWS (EC2) Azure (VMs) GCP (Compute Engine) Instance types 750+ 500+ 100+ Custom VM sizes Limited Limited ✅ (exact CPU/RAM) Spot/preemptible savings Up to 90% Up to 90% Up to 91% Bare metal GPU instances Broadest selection Good (NVIDIA + AMD) Strong (TPUs unique) Live migration ✅ (maintenance without reboot) Sustained use discounts ❌ (need Reserved) ❌ (need Reserved) ✅ (automatic) Per-second billing Verdict: AWS has the most options. GCP has the best pricing model (automatic sustained use discounts, custom sizes). Azure is solid for Windows workloads. Serverless Compute Feature AWS Lambda Azure Functions Google Cloud Functions Max execution time 15 min 10 min (Consumption) 60 min (2nd gen) Max memory 10 GB 14 GB 32 GB Languages 7 native + custom 7 native + custom 8 native + custom Cold start (typical) 100-500ms 500ms-2s 100-500ms Container support ✅ (up to 10GB image) ✅ (Cloud Run) Event sources 200+ 100+ 50+ Pricing (per 1M invocations) $0.20 $0.20 $0.40 Verdict: AWS Lambda is the most mature with the most integrations. Cloud Run (GCP) offers the best serverless container experience. Azure Functions integrates deeply with the Microsoft stack. Container Orchestration Feature AWS (EKS/ECS) Azure (AKS) GCP (GKE) Managed Kubernetes EKS ($73/mo control plane) AKS (free control plane) GKE ($73/mo Standard, free Autopilot control plane) Serverless containers Fargate Container Apps Cloud Run Auto-scaling Karpenter, Cluster Autoscaler KEDA, Cluster Autoscaler GKE Autopilot (fully managed) GPU support Service mesh App Mesh Istio-based Istio (native) Release channels ✅ (Rapid/Regular/Stable) Verdict: GKE is the gold standard for Kubernetes (Google created K8s). AKS is free for the control plane. EKS has the most ecosystem integrations. GKE Autopilot is the easiest fully managed K8s. Storage Feature AWS Azure GCP Object storage S3 Blob Storage Cloud Storage Block storage EBS Managed Disks Persistent Disk File storage EFS, FSx Azure Files Filestore Archive S3 Glacier Archive Storage Archive Storage CDN CloudFront Azure CDN / Front Door Cloud CDN Min object storage $/GB/mo $0.0036 (Glacier) $0.00099 (Archive) $0.0012 (Archive) Object Storage Comparison Feature S3 Blob Storage Cloud Storage Durability 99.999999999% (11 9s) 99.999999999% (11 9s) 99.999999999% (11 9s) Availability SLA 99.99% 99.99% 99.99% Storage classes 8 4 4 Lifecycle policies Versioning Event notifications Access tiers auto Intelligent-Tiering ✅ (Hot/Cool/Archive) Autoclass Verdict: All three are essentially equivalent for storage. S3 has the most mature ecosystem. Azure Archive is the cheapest cold storage. GCP Autoclass simplifies lifecycle management. Databases Database Type AWS Azure GCP Managed PostgreSQL RDS, Aurora Azure Database for PostgreSQL Cloud SQL, AlloyDB Managed MySQL RDS, Aurora Azure Database for MySQL Cloud SQL NoSQL (document) DynamoDB Cosmos DB Firestore NoSQL (wide-column) DynamoDB Cosmos DB (Cassandra API) Bigtable In-memory cache ElastiCache (Redis/Memcached) Azure Cache for Redis Memorystore Graph database Neptune Cosmos DB (Gremlin API) ❌ (partner solutions) Serverless SQL Aurora Serverless Azure SQL Serverless BigQuery Data warehouse Redshift Synapse Analytics BigQuery Key Differentiators AWS DynamoDB : Best serverless NoSQL — single-digit ms latency, auto-scaling, zero maintenance Azure Cosmos DB : Multi-model (document, graph, column, table) with global distribution and 5 consistency levels GCP BigQuery : Best serverless data warehouse — analyze petabytes with standard SQL, pay per query GCP AlloyDB : PostgreSQL-compatible with 4x performance and AI-native vector search Verdict: Each cloud has standout databases. DynamoDB for simple, fast NoSQL. Cosmos DB for multi-model flexibility. BigQuery for analytics. Choose based on your data model. AI and Machine Learning This is where the clouds diverge most significantly. Feature AWS Azure GCP LLM API Bedrock (multi-model) Azure OpenAI Service Vertex AI (Gemini) Custom model training SageMaker Azure ML Vertex AI Pre-built AI APIs Rekognition, Comprehend, etc. Cognitive Services Vision AI, Natural Language, etc. AI hardware NVIDIA GPUs, Trainium, Inferentia NVIDIA GPUs, AMD GPUs NVIDIA GPUs, TPUs ML Ops SageMaker Pipelines Azure ML Pipelines Vertex AI Pipelines Vector database OpenSearch, MemoryDB Cosmos DB, AI Search AlloyDB, Vertex Vector Search AI agent platform Bedrock Agents Azure AI Agent Service Vertex AI Agent Builder The Real Differentiators GCP leads in AI infrastructure: TPUs — custom AI chips exclusive to GCP, best price/performance for training large models Gemini — Google's frontier model, directly accessible via Vertex AI BigQuery ML — run ML models with SQL syntax on your data warehouse Vertex AI Agent Builder — end-to-end agent development with grounding in Google Search Azure leads in enterprise AI: Azure OpenAI Service — exclusive cloud partnership with OpenAI (GPT-4o, o3, etc.) Enterprise-grade compliance — the only way to use OpenAI models with data sovereignty Copilot Studio — low-code AI agent builder integrated with Microsoft 365 AI Search — RAG-optimized vector + full-text search AWS leads in breadth: Bedrock — single API for Claude, Llama, Mistral, Titan, and others Trainium/Inferentia — custom chips for cost-effective training and inference SageMaker — most comprehensive ML platform (training, hosting, monitoring) Verdict: GCP for cutting-edge AI/ML and TPUs. Azure for OpenAI models in enterprise. AWS for multi-model flexibility via Bedrock. All three are investing heavily — this space changes quarterly. Networking Feature AWS Azure GCP Virtual network VPC VNet VPC Load balancer ALB, NLB, GLB Azure LB, App Gateway Cloud Load Balancing CDN CloudFront Azure CDN / Front Door Cloud CDN DNS Route 53 Azure DNS Cloud DNS VPN Site-to-Site VPN VPN Gateway Cloud VPN Direct connect Direct Connect ExpressRoute Cloud Interconnect Global network ❌ (regional by default) ✅ (global VNet peering) ✅ (premium tier — Google's private network) Service mesh App Mesh ❌ (partner) Traffic Director GCP's unique advantage: Premium Tier networking routes traffic through Google's private global fiber network (same infrastructure that powers YouTube and Search), resulting in lower latency and higher throughput. Pricing Models All three offer similar pricing structures but with key differences: Cost Comparison: Web App (1M requests/day) Component AWS Azure GCP 4-vCPU VM (on-demand) ~$140/mo ~$140/mo ~$120/mo Same VM (1-yr committed) ~$88/mo ~$88/mo ~$84/mo Managed PostgreSQL ~$160/mo ~$160/mo ~$130/mo Object storage (100GB) ~$2.30/mo ~$2.08/mo ~$2.60/mo Data transfer (1TB out) ~$87/mo ~$87/mo ~$110/mo Load balancer ~$22/mo ~$25/mo ~$18/mo Prices are approximate and vary by region. Pricing Advantages Cloud Pricing Strength AWS Most Reserved Instance flexibility, Savings Plans, largest spot market Azure Hybrid Benefit (use existing Windows/SQL licenses), Azure Dev/Test pricing GCP Automatic sustained use discounts (no commitment needed), custom VM sizes, committed use discounts with flexibility Free Tiers AWS Azure GCP Duration 12 months + always-free 12 months + always-free 90 days ($300) + always-free Free VM t2.micro (750 hrs/mo) B1s (750 hrs/mo) e2-micro (always free) Free storage 5GB S3 5GB Blob 5GB Cloud Storage Free functions 1M invocations/mo (always) 1M invocations/mo (always) 2M invocations/mo (always) Free database 750 hrs RDS 750 hrs SQL ❌ (Firestore: 1GB free) Verdict: GCP is often cheapest for compute due to sustained use discounts and custom sizing. Azure wins if you have existing Microsoft licenses. AWS has the most flexible commitment options. Developer Experience Feature AWS Azure GCP Console UI Functional, cluttered Modern, improving Cleanest, most intuitive CLI aws (mature) az (good) gcloud (excellent) IaC CloudFormation, CDK Bicep, ARM, Terraform Terraform, Deployment Manager SDK quality Excellent Good Excellent Documentation Comprehensive but verbose Improving, some gaps Clear and well-organized Local emulator LocalStack (3rd party) Azure Storage Emulator, Azurite Firebase Emulator, Pub/Sub Emulator Learning resources Extensive Extensive (MS Learn) Good (Qwiklabs, Coursera) Verdict: GCP has the cleanest developer experience. AWS has the largest community and most third-party resources. Azure has the best structured learning platform (MS Learn). When to Choose Each Choose AWS When You need the broadest selection of services Your team already knows AWS You need a large partner/consultant ecosystem You want the most mature cloud platform You're using multi-model AI via Bedrock Choose Azure When Your org runs Microsoft 365, Active Directory, or Windows Server You have existing Microsoft license agreements (Hybrid Benefit) You need Azure OpenAI (GPT-4o, o3) with enterprise compliance You need hybrid cloud (Azure Arc, Azure Stack) You're in a regulated industry that mandates Azure compliance certifications Choose GCP When AI/ML is core to your product (TPUs, Vertex AI, BigQuery ML) You need the best Kubernetes experience (GKE) Data analytics is a primary workload (BigQuery) You want the simplest pricing model Developer experience and clean APIs are priorities Multi-Cloud: Should You Use More Than One? Copy Multi-cloud reality: Intentional multi-cloud: ✓ Use GCP for AI/ML + BigQuery ✓ Use AWS for everything else ✓ Adds complexity but leverages each cloud's strengths Accidental multi-cloud: ✗ \"We use AWS for this, Azure for that, because different teams chose differently\" ✗ Double the operational burden with no strategic benefit Rule of thumb: - Pick ONE primary cloud for 90% of workloads - Use a second cloud only for specific advantages (e.g., GCP BigQuery, Azure OpenAI) - NEVER go three clouds unless you have a large platform team Summary Priority Best Choice Broadest service catalog AWS Microsoft ecosystem / hybrid Azure AI/ML and data analytics GCP Kubernetes GCP (GKE) Serverless AWS (Lambda ecosystem) Enterprise AI (OpenAI) Azure Simplest pricing GCP Largest community AWS Windows workloads Azure Developer experience GCP There is no universally \"best\" cloud. The right choice depends on your team's expertise, existing investments, and workload characteristics. Knowledge Check Cloud Provider Comparison Quiz 3 questions · Test your understanding Start Quiz Free preview · Upgrade to Pro to save scores What's Next? AWS Fundamentals — Get started with AWS core services Azure Fundamentals — Learn Azure from scratch GCP Fundamentals — Explore Google Cloud essentials System Design — Design systems that run on any cloud Topics: aws azure gcp cloud-computing cloud-comparison serverless kubernetes ai-ml infrastructure Share Copy link Email Was this tutorial helpful? Yes Not really Related Tutorials AWS Core Services: EC2, S3, Lambda, and Beyond (2026) Azure Core Services: App Service, Functions, Cosmos DB, and More (2026) AWS Top 10 Services — Hands-On Guide (2026) Azure Top 10 Services — Hands-On Guide (2026) Recommended for You Terraform Multi-Cloud: Patterns for AWS, Azure, and GCP (2026) Design and deploy infrastructure across AWS, Azure, and GCP with Terraform — provider configuration, multi-cloud modules, resource equivalents, and real-world deployment patterns. Advanced 45 min AWS Core Services: EC2, S3, Lambda, and Beyond (2026) Master essential AWS services — compute (EC2, Lambda), storage (S3, EBS), databases (RDS, DynamoDB), networking (VPC), security (IAM), and infrastructure-as-code with hands-on examples. Azure Core Services: App Service, Functions, Cosmos DB, and More (2026) Master essential Azure services — compute (App Service, Functions, AKS), data (Cosmos DB, SQL Database), identity (Entra ID), and infrastructure-as-code with Bicep and practical examples. AWS Top 10 Services — Hands-On Guide (2026) Hands-on guide to AWS top 10 services — EC2, Lambda, S3, RDS, DynamoDB, VPC, IAM, CloudFront, SQS/SNS, and ECS/Fargate with setup instructions, CLI commands, and working code.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://tutorialq.com/cloud/aws/aws-vs-azure-vs-gcp-2026"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:25:29.790052",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "71a1a96eb62a2f10": {
+      "conteudo": "TITULO: AWS vs Azure vs GCP — Complete Comparison Guide (2026) | tutorialQ\nCONTEUDO: AWS vs Azure vs GCP — Complete Comparison (2026) Three clouds dominate the market. Each has clear strengths and weaknesses. This guide helps you pick the right one for your workload. Copy AWS → Most services, largest ecosystem, default enterprise choice Azure → Best Microsoft/hybrid integration, strong enterprise identity GCP → Best data/AI/ML, superior Kubernetes, developer-friendly Market Position (2026) Cloud Market Share Revenue (Annual) Key Advantage AWS ~31% ~$110B+ Broadest service catalo...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://tutorialq.com/cloud/aws/aws-vs-azure-vs-gcp-2026"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:25:29.791782",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "1d4e81d94c23b2c2": {
+      "conteudo": "Expert Comparison AWS vs Azure: Which Cloud Platform Is Right for Your Business? Choosing between Amazon Web Services (AWS) and Microsoft Azure is one of the most consequential technology decisions your business will make. Both are enterprise-grade cloud platforms, but they excel in different areas. This comparison is based on our experience managing 500+ cloud deployments across both platforms. Side-by-Side Comparison Factor Amazon Web Services (AWS) Microsoft Azure Market Share #1 globally (31%) #2 globally (25%) Compute Options 750+ instance types (EC2) 500+ VM sizes Microsoft Integration Limited (Workspaces) Native (AD, M365, Teams) Enterprise Licensing Pay-as-you-go only Azure Hybrid Benefit saves 40%+ AI/ML Services SageMaker, Bedrock (leading) Azure AI, OpenAI integration Database Options RDS, DynamoDB, Aurora SQL Database, Cosmos DB Kubernetes EKS (mature) AKS (simpler setup) Global Regions 33 regions 60+ regions Pricing Complexity Complex, many SKUs Simpler, EA discounts DevOps Ecosystem CodePipeline, CloudFormation Azure DevOps (superior CI/CD) Compliance Certs FedRAMP, HIPAA, PCI FedRAMP, HIPAA, PCI + Gov Cloud Startup Credits Up to $100K (Activate) Up to $150K (Founders Hub) Our Verdict Choose AWS if you need the broadest service catalog, are building cloud-native applications, or need advanced ML/AI capabilities. Choose Azure if your organization uses Microsoft 365, Active Directory, or wants simplified hybrid cloud with Azure Arc. Most of our clients with Microsoft-centric environments save 30-40% on Azure through Hybrid Benefit. We manage both platforms and can help you decide based on your specific workloads. Get a Free Cloud Assessment Frequently Asked Questions Which is cheaper, AWS or Azure? It depends on your workloads. Azure is typically 20-40% cheaper for organizations with existing Microsoft licenses (Azure Hybrid Benefit). AWS can be cheaper for cloud-native workloads with heavy spot instance usage. We recommend a cost analysis with both platforms before deciding. Can I use both AWS and Azure? Yes, multi-cloud is increasingly common. About 30% of our clients use both platforms, running different workloads on each. We provide multi-cloud management through our public cloud solutions. Which cloud is better for compliance? Both meet major compliance standards (HIPAA, PCI DSS, SOC 2, FedRAMP). Azure has a slight edge for government workloads with Azure Government and dedicated sovereign regions. Related Services Azure Migration Services AWS Migration Services Cloud Consulting Microsoft Azure Hosting Public Cloud Solutions Explore Our Services VPS Hosting /cloud-hosting/hosting-solutions/virtual-private-server Microsoft 365 Pricing & Plans /cloud-hosting/microsoft/microsoft-365 Microsoft Azure Cloud Services /cloud-hosting/microsoft/azure HIPAA Compliant Cloud Hosting /cloud-hosting/specialty-hosting/hipaa-cloud-hosting Google Workspace Solutions /cloud-hosting/google/google-workspace PCI DSS Compliant Hosting /cloud-hosting/specialty-hosting/pci-dss-hosting Google Cloud Platform Services /cloud-hosting/google/google-cloud-platform SAP ERP Hosting /cloud-hosting/specialty-hosting/sap-erp-hosting",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://medhacloud.com/compare/aws-vs-azure"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:25:36.619242",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "0414d536276c3f78": {
+      "conteudo": "TITULO: AWS vs Azure 2026: Honest Comparison for Business | Medha Cloud\nCONTEUDO: Expert Comparison AWS vs Azure: Which Cloud Platform Is Right for Your Business? Choosing between Amazon Web Services (AWS) and Microsoft Azure is one of the most consequential technology decisions your business will make. Both are enterprise-grade cloud platforms, but they excel in different areas. This comparison is based on our experience managing 500+ cloud deployments across both platforms. Side-by-Side Comparison Factor Amazon Web Services (AWS) Microsoft Azure Market Share #1 globally (31...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://medhacloud.com/compare/aws-vs-azure"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:25:36.619745",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "aa95eaa70b67371b": {
+      "conteudo": "Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios Serviços de computação em Azure e AWS Comentários Este artigo compara os principais serviços de computação que o Microsoft Azure e o Amazon Web Services (AWS) oferecem. Para obter links para artigos que comparam outros serviços AWS e Azure, consulte Azure para profissionais da AWS Para obter uma listagem completa e gráficos que mostram o mapeamento de serviços entre a AWS e o Azure, consulte Comparação de serviços da AWS para Azure Navegue pelas arquiteturas de computação do Azure Comparar serviços de computação do AWS e Azure As tabelas a seguir descrevem e comparam os principais serviços de computação no Amazon Web Services (AWS) e Azure. Máquinas virtuais e servidores As máquinas virtuais (VMs) e os servidores permitem que os usuários implementem, gerenciem e mantenham o sistema operacional e outros softwares. Os usuários pagam pelo que usam, com a flexibilidade de mudar os tamanhos. Serviço AWS serviço Azure Descrição Tipos de instância do Amazon EC2 Azure Virtual Machines AWS e Azure cobram VMs sob demanda por segundo utilizado. Embora os tipos de instância do AWS e os tamanhos de VM do Azure tenham categorias semelhantes, as capacidades exatas de RAM, CPU e armazenamento diferem. Para obter mais informações sobre Azure tamanhos de VM, consulte Azure tamanhos de VM Cluster paralelo do AWS Azure CycleCloud Criar, gerenciar, operar e otimizar HPCs e clusters de computação de grande porte de qualquer escala. Exibir todas as arquiteturas de máquinas virtuais Dimensionamento automático O dimensionamento automático permite alterar automaticamente o número de instâncias de VM. Você define métricas e limites que determinam quando adicionar ou remover instâncias. Serviço AWS serviço Azure Descrição Dimensionamento automático do AWS Conjuntos de dimensionamento de máquinas virtuais Dimensionamento automático do Serviço de Aplicativo Em Azure, os conjuntos de dimensionamento de máquinas virtuais permitem implantar e gerenciar conjuntos idênticos de VMs. O número de conjuntos pode ser dimensionado automaticamente. O dimensionamento automático do App Service permite que você dimensione automaticamente os aplicativos do Azure App Service. Exibir todas as arquiteturas de dimensionamento automático Processamento em lotes O processamento em lotes executa aplicativos paralelos em grande escala e aplicativos de computação de alto desempenho com eficiência na nuvem. Serviço AWS serviço Azure Descrição AWS Batch Azure Batch Azure Batch ajuda você a gerenciar trabalhos com uso intensivo de computação em uma coleção escalonável de VMs. Exibir todas as arquiteturas de processamento em lote Armazenamento Vários serviços fornecem diferentes tipos de armazenamento de dados para discos de VM. Serviço AWS serviço Azure Descrição Volumes de discos no EBS (Amazon Elastic Block Store) Discos de dados em Azure Blob Storage Discos de dados no armazenamento de blobs fornecem armazenamento de dados durável para VMs da Azure. Esse armazenamento é semelhante aos volumes de disco das instâncias EC2 da AWS na EBS. Repositório de instâncias do Amazon EC2 Armazenamento temporário do Azure Armazenamento temporário do Azure fornece às VMs um armazenamento temporário de leitura e gravação de baixa latência semelhante ao armazenamento de instâncias EC2, também chamado de armazenamento efêmero. Volume de IOPS provisionado do Amazon EBS Armazenamento premium do Azure Azure dá suporte a E/S de disco de maior desempenho com armazenamento premium. Esse armazenamento é semelhante às opções de armazenamento de IOPS provisionadas do AWS. EFS (Amazon Elastic File System) Azure Files Azure Files fornece VMs com funcionalidade semelhante ao Amazon EFS. Exibir todas as arquiteturas de armazenamento Contêineres e orquestradores de contêineres Vários serviços de AWS e Azure fornecem implantação e orquestração de aplicativos em contêineres. Serviço AWS serviço Azure Descrição Amazon ECS (Amazon Elastic Container Service) Azure Container Apps O Amazon ECS é um serviço de orquestração de contêineres para implantar e gerenciar aplicativos em contêineres. Azure Container Apps é uma plataforma de contêiner gerenciada com dimensionamento, descoberta de serviços e gerenciamento de tráfego embutidos. AWS Fargate Azure Container Instances Azure Container Apps O Fargate é um mecanismo de computação sem servidor que fornece capacidade de computação para tarefas do Amazon ECS e pods do Amazon EKS. Azure Container Instances fornece computação de contêiner sem servidor sob demanda e integra-se ao AKS por meio de nós virtual . Azure Container Apps também fornece gerenciamento de infraestrutura sem servidor com recursos de orquestração de nível superior. Registro de Contêiner Elástico da Amazon (Amazon ECR) Azure Container Registry Os registros de contêiner armazenam imagens formatadas pelo Docker e criam todos os tipos de implantações de contêiner na nuvem. Amazon Elastic Kubernetes Service (EKS) Azure Kubernetes Service (AKS) O EKS e o AKS permitem orquestrar implantações de aplicativos em contêineres do Docker com o Kubernetes. O AKS simplifica o gerenciamento de cluster e o monitoramento por meio de atualizações automáticas e um console de operações internas. Consulte a configuração de runtime do contêiner para obter detalhes sobre o ambiente de hospedagem. Malha do Aplicativo AWS Extensão Istio para AKS O complemento Istio para AKS fornece uma integração totalmente suportada da malha de serviço Istio de código aberto. Arquiteturas de contêiner de exemplo Arquitetura Descrição arquitetura Baseline em Azure Kubernetes Service (AKS) Implante uma infraestrutura de linha de base que implanta um cluster do AKS com um foco na segurança. arquitetura Microsserviços no Azure Kubernetes Service (AKS) Implante uma arquitetura de microsserviços no Azure Kubernetes Service (AKS). Pipeline de CI/CD para cargas de trabalho baseadas em contêiner Crie um pipeline de DevOps para um aplicativo Web Node.js com Jenkins, Azure Container Registry, Azure Kubernetes Service, Azure Cosmos DB e Grafana. Exibir todas as arquiteturas de contêiner Computação sem servidor A computação sem servidor integra sistemas e executa processos de back-end sem provisionar ou gerenciar servidores. Serviço AWS serviço Azure Descrição AWS Lambda Azure Functions WebJobs em Azure App Service Azure Functions é o equivalente primário do Lambda do AWS no fornecimento de código sob demanda sem servidor. A funcionalidade lambda do AWS também se sobrepõe a Azure WebJobs, que permitem agendar ou executar continuamente tarefas em segundo plano. Exemplo de arquiteturas sem servidor Arquitetura Descrição Padrão de escalabilidade multinuvem Saiba como melhorar a escalabilidade entre nuvens com uma arquitetura de solução que inclui Azure Stack. Um fluxograma passo a passo detalha as instruções para implementação. Exibir todas as arquiteturas sem servidor Colaboradores Esse artigo é mantido pela Microsoft. Ele foi originalmente escrito pelos colaboradores a seguir. Autor principal: Kobi Levi | Arquiteto de Soluções na Nuvem Próximas etapas Quickstart: criar uma máquina virtual Linux no portal do Azure Criar um aplicativo Web Node.js em Azure Introdução ao Azure Functions Arquitetura de design do serviço Azure Kubernetes (AKS) Recursos relacionados Arquitetura de Base para um cluster do Azure Kubernetes Service (AKS) A arquitetura de microsserviços no Azure Kubernetes Service Executar uma máquina virtual Linux em Azure Aplicativo Web básico Aplicativo Web de linha de base do Serviço de Aplicativo com redundância de zona Descobrir instâncias do AWS Avaliar instâncias do AWS Migrar VMs do AWS Migrar o AWS para discos gerenciados Migrar uma máquina virtual AWS Windows Comentários Esta página foi útil? Yes No No Precisa de ajuda com este tópico? Quer experimentar o Pergunte e Aprenda para esclarecer ou guiar você neste tópico? Pergunte ao Learn Pergunte ao Learn Sugerir uma correção? Recursos adicionais Last updated on 2026-03-11",
+      "tipo": "codigo",
+      "fontes": [
+        "https://learn.microsoft.com/pt-br/azure/architecture/aws-professional/compute"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:25:38.763343",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "4b178bdc59da544a": {
+      "conteudo": "TITULO: Comparar serviços de computação do AWS e Azure - Azure Architecture Center | Microsoft Learn\nCONTEUDO: Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios Serviços de computação em Azure e AWS Comentários Este artigo compara os principais serviços de computação que o Microso...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://learn.microsoft.com/pt-br/azure/architecture/aws-professional/compute"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:25:38.764179",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "1af3e9801063ed28": {
+      "conteudo": "Permitir JavaScript en un navegador En este artículo se explica cómo permitir JavaScript en Google Chrome, que es necesario para mostrar algunos elementos multimedia, incluidos algunos anuncios de Google. También encontrarás enlaces a la documentación para activar JavaScript en otros navegadores populares. Secciones de esta página: Activar JavaScript en Google Chrome Activar JavaScript en otros navegadores Activar JavaScript en Google Chrome Puedes definir permisos en Google Chrome para todos los sitios o para los sitios que elijas. Sigue estas instrucciones para activar JavaScript en tu ordenador Android y dispositivo Apple En ordenadores Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en el ordenador. En la parte superior derecha, haz clic en y, a continuación, en Configuración Haga clic en Privacidad y seguridad Vaya a \"Privacidad y seguridad\" y haga clic en Configuración de sitios Vaya a \"Contenido\" y, a continuación, haga clic en JavaScript Seleccione \"Los sitios pueden usar JavaScript\" como comportamiento predeterminado. Desde esta pantalla, también puedes añadir sitios a los que no se les permite usar JavaScript o seleccionar \"No permitir que los sitios usen JavaScript\" como comportamiento predeterminado y, a continuación, elegir los sitios específicos que quieres que se permitan. En teléfonos o tablets Android Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en un teléfono o tablet Android. En la parte superior derecha, toca Más Configuración En \"Configuración avanzada\", toca Configuración de sitios JavaScript Activa JavaScript. En iPhones y iPads JavaScript está activado de forma predeterminada en los dispositivos iPhone y iPad. Activar JavaScript en otros navegadores Si utilizas un navegador admitido que no es Chrome, consulta tu página de asistencia para obtener instrucciones sobre cómo activar JavaScript y para saber si lo admite. Sigue las instrucciones específicas de tu navegador: Microsoft Edge Mozilla Firefox Apple Safari Opera Factores que pueden afectar a la configuración de JavaScript en un navegador Las actualizaciones del navegador, el software de seguridad o los parches pueden cambiar la configuración de JavaScript. Si tienes problemas para ver los anuncios de Google, comprueba que JavaScript esté permitido en tu navegador. Algunos navegadores le permiten configurar JavaScript de forma que, cuando estos necesiten usarlo, se muestre una advertencia al usuario. En estos casos, si un anuncio de Google requiere JavaScript, los usuarios pueden dar permiso para cargar el contenido. Si sigues teniendo problemas, usa la herramienta para solucionar problemas con el servicio de anuncios ¿Te ha resultado útil esta información? ¿Cómo podemos mejorar esta página? Sí No Enviar",
+      "tipo": "texto",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:25:48.622267",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "06412b81f68bbfee": {
+      "conteudo": "TITULO: Permitir JavaScript en un navegador - Ayuda de Google Ad Manager\nCONTEUDO: Permitir JavaScript en un navegador En este artículo se explica cómo permitir JavaScript en Google Chrome, que es necesario para mostrar algunos elementos multimedia, incluidos algunos anuncios de Google. También encontrarás enlaces a la documentación para activar JavaScript en otros navegadores populares. Secciones de esta página: Activar JavaScript en Google Chrome Activar JavaScript en otros navegadores Activar JavaScript en Google Chrome Puedes definir permisos en Google Chrome para todos lo...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://support.google.com/admanager/answer/12654?hl=es"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:25:48.622641",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9511,6 +9621,36 @@
       "texto_completo": "Conteúdo apoiado por Home Tutoriais Software Apps Como usar o WhatsApp Web Por Viviane França • Editado por Bruno De Blasi 05/09/2025 às 12:30 Atualizado 05/09/2025 às 15:31 Compartilhe: Seu resumo inteligente do mundo tech! Assine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão. E-mail inscreva-se Confirmo que li, aceito e concordo com os Termos de Uso e Política de Privacidade do Canaltech. Viviane França/Canaltech No WhatsApp Web, você consegue acessar os principais recursos da plataforma , como troca de mensagens, status, canais e comunidades, e pode até funcionar quando o celular estiver desconectado da internet. Como usar o WhatsApp Web no celular Como usar o WhatsApp Web na smart TV A seguir, tire suas dúvidas sobre: Como usar o WhatsApp Web? Como entrar no WhatsApp Web? Como entrar no WhatsApp Web sem QR Code? O que mais dá para fazer na versão web? Como sair do WhatsApp Web? Qual é melhor: WhatsApp Web ou WhatsApp Desktop? O Canaltech está no WhatsApp! Entre no canal e acompanhe notícias e dicas de tecnologia WhatsApp Continua após a publicidade Como usar o WhatsApp Web? O WhatsApp Web reúne muitos recursos encontrados no aplicativo para celulares . Logo na tela principal, é possível visualizar um painel lateral e uma lista de conversas em coluna à esquerda. Ao clicar, a janela de mensagens é exibida, e você pode conversar ou enviar arquivos de mídia. Como enviar e baixar arquivos A versão Web permite enviar fotos, vídeos e documentos do computador para outras pessoas nas conversas: Clique no ícone de “+” no campo de mensagem; Selecione o formato do arquivo; Selecione o arquivo no computador; Envie o arquivo na conversa. Como salvar contatos Agora, é possível salvar um contato diretamente pelo WhatsApp Web , sem precisar iniciar uma conversa com o número ou salvá-lo no celular — dá para sincronizar com os seus contatos no smartphone. Como colocar senha Continua após a publicidade O mensageiro pode ser protegido por senha para proteger as conversas de pessoas que usam ou tentam olhar o seu computador. Saiba como: Abra o WhatsApp Web; Clique no ícone de engrenagem; Acesse “Privacidade”; Desça a tela e clique em “Bloqueio do app”; Ative a opção e insira senha. Como formatar texto Assim como no celular, a versão web do mensageiro permite usar negrito, itálico, tachado ou monoespaçado , além de incluir citações, blocos de código e listas com marcadores. Continua após a publicidade Além disso, você pode usar os mesmos atalhos de formatação do aplicativo para Android e iOS e, se a mensagem ficar muito grande, dá para pular linha no texto. Como entrar no WhatsApp Web? O processo para entrar no WhatsApp Web é dividido em duas partes : primeiro, é necessário abrir o site do mensageiro e gerar um QR Code, depois você precisa concluir a ação no celular. Veja: No PC, siga estes passos: Continua após a publicidade Acesse o site do WhatsApp ( web.whatsapp.com Aguarde a exibição de um QR Code na tela; Pegue o celular e conclua o processo por lá. Para usuários do Android Abra o WhatsApp; Toque no ícone de três pontos (menu); Selecione “Dispositivos conectados”; Toque em “Conectar um aparelho”; Valide o processo com a sua senha; Aponte a câmera para escanear o QR Code exibido no WhatsApp Web. Se você usar dispositivos iOS Continua após a publicidade Abra o WhatsApp; Toque em \"Configurações\"; Vá em \"Dispositivos conectados\"; Toque em \"Conectar um aparelho\"; Insira a sua senha para confirmar; Aponte a câmera para o QR Code exibido no computador. Vale lembrar que, depois de conectado uma vez, você pode usar o WhatsApp Web mesmo que o celular esteja desligado ou desconectado da internet — isso vale para iPhone e Android. Como entrar no WhatsApp Web sem QR Code? O WhatsApp oferece uma alternativa para acessar a versão para navegadores sem escanear um QR Code, ideal para casos em que a câmera do celular não funciona. No lugar do método tradicional, é possível fazer login com o número de telefone e digitar um código alfanumérico no celular Continua após a publicidade O que mais dá para fazer na versão web? Muitas das funções do WhatsApp para celulares estão presentes na versão web, como: Enviar GIFs; Criar e enviar figurinhas; Agendar eventos; Participar de canais e comunidades; Criar e gerenciar grupos; Mudar o papel de parede da conversa; Ver e publicar Status. Já as chamadas de áudio e vídeo estão disponíveis apenas nos aplicativos para Android, iOS, macOS e Windows Continua após a publicidade Como sair do WhatsApp Web? Quando você fecha o navegador, sua conta do WhatsApp continua conectada por lá. Logo, se você divide o PC com outras pessoas ou usou a máquina de alguém, o ideal é desconectar o mensageiro ao parar de usar. Você pode sair do WhatsApp Web pelo navegador ou fazer isso de forma remota pelo celular principal. Qual é melhor: WhatsApp Web ou WhatsApp Desktop? Continua após a publicidade Você pode acessar o WhatsApp no PC pelo navegador ou aplicativo para desktop disponível para macOS e Windows. Uma vantagem do app é que ele permite chamadas de áudio e vídeo e não depende do navegador para funcionar. Já o WhatsApp Web dispensa a instalação de um software em seu computador , que pode comprometer a memória, e pode ser usada rapidamente em diferentes dispositivos. Além disso, pode ser melhorado com extensões para navegadores. Portanto, cabe a você decidir a melhor opção : se você precisa fazer chamadas com frequência, a versão para desktop é ideal, mas se o foco é abrir o Zap em muitos computadores diferentes, é melhor manter a versão para navegadores. Confira outros conteúdos do Canaltech: Continua após a publicidade Como deixar mensagens do WhatsApp Web borradas Como postar status no WhatsApp Web | Guia Prático Como usar o WA Web Plus e turbinar seu WhatsApp VÍDEO: O que é o Stop Killing Games? Será LEI a preservação de jogos digitais na União Europeia?",
       "data_acesso": "2026-03-13T14:24:11.376574",
       "tamanho": 5897
+    },
+    "https://infob.com.br/azure-vs-aws-qual-melhor-cloud-empresas/": {
+      "titulo": "Azure vs AWS: qual cloud faz mais sentido para empresas?",
+      "texto_completo": "13 de março de 2026 13 de março de 2026 Cloud Quando uma empresa decide migrar sua infraestrutura para a nuvem, uma das primeiras perguntas que surge é: Azure ou AWS? As duas plataformas dominam o mercado global de cloud computing, mas atendem perfis diferentes de organizações. Em termos práticos, AWS é frequentemente escolhida por empresas de tecnologia e startups , enquanto o Microsoft Azure costuma ser preferido por organizações que já utilizam o ecossistema Microsoft A melhor escolha depende menos da tecnologia isolada e mais de fatores como integração com sistemas existentes, estratégia de dados, equipe de TI e objetivos de transformação digital Neste guia vamos analisar de forma realista a comparação Azure AWS , explicando onde cada plataforma se destaca e quando uma delas costuma ser a escolha mais estratégica. Leia mais em: Microsoft Azure: Guia Completo para Empresas (Arquitetura, Custos, Segurança e Inteligência Artificial) O que realmente muda na prática entre Azure e AWS? Tanto Microsoft Azure quanto Amazon Web Services (AWS) oferecem praticamente os mesmos pilares de infraestrutura: computação armazenamento banco de dados inteligência artificial networking segurança. A diferença está na forma como esses serviços se integram ao ambiente de TI da empresa A AWS foi pioneira no mercado de cloud pública e construiu ao longo dos anos um enorme catálogo de serviços. Já o Azure cresceu rapidamente apoiado na base corporativa da Microsoft, especialmente entre empresas que utilizam: Microsoft 365 Windows Server Active Directory SQL Server .NET Essa integração acaba pesando muito na decisão final. Azure vs AWS: quem lidera o mercado de cloud? De acordo com dados recentes de mercado, a AWS ainda possui a maior participação global em cloud pública. Estimativas de mercado apontam aproximadamente: AWS: cerca de 30% do mercado Microsoft Azure: cerca de 25% Google Cloud: cerca de 10% Mesmo assim, o Azure vem crescendo rapidamente, especialmente no segmento corporativo. Muitas organizações que historicamente utilizavam infraestrutura Microsoft migraram naturalmente para Azure como extensão da própria arquitetura existente Azure ou AWS: qual plataforma é mais usada por empresas? A resposta depende muito do tipo de empresa. AWS costuma dominar empresas digitais Empresas que nasceram na era da internet frequentemente adotaram AWS desde o início. Exemplos incluem plataformas digitais como: Netflix Airbnb Slack Pinterest Essas empresas utilizam AWS para executar arquiteturas altamente distribuídas baseadas em microsserviços A maturidade da AWS nesse tipo de arquitetura ainda é considerada uma das melhores do mercado. Azure domina ambientes corporativos tradicionais Por outro lado, grandes organizações com infraestrutura Microsoft tendem a escolher Azure. Isso acontece porque o Azure se conecta naturalmente com ferramentas amplamente utilizadas no mundo corporativo. Por exemplo: autenticação via Microsoft Entra ID (Azure AD) integração direta com Microsoft 365 gestão de servidores Windows integração com SQL Server e Power BI Em muitos projetos, o Azure acaba sendo adotado inicialmente para backup, disaster recovery ou extensão de datacenter , evoluindo depois para aplicações cloud-native. Comparação Azure AWS: serviços equivalentes Apesar dos nomes diferentes, muitos serviços são equivalentes. Servidores virtuais AWS utiliza: EC2 Azure utiliza: Azure Virtual Machines Ambos permitem criar servidores sob demanda com escalabilidade. Containers e Kubernetes AWS oferece: Elastic Kubernetes Service (EKS) Azure oferece: Azure Kubernetes Service (AKS) Esses serviços são usados para executar aplicações modernas baseadas em containers. Armazenamento AWS possui o famoso: S3 Azure oferece: Blob Storage Ambos são usados para armazenar grandes volumes de dados, backups e arquivos. Azure vantagens e desvantagens Em projetos corporativos, algumas vantagens do Azure aparecem com frequência. Integração com identidade corporativa Uma das maiores vantagens do Azure é a integração direta com Microsoft Entra ID Isso permite centralizar autenticação e políticas de acesso para: Microsoft 365 aplicações corporativas infraestrutura cloud. Estratégias híbridas Muitas empresas ainda operam parte da infraestrutura local. O Azure possui ferramentas muito maduras para cenários hybrid cloud , conectando datacenters locais à nuvem. Inteligência artificial integrada O Azure oferece integração nativa com Azure OpenAI , facilitando a implementação de IA em aplicações corporativas. AWS vantagens e desvantagens Maturidade do ecossistema AWS possui um catálogo gigantesco de serviços e uma comunidade técnica muito consolidada. Isso facilita encontrar ferramentas, bibliotecas e arquiteturas já testadas. Forte adoção em cloud-native Aplicações modernas baseadas em microservices e arquitetura distribuída frequentemente nascem em AWS. Qual é a melhor cloud para empresas? Na prática, a resposta depende muito da realidade da organização. Algumas perguntas ajudam a tomar essa decisão: A empresa já utiliza tecnologias Microsoft? A equipe de TI possui experiência com qual plataforma? As aplicações são legadas ou cloud-native? Existe necessidade de infraestrutura híbrida? Esses fatores influenciam mais do que a comparação técnica isolada. Quando Azure costuma ser a escolha mais estratégica Em muitos projetos corporativos, Azure se torna a escolha natural quando a empresa já utiliza: Microsoft 365 Active Directory SQL Server aplicações baseadas em .NET. Nesse cenário, a integração entre identidade, segurança e infraestrutura costuma ser muito mais simples. FAQ — Azure vs AWS Azure ou AWS: qual é mais barato? Depende da arquitetura. Ambas usam modelo pay-as-you-go e os custos variam conforme uso e otimização. AWS é melhor que Azure? Não necessariamente. Cada plataforma possui vantagens dependendo do cenário. Azure funciona melhor com Microsoft 365? Sim. O Azure possui integração nativa com identidade e segurança do Microsoft 365. Empresas podem usar Azure e AWS ao mesmo tempo? Sim. Muitas organizações adotam estratégia multi-cloud Conclusão A discussão Azure vs AWS não deve ser tratada como uma disputa simples entre duas tecnologias. Na prática, a escolha da melhor cloud depende da estratégia de TI da empresa, do ecossistema já utilizado e do tipo de aplicação que será executada. Para organizações que já utilizam tecnologias Microsoft, o Azure frequentemente oferece uma integração mais natural com identidade, segurança e produtividade corporativa Se sua empresa está avaliando migrar para cloud ou modernizar sua infraestrutura, uma análise arquitetural adequada pode evitar custos desnecessários e acelerar os resultados. 👉 A Infob pode ajudar sua empresa a avaliar a melhor estratégia de cloud, desenhar arquiteturas seguras e implementar ambientes Azure preparados para crescimento e inovação. Prev Post Quais são os principais. Next Post Azure vs Google Cloud:.",
+      "data_acesso": "2026-03-13T14:25:25.985926",
+      "tamanho": 6926
+    },
+    "https://tutorialq.com/cloud/aws/aws-vs-azure-vs-gcp-2026": {
+      "titulo": "AWS vs Azure vs GCP — Complete Comparison Guide (2026) | tutorialQ",
+      "texto_completo": "AWS vs Azure vs GCP — Complete Comparison (2026) Three clouds dominate the market. Each has clear strengths and weaknesses. This guide helps you pick the right one for your workload. Copy AWS → Most services, largest ecosystem, default enterprise choice Azure → Best Microsoft/hybrid integration, strong enterprise identity GCP → Best data/AI/ML, superior Kubernetes, developer-friendly Market Position (2026) Cloud Market Share Revenue (Annual) Key Advantage AWS ~31% ~$110B+ Broadest service catalog, most mature Azure ~25% ~$85B+ Microsoft ecosystem, hybrid cloud GCP ~12% ~$45B+ AI/ML leadership, data analytics All three are converging in core capabilities. The differences are in maturity, pricing, ecosystem, and specialized services. Compute Virtual Machines Feature AWS (EC2) Azure (VMs) GCP (Compute Engine) Instance types 750+ 500+ 100+ Custom VM sizes Limited Limited ✅ (exact CPU/RAM) Spot/preemptible savings Up to 90% Up to 90% Up to 91% Bare metal GPU instances Broadest selection Good (NVIDIA + AMD) Strong (TPUs unique) Live migration ✅ (maintenance without reboot) Sustained use discounts ❌ (need Reserved) ❌ (need Reserved) ✅ (automatic) Per-second billing Verdict: AWS has the most options. GCP has the best pricing model (automatic sustained use discounts, custom sizes). Azure is solid for Windows workloads. Serverless Compute Feature AWS Lambda Azure Functions Google Cloud Functions Max execution time 15 min 10 min (Consumption) 60 min (2nd gen) Max memory 10 GB 14 GB 32 GB Languages 7 native + custom 7 native + custom 8 native + custom Cold start (typical) 100-500ms 500ms-2s 100-500ms Container support ✅ (up to 10GB image) ✅ (Cloud Run) Event sources 200+ 100+ 50+ Pricing (per 1M invocations) $0.20 $0.20 $0.40 Verdict: AWS Lambda is the most mature with the most integrations. Cloud Run (GCP) offers the best serverless container experience. Azure Functions integrates deeply with the Microsoft stack. Container Orchestration Feature AWS (EKS/ECS) Azure (AKS) GCP (GKE) Managed Kubernetes EKS ($73/mo control plane) AKS (free control plane) GKE ($73/mo Standard, free Autopilot control plane) Serverless containers Fargate Container Apps Cloud Run Auto-scaling Karpenter, Cluster Autoscaler KEDA, Cluster Autoscaler GKE Autopilot (fully managed) GPU support Service mesh App Mesh Istio-based Istio (native) Release channels ✅ (Rapid/Regular/Stable) Verdict: GKE is the gold standard for Kubernetes (Google created K8s). AKS is free for the control plane. EKS has the most ecosystem integrations. GKE Autopilot is the easiest fully managed K8s. Storage Feature AWS Azure GCP Object storage S3 Blob Storage Cloud Storage Block storage EBS Managed Disks Persistent Disk File storage EFS, FSx Azure Files Filestore Archive S3 Glacier Archive Storage Archive Storage CDN CloudFront Azure CDN / Front Door Cloud CDN Min object storage $/GB/mo $0.0036 (Glacier) $0.00099 (Archive) $0.0012 (Archive) Object Storage Comparison Feature S3 Blob Storage Cloud Storage Durability 99.999999999% (11 9s) 99.999999999% (11 9s) 99.999999999% (11 9s) Availability SLA 99.99% 99.99% 99.99% Storage classes 8 4 4 Lifecycle policies Versioning Event notifications Access tiers auto Intelligent-Tiering ✅ (Hot/Cool/Archive) Autoclass Verdict: All three are essentially equivalent for storage. S3 has the most mature ecosystem. Azure Archive is the cheapest cold storage. GCP Autoclass simplifies lifecycle management. Databases Database Type AWS Azure GCP Managed PostgreSQL RDS, Aurora Azure Database for PostgreSQL Cloud SQL, AlloyDB Managed MySQL RDS, Aurora Azure Database for MySQL Cloud SQL NoSQL (document) DynamoDB Cosmos DB Firestore NoSQL (wide-column) DynamoDB Cosmos DB (Cassandra API) Bigtable In-memory cache ElastiCache (Redis/Memcached) Azure Cache for Redis Memorystore Graph database Neptune Cosmos DB (Gremlin API) ❌ (partner solutions) Serverless SQL Aurora Serverless Azure SQL Serverless BigQuery Data warehouse Redshift Synapse Analytics BigQuery Key Differentiators AWS DynamoDB : Best serverless NoSQL — single-digit ms latency, auto-scaling, zero maintenance Azure Cosmos DB : Multi-model (document, graph, column, table) with global distribution and 5 consistency levels GCP BigQuery : Best serverless data warehouse — analyze petabytes with standard SQL, pay per query GCP AlloyDB : PostgreSQL-compatible with 4x performance and AI-native vector search Verdict: Each cloud has standout databases. DynamoDB for simple, fast NoSQL. Cosmos DB for multi-model flexibility. BigQuery for analytics. Choose based on your data model. AI and Machine Learning This is where the clouds diverge most significantly. Feature AWS Azure GCP LLM API Bedrock (multi-model) Azure OpenAI Service Vertex AI (Gemini) Custom model training SageMaker Azure ML Vertex AI Pre-built AI APIs Rekognition, Comprehend, etc. Cognitive Services Vision AI, Natural Language, etc. AI hardware NVIDIA GPUs, Trainium, Inferentia NVIDIA GPUs, AMD GPUs NVIDIA GPUs, TPUs ML Ops SageMaker Pipelines Azure ML Pipelines Vertex AI Pipelines Vector database OpenSearch, MemoryDB Cosmos DB, AI Search AlloyDB, Vertex Vector Search AI agent platform Bedrock Agents Azure AI Agent Service Vertex AI Agent Builder The Real Differentiators GCP leads in AI infrastructure: TPUs — custom AI chips exclusive to GCP, best price/performance for training large models Gemini — Google's frontier model, directly accessible via Vertex AI BigQuery ML — run ML models with SQL syntax on your data warehouse Vertex AI Agent Builder — end-to-end agent development with grounding in Google Search Azure leads in enterprise AI: Azure OpenAI Service — exclusive cloud partnership with OpenAI (GPT-4o, o3, etc.) Enterprise-grade compliance — the only way to use OpenAI models with data sovereignty Copilot Studio — low-code AI agent builder integrated with Microsoft 365 AI Search — RAG-optimized vector + full-text search AWS leads in breadth: Bedrock — single API for Claude, Llama, Mistral, Titan, and others Trainium/Inferentia — custom chips for cost-effective training and inference SageMaker — most comprehensive ML platform (training, hosting, monitoring) Verdict: GCP for cutting-edge AI/ML and TPUs. Azure for OpenAI models in enterprise. AWS for multi-model flexibility via Bedrock. All three are investing heavily — this space changes quarterly. Networking Feature AWS Azure GCP Virtual network VPC VNet VPC Load balancer ALB, NLB, GLB Azure LB, App Gateway Cloud Load Balancing CDN CloudFront Azure CDN / Front Door Cloud CDN DNS Route 53 Azure DNS Cloud DNS VPN Site-to-Site VPN VPN Gateway Cloud VPN Direct connect Direct Connect ExpressRoute Cloud Interconnect Global network ❌ (regional by default) ✅ (global VNet peering) ✅ (premium tier — Google's private network) Service mesh App Mesh ❌ (partner) Traffic Director GCP's unique advantage: Premium Tier networking routes traffic through Google's private global fiber network (same infrastructure that powers YouTube and Search), resulting in lower latency and higher throughput. Pricing Models All three offer similar pricing structures but with key differences: Cost Comparison: Web App (1M requests/day) Component AWS Azure GCP 4-vCPU VM (on-demand) ~$140/mo ~$140/mo ~$120/mo Same VM (1-yr committed) ~$88/mo ~$88/mo ~$84/mo Managed PostgreSQL ~$160/mo ~$160/mo ~$130/mo Object storage (100GB) ~$2.30/mo ~$2.08/mo ~$2.60/mo Data transfer (1TB out) ~$87/mo ~$87/mo ~$110/mo Load balancer ~$22/mo ~$25/mo ~$18/mo Prices are approximate and vary by region. Pricing Advantages Cloud Pricing Strength AWS Most Reserved Instance flexibility, Savings Plans, largest spot market Azure Hybrid Benefit (use existing Windows/SQL licenses), Azure Dev/Test pricing GCP Automatic sustained use discounts (no commitment needed), custom VM sizes, committed use discounts with flexibility Free Tiers AWS Azure GCP Duration 12 months + always-free 12 months + always-free 90 days ($300) + always-free Free VM t2.micro (750 hrs/mo) B1s (750 hrs/mo) e2-micro (always free) Free storage 5GB S3 5GB Blob 5GB Cloud Storage Free functions 1M invocations/mo (always) 1M invocations/mo (always) 2M invocations/mo (always) Free database 750 hrs RDS 750 hrs SQL ❌ (Firestore: 1GB free) Verdict: GCP is often cheapest for compute due to sustained use discounts and custom sizing. Azure wins if you have existing Microsoft licenses. AWS has the most flexible commitment options. Developer Experience Feature AWS Azure GCP Console UI Functional, cluttered Modern, improving Cleanest, most intuitive CLI aws (mature) az (good) gcloud (excellent) IaC CloudFormation, CDK Bicep, ARM, Terraform Terraform, Deployment Manager SDK quality Excellent Good Excellent Documentation Comprehensive but verbose Improving, some gaps Clear and well-organized Local emulator LocalStack (3rd party) Azure Storage Emulator, Azurite Firebase Emulator, Pub/Sub Emulator Learning resources Extensive Extensive (MS Learn) Good (Qwiklabs, Coursera) Verdict: GCP has the cleanest developer experience. AWS has the largest community and most third-party resources. Azure has the best structured learning platform (MS Learn). When to Choose Each Choose AWS When You need the broadest selection of services Your team already knows AWS You need a large partner/consultant ecosystem You want the most mature cloud platform You're using multi-model AI via Bedrock Choose Azure When Your org runs Microsoft 365, Active Directory, or Windows Server You have existing Microsoft license agreements (Hybrid Benefit) You need Azure OpenAI (GPT-4o, o3) with enterprise compliance You need hybrid cloud (Azure Arc, Azure Stack) You're in a regulated industry that mandates Azure compliance certifications Choose GCP When AI/ML is core to your product (TPUs, Vertex AI, BigQuery ML) You need the best Kubernetes experience (GKE) Data analytics is a primary workload (BigQuery) You want the simplest pricing model Developer experience and clean APIs are priorities Multi-Cloud: Should You Use More Than One? Copy Multi-clou",
+      "data_acesso": "2026-03-13T14:25:29.788946",
+      "tamanho": 12716
+    },
+    "https://medhacloud.com/compare/aws-vs-azure": {
+      "titulo": "AWS vs Azure 2026: Honest Comparison for Business | Medha Cloud",
+      "texto_completo": "Expert Comparison AWS vs Azure: Which Cloud Platform Is Right for Your Business? Choosing between Amazon Web Services (AWS) and Microsoft Azure is one of the most consequential technology decisions your business will make. Both are enterprise-grade cloud platforms, but they excel in different areas. This comparison is based on our experience managing 500+ cloud deployments across both platforms. Side-by-Side Comparison Factor Amazon Web Services (AWS) Microsoft Azure Market Share #1 globally (31%) #2 globally (25%) Compute Options 750+ instance types (EC2) 500+ VM sizes Microsoft Integration Limited (Workspaces) Native (AD, M365, Teams) Enterprise Licensing Pay-as-you-go only Azure Hybrid Benefit saves 40%+ AI/ML Services SageMaker, Bedrock (leading) Azure AI, OpenAI integration Database Options RDS, DynamoDB, Aurora SQL Database, Cosmos DB Kubernetes EKS (mature) AKS (simpler setup) Global Regions 33 regions 60+ regions Pricing Complexity Complex, many SKUs Simpler, EA discounts DevOps Ecosystem CodePipeline, CloudFormation Azure DevOps (superior CI/CD) Compliance Certs FedRAMP, HIPAA, PCI FedRAMP, HIPAA, PCI + Gov Cloud Startup Credits Up to $100K (Activate) Up to $150K (Founders Hub) Our Verdict Choose AWS if you need the broadest service catalog, are building cloud-native applications, or need advanced ML/AI capabilities. Choose Azure if your organization uses Microsoft 365, Active Directory, or wants simplified hybrid cloud with Azure Arc. Most of our clients with Microsoft-centric environments save 30-40% on Azure through Hybrid Benefit. We manage both platforms and can help you decide based on your specific workloads. Get a Free Cloud Assessment Frequently Asked Questions Which is cheaper, AWS or Azure? It depends on your workloads. Azure is typically 20-40% cheaper for organizations with existing Microsoft licenses (Azure Hybrid Benefit). AWS can be cheaper for cloud-native workloads with heavy spot instance usage. We recommend a cost analysis with both platforms before deciding. Can I use both AWS and Azure? Yes, multi-cloud is increasingly common. About 30% of our clients use both platforms, running different workloads on each. We provide multi-cloud management through our public cloud solutions. Which cloud is better for compliance? Both meet major compliance standards (HIPAA, PCI DSS, SOC 2, FedRAMP). Azure has a slight edge for government workloads with Azure Government and dedicated sovereign regions. Related Services Azure Migration Services AWS Migration Services Cloud Consulting Microsoft Azure Hosting Public Cloud Solutions Explore Our Services VPS Hosting /cloud-hosting/hosting-solutions/virtual-private-server Microsoft 365 Pricing & Plans /cloud-hosting/microsoft/microsoft-365 Microsoft Azure Cloud Services /cloud-hosting/microsoft/azure HIPAA Compliant Cloud Hosting /cloud-hosting/specialty-hosting/hipaa-cloud-hosting Google Workspace Solutions /cloud-hosting/google/google-workspace PCI DSS Compliant Hosting /cloud-hosting/specialty-hosting/pci-dss-hosting Google Cloud Platform Services /cloud-hosting/google/google-cloud-platform SAP ERP Hosting /cloud-hosting/specialty-hosting/sap-erp-hosting",
+      "data_acesso": "2026-03-13T14:25:36.618821",
+      "tamanho": 3171
+    },
+    "https://learn.microsoft.com/pt-br/azure/architecture/aws-professional/compute": {
+      "titulo": "Comparar serviços de computação do AWS e Azure - Azure Architecture Center | Microsoft Learn",
+      "texto_completo": "Sumário Sair do modo Editor Pergunte ao Learn Pergunte ao Learn Modo de foco Sumário Ler em inglês Adicionar Adicionar ao plano Compartilhar via Facebook x.com LinkedIn Email Copiar Markdown Imprimir Observação O acesso a essa página exige autorização. Você pode tentar entrar ou alterar diretórios O acesso a essa página exige autorização. Você pode tentar alterar os diretórios Serviços de computação em Azure e AWS Comentários Este artigo compara os principais serviços de computação que o Microsoft Azure e o Amazon Web Services (AWS) oferecem. Para obter links para artigos que comparam outros serviços AWS e Azure, consulte Azure para profissionais da AWS Para obter uma listagem completa e gráficos que mostram o mapeamento de serviços entre a AWS e o Azure, consulte Comparação de serviços da AWS para Azure Navegue pelas arquiteturas de computação do Azure Comparar serviços de computação do AWS e Azure As tabelas a seguir descrevem e comparam os principais serviços de computação no Amazon Web Services (AWS) e Azure. Máquinas virtuais e servidores As máquinas virtuais (VMs) e os servidores permitem que os usuários implementem, gerenciem e mantenham o sistema operacional e outros softwares. Os usuários pagam pelo que usam, com a flexibilidade de mudar os tamanhos. Serviço AWS serviço Azure Descrição Tipos de instância do Amazon EC2 Azure Virtual Machines AWS e Azure cobram VMs sob demanda por segundo utilizado. Embora os tipos de instância do AWS e os tamanhos de VM do Azure tenham categorias semelhantes, as capacidades exatas de RAM, CPU e armazenamento diferem. Para obter mais informações sobre Azure tamanhos de VM, consulte Azure tamanhos de VM Cluster paralelo do AWS Azure CycleCloud Criar, gerenciar, operar e otimizar HPCs e clusters de computação de grande porte de qualquer escala. Exibir todas as arquiteturas de máquinas virtuais Dimensionamento automático O dimensionamento automático permite alterar automaticamente o número de instâncias de VM. Você define métricas e limites que determinam quando adicionar ou remover instâncias. Serviço AWS serviço Azure Descrição Dimensionamento automático do AWS Conjuntos de dimensionamento de máquinas virtuais Dimensionamento automático do Serviço de Aplicativo Em Azure, os conjuntos de dimensionamento de máquinas virtuais permitem implantar e gerenciar conjuntos idênticos de VMs. O número de conjuntos pode ser dimensionado automaticamente. O dimensionamento automático do App Service permite que você dimensione automaticamente os aplicativos do Azure App Service. Exibir todas as arquiteturas de dimensionamento automático Processamento em lotes O processamento em lotes executa aplicativos paralelos em grande escala e aplicativos de computação de alto desempenho com eficiência na nuvem. Serviço AWS serviço Azure Descrição AWS Batch Azure Batch Azure Batch ajuda você a gerenciar trabalhos com uso intensivo de computação em uma coleção escalonável de VMs. Exibir todas as arquiteturas de processamento em lote Armazenamento Vários serviços fornecem diferentes tipos de armazenamento de dados para discos de VM. Serviço AWS serviço Azure Descrição Volumes de discos no EBS (Amazon Elastic Block Store) Discos de dados em Azure Blob Storage Discos de dados no armazenamento de blobs fornecem armazenamento de dados durável para VMs da Azure. Esse armazenamento é semelhante aos volumes de disco das instâncias EC2 da AWS na EBS. Repositório de instâncias do Amazon EC2 Armazenamento temporário do Azure Armazenamento temporário do Azure fornece às VMs um armazenamento temporário de leitura e gravação de baixa latência semelhante ao armazenamento de instâncias EC2, também chamado de armazenamento efêmero. Volume de IOPS provisionado do Amazon EBS Armazenamento premium do Azure Azure dá suporte a E/S de disco de maior desempenho com armazenamento premium. Esse armazenamento é semelhante às opções de armazenamento de IOPS provisionadas do AWS. EFS (Amazon Elastic File System) Azure Files Azure Files fornece VMs com funcionalidade semelhante ao Amazon EFS. Exibir todas as arquiteturas de armazenamento Contêineres e orquestradores de contêineres Vários serviços de AWS e Azure fornecem implantação e orquestração de aplicativos em contêineres. Serviço AWS serviço Azure Descrição Amazon ECS (Amazon Elastic Container Service) Azure Container Apps O Amazon ECS é um serviço de orquestração de contêineres para implantar e gerenciar aplicativos em contêineres. Azure Container Apps é uma plataforma de contêiner gerenciada com dimensionamento, descoberta de serviços e gerenciamento de tráfego embutidos. AWS Fargate Azure Container Instances Azure Container Apps O Fargate é um mecanismo de computação sem servidor que fornece capacidade de computação para tarefas do Amazon ECS e pods do Amazon EKS. Azure Container Instances fornece computação de contêiner sem servidor sob demanda e integra-se ao AKS por meio de nós virtual . Azure Container Apps também fornece gerenciamento de infraestrutura sem servidor com recursos de orquestração de nível superior. Registro de Contêiner Elástico da Amazon (Amazon ECR) Azure Container Registry Os registros de contêiner armazenam imagens formatadas pelo Docker e criam todos os tipos de implantações de contêiner na nuvem. Amazon Elastic Kubernetes Service (EKS) Azure Kubernetes Service (AKS) O EKS e o AKS permitem orquestrar implantações de aplicativos em contêineres do Docker com o Kubernetes. O AKS simplifica o gerenciamento de cluster e o monitoramento por meio de atualizações automáticas e um console de operações internas. Consulte a configuração de runtime do contêiner para obter detalhes sobre o ambiente de hospedagem. Malha do Aplicativo AWS Extensão Istio para AKS O complemento Istio para AKS fornece uma integração totalmente suportada da malha de serviço Istio de código aberto. Arquiteturas de contêiner de exemplo Arquitetura Descrição arquitetura Baseline em Azure Kubernetes Service (AKS) Implante uma infraestrutura de linha de base que implanta um cluster do AKS com um foco na segurança. arquitetura Microsserviços no Azure Kubernetes Service (AKS) Implante uma arquitetura de microsserviços no Azure Kubernetes Service (AKS). Pipeline de CI/CD para cargas de trabalho baseadas em contêiner Crie um pipeline de DevOps para um aplicativo Web Node.js com Jenkins, Azure Container Registry, Azure Kubernetes Service, Azure Cosmos DB e Grafana. Exibir todas as arquiteturas de contêiner Computação sem servidor A computação sem servidor integra sistemas e executa processos de back-end sem provisionar ou gerenciar servidores. Serviço AWS serviço Azure Descrição AWS Lambda Azure Functions WebJobs em Azure App Service Azure Functions é o equivalente primário do Lambda do AWS no fornecimento de código sob demanda sem servidor. A funcionalidade lambda do AWS também se sobrepõe a Azure WebJobs, que permitem agendar ou executar continuamente tarefas em segundo plano. Exemplo de arquiteturas sem servidor Arquitetura Descrição Padrão de escalabilidade multinuvem Saiba como melhorar a escalabilidade entre nuvens com uma arquitetura de solução que inclui Azure Stack. Um fluxograma passo a passo detalha as instruções para implementação. Exibir todas as arquiteturas sem servidor Colaboradores Esse artigo é mantido pela Microsoft. Ele foi originalmente escrito pelos colaboradores a seguir. Autor principal: Kobi Levi | Arquiteto de Soluções na Nuvem Próximas etapas Quickstart: criar uma máquina virtual Linux no portal do Azure Criar um aplicativo Web Node.js em Azure Introdução ao Azure Functions Arquitetura de design do serviço Azure Kubernetes (AKS) Recursos relacionados Arquitetura de Base para um cluster do Azure Kubernetes Service (AKS) A arquitetura de microsserviços no Azure Kubernetes Service Executar uma máquina virtual Linux em Azure Aplicativo Web básico Aplicativo Web de linha de base do Serviço de Aplicativo com redundância de zona Descobrir instâncias do AWS Avaliar instâncias do AWS Migrar VMs do AWS Migrar o AWS para discos gerenciados Migrar uma máquina virtual AWS Windows Comentários Esta página foi útil? Yes No No Precisa de ajuda com este tópico? Quer experimentar o Pergunte e Aprenda para esclarecer ou guiar você neste tópico? Pergunte ao Learn Pergunte ao Learn Sugerir uma correção? Recursos adicionais Last updated on 2026-03-11",
+      "data_acesso": "2026-03-13T14:25:38.762667",
+      "tamanho": 8330
+    },
+    "https://support.google.com/admanager/answer/12654?hl=es": {
+      "titulo": "Permitir JavaScript en un navegador - Ayuda de Google Ad Manager",
+      "texto_completo": "Permitir JavaScript en un navegador En este artículo se explica cómo permitir JavaScript en Google Chrome, que es necesario para mostrar algunos elementos multimedia, incluidos algunos anuncios de Google. También encontrarás enlaces a la documentación para activar JavaScript en otros navegadores populares. Secciones de esta página: Activar JavaScript en Google Chrome Activar JavaScript en otros navegadores Activar JavaScript en Google Chrome Puedes definir permisos en Google Chrome para todos los sitios o para los sitios que elijas. Sigue estas instrucciones para activar JavaScript en tu ordenador Android y dispositivo Apple En ordenadores Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en el ordenador. En la parte superior derecha, haz clic en y, a continuación, en Configuración Haga clic en Privacidad y seguridad Vaya a \"Privacidad y seguridad\" y haga clic en Configuración de sitios Vaya a \"Contenido\" y, a continuación, haga clic en JavaScript Seleccione \"Los sitios pueden usar JavaScript\" como comportamiento predeterminado. Desde esta pantalla, también puedes añadir sitios a los que no se les permite usar JavaScript o seleccionar \"No permitir que los sitios usen JavaScript\" como comportamiento predeterminado y, a continuación, elegir los sitios específicos que quieres que se permitan. En teléfonos o tablets Android Para definir permisos de JavaScript, haga lo siguiente: Abre Chrome en un teléfono o tablet Android. En la parte superior derecha, toca Más Configuración En \"Configuración avanzada\", toca Configuración de sitios JavaScript Activa JavaScript. En iPhones y iPads JavaScript está activado de forma predeterminada en los dispositivos iPhone y iPad. Activar JavaScript en otros navegadores Si utilizas un navegador admitido que no es Chrome, consulta tu página de asistencia para obtener instrucciones sobre cómo activar JavaScript y para saber si lo admite. Sigue las instrucciones específicas de tu navegador: Microsoft Edge Mozilla Firefox Apple Safari Opera Factores que pueden afectar a la configuración de JavaScript en un navegador Las actualizaciones del navegador, el software de seguridad o los parches pueden cambiar la configuración de JavaScript. Si tienes problemas para ver los anuncios de Google, comprueba que JavaScript esté permitido en tu navegador. Algunos navegadores le permiten configurar JavaScript de forma que, cuando estos necesiten usarlo, se muestre una advertencia al usuario. En estos casos, si un anuncio de Google requiere JavaScript, los usuarios pueden dar permiso para cargar el contenido. Si sigues teniendo problemas, usa la herramienta para solucionar problemas con el servicio de anuncios ¿Te ha resultado útil esta información? ¿Cómo podemos mejorar esta página? Sí No Enviar",
+      "data_acesso": "2026-03-13T14:25:48.621618",
+      "tamanho": 2772
     }
   },
   "indices": {
@@ -9949,7 +10089,9 @@
         "581c8fb845bd6d65",
         "b8f86559bf96fa79",
         "e21f689f4d1500b8",
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "6fddd04117eaedbc",
+        "1af3e9801063ed28"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -9963,7 +10105,12 @@
         "b742dc8a21aec10c",
         "357ae7ac9bd5d805",
         "6dff1d282dbafaf9",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "f542a8a92a748193",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78",
+        "4b178bdc59da544a",
+        "06412b81f68bbfee"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -9972,7 +10119,12 @@
         "a572412ab66c4013",
         "17380aa1e75c8e1c",
         "8ed8baff7acd22b8",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "1d4e81d94c23b2c2"
+      ],
+      "codigo": [
+        "026f23a1d4ac4177",
+        "aa95eaa70b67371b"
       ]
     },
     "por_fonte": {
@@ -10022,7 +10174,9 @@
         "689050b30110139b",
         "c0bc1e08f9743b2d",
         "c57b7501cd843672",
-        "8e38c2571d87f6ee"
+        "8e38c2571d87f6ee",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide": [
         "50d5db62fec12574",
@@ -10566,6 +10720,22 @@
       "https://canaltech.com.br/apps/como-usar-o-whatsapp-web/": [
         "60885b3930f0a187",
         "c6b34bef6d7f378b"
+      ],
+      "https://infob.com.br/azure-vs-aws-qual-melhor-cloud-empresas/": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "https://tutorialq.com/cloud/aws/aws-vs-azure-vs-gcp-2026": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
+      ],
+      "https://medhacloud.com/compare/aws-vs-azure": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "https://learn.microsoft.com/pt-br/azure/architecture/aws-professional/compute": [
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
       ]
     },
     "por_palavra": {
@@ -10573,7 +10743,11 @@
         "76e1b1a09f317aa1",
         "fe0a23e029896722",
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -10636,7 +10810,9 @@
         "7a07f2ff806d1129",
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
       ],
       "from": [
         "76e1b1a09f317aa1",
@@ -10656,7 +10832,9 @@
       ],
       "with": [
         "76e1b1a09f317aa1",
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2"
       ],
       "user": [
         "76e1b1a09f317aa1"
@@ -10671,7 +10849,8 @@
       ],
       "email": [
         "76e1b1a09f317aa1",
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "4b178bdc59da544a"
       ],
       "these": [
         "76e1b1a09f317aa1"
@@ -10680,7 +10859,8 @@
         "76e1b1a09f317aa1"
       ],
       "will": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "0414d536276c3f78"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -10714,7 +10894,8 @@
         "fe0a23e029896722"
       ],
       "they": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "0414d536276c3f78"
       ],
       "this": [
         "76e1b1a09f317aa1",
@@ -10722,12 +10903,17 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78"
       ],
       "different": [
         "76e1b1a09f317aa1",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "vulnerabilities": [
         "76e1b1a09f317aa1"
@@ -10752,16 +10938,19 @@
         "7a07f2ff806d1129"
       ],
       "strong": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "71a1a96eb62a2f10"
       ],
       "default": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "71a1a96eb62a2f10"
       ],
       "authentication": [
         "76e1b1a09f317aa1"
       ],
       "identity": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "71a1a96eb62a2f10"
       ],
       "firewall": [
         "76e1b1a09f317aa1"
@@ -10778,7 +10967,12 @@
         "b742dc8a21aec10c",
         "357ae7ac9bd5d805",
         "6dff1d282dbafaf9",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "f542a8a92a748193",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78",
+        "4b178bdc59da544a",
+        "06412b81f68bbfee"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -10797,7 +10991,12 @@
         "b742dc8a21aec10c",
         "357ae7ac9bd5d805",
         "6dff1d282dbafaf9",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "f542a8a92a748193",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78",
+        "4b178bdc59da544a",
+        "06412b81f68bbfee"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -10831,7 +11030,9 @@
       "data": [
         "869ef110cbcdc27e",
         "a572412ab66c4013",
-        "837db61bcf100381"
+        "837db61bcf100381",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
       ],
       "access": [
         "869ef110cbcdc27e"
@@ -10935,10 +11136,13 @@
       ],
       "public": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "1d4e81d94c23b2c2"
       ],
       "learn": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
       ],
       "about": [
         "fe0a23e029896722"
@@ -10956,10 +11160,12 @@
         "fe0a23e029896722"
       ],
       "infrastructure": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "026f23a1d4ac4177"
       ],
       "government": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "1d4e81d94c23b2c2"
       ],
       "collaboration": [
         "fe0a23e029896722",
@@ -11019,7 +11225,9 @@
         "fe0a23e029896722"
       ],
       "share": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78"
       ],
       "partnerships": [
         "fe0a23e029896722",
@@ -11053,7 +11261,8 @@
         "7a07f2ff806d1129"
       ],
       "each": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "71a1a96eb62a2f10"
       ],
       "have": [
         "7a07f2ff806d1129",
@@ -11088,13 +11297,20 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "026f23a1d4ac4177"
       ],
       "cloud": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "6fddd04117eaedbc",
+        "f542a8a92a748193",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "datahoarder": [
         "581c8fb845bd6d65",
@@ -11110,7 +11326,11 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "table": [
         "581c8fb845bd6d65",
@@ -11149,7 +11369,8 @@
         "581c8fb845bd6d65"
       ],
       "make": [
-        "581c8fb845bd6d65"
+        "581c8fb845bd6d65",
+        "0414d536276c3f78"
       ],
       "also": [
         "581c8fb845bd6d65",
@@ -11172,7 +11393,8 @@
       ],
       "free": [
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "026f23a1d4ac4177"
       ],
       "paid": [
         "581c8fb845bd6d65",
@@ -11252,7 +11474,11 @@
       "google": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "3ba7175038ddccc0"
+        "3ba7175038ddccc0",
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "spreadsheets": [
         "581c8fb845bd6d65",
@@ -11294,7 +11520,8 @@
       ],
       "feature": [
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "026f23a1d4ac4177"
       ],
       "every": [
         "b8f86559bf96fa79",
@@ -11324,7 +11551,11 @@
         "b8f86559bf96fa79"
       ],
       "services": [
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "plans": [
         "b8f86559bf96fa79"
@@ -11480,11 +11711,16 @@
       ],
       "platform": [
         "3ba7175038ddccc0",
-        "e00a2380f9e7254a"
+        "e00a2380f9e7254a",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
       ],
       "service": [
         "3ba7175038ddccc0",
-        "e00a2380f9e7254a"
+        "e00a2380f9e7254a",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "aa95eaa70b67371b"
       ],
       "paas": [
         "3ba7175038ddccc0",
@@ -11863,7 +12099,8 @@
       "apps": [
         "3e417395659575d0",
         "28507d9dd792b9d2",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "aa95eaa70b67371b"
       ],
       "标签页旁的加号图标": [
         "3e417395659575d0",
@@ -12388,14 +12625,20 @@
         "8ed8baff7acd22b8",
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "6fddd04117eaedbc",
+        "f542a8a92a748193",
+        "aa95eaa70b67371b",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "aplicativo": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "aa95eaa70b67371b"
       ],
       "computador": [
         "8ed8baff7acd22b8",
@@ -12410,7 +12653,9 @@
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
         "60885b3930f0a187",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "6fddd04117eaedbc",
+        "1af3e9801063ed28"
       ],
       "passo": [
         "8ed8baff7acd22b8",
@@ -12422,7 +12667,9 @@
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
         "60885b3930f0a187",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
       ],
       "usar": [
         "8ed8baff7acd22b8",
@@ -12430,14 +12677,17 @@
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
         "60885b3930f0a187",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "1af3e9801063ed28"
       ],
       "navegador": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "celular": [
         "8ed8baff7acd22b8",
@@ -12465,7 +12715,8 @@
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
         "f4274a87f70b7a9c",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "4b178bdc59da544a"
       ],
       "dispositivos": [
         "8ed8baff7acd22b8",
@@ -12494,7 +12745,8 @@
       ],
       "entre": [
         "8ed8baff7acd22b8",
-        "357ae7ac9bd5d805"
+        "357ae7ac9bd5d805",
+        "6fddd04117eaedbc"
       ],
       "fazer": [
         "8ed8baff7acd22b8",
@@ -12516,7 +12768,11 @@
         "8ed8baff7acd22b8"
       ],
       "2026": [
-        "8ed8baff7acd22b8"
+        "8ed8baff7acd22b8",
+        "f542a8a92a748193",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78"
       ],
       "pelo": [
         "8ed8baff7acd22b8",
@@ -12543,7 +12799,8 @@
         "357ae7ac9bd5d805"
       ],
       "duas": [
-        "8ed8baff7acd22b8"
+        "8ed8baff7acd22b8",
+        "f542a8a92a748193"
       ],
       "conversas": [
         "8ed8baff7acd22b8",
@@ -12569,7 +12826,8 @@
         "8ed8baff7acd22b8"
       ],
       "março": [
-        "8ed8baff7acd22b8"
+        "8ed8baff7acd22b8",
+        "f542a8a92a748193"
       ],
       "tutorial": [
         "8ed8baff7acd22b8",
@@ -12654,7 +12912,9 @@
       "pode": [
         "f4274a87f70b7a9c",
         "6dff1d282dbafaf9",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
       ],
       "desktop": [
         "f4274a87f70b7a9c",
@@ -12700,7 +12960,9 @@
       ],
       "navegadores": [
         "f4274a87f70b7a9c",
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "figurinhas": [
         "f4274a87f70b7a9c"
@@ -12716,7 +12978,8 @@
       ],
       "compartilhar": [
         "f4274a87f70b7a9c",
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "4b178bdc59da544a"
       ],
       "texto": [
         "f4274a87f70b7a9c",
@@ -12726,13 +12989,19 @@
         "f4274a87f70b7a9c"
       ],
       "mais": [
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
       ],
       "site": [
         "f4274a87f70b7a9c"
       ],
       "página": [
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "confira": [
         "6dff1d282dbafaf9"
@@ -12768,7 +13037,9 @@
         "6dff1d282dbafaf9"
       ],
       "explica": [
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
       ],
       "chumbo": [
         "6dff1d282dbafaf9"
@@ -12786,7 +13057,8 @@
         "6dff1d282dbafaf9"
       ],
       "muitas": [
-        "6dff1d282dbafaf9"
+        "6dff1d282dbafaf9",
+        "6fddd04117eaedbc"
       ],
       "lança": [
         "6dff1d282dbafaf9"
@@ -12826,13 +13098,16 @@
         "60885b3930f0a187"
       ],
       "melhor": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
       ],
       "mensageiro": [
         "60885b3930f0a187"
       ],
       "android": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "1af3e9801063ed28"
       ],
       "toque": [
         "60885b3930f0a187"
@@ -12841,7 +13116,8 @@
         "60885b3930f0a187"
       ],
       "sair": [
-        "60885b3930f0a187"
+        "60885b3930f0a187",
+        "4b178bdc59da544a"
       ],
       "possível": [
         "60885b3930f0a187"
@@ -12931,7 +13207,8 @@
         "c6b34bef6d7f378b"
       ],
       "tecnologia": [
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "f542a8a92a748193"
       ],
       "primeira": [
         "c6b34bef6d7f378b"
@@ -12952,7 +13229,8 @@
         "c6b34bef6d7f378b"
       ],
       "termos": [
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "f542a8a92a748193"
       ],
       "política": [
         "c6b34bef6d7f378b"
@@ -12962,12 +13240,925 @@
       ],
       "consegue": [
         "c6b34bef6d7f378b"
+      ],
+      "azure": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "microsoft": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193",
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78",
+        "4b178bdc59da544a"
+      ],
+      "empresas": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "integração": [
+        "6fddd04117eaedbc"
+      ],
+      "infraestrutura": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "empresa": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "mercado": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "possui": [
+        "6fddd04117eaedbc"
+      ],
+      "aplicações": [
+        "6fddd04117eaedbc"
+      ],
+      "organizações": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "serviços": [
+        "6fddd04117eaedbc",
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "muito": [
+        "6fddd04117eaedbc"
+      ],
+      "costuma": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "escolha": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "depende": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "arquitetura": [
+        "6fddd04117eaedbc",
+        "aa95eaa70b67371b"
+      ],
+      "segurança": [
+        "6fddd04117eaedbc"
+      ],
+      "oferece": [
+        "6fddd04117eaedbc"
+      ],
+      "vantagens": [
+        "6fddd04117eaedbc"
+      ],
+      "quando": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "frequentemente": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "utilizam": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "estratégia": [
+        "6fddd04117eaedbc"
+      ],
+      "dados": [
+        "6fddd04117eaedbc",
+        "aa95eaa70b67371b"
+      ],
+      "plataforma": [
+        "6fddd04117eaedbc"
+      ],
+      "server": [
+        "6fddd04117eaedbc"
+      ],
+      "qual": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "baseadas": [
+        "6fddd04117eaedbc"
+      ],
+      "utiliza": [
+        "6fddd04117eaedbc"
+      ],
+      "identidade": [
+        "6fddd04117eaedbc"
+      ],
+      "ecossistema": [
+        "6fddd04117eaedbc",
+        "f542a8a92a748193"
+      ],
+      "comparação": [
+        "6fddd04117eaedbc"
+      ],
+      "custos": [
+        "6fddd04117eaedbc"
+      ],
+      "inteligência": [
+        "6fddd04117eaedbc"
+      ],
+      "artificial": [
+        "6fddd04117eaedbc"
+      ],
+      "prática": [
+        "6fddd04117eaedbc"
+      ],
+      "esses": [
+        "6fddd04117eaedbc"
+      ],
+      "corporativa": [
+        "6fddd04117eaedbc"
+      ],
+      "ainda": [
+        "6fddd04117eaedbc"
+      ],
+      "cerca": [
+        "6fddd04117eaedbc"
+      ],
+      "tipo": [
+        "6fddd04117eaedbc"
+      ],
+      "arquiteturas": [
+        "6fddd04117eaedbc",
+        "aa95eaa70b67371b"
+      ],
+      "corporativos": [
+        "6fddd04117eaedbc"
+      ],
+      "sentido": [
+        "f542a8a92a748193"
+      ],
+      "decide": [
+        "f542a8a92a748193"
+      ],
+      "migrar": [
+        "f542a8a92a748193"
+      ],
+      "nuvem": [
+        "f542a8a92a748193"
+      ],
+      "primeiras": [
+        "f542a8a92a748193"
+      ],
+      "perguntas": [
+        "f542a8a92a748193"
+      ],
+      "surge": [
+        "f542a8a92a748193"
+      ],
+      "plataformas": [
+        "f542a8a92a748193"
+      ],
+      "dominam": [
+        "f542a8a92a748193"
+      ],
+      "global": [
+        "f542a8a92a748193"
+      ],
+      "computing": [
+        "f542a8a92a748193"
+      ],
+      "atendem": [
+        "f542a8a92a748193"
+      ],
+      "perfis": [
+        "f542a8a92a748193"
+      ],
+      "diferentes": [
+        "f542a8a92a748193"
+      ],
+      "práticos": [
+        "f542a8a92a748193"
+      ],
+      "escolhida": [
+        "f542a8a92a748193"
+      ],
+      "startups": [
+        "f542a8a92a748193"
+      ],
+      "enquanto": [
+        "f542a8a92a748193"
+      ],
+      "preferido": [
+        "f542a8a92a748193"
+      ],
+      "most": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "multi": [
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2"
+      ],
+      "pricing": [
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2"
+      ],
+      "custom": [
+        "026f23a1d4ac4177"
+      ],
+      "model": [
+        "026f23a1d4ac4177"
+      ],
+      "serverless": [
+        "026f23a1d4ac4177"
+      ],
+      "cosmos": [
+        "026f23a1d4ac4177"
+      ],
+      "bigquery": [
+        "026f23a1d4ac4177"
+      ],
+      "ecosystem": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
+      ],
+      "verdict": [
+        "026f23a1d4ac4177"
+      ],
+      "openai": [
+        "026f23a1d4ac4177"
+      ],
+      "vertex": [
+        "026f23a1d4ac4177"
+      ],
+      "enterprise": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "core": [
+        "026f23a1d4ac4177"
+      ],
+      "need": [
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2"
+      ],
+      "lambda": [
+        "026f23a1d4ac4177"
+      ],
+      "functions": [
+        "026f23a1d4ac4177"
+      ],
+      "managed": [
+        "026f23a1d4ac4177"
+      ],
+      "archive": [
+        "026f23a1d4ac4177"
+      ],
+      "database": [
+        "026f23a1d4ac4177",
+        "1d4e81d94c23b2c2"
+      ],
+      "search": [
+        "026f23a1d4ac4177"
+      ],
+      "always": [
+        "026f23a1d4ac4177"
+      ],
+      "three": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
+      ],
+      "hybrid": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2"
+      ],
+      "kubernetes": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10",
+        "aa95eaa70b67371b"
+      ],
+      "compute": [
+        "026f23a1d4ac4177"
+      ],
+      "experience": [
+        "026f23a1d4ac4177",
+        "0414d536276c3f78"
+      ],
+      "dynamodb": [
+        "026f23a1d4ac4177"
+      ],
+      "agent": [
+        "026f23a1d4ac4177"
+      ],
+      "guide": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
+      ],
+      "developer": [
+        "026f23a1d4ac4177",
+        "71a1a96eb62a2f10"
+      ],
+      "mature": [
+        "026f23a1d4ac4177"
+      ],
+      "analytics": [
+        "026f23a1d4ac4177"
+      ],
+      "market": [
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78"
+      ],
+      "complete": [
+        "71a1a96eb62a2f10"
+      ],
+      "tutorialq": [
+        "71a1a96eb62a2f10"
+      ],
+      "clouds": [
+        "71a1a96eb62a2f10"
+      ],
+      "dominate": [
+        "71a1a96eb62a2f10"
+      ],
+      "clear": [
+        "71a1a96eb62a2f10"
+      ],
+      "strengths": [
+        "71a1a96eb62a2f10"
+      ],
+      "weaknesses": [
+        "71a1a96eb62a2f10"
+      ],
+      "helps": [
+        "71a1a96eb62a2f10"
+      ],
+      "pick": [
+        "71a1a96eb62a2f10"
+      ],
+      "right": [
+        "71a1a96eb62a2f10",
+        "0414d536276c3f78"
+      ],
+      "workload": [
+        "71a1a96eb62a2f10"
+      ],
+      "copy": [
+        "71a1a96eb62a2f10"
+      ],
+      "largest": [
+        "71a1a96eb62a2f10"
+      ],
+      "choice": [
+        "71a1a96eb62a2f10"
+      ],
+      "integration": [
+        "71a1a96eb62a2f10",
+        "1d4e81d94c23b2c2"
+      ],
+      "superior": [
+        "71a1a96eb62a2f10",
+        "1af3e9801063ed28"
+      ],
+      "friendly": [
+        "71a1a96eb62a2f10"
+      ],
+      "position": [
+        "71a1a96eb62a2f10"
+      ],
+      "revenue": [
+        "71a1a96eb62a2f10"
+      ],
+      "annual": [
+        "71a1a96eb62a2f10"
+      ],
+      "advantage": [
+        "71a1a96eb62a2f10"
+      ],
+      "110b": [
+        "71a1a96eb62a2f10"
+      ],
+      "broadest": [
+        "71a1a96eb62a2f10"
+      ],
+      "hosting": [
+        "1d4e81d94c23b2c2"
+      ],
+      "both": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "platforms": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "hipaa": [
+        "1d4e81d94c23b2c2"
+      ],
+      "workloads": [
+        "1d4e81d94c23b2c2"
+      ],
+      "regions": [
+        "1d4e81d94c23b2c2"
+      ],
+      "solutions": [
+        "1d4e81d94c23b2c2"
+      ],
+      "which": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "native": [
+        "1d4e81d94c23b2c2"
+      ],
+      "benefit": [
+        "1d4e81d94c23b2c2"
+      ],
+      "compliance": [
+        "1d4e81d94c23b2c2"
+      ],
+      "fedramp": [
+        "1d4e81d94c23b2c2"
+      ],
+      "cheaper": [
+        "1d4e81d94c23b2c2"
+      ],
+      "specialty": [
+        "1d4e81d94c23b2c2"
+      ],
+      "business": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "amazon": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78",
+        "aa95eaa70b67371b"
+      ],
+      "based": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "side": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "globally": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "options": [
+        "1d4e81d94c23b2c2"
+      ],
+      "instance": [
+        "1d4e81d94c23b2c2"
+      ],
+      "simpler": [
+        "1d4e81d94c23b2c2"
+      ],
+      "devops": [
+        "1d4e81d94c23b2c2"
+      ],
+      "choose": [
+        "1d4e81d94c23b2c2"
+      ],
+      "clients": [
+        "1d4e81d94c23b2c2"
+      ],
+      "through": [
+        "1d4e81d94c23b2c2"
+      ],
+      "migration": [
+        "1d4e81d94c23b2c2"
+      ],
+      "compliant": [
+        "1d4e81d94c23b2c2"
+      ],
+      "workspace": [
+        "1d4e81d94c23b2c2"
+      ],
+      "expert": [
+        "1d4e81d94c23b2c2",
+        "0414d536276c3f78"
+      ],
+      "honest": [
+        "0414d536276c3f78"
+      ],
+      "medha": [
+        "0414d536276c3f78"
+      ],
+      "choosing": [
+        "0414d536276c3f78"
+      ],
+      "between": [
+        "0414d536276c3f78"
+      ],
+      "consequential": [
+        "0414d536276c3f78"
+      ],
+      "technology": [
+        "0414d536276c3f78"
+      ],
+      "decisions": [
+        "0414d536276c3f78"
+      ],
+      "grade": [
+        "0414d536276c3f78"
+      ],
+      "excel": [
+        "0414d536276c3f78"
+      ],
+      "areas": [
+        "0414d536276c3f78"
+      ],
+      "managing": [
+        "0414d536276c3f78"
+      ],
+      "deployments": [
+        "0414d536276c3f78"
+      ],
+      "across": [
+        "0414d536276c3f78"
+      ],
+      "factor": [
+        "0414d536276c3f78"
+      ],
+      "serviço": [
+        "aa95eaa70b67371b"
+      ],
+      "armazenamento": [
+        "aa95eaa70b67371b"
+      ],
+      "computação": [
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "dimensionamento": [
+        "aa95eaa70b67371b"
+      ],
+      "container": [
+        "aa95eaa70b67371b"
+      ],
+      "contêiner": [
+        "aa95eaa70b67371b"
+      ],
+      "descrição": [
+        "aa95eaa70b67371b"
+      ],
+      "servidor": [
+        "aa95eaa70b67371b"
+      ],
+      "instâncias": [
+        "aa95eaa70b67371b"
+      ],
+      "exibir": [
+        "aa95eaa70b67371b"
+      ],
+      "todas": [
+        "aa95eaa70b67371b"
+      ],
+      "automático": [
+        "aa95eaa70b67371b"
+      ],
+      "aplicativos": [
+        "aa95eaa70b67371b"
+      ],
+      "fornece": [
+        "aa95eaa70b67371b"
+      ],
+      "contêineres": [
+        "aa95eaa70b67371b"
+      ],
+      "pergunte": [
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "máquinas": [
+        "aa95eaa70b67371b"
+      ],
+      "virtuais": [
+        "aa95eaa70b67371b"
+      ],
+      "virtual": [
+        "aa95eaa70b67371b"
+      ],
+      "gerenciar": [
+        "aa95eaa70b67371b"
+      ],
+      "discos": [
+        "aa95eaa70b67371b"
+      ],
+      "obter": [
+        "aa95eaa70b67371b"
+      ],
+      "consulte": [
+        "aa95eaa70b67371b"
+      ],
+      "permitem": [
+        "aa95eaa70b67371b"
+      ],
+      "tamanhos": [
+        "aa95eaa70b67371b"
+      ],
+      "tipos": [
+        "aa95eaa70b67371b"
+      ],
+      "cluster": [
+        "aa95eaa70b67371b"
+      ],
+      "conjuntos": [
+        "aa95eaa70b67371b"
+      ],
+      "elastic": [
+        "aa95eaa70b67371b"
+      ],
+      "semelhante": [
+        "aa95eaa70b67371b"
+      ],
+      "adicionar": [
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "alterar": [
+        "aa95eaa70b67371b",
+        "4b178bdc59da544a"
+      ],
+      "servidores": [
+        "aa95eaa70b67371b"
+      ],
+      "demanda": [
+        "aa95eaa70b67371b"
+      ],
+      "criar": [
+        "aa95eaa70b67371b"
+      ],
+      "sumário": [
+        "4b178bdc59da544a"
+      ],
+      "modo": [
+        "4b178bdc59da544a"
+      ],
+      "acesso": [
+        "4b178bdc59da544a"
+      ],
+      "essa": [
+        "4b178bdc59da544a"
+      ],
+      "exige": [
+        "4b178bdc59da544a"
+      ],
+      "autorização": [
+        "4b178bdc59da544a"
+      ],
+      "tentar": [
+        "4b178bdc59da544a"
+      ],
+      "diretórios": [
+        "4b178bdc59da544a"
+      ],
+      "comparar": [
+        "4b178bdc59da544a"
+      ],
+      "architecture": [
+        "4b178bdc59da544a"
+      ],
+      "center": [
+        "4b178bdc59da544a"
+      ],
+      "editor": [
+        "4b178bdc59da544a"
+      ],
+      "foco": [
+        "4b178bdc59da544a"
+      ],
+      "inglês": [
+        "4b178bdc59da544a"
+      ],
+      "plano": [
+        "4b178bdc59da544a"
+      ],
+      "facebook": [
+        "4b178bdc59da544a"
+      ],
+      "linkedin": [
+        "4b178bdc59da544a"
+      ],
+      "copiar": [
+        "4b178bdc59da544a"
+      ],
+      "markdown": [
+        "4b178bdc59da544a"
+      ],
+      "imprimir": [
+        "4b178bdc59da544a"
+      ],
+      "observação": [
+        "4b178bdc59da544a"
+      ],
+      "comentários": [
+        "4b178bdc59da544a"
+      ],
+      "este": [
+        "4b178bdc59da544a",
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "artigo": [
+        "4b178bdc59da544a"
+      ],
+      "compara": [
+        "4b178bdc59da544a"
+      ],
+      "principais": [
+        "4b178bdc59da544a"
+      ],
+      "microso": [
+        "4b178bdc59da544a"
+      ],
+      "javascript": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "sitios": [
+        "1af3e9801063ed28"
+      ],
+      "chrome": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "activar": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "configuración": [
+        "1af3e9801063ed28"
+      ],
+      "haga": [
+        "1af3e9801063ed28"
+      ],
+      "esta": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "clic": [
+        "1af3e9801063ed28"
+      ],
+      "pueden": [
+        "1af3e9801063ed28"
+      ],
+      "permitir": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "cómo": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "algunos": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "anuncios": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "otros": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "definir": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "permisos": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "instrucciones": [
+        "1af3e9801063ed28"
+      ],
+      "continuación": [
+        "1af3e9801063ed28"
+      ],
+      "seguridad": [
+        "1af3e9801063ed28"
+      ],
+      "problemas": [
+        "1af3e9801063ed28"
+      ],
+      "también": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "puedes": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "sigue": [
+        "1af3e9801063ed28"
+      ],
+      "ordenador": [
+        "1af3e9801063ed28"
+      ],
+      "apple": [
+        "1af3e9801063ed28"
+      ],
+      "siguiente": [
+        "1af3e9801063ed28"
+      ],
+      "abre": [
+        "1af3e9801063ed28"
+      ],
+      "parte": [
+        "1af3e9801063ed28"
+      ],
+      "derecha": [
+        "1af3e9801063ed28"
+      ],
+      "privacidad": [
+        "1af3e9801063ed28"
+      ],
+      "vaya": [
+        "1af3e9801063ed28"
+      ],
+      "contenido": [
+        "1af3e9801063ed28"
+      ],
+      "comportamiento": [
+        "1af3e9801063ed28"
+      ],
+      "predeterminado": [
+        "1af3e9801063ed28"
+      ],
+      "toca": [
+        "1af3e9801063ed28"
+      ],
+      "forma": [
+        "1af3e9801063ed28"
+      ],
+      "estos": [
+        "1af3e9801063ed28"
+      ],
+      "artículo": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "necesario": [
+        "1af3e9801063ed28",
+        "06412b81f68bbfee"
+      ],
+      "ayuda": [
+        "06412b81f68bbfee"
+      ],
+      "manager": [
+        "06412b81f68bbfee"
+      ],
+      "mostrar": [
+        "06412b81f68bbfee"
+      ],
+      "elementos": [
+        "06412b81f68bbfee"
+      ],
+      "multimedia": [
+        "06412b81f68bbfee"
+      ],
+      "incluidos": [
+        "06412b81f68bbfee"
+      ],
+      "encontrarás": [
+        "06412b81f68bbfee"
+      ],
+      "enlaces": [
+        "06412b81f68bbfee"
+      ],
+      "documentación": [
+        "06412b81f68bbfee"
+      ],
+      "populares": [
+        "06412b81f68bbfee"
+      ],
+      "secciones": [
+        "06412b81f68bbfee"
+      ],
+      "todos": [
+        "06412b81f68bbfee"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 12,
-    "paginas_falhas": 39,
-    "total_caracteres": 52575
+    "paginas_baixadas": 17,
+    "paginas_falhas": 43,
+    "total_caracteres": 86490
   }
 }
