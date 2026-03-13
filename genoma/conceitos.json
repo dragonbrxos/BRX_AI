@@ -2153,6 +2153,11 @@
         "para": "686f7b397f227d0a",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2167,7 +2172,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
-      "https://aws.amazon.com/pt/what-is/generative-ai/"
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
     ]
   },
   {
@@ -2822,6 +2828,11 @@
         "para": "5b5541aec58922ab",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2835,7 +2846,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://aws.amazon.com/pt/what-is/computer-vision/"
+      "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
     ]
   },
   {
@@ -3362,6 +3374,11 @@
         "para": "b7ef1ae083f9376c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -3374,7 +3391,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
     ]
   },
   {
@@ -4306,6 +4324,11 @@
         "para": "820f54220d72f3d4",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -4318,7 +4341,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/",
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
     ]
   },
   {
@@ -5257,6 +5281,21 @@
         "para": "992710ac9f762580",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -5270,7 +5309,10 @@
     "profundidade": 0,
     "fontes": [
       "https://www.ibm.com/br-pt/think/topics/multiagent-system",
-      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente",
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
+      "https://www.alura.com.br/artigos/multiagentes-de-ia",
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
     ]
   },
   {
@@ -5687,6 +5729,408 @@
     "profundidade": 0,
     "fontes": [
       "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "e01c589a662842d2",
+    "tipo": "conceito",
+    "conteudo": "desenvolvedores",
+    "criado": "2026-03-13T13:43:39.791443",
+    "modificado": "2026-03-13T13:43:39.791443",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "c20fb3696a0d077c",
+    "tipo": "conceito",
+    "conteudo": "escalonáveis",
+    "criado": "2026-03-13T13:43:39.793755",
+    "modificado": "2026-03-13T13:43:39.793755",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "31e70f981d2ad67b",
+    "tipo": "conceito",
+    "conteudo": "robustos",
+    "criado": "2026-03-13T13:43:39.794500",
+    "modificado": "2026-03-13T13:43:39.794500",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "945d812cc7d99049",
+    "tipo": "conceito",
+    "conteudo": "serviços",
+    "criado": "2026-03-13T13:43:39.795361",
+    "modificado": "2026-03-13T13:43:39.795361",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "4aae0b8870b38aec",
+    "tipo": "conceito",
+    "conteudo": "aplicativos",
+    "criado": "2026-03-13T13:43:39.796132",
+    "modificado": "2026-03-13T13:43:39.796132",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "5979fe669699c740",
+    "tipo": "conceito",
+    "conteudo": "sistemas",
+    "criado": "2026-03-13T13:43:39.796910",
+    "modificado": "2026-03-13T13:43:39.796910",
+    "conexoes": [
+      {
+        "para": "45563e1240a0a790",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
+      "https://www.alura.com.br/artigos/multiagentes-de-ia",
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
+  },
+  {
+    "id": "232046c765d15fdb",
+    "tipo": "conceito",
+    "conteudo": "economia",
+    "criado": "2026-03-13T13:43:39.898361",
+    "modificado": "2026-03-13T13:43:39.898361",
+    "conexoes": [
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "a5c2591a2c4362bf",
+    "tipo": "conceito",
+    "conteudo": "digital",
+    "criado": "2026-03-13T13:43:39.899752",
+    "modificado": "2026-03-13T13:43:39.899752",
+    "conexoes": [
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "9c45ea9f5074a4f4",
+    "tipo": "conceito",
+    "conteudo": "transitar",
+    "criado": "2026-03-13T13:43:39.900452",
+    "modificado": "2026-03-13T13:43:39.900452",
+    "conexoes": [
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "6f84a8434192ef87",
+    "tipo": "conceito",
+    "conteudo": "preparar",
+    "criado": "2026-03-13T13:43:39.901172",
+    "modificado": "2026-03-13T13:43:39.901172",
+    "conexoes": [
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "7b8e33d501b4de24",
+    "tipo": "conceito",
+    "conteudo": "dominar",
+    "criado": "2026-03-13T13:43:39.902592",
+    "modificado": "2026-03-13T13:43:39.902592",
+    "conexoes": [
+      {
+        "para": "a8c96145194c5d78",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+    ]
+  },
+  {
+    "id": "7007c16ecb1aeda5",
+    "tipo": "conceito",
+    "conteudo": "porém",
+    "criado": "2026-03-13T13:43:40.004764",
+    "modificado": "2026-03-13T13:43:40.004764",
+    "conexoes": [
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
+  },
+  {
+    "id": "961703357048f640",
+    "tipo": "conceito",
+    "conteudo": "benefícios",
+    "criado": "2026-03-13T13:43:40.007186",
+    "modificado": "2026-03-13T13:43:40.007186",
+    "conexoes": [
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
+  },
+  {
+    "id": "bd445ef565fdfc34",
+    "tipo": "conceito",
+    "conteudo": "exploramos",
+    "criado": "2026-03-13T13:43:40.008767",
+    "modificado": "2026-03-13T13:43:40.008767",
+    "conexoes": [
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
+  },
+  {
+    "id": "eef3e924cb6b36bc",
+    "tipo": "conceito",
+    "conteudo": "qualquer",
+    "criado": "2026-03-13T13:43:40.009522",
+    "modificado": "2026-03-13T13:43:40.009522",
+    "conexoes": [
+      {
+        "para": "8f9bc35009cc771e",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes desafios limitacoes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
     ]
   }
 ]
