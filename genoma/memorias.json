@@ -73917,5 +73917,4609 @@
     "fontes": [
       "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
     ]
+  },
+  {
+    "id": "b69a4580c5c770de",
+    "tipo": "memoria",
+    "conteudo": "23 de dez. de 2025 · O que é a XAI? A XAI, ou IA Explicável, é um conjunto de métodos e processos que permite aos usuários humanos compreenderem, confiarem e gerenciarem os resultados gerados por …",
+    "criado": "2026-03-13T14:05:53.298741",
+    "modificado": "2026-03-13T14:05:53.298741",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdf35e94cf9eb029",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da46d9bf6bf72c18",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef5c9c399d84f13f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "cfa67c50e9815d6d",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial explicável (XAI) é um conjunto de processos e métodos que permite aos usuários humanos entenderem e confiarem nos resultados e produção criados por algoritmos de aprendizado …",
+    "criado": "2026-03-13T14:05:53.315547",
+    "modificado": "2026-03-13T14:05:53.315547",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "79685facc38d623a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a380c2c06fa231f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22b3a4610d003f97",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "878e440813e8e648",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:05:53.315682",
+    "modificado": "2026-03-13T14:05:53.315682",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "d98f41c90ad2a869",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:05:53.318885",
+    "modificado": "2026-03-13T14:05:53.318885",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "654f4215a9886843",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:05:53.319083",
+    "modificado": "2026-03-13T14:05:53.319083",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "84e57e12c12aa9bc",
+    "tipo": "memoria",
+    "conteudo": "Uma inteligência artificial explicável (IAE, IA explicável, ou XAI) é uma inteligência artificial (IA) em que os resultados da solução podem ser compreendidos por humanos.",
+    "criado": "2026-03-13T14:05:53.319242",
+    "modificado": "2026-03-13T14:05:53.319242",
+    "conexoes": [
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "afb32f5f31ad1c30",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7391eb9898927892",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "48909c1844f9891d",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:05:53.319350",
+    "modificado": "2026-03-13T14:05:53.319350",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "69a4114edfeeee24",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:05:53.319484",
+    "modificado": "2026-03-13T14:05:53.319484",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel aplicacoes",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "afe34a64c5d535e6",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:05:53.469063",
+    "modificado": "2026-03-13T14:05:53.469063",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "86aa96c8863c16a3",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:05:53.512503",
+    "modificado": "2026-03-13T14:05:53.512503",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "e00b923213216400",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:05:53.555899",
+    "modificado": "2026-03-13T14:05:53.555899",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "769fe85e83a5fa7c",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:05:53.570887",
+    "modificado": "2026-03-13T14:05:53.570887",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "f53b7186e61960f7",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:05:53.669525",
+    "modificado": "2026-03-13T14:05:53.669525",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel fundamentos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "023c1e02afb47be3",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:05:53.679172",
+    "modificado": "2026-03-13T14:05:53.679172",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "1e74440e96ed1532",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:05:53.703259",
+    "modificado": "2026-03-13T14:05:53.703259",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "23e52310dbc47204",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:05:53.779791",
+    "modificado": "2026-03-13T14:05:53.779791",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "6ea568b8d8dd81d3",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:05:53.802516",
+    "modificado": "2026-03-13T14:05:53.802516",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "1566d6b84443a351",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:05:53.805470",
+    "modificado": "2026-03-13T14:05:53.805470",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "subtopico": "inteligencia artificial explicavel algoritmos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "9e5e6019cb69f4ee",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T14:05:54.009757",
+    "modificado": "2026-03-13T14:05:54.009757",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "31428de358e17a78",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T14:05:54.028370",
+    "modificado": "2026-03-13T14:05:54.028370",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "68963181e612d18c",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T14:05:54.035842",
+    "modificado": "2026-03-13T14:05:54.035842",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "67c10191d1d8b315",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T14:05:54.035995",
+    "modificado": "2026-03-13T14:05:54.035995",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "7b999b685987e678",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T14:05:54.036156",
+    "modificado": "2026-03-13T14:05:54.036156",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "4011e9e302d27865",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T14:05:54.036279",
+    "modificado": "2026-03-13T14:05:54.036279",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "3d2bf603ed5a5472",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T14:05:54.036449",
+    "modificado": "2026-03-13T14:05:54.036449",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "88d76e7486015cd3",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T14:05:54.036599",
+    "modificado": "2026-03-13T14:05:54.036599",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "a90151dcdc8860e9",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T14:05:54.254099",
+    "modificado": "2026-03-13T14:05:54.254099",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "b874b9537900a254",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T14:05:54.263759",
+    "modificado": "2026-03-13T14:05:54.263759",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "6dc04064677411d1",
+    "tipo": "memoria",
+    "conteudo": "Sinônimos de Processamento no Dicionário de Sinônimos. Processamento é sinônimo de: tratamento, computação, processo, …",
+    "criado": "2026-03-13T14:05:54.339319",
+    "modificado": "2026-03-13T14:05:54.339319",
+    "conexoes": [
+      {
+        "para": "aa770e1b47831f8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "adef681670f3468e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3de851c7006f161",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://www.sinonimos.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.sinonimos.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "328517963559f43e",
+    "tipo": "memoria",
+    "conteudo": "1. O que significa processamento? Processamento é um conceito amplo que se refere à transformação de dados, materiais ou …",
+    "criado": "2026-03-13T14:05:54.339590",
+    "modificado": "2026-03-13T14:05:54.339590",
+    "conexoes": [
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f0a76d46b1d1f2a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ad0cca7cdd81d85",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9475fb1e281840f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://informatecdigital.com/pt/o-que-significa-processamento/"
+    ]
+  },
+  {
+    "id": "af15088a9de6a3b4",
+    "tipo": "memoria",
+    "conteudo": "24 de jul. de 2023 · Processamento propriamente dito: os dados são submetidos a algoritmos e instruções programadas, que realizam as …",
+    "criado": "2026-03-13T14:05:54.354527",
+    "modificado": "2026-03-13T14:05:54.354527",
+    "conexoes": [
+      {
+        "para": "d6cf53f6bf984806",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "351f3a8a8021acf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "547c40f83b80d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d1f3b15b5190ba69",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a2ae739cddecc38",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6656b60906d26c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/"
+    ]
+  },
+  {
+    "id": "47d0e965bd780377",
+    "tipo": "memoria",
+    "conteudo": "O processamento é um conceito fundamental em diversas áreas, incluindo tecnologia, música e design. Em termos gerais, refere-se à …",
+    "criado": "2026-03-13T14:05:54.354729",
+    "modificado": "2026-03-13T14:05:54.354729",
+    "conexoes": [
+      {
+        "para": "d1e07f4787549477",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d399bce31ca1a9e6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "32a7ce433c299efa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdcca6dafa074184",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de0831ff843ea27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT fundamentos",
+      "fonte": "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+    ]
+  },
+  {
+    "id": "78c35c82665f2b75",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T14:05:54.403578",
+    "modificado": "2026-03-13T14:05:54.403578",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "2023a164c2548ecb",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T14:05:54.409349",
+    "modificado": "2026-03-13T14:05:54.409349",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "2f020044c862132d",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T14:05:54.478196",
+    "modificado": "2026-03-13T14:05:54.478196",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "6968236c1ccba904",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T14:05:54.531544",
+    "modificado": "2026-03-13T14:05:54.531544",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "9ca218cd99248a1a",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T14:05:54.546872",
+    "modificado": "2026-03-13T14:05:54.546872",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT aplicacoes",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "d1f61be0e78124fb",
+    "tipo": "memoria",
+    "conteudo": "Significado de Processamento no Dicio, Dicionário Online de Português. O que é processamento: s.m. Ato de processar, de …",
+    "criado": "2026-03-13T14:05:54.560062",
+    "modificado": "2026-03-13T14:05:54.560062",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50cbc5b64aca3bb5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicio.com.br/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/processamento/"
+    ]
+  },
+  {
+    "id": "57d4068e3fafba76",
+    "tipo": "memoria",
+    "conteudo": "A UPJ unifica três ou mais ofícios de mesma competência para processamento e cumprimento das determinações judiciais. …",
+    "criado": "2026-03-13T14:05:54.640446",
+    "modificado": "2026-03-13T14:05:54.640446",
+    "conexoes": [
+      {
+        "para": "585fd293ae4c27a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671ba393cf961e63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9802f6e20939f069",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "65885142f5ace380",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e642cac80db39465",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dfff241e94bfc4cd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f03296768c2abc96",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.tjsp.jus.br/UPJ",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ"
+    ]
+  },
+  {
+    "id": "570f52249351e465",
+    "tipo": "memoria",
+    "conteudo": "Processamento de dados é a conversão de dados brutos em informações úteis por meio de etapas estruturadas, como coleta, preparação, …",
+    "criado": "2026-03-13T14:05:54.670110",
+    "modificado": "2026-03-13T14:05:54.670110",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2cf0a5e994eab59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0af5da0b1d46c970",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "23bb6953e26dc700",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bc78730b44c83043",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6a417df0d8fe07e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db95b14cfce6228d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3b37dbca9715041b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/data-processing"
+    ]
+  },
+  {
+    "id": "4ce23a29ab1ca649",
+    "tipo": "memoria",
+    "conteudo": "Definição ou significado de processamento no Dicionário Infopédia da Língua Portuguesa",
+    "criado": "2026-03-13T14:05:54.719166",
+    "modificado": "2026-03-13T14:05:54.719166",
+    "conexoes": [
+      {
+        "para": "fb430f960b1b2d05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ae720141ed0eebd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a6a7bf76af40415b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "820f6f280c4995af",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+    ]
+  },
+  {
+    "id": "f4ab8cf61be773c1",
+    "tipo": "memoria",
+    "conteudo": "Informática Processamento de dados, preparação que contém dados ou elementos básicos de informações e o trabalho com …",
+    "criado": "2026-03-13T14:05:54.781050",
+    "modificado": "2026-03-13T14:05:54.781050",
+    "conexoes": [
+      {
+        "para": "f89bd06ef0ce2a3a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef7ab8a72fdd3c61",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a019e14fa580feb2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "815bb02a800eebaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ab442c819744e3e7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a69558592418e7e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03670742476ad175",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "subtopico": "processamento linguagem natural BERT algoritmos",
+      "fonte": "https://www.dicionario.info/processamento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicionario.info/processamento/"
+    ]
+  },
+  {
+    "id": "3d08187e6d943dab",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T14:05:54.950100",
+    "modificado": "2026-03-13T14:05:54.950100",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "ee91c239c6901083",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T14:05:54.964723",
+    "modificado": "2026-03-13T14:05:54.964723",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "4d17a0edc264df7c",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T14:05:54.965059",
+    "modificado": "2026-03-13T14:05:54.965059",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "64883318bfb86644",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T14:05:54.965449",
+    "modificado": "2026-03-13T14:05:54.965449",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "c6a644074fc4b75e",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T14:05:54.974057",
+    "modificado": "2026-03-13T14:05:54.974057",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "a202714d03b8594a",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T14:05:54.974222",
+    "modificado": "2026-03-13T14:05:54.974222",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "f3e44bc29820a841",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T14:05:54.980114",
+    "modificado": "2026-03-13T14:05:54.980114",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "80cd974bd3de6530",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T14:05:54.980304",
+    "modificado": "2026-03-13T14:05:54.980304",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem fundamentos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "4047948f5c1e9333",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T14:05:55.233250",
+    "modificado": "2026-03-13T14:05:55.233250",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "b742fbdc6b7f425b",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T14:05:55.233357",
+    "modificado": "2026-03-13T14:05:55.233357",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "567d0e0dcfb70339",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T14:05:55.332003",
+    "modificado": "2026-03-13T14:05:55.332003",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "4f9534e86feb29a8",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T14:05:55.346519",
+    "modificado": "2026-03-13T14:05:55.346519",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
+  },
+  {
+    "id": "ea595dbc80c42838",
+    "tipo": "memoria",
+    "conteudo": "Explore como os Transformers estão redefinindo os limites da Inteligência Artificial, desde o processamento de linguagem natural até …",
+    "criado": "2026-03-13T14:05:55.352286",
+    "modificado": "2026-03-13T14:05:55.352286",
+    "conexoes": [
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac677152cc680f07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "02e7d72a2b7fa6b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7adfc5e5245db042",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial"
+    ]
+  },
+  {
+    "id": "5fd2caa99c85ddc1",
+    "tipo": "memoria",
+    "conteudo": "O Processamento de Linguagem Natural, ou PLN, combina poder computacional, inteligência artificial e linguística humana para permitir …",
+    "criado": "2026-03-13T14:05:55.363889",
+    "modificado": "2026-03-13T14:05:55.363889",
+    "conexoes": [
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8acd5aace13f4cdb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4515197c59c066b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "637a402790c9374b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0bffdba92fece71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322"
+    ]
+  },
+  {
+    "id": "e90e11fef940fad5",
+    "tipo": "memoria",
+    "conteudo": "30 de out. de 2024 · Além disso, GANs são usadas em arte, geração de imagens de alta resolução e até na criação de modelos 3D. Transformers As redes Transformers representam uma evolução significativa no campo do aprendizado de máquina, especialmente em tarefas relacionadas a processamento de linguagem natural (NLP).",
+    "criado": "2026-03-13T14:05:55.372850",
+    "modificado": "2026-03-13T14:05:55.372850",
+    "conexoes": [
+      {
+        "para": "0c87630117ed9fa2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7bc3be7fced50b4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e765a685f30e21b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f7a4d6d7620bd9a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f2eb012a19709741",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04156b75f627ea6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85a992349f561940",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f81b338d6f5b7f12",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+    ]
+  },
+  {
+    "id": "bb956f7a698a329b",
+    "tipo": "memoria",
+    "conteudo": "PPC Engenharia de Software 2024 (oficial atualizado) - 223 -",
+    "criado": "2026-03-13T14:05:55.389025",
+    "modificado": "2026-03-13T14:05:55.389025",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7be5d610be2b27e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a848f2dadd8ae8b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf"
+    ]
+  },
+  {
+    "id": "cb6690c9684edc9b",
+    "tipo": "memoria",
+    "conteudo": "Save and Share: No mundo da inteligência artificial, em rápida evolução, a busca por arquiteturas mais poderosas e versáteis tem …",
+    "criado": "2026-03-13T14:05:55.451045",
+    "modificado": "2026-03-13T14:05:55.451045",
+    "conexoes": [
+      {
+        "para": "6d873496fcaca2ec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9208c6bf924bf64c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de43bf2a89b35d8a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a961d97b83afc209",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "95877163a42915fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50587d57729168e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ee455559b1057642",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem aplicacoes",
+      "fonte": "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/"
+    ]
+  },
+  {
+    "id": "b37ff008c03571ec",
+    "tipo": "memoria",
+    "conteudo": "Tarn lives to serve his colony is relentlessly loyal to his queen.",
+    "criado": "2026-03-13T14:05:55.546472",
+    "modificado": "2026-03-13T14:05:55.546472",
+    "conexoes": [
+      {
+        "para": "301a882bb9970583",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7d7232105121f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "366417caa64b8d0b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b0efe7b383a68071",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "829543a66098bd72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b830506d42df410a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio"
+    ]
+  },
+  {
+    "id": "41f0bdd7fc0fe7a3",
+    "tipo": "memoria",
+    "conteudo": "Don’t let her size fool you. Arcee is tough-as-nails, fiercely loyal, and always armed with a witty one-liner. Learn more about Arcee alt …",
+    "criado": "2026-03-13T14:05:55.621472",
+    "modificado": "2026-03-13T14:05:55.621472",
+    "conexoes": [
+      {
+        "para": "1bca3f842efd3bdd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b413c863f2a7c8ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8c3f776321b1f74",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "92337d48a23cd214",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "55798d8d6e91582e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1b4099841d6a4683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "671c7a8aacec0117",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fed48cd0896ddc66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff0d9ad0e63bd104",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b1b355c45d3e034",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu"
+    ]
+  },
+  {
+    "id": "03a26a6362dca98f",
+    "tipo": "memoria",
+    "conteudo": "Nemesis Prime is the evil reflection of his namesake. His ruthlessness and lack of restraint make him a deadly opponent.",
+    "criado": "2026-03-13T14:05:55.621969",
+    "modificado": "2026-03-13T14:05:55.621969",
+    "conexoes": [
+      {
+        "para": "1a36202da4a4a76e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0b26cdb5cd87d93b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5cea0489d7b24f7f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "204f6aef8bed1cdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "333e660d5d983f0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf726201b5041df7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "533d4db4d112442a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "885a4fc7c9ce391a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1eab4a312b71d65f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "28480efb4ed0e70d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a81ebcd5542bcd1b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/rteahsip"
+    ]
+  },
+  {
+    "id": "9659083c8bd2815b",
+    "tipo": "memoria",
+    "conteudo": "Skywarp may not be too bright, but his teleportation ability makes him a dangerous enemy. Learn more about Skywarp alt mode, …",
+    "criado": "2026-03-13T14:05:55.703816",
+    "modificado": "2026-03-13T14:05:55.703816",
+    "conexoes": [
+      {
+        "para": "1f4e87a0c82557cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "71dc1ae3d523f3a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78f68c17db395c1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdba6911440fcf7a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73ce7758312501ff",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "13887967cbef0c72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "002e34eba2238113",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "461ab8a42e8d1683",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91294251bfefba00",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "subtopico": "transformers processamento linguagem algoritmos",
+      "fonte": "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof"
+    ]
   }
 ]
