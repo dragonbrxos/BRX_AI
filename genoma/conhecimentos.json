@@ -898,5 +898,47 @@
       "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
       "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
     ]
+  },
+  {
+    "id": "082e2acd68e5d906",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: transformers arquitetura\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:47:37.332978",
+    "modificado": "2026-03-13T13:47:37.644100",
+    "conexoes": [],
+    "energia": 0.65,
+    "geracao": 3,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: transformers arquitetura",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:47:37.643856",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: transformers arquitetura\nConceitos: prontos, transformers, arquitetura, entrar, encoder, embeddings\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:47:37.644008",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: transformers arquitetura\nRede: 19 conexoes. Conceitos-chave: prontos, transformers, arquitetura.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:47:37.644087",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers",
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
   }
 ]
