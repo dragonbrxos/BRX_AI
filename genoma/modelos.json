@@ -599,5 +599,25 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "95207b0591ade63c",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'inteligencia artificial generativa'. Estrutura conceitual com 31 nos e 532 conexoes. Nucleo: áudio, referir, nossa, capaz, resolver, cognitiva, usado.",
+    "criado": "2026-03-13T14:01:53.173474",
+    "modificado": "2026-03-13T14:01:53.173474",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "arquivo": "inteligencia_artificial_genera_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
