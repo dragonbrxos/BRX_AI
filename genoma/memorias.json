@@ -2069,5 +2069,191 @@
     "fontes": [
       "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
     ]
+  },
+  {
+    "id": "70b57f8370dd27e7",
+    "tipo": "memoria",
+    "conteudo": "23 de dez. de 2025 · O que é a XAI? A XAI, ou IA Explicável, é um conjunto de métodos e processos que permite aos usuários humanos compreenderem, confiarem e gerenciarem os resultados gerados por …",
+    "criado": "2026-03-13T13:44:08.098689",
+    "modificado": "2026-03-13T13:44:08.098689",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "da46d9bf6bf72c18",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fdf35e94cf9eb029",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "fonte": "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "indice": 0
+    },
+    "origem": "5bf4fef128ea8331",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "20a8e12e67641d07",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial explicável (XAI) é um conjunto de processos e métodos que permite aos usuários humanos entenderem e confiarem nos resultados e produção criados por algoritmos de aprendizado …",
+    "criado": "2026-03-13T13:44:08.206568",
+    "modificado": "2026-03-13T13:44:08.206568",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a380c2c06fa231f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "indice": 0
+    },
+    "origem": "5bf4fef128ea8331",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "e527f1b6389a964c",
+    "tipo": "memoria",
+    "conteudo": "Uma inteligência artificial explicável (IAE, IA explicável, ou XAI) é uma inteligência artificial (IA) em que os resultados da solução podem ser compreendidos por humanos.",
+    "criado": "2026-03-13T13:44:08.308921",
+    "modificado": "2026-03-13T13:44:08.308921",
+    "conexoes": [
+      {
+        "para": "7391eb9898927892",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "afb32f5f31ad1c30",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ada36748d8f3a328",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3ea52d1a682e866c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "indice": 0
+    },
+    "origem": "5bf4fef128ea8331",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
   }
 ]
