@@ -188,5 +188,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "8c6bd16765820678",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'inteligencia artificial explicavel': resultados, conjunto, processos, confiarem, usuários. Base: 3 obs, 14 conceitos.",
+    "criado": "2026-03-13T13:44:08.418507",
+    "modificado": "2026-03-13T13:44:08.418507",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "arquivo": "inteligencia_artificial_e.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
