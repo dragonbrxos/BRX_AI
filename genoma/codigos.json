@@ -1363,5 +1363,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "39663b2befa72524",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: aprendizado por reforco",
+    "criado": "2026-03-13T14:04:33.117725",
+    "modificado": "2026-03-13T14:04:33.117725",
+    "conexoes": [
+      {
+        "para": "13cc63b248f1f42e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "arquivo": "mod_e6d1a987_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "13cc63b248f1f42e",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "bd568b31952780d9",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: inteligencia artificial generativa",
+    "criado": "2026-03-13T14:04:34.221552",
+    "modificado": "2026-03-13T14:04:34.221552",
+    "conexoes": [
+      {
+        "para": "a337d5446694bb8e",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "arquivo": "mod_113ef6df_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "a337d5446694bb8e",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "64fbe26abbecba2e",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: visao computacional CNN",
+    "criado": "2026-03-13T14:04:35.219467",
+    "modificado": "2026-03-13T14:04:35.219467",
+    "conexoes": [
+      {
+        "para": "f85ae8d342ff3873",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "arquivo": "mod_e472f55c_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "f85ae8d342ff3873",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
