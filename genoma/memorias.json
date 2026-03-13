@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "66db97981fde6f2f",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
+    "criado": "2026-03-13T13:33:38.349149",
+    "modificado": "2026-03-13T13:33:38.349149",
+    "conexoes": [
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0,
+      "tamanho": 151
+    },
+    "origem": "32670491cbba1e9f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "ade0935ee1d334ce",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
+    "criado": "2026-03-13T13:33:38.350889",
+    "modificado": "2026-03-13T13:33:38.350889",
+    "conexoes": [
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6000000000000001
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0,
+      "tamanho": 195
+    },
+    "origem": "32670491cbba1e9f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "ca062175472f3e5c",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
+    "criado": "2026-03-13T13:33:38.351817",
+    "modificado": "2026-03-13T13:33:38.351817",
+    "conexoes": [
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0,
+      "tamanho": 184
+    },
+    "origem": "32670491cbba1e9f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "630f9cc32439f835",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
+    "criado": "2026-03-13T13:33:38.352763",
+    "modificado": "2026-03-13T13:33:38.352763",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0,
+      "tamanho": 207
+    },
+    "origem": "32670491cbba1e9f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "90ebb0ba231dc1c6",
+    "tipo": "memoria",
+    "conteudo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
+    "criado": "2026-03-13T13:33:38.353807",
+    "modificado": "2026-03-13T13:33:38.353807",
+    "conexoes": [
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "fonte": "https://www.todamateria.com.br/etica/",
+      "indice": 0,
+      "tamanho": 195
+    },
+    "origem": "32670491cbba1e9f",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/etica/"
+    ]
+  },
+  {
+    "id": "86b05a2e1fa19941",
+    "tipo": "memoria",
+    "conteudo": "8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conhecimentos no dia a dia, com foco em resultados.",
+    "criado": "2026-03-13T13:33:55.291999",
+    "modificado": "2026-03-13T13:33:55.291999",
+    "conexoes": [
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fonte": "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+      "indice": 0,
+      "tamanho": 164
+    },
+    "origem": "e2b56aeabaad1ab0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "82b94f1ef4b88c05",
+    "tipo": "memoria",
+    "conteudo": "2 dias atrás · 5 aplicações práticas da Inteligência Artificial para acelerar sua carreira em tecnologia Durante a primeira mentoria do programa DIO Campus Expert – Turma 15, tivemos um debate muito …",
+    "criado": "2026-03-13T13:33:55.293450",
+    "modificado": "2026-03-13T13:33:55.293450",
+    "conexoes": [
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fonte": "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "indice": 0,
+      "tamanho": 200
+    },
+    "origem": "e2b56aeabaad1ab0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487"
+    ]
+  },
+  {
+    "id": "19b1df384e9e04c5",
+    "tipo": "memoria",
+    "conteudo": "Este artigo aborda de maneira detalhada o que é a IA, sua evolução histórica, e suas aplicações práticas atualmente. Discutiremos também os possíveis futuros desta tecnologia, suas tendências e …",
+    "criado": "2026-03-13T13:33:55.294690",
+    "modificado": "2026-03-13T13:33:55.294690",
+    "conexoes": [
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "8e2fd9339c4f232b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "f746693a341447b3",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fonte": "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+      "indice": 0,
+      "tamanho": 195
+    },
+    "origem": "e2b56aeabaad1ab0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
+    ]
+  },
+  {
+    "id": "8ce4fc1b2ca8fc9f",
+    "tipo": "memoria",
+    "conteudo": "21 de dez. de 2025 · Este artigo apresenta diversas aplicações práticas que podem transformar o seu dia a dia e impulsionar o sucesso nos negócios, além de fornecer dicas, exemplos e referências …",
+    "criado": "2026-03-13T13:33:55.295288",
+    "modificado": "2026-03-13T13:33:55.295288",
+    "conexoes": [
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea732dc956ab0894",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fonte": "https://mdbf.com.br/blog/aplicacoes-praticas",
+      "indice": 0,
+      "tamanho": 196
+    },
+    "origem": "e2b56aeabaad1ab0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://mdbf.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "26d1822fb795875d",
+    "tipo": "memoria",
+    "conteudo": "3 dias atrás · A aplicação dessas análises, considerando as atividades anteriores, permite identificar oportunidades e riscos, além de fundamentar estratégias sólidas. A análise técnica é uma …",
+    "criado": "2026-03-13T13:33:55.296040",
+    "modificado": "2026-03-13T13:33:55.296040",
+    "conexoes": [
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "d9555264f0c590bf",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fonte": "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/",
+      "indice": 0,
+      "tamanho": 193
+    },
+    "origem": "e2b56aeabaad1ab0",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
+    ]
+  },
+  {
+    "id": "bfdea60e6360433b",
+    "tipo": "memoria",
+    "conteudo": "O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode criar conteúdo original, como texto, imagens, vídeo, áudio ou código de software, em resposta …",
+    "criado": "2026-03-13T13:34:16.559007",
+    "modificado": "2026-03-13T13:34:16.559007",
+    "conexoes": [
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "indice": 0,
+      "tamanho": 205
+    },
+    "origem": "cd8f14e3286b9db5",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "0625b321c2deac15",
+    "tipo": "memoria",
+    "conteudo": "A Inteligência Artificial Generativa é um ramo da inteligência artificial projetado para criar conteúdos, como textos, áudios, imagens, vídeos e até códigos de software.",
+    "criado": "2026-03-13T13:34:16.560822",
+    "modificado": "2026-03-13T13:34:16.560822",
+    "conexoes": [
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "6fd5fdd923205e23",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fonte": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "indice": 0,
+      "tamanho": 169
+    },
+    "origem": "cd8f14e3286b9db5",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
+    ]
+  },
+  {
+    "id": "686f7b397f227d0a",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial generativa (IA generativa) é um tipo de IA que pode criar novos conteúdos e ideias, incluindo conversas, histórias, imagens, vídeos e músicas.",
+    "criado": "2026-03-13T13:34:16.562390",
+    "modificado": "2026-03-13T13:34:16.562390",
+    "conexoes": [
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "40d5a991b1d268e2",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fonte": "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "indice": 0,
+      "tamanho": 168
+    },
+    "origem": "cd8f14e3286b9db5",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "f22342441f4e1864",
+    "tipo": "memoria",
+    "conteudo": "Um sistema de IA generativo é construído aplicando aprendizado de máquina não supervisionado ou autossupervisionado a um conjunto de dados. As capacidades e aplicações de um sistema de IA …",
+    "criado": "2026-03-13T13:34:16.563913",
+    "modificado": "2026-03-13T13:34:16.563913",
+    "conexoes": [
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "033934386ec91def",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7001ce88e431ce7c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "indice": 0,
+      "tamanho": 189
+    },
+    "origem": "cd8f14e3286b9db5",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "f0c9d0e782649d3b",
+    "tipo": "memoria",
+    "conteudo": "1 dia atrás · Diferenças entre IA preditiva e generativa Com a tecnologia tão presente, cresce a dúvida sobre como adotar esse tipo de ferramenta nas empresas, já que nem toda inteligência artificial é ...",
+    "criado": "2026-03-13T13:34:16.565888",
+    "modificado": "2026-03-13T13:34:16.565888",
+    "conexoes": [
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fonte": "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "indice": 0,
+      "tamanho": 205
+    },
+    "origem": "cd8f14e3286b9db5",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "5fc93e48d9a66f4f",
+    "tipo": "memoria",
+    "conteudo": "O que é a visão por computador? A visão computacional é uma tecnologia que as máquinas usam para reconhecer imagens automaticamente e descrevê-las com precisão e eficiência.",
+    "criado": "2026-03-13T13:34:39.047435",
+    "modificado": "2026-03-13T13:34:39.047435",
+    "conexoes": [
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "fonte": "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "indice": 0,
+      "tamanho": 173
+    },
+    "origem": "25d03372067fc0f2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/"
+    ]
+  },
+  {
+    "id": "9ad1f5b0771104d4",
+    "tipo": "memoria",
+    "conteudo": "10 de fev. de 2026 · De uma forma bem direta, a visão computacional é um subcampo da inteligência artificial (IA) que treina computadores para interpretar e compreender o mundo visual.",
+    "criado": "2026-03-13T13:34:39.049965",
+    "modificado": "2026-03-13T13:34:39.049965",
+    "conexoes": [
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ba370b96d72beb03",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "fonte": "https://www.alura.com.br/artigos/visao-computacional",
+      "indice": 0,
+      "tamanho": 184
+    },
+    "origem": "25d03372067fc0f2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/visao-computacional"
+    ]
+  },
+  {
+    "id": "4633d0877de2fb93",
+    "tipo": "memoria",
+    "conteudo": "O que é visão computacional? A computer vision é um subcampo da inteligência artificial (IA) que equipa máquinas com a capacidade de processar, analisar e interpretar entradas visuais, como …",
+    "criado": "2026-03-13T13:34:39.052176",
+    "modificado": "2026-03-13T13:34:39.052176",
+    "conexoes": [
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "c106fef28bb680dd",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "e0f30ac4fd08ae29",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/computer-vision",
+      "indice": 0,
+      "tamanho": 191
+    },
+    "origem": "25d03372067fc0f2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/computer-vision"
+    ]
+  },
+  {
+    "id": "f135b2fca131f7c5",
+    "tipo": "memoria",
+    "conteudo": "Em termos simples, a visão computacional é um ramo da IA que estuda como os computadores podem ver e entender o conteúdo de imagens e vídeos digitais. O objetivo final da visão computacional é …",
+    "criado": "2026-03-13T13:34:39.054147",
+    "modificado": "2026-03-13T13:34:39.054147",
+    "conexoes": [
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "778dc37a03bd4b16",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "fonte": "https://www.datacamp.com/pt/blog/what-is-computer-vision",
+      "indice": 0,
+      "tamanho": 194
+    },
+    "origem": "25d03372067fc0f2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision"
+    ]
+  },
+  {
+    "id": "5f7c07a05247297a",
+    "tipo": "memoria",
+    "conteudo": "11 de fev. de 2025 · O que é Visão Computacional? A Visão Computacional é um campo da inteligência artificial que se concentra em permitir que os computadores interpretem e compreendam o mundo …",
+    "criado": "2026-03-13T13:34:39.056256",
+    "modificado": "2026-03-13T13:34:39.056256",
+    "conexoes": [
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "fonte": "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/",
+      "indice": 0,
+      "tamanho": 194
+    },
+    "origem": "25d03372067fc0f2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  },
+  {
+    "id": "b7ef1ae083f9376c",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. Acesso em 12 de março de 2026.",
+    "criado": "2026-03-13T13:41:27.580371",
+    "modificado": "2026-03-13T13:41:27.580371",
+    "conexoes": [
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3af702d7501b23e8",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional desafios limitacoes",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": "3bb4d8bab4b46504",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "81a61774475796fd",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do mundo. No entanto, os neuroanatomistas consideram que a visão …",
+    "criado": "2026-03-13T13:41:27.684958",
+    "modificado": "2026-03-13T13:41:27.684958",
+    "conexoes": [
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0373b583701718b7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "269bcb255614bb67",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional desafios limitacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": "3bb4d8bab4b46504",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "ef25ecd7f0d758d1",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é uma esfera com cerca de 3 centímetros de diâmetro, …",
+    "criado": "2026-03-13T13:41:27.786420",
+    "modificado": "2026-03-13T13:41:27.786420",
+    "conexoes": [
+      {
+        "para": "db43b098c49e7891",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional desafios limitacoes",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": "3bb4d8bab4b46504",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  }
+]
