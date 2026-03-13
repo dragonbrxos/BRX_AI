@@ -438,5 +438,47 @@
       "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
       "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
     ]
+  },
+  {
+    "id": "fa092f0df9af2cf1",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: sistemas multiagentes\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:43:12.933578",
+    "modificado": "2026-03-13T13:43:13.243011",
+    "conexoes": [],
+    "energia": 0.65,
+    "geracao": 3,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: sistemas multiagentes",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:43:13.242646",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: sistemas multiagentes\nConceitos: computacionais, multiagentes, trabalhando, executar, coletivamente, aproveite\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:43:13.242891",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: sistemas multiagentes\nRede: 20 conexoes. Conceitos-chave: executar, aproveite, multiagentes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:43:13.242995",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system",
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente",
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
   }
 ]
