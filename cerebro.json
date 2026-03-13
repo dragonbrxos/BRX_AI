@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 15,
+    "ciclos": 16,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 149490
+    "caracteres_aprendidos": 185345
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9679,6 +9679,133 @@
       "criado": "2026-03-13T14:26:20.106841",
       "acessos": 1,
       "conexoes": []
+    },
+    "242d8505c4a22160": {
+      "conteudo": "Python Tutorial Python HOME Python Intro Python Get Started Python Syntax Syntax Statements Code Challenge Python Output Print Text Print Numbers Code Challenge Python Comments Comments Code Challenge Python Variables Python Variables Variable Names Assign Multiple Values Output Variables Global Variables Variable Exercises Code Challenge Python Data Types Data Types Code Challenge Python Numbers Numbers Code Challenge Python Casting Casting Code Challenge Python Strings Python Strings Slicing Strings Modify Strings Concatenate Strings Format Strings Escape Characters String Methods String Exercises Code Challenge Python Booleans Booleans Code Challenge Python Operators Python Operators Arithmetic Operators Assignment Operators Comparison Operators Logical Operators Identity Operators Membership Operators Bitwise Operators Operator Precedence Code Challenge Python Lists Python Lists Access List Items Change List Items Add List Items Remove List Items Loop Lists List Comprehension Sort Lists Copy Lists Join Lists List Methods List Exercises Code Challenge Python Tuples Python Tuples Access Tuples Update Tuples Unpack Tuples Loop Tuples Join Tuples Tuple Methods Tuple Exercises Code Challenge Python Sets Python Sets Access Set Items Add Set Items Remove Set Items Loop Sets Join Sets Frozenset Set Methods Set Exercises Code Challenge Python Dictionaries Python Dictionaries Access Items Change Items Add Items Remove Items Loop Dictionaries Copy Dictionaries Nested Dictionaries Dictionary Methods Dictionary Exercises Code Challenge Python If...Else Python If Python Elif Python Else Shorthand If Logical Operators Nested If Pass Statement Code Challenge Python Match Match Code Challenge Python While Loops While Loops Code Challenge Python For Loops For Loops Code Challenge Python Functions Python Functions Python Arguments Python *args / **kwargs Python Scope Python Decorators Python Lambda Python Recursion Python Generators Code Challenge Python Range Range Code Challenge Python Arrays Arrays Code Challenge Python Iterators Iterators Code Challenge Python Modules Modules Code Challenge Python Dates Dates Code Challenge Python Math Math Code Challenge Python JSON JSON Code Challenge Python RegEx RegEx Code Challenge Python PIP Python Try...Except Try...Except Code Challenge Python String Formatting String Formatting Code Challenge Python None None Code Challenge Python User Input Python VirtualEnv Python Classes Python OOP Python Classes/Objects Classes/Objects Code Challenge Python __init__ Method __init__ Method Code Challenge Python self Parameter self Parameter Code Challenge Python Class Properties Class Properties Code Challenge Python Class Methods Class Methods Code Challenge Python Inheritance Inheritance Code Challenge Python Polymorphism Polymorphism Code Challenge Python Encapsulation Encapsulation Code Challenge Python Inner Classes File Handling Python File Handling Python Read Files Python Write/Create Files Python Delete Files Python Modules NumPy Tutorial Pandas Tutorial SciPy Tutorial Django Tutorial Python Matplotlib Matplotlib Intro Matplotlib Get Started Matplotlib Pyplot Matplotlib Plotting Matplotlib Markers Matplotlib Line Matplotlib Labels Matplotlib Grid Matplotlib Subplot Matplotlib Scatter Matplotlib Bars Matplotlib Histograms Matplotlib Pie Charts Machine Learning Getting Started Mean Median Mode Standard Deviation Percentile Data Distribution Normal Data Distribution Scatter Plot Linear Regression Polynomial Regression Multiple Regression Scale Train/Test Decision Tree Confusion Matrix Hierarchical Clustering Logistic Regression Grid Search Categorical Data K-means Bootstrap Aggregation Cross Validation AUC - ROC Curve K-nearest neighbors Python DSA Python DSA Lists and Arrays Stacks Queues Linked Lists Hash Tables Trees Binary Trees Binary Search Trees AVL Trees Graphs Linear Search Binary Search Bubble Sort Selection Sort Insertion Sort Quick Sort Counting Sort Radix Sort Merge Sort Python MySQL MySQL Get Started MySQL Create Database MySQL Create Table MySQL Insert MySQL Select MySQL Where MySQL Order By MySQL Delete MySQL Drop Table MySQL Update MySQL Limit MySQL Join Python MongoDB MongoDB Get Started MongoDB Create DB MongoDB Collection MongoDB Insert MongoDB Find MongoDB Query MongoDB Sort MongoDB Delete MongoDB Drop Collection MongoDB Update MongoDB Limit Python Reference Python Overview Python Built-in Functions Python String Methods Python List Methods Python Dictionary Methods Python Tuple Methods Python Set Methods Python File Methods Python Keywords Python Exceptions Python Glossary Module Reference Built-in Modules Random Module Requests Module Statistics Module Math Module cMath Module Python How To Remove List Duplicates Reverse a String Add Two Numbers Python Examples Python Examples Python Compiler Python Exercises Python Quiz Python Challenges Python Server Python Syllabus Python Study Plan Python Interview Q&A Python Bootcamp Python Certificate Python Training Python Tutorial ❮ Home Next ❯ Learn Python Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » Tip: Sign in to track your progress. Learning by Examples With our \"Try it Yourself\" editor, you can edit Python code and view the result. Example print(\"Hello, World!\") Try it Yourself » Click on the \"Try it Yourself\" button to see how it works. Python File Handling In our File Handling section you will learn how to open, read, write, and delete files. Python File Handling Python Database Handling In our database section you will learn how to access and work with MySQL and MongoDB databases: Python MySQL Tutorial Python MongoDB Tutorial Python Exercises Many chapters in this tutorial end with an exercise where you can check your level of knowledge. See all Python Exercises Python Examples Learn by examples! This tutorial supplements all explanations with clarifying examples. See All Python Examples Python Quiz Test your Python skills with a quiz. Python Quiz Track Your Progress Create a W3Schools account and get access to more features and learning materials: View your completed tutorials, exercises, and quizzes Keep an eye on your progress and daily streaks Join the leaderboard and compete with others Get your own avatar and unlock new skins Create your own personal website Sign Up » Note: This is an optional feature. You can study at W3Schools without creating an account. Python Reference You will also find complete function and method references: Reference Overview Built-in Functions String Methods List / Array Methods Dictionary Methods Tuple Methods Set Methods File Methods Python Keywords Python Exceptions Python Glossary Random Module Requests Module Statistics Module Math Module CMath Module Download Python Download Python from the official Python web site: https://python.org Kickstart your career Get certified by completing the course Get certified w 3 s c h o o l s C E R T I F I E D 2 0 2 6 ❮ Home Next ❯ +1 Sign in to track progress COLOR PICKER REMOVE ADS",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.w3schools.com/python/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:38.101217",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "69480fe95ce24a31": {
+      "conteudo": "TITULO: Python Tutorial\nCONTEUDO: Python Tutorial Python HOME Python Intro Python Get Started Python Syntax Syntax Statements Code Challenge Python Output Print Text Print Numbers Code Challenge Python Comments Comments Code Challenge Python Variables Python Variables Variable Names Assign Multiple Values Output Variables Global Variables Variable Exercises Code Challenge Python Data Types Data Types Code Challenge Python Numbers Numbers Code Challenge Python Casting Casting Code Challenge Python Strings Python Strings Slicing S...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.w3schools.com/python/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:38.101872",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "cc6901ebb1f7f3e7": {
+      "conteudo": "The Python Tutorial — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial Theme Auto Light Dark The Python Tutorial Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python website, https://www.python.org/ , and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation. The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications. This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. Be aware that it expects you to have a basic understanding of programming in general. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, see The Python Standard Library The Python Language Reference gives a more formal definition of the language. To write extensions in C or C++, read Extending and Embedding the Python Interpreter and Python/C API reference manual . There are also several books covering Python in depth. This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library The Glossary is also worth going through. 1. Whetting Your Appetite 2. Using the Python Interpreter 2.1. Invoking the Interpreter 2.1.1. Argument Passing 2.1.2. Interactive Mode 2.2. The Interpreter and Its Environment 2.2.1. Source Code Encoding 3. An Informal Introduction to Python 3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists 3.2. First Steps Towards Programming 4. More Control Flow Tools 4.1. if Statements 4.2. for Statements 4.3. The range() Function 4.4. break and continue Statements 4.5. else Clauses on Loops 4.6. pass Statements 4.7. match Statements 4.8. Defining Functions 4.9. More on Defining Functions 4.9.1. Default Argument Values 4.9.2. Keyword Arguments 4.9.3. Special parameters 4.9.3.1. Positional-or-Keyword Arguments 4.9.3.2. Positional-Only Parameters 4.9.3.3. Keyword-Only Arguments 4.9.3.4. Function Examples 4.9.3.5. Recap 4.9.4. Arbitrary Argument Lists 4.9.5. Unpacking Argument Lists 4.9.6. Lambda Expressions 4.9.7. Documentation Strings 4.9.8. Function Annotations 4.10. Intermezzo: Coding Style 5. Data Structures 5.1. More on Lists 5.1.1. Using Lists as Stacks 5.1.2. Using Lists as Queues 5.1.3. List Comprehensions 5.1.4. Nested List Comprehensions 5.2. The del statement 5.3. Tuples and Sequences 5.4. Sets 5.5. Dictionaries 5.6. Looping Techniques 5.7. More on Conditions 5.8. Comparing Sequences and Other Types 6. Modules 6.1. More on Modules 6.1.1. Executing modules as scripts 6.1.2. The Module Search Path 6.1.3. “Compiled” Python files 6.2. Standard Modules 6.3. The dir() Function 6.4. Packages 6.4.1. Importing * From a Package 6.4.2. Intra-package References 6.4.3. Packages in Multiple Directories 7. Input and Output 7.1. Fancier Output Formatting 7.1.1. Formatted String Literals 7.1.2. The String format() Method 7.1.3. Manual String Formatting 7.1.4. Old string formatting 7.2. Reading and Writing Files 7.2.1. Methods of File Objects 7.2.2. Saving structured data with json 8. Errors and Exceptions 8.1. Syntax Errors 8.2. Exceptions 8.3. Handling Exceptions 8.4. Raising Exceptions 8.5. Exception Chaining 8.6. User-defined Exceptions 8.7. Defining Clean-up Actions 8.8. Predefined Clean-up Actions 8.9. Raising and Handling Multiple Unrelated Exceptions 8.10. Enriching Exceptions with Notes 9. Classes 9.1. A Word About Names and Objects 9.2. Python Scopes and Namespaces 9.2.1. Scopes and Namespaces Example 9.3. A First Look at Classes 9.3.1. Class Definition Syntax 9.3.2. Class Objects 9.3.3. Instance Objects 9.3.4. Method Objects 9.3.5. Class and Instance Variables 9.4. Random Remarks 9.5. Inheritance 9.5.1. Multiple Inheritance 9.6. Private Variables 9.7. Odds and Ends 9.8. Iterators 9.9. Generators 9.10. Generator Expressions 10. Brief Tour of the Standard Library 10.1. Operating System Interface 10.2. File Wildcards 10.3. Command Line Arguments 10.4. Error Output Redirection and Program Termination 10.5. String Pattern Matching 10.6. Mathematics 10.7. Internet Access 10.8. Dates and Times 10.9. Data Compression 10.10. Performance Measurement 10.11. Quality Control 10.12. Batteries Included 11. Brief Tour of the Standard Library — Part II 11.1. Output Formatting 11.2. Templating 11.3. Working with Binary Data Record Layouts 11.4. Multi-threading 11.5. Logging 11.6. Weak References 11.7. Tools for Working with Lists 11.8. Decimal Floating-Point Arithmetic 12. Virtual Environments and Packages 12.1. Introduction 12.2. Creating Virtual Environments 12.3. Managing Packages with pip 13. What Now? 14. Interactive Input Editing and History Substitution 14.1. Tab Completion and History Editing 14.2. Alternatives to the Interactive Interpreter 15. Floating-Point Arithmetic: Issues and Limitations 15.1. Representation Error 16. Appendix 16.1. Interactive Mode 16.1.1. Error Handling 16.1.2. Executable Python Scripts 16.1.3. The Interactive Startup File 16.1.4. The Customization Modules Previous topic Changelog Next topic 1. Whetting Your Appetite This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "tipo": "codigo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/index.html"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:39.362532",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "4caa16206e5fd138": {
+      "conteudo": "TITULO: The Python Tutorial — Python 3.14.3 documentation\nCONTEUDO: The Python Tutorial — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial Theme Auto Light Dark The Python Tutorial Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax a...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://docs.python.org/3/tutorial/index.html"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:39.363329",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "0897ec52374a6727": {
+      "conteudo": "Learn Python - Free Interactive Python Tutorial Get started learning Python with DataCamp's free Intro to Python tutorial . Learn Data Science by completing interactive coding challenges and watching videos by expert instructors. Start Now This site is generously supported by DataCamp . DataCamp offers online interactive Python Tutorials for Data Science. Join 11 million other learners and get started learning Python for data science today! Good news! You can save 25% off your Datacamp annual subscription with the code LEARNPYTHON23ALE25 - Click here to redeem your discount Welcome Welcome to the LearnPython.org interactive Python tutorial. Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the Python programming language. You are welcome to join our group on Facebook for questions, discussions and updates. After you complete the tutorials, you can get certified at LearnX and add your certification to your LinkedIn profile. Just click on the chapter you wish to begin from, and follow the instructions. Good luck! Learn the Basics Hello, World! Variables and Types Lists Basic Operators String Formatting Basic String Operations Conditions Loops Functions Classes and Objects Dictionaries Modules and Packages Input and Output Coding for Kids Starting Out Movement with Functions Collecting items Pushing objects Printing on screen Building objects Apply what you've learned Advanced Tutorials Generators List Comprehensions Lambda functions Multiple Function Arguments Regular Expressions Exception Handling Sets Serialization Partial functions Code Introspection Closures Decorators Map, Filter, Reduce Parsing CSV Files Other Python Tutorials DataCamp has tons of great interactive Python Tutorials covering data manipulation, data visualization, statistics, machine learning, and more Read Python Tutorials and References course from After Hours Programming Contributing Tutorials Read more here: Contributing Tutorials This site is generously supported by DataCamp . DataCamp offers online interactive Python Tutorials for Data Science. Join over a million other learners and get started learning Python for data science today! Take the Test Sponsors Chapters Hello, World! Variables and Types Lists Basic Operators String Formatting Basic String Operations Conditions Loops Functions Classes and Objects Dictionaries Modules and Packages Input and Output Generators List Comprehensions Lambda functions Multiple Function Arguments Regular Expressions Exception Handling Sets Serialization Partial functions Code Introspection Closures Decorators Map, Filter, Reduce Parsing CSV Files DataCamp Copyright © learnpython.org. Read our Terms of Use and Privacy Policy",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.learnpython.org/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:41.604673",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "e6d382a3c8d852d4": {
+      "conteudo": "TITULO: Learn Python - Free Interactive Python Tutorial\nCONTEUDO: Learn Python - Free Interactive Python Tutorial Get started learning Python with DataCamp's free Intro to Python tutorial . Learn Data Science by completing interactive coding challenges and watching videos by expert instructors. Start Now This site is generously supported by DataCamp . DataCamp offers online interactive Python Tutorials for Data Science. Join 11 million other learners and get started learning Python for data science today! Good news! You can save 25% off your Datacamp annual su...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.learnpython.org/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:41.605082",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "95e3a5b592935fe3": {
+      "conteudo": "Python - Home Python - Overview Python - History Python - Features Python vs C++ Python - Hello World Program Python - Application Areas Python - Interpreter Python - Environment Setup Python - Virtual Environment Python - Basic Syntax Python - Variables Python - Private Variables Python - Data Types Python - Type Casting Python - Unicode System Python - Literals Python - Operators Python - Arithmetic Operators Python - Comparison Operators Python - Assignment Operators Python - Logical Operators Python - Bitwise Operators Python - Membership Operators Python - Identity Operators Python - Walrus Operator Python - Operator Precedence Python - Comments Python - User Input Python - Numbers Python - Booleans Python - Floating Points Python - Control Flow Python - Decision Making Python - If Statement Python - If else Python - Nested If Python - Conditional User Inputs Python - Match-Case Statement Python - Loops Python - for Loops Python - for-else Loops Python - While Loops Python - break Statement Python - continue Statement Python - pass Statement Python - Nested Loops Python Functions & Modules Python - Functions Python - Default Arguments Python - Keyword Arguments Python - Keyword-Only Arguments Python - Positional Arguments Python - Positional-Only Arguments Python - Arbitrary Arguments Python - Variables Scope Python - Function Annotations Python - Modules Python - Packing and Unpacking Python - Built in Functions Python Strings Python - Strings Python - Slicing Strings Python - Modify Strings Python - String Concatenation Python - String Formatting Python - Escape Characters Python - String Methods Python - String Exercises Python Lists Python - Lists Python - Access List Items Python - Change List Items Python - Add List Items Python - Remove List Items Python - Loop Lists Python - List Comprehension Python - Sort Lists Python - Copy Lists Python - Join Lists Python - List Methods Python - List Exercises Python Tuples Python - Tuples Python - Access Tuple Items Python - Update Tuples Python - Unpack Tuples Python - Loop Tuples Python - Join Tuples Python - Tuple Methods Python - Namedtuple Python - Tuple Exercises Python Sets Python - Sets Python - Access Set Items Python - Add Set Items Python - Remove Set Items Python - Loop Sets Python - Join Sets Python - Copy Sets Python - Set Operators Python - Set Methods Python - Set Exercises Python Dictionaries Python - Dictionaries Python - Access Dictionary Items Python - Change Dictionary Items Python - Add Dictionary Items Python - Remove Dictionary Items Python - Dictionary View Objects Python - Loop Dictionaries Python - Copy Dictionaries Python - Nested Dictionaries Python - Dictionary Methods Python - Dictionary Exercises Python Arrays Python - Arrays Python - Access Array Items Python - Add Array Items Python - Remove Array Items Python - Loop Arrays Python - Copy Arrays Python - Reverse Arrays Python - Sort Arrays Python - Join Arrays Python - Array Methods Python - Array Exercises Python File Handling Python - File Handling Python - Write to File Python - Read Files Python - Renaming and Deleting Files Python - Directories Python - File Methods Python - OS File/Directory Methods Python - OS Path Methods Object Oriented Programming Python - OOPs Concepts Python - Classes & Objects Python - Class Attributes Python - Class Methods Python - Static Methods Python - Constructors Python - Access Modifiers Python - Inheritance Python - Multiple Inheritance Python - Multilevel Inheritance Python - Polymorphism Python - Method Overriding Python - Method Overloading Python - Dynamic Binding Python - Dynamic Typing Python - Abstraction Python - Encapsulation Python - Interfaces Python - Packages Python - Inner Classes Python - Anonymous Class and Objects Python - Singleton Class Python - Wrapper Classes Python - Enums Python - Reflection Python - Data Classes Python Errors & Exceptions Python - Syntax Errors Python - Exceptions Python - try-except Block Python - try-finally Block Python - Raising Exceptions Python - Exception Chaining Python - Nested try Block Python - User-defined Exception Python - Logging Python - Assertions Python - Warnings Python - Built-in Exceptions Python - Debugger (PDB) Python Multithreading Python - Multithreading Python - Thread Life Cycle Python - Creating a Thread Python - Starting a Thread Python - Joining Threads Python - Naming Thread Python - Thread Scheduling Python - Thread Pools Python - Main Thread Python - Thread Priority Python - Daemon Threads Python - Synchronizing Threads Python Synchronization Python - Inter-thread Communication Python - Thread Deadlock Python - Interrupting a Thread Python Networking Python - Networking Python - Socket Programming Python - URL Processing Python - Generics Python Libraries NumPy Tutorial Pandas Tutorial SciPy Tutorial Matplotlib Tutorial Django Tutorial OpenCV Tutorial Python Miscellenous Python - Date & Time Python - Maths Python - Iterators Python - Generators Python - Generator Expressions Python - Lambda Expressions Python - Closures Python - Decorators Python - Recursion Python - Reg Expressions Python - PIP Python - Database Access Python - Weak References Python - Serialization Python - Templating Python - Output Formatting Python - Performance Measurement Python - Data Compression Python - CGI Programming Python - XML Processing Python - GUI Programming Python - Command-Line Arguments Python - Docstrings Python - JSON Python - Sending Email Python - Further Extensions Python - Tools/Utilities Python - Odds and Ends Python - GUIs Python Advanced Concepts Python - Abstract Base Classes Python - Custom Exceptions Python - Higher Order Functions Python - Object Internals Python - Memory Management Python - Metaclasses Python - Metaprogramming with Metaclasses Python - Mocking and Stubbing Python - Monkey Patching Python - Signal Handling Python - Type Hints Python - Automation Tutorial Python - Humanize Package Python - Context Managers Python - Coroutines Python - Descriptors Python - Diagnosing and Fixing Memory Leaks Python - Immutable Data Structures Python - Domain Specific Language (DSL) Python - Data Model Python Useful Resources Python - Questions & Answers Python - Interview Questions & Answers Python - Online Quiz Python - Quick Guide Python - Reference Python - Cheatsheet Python - Projects Python - Useful Resources Python - Discussion Python Compiler NumPy Compiler Matplotlib Compiler SciPy Compiler Selected Reading UPSC IAS Exams Notes Developer's Best Practices Questions and Answers Online Resume Builder HR Interview Questions Computer Glossary Who is Who Python Tutorial Python Introduction What is Python Python \"Hello, World!\" Python Compiler Python Characteristics Applications of Python Features of Python Python Database Handling Python Reference Python Practice Python Exercises Python Jobs Why to Learn Python Careers with Python Download Python Python Updates Python Audiences Python Prerequisites Python Questions & Answers Job Search PDF Version Quick Guide Resources Discussion Python Tutorial Today, Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more. This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer. This Python tutorial is based on the latest Python 3.13 version. What is Python? Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation. This Python tutorial gives a complete understanding of Python programming language, starting from basic concepts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language. Python \"Hello, World!\" To start with Python programming, the very basic program is to print \"Hello, World!\" You can use the print() function . Below is an example of Python code to print \"Hello, World!\" −",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.tutorialspoint.com/python/index.htm"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:44.233529",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "dd7e384a921fc225",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        },
+        {
+          "para": "b850a0f81ab34e71",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "dd7e384a921fc225": {
+      "conteudo": "Python code to print \"Hello, World!\" print (\"Hello, World!\") Python Online Compiler Our Python programming tutorial provides various examples to explain different concepts. We have provided Online Python Compiler/Interpreter . You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment. Try to click the icon to run the following Python code to print conventional \"Hello, World!\". Below code box allows you to change the value of the code. Try to change the value inside print() and run it again to verify the result.",
+      "tipo": "texto",
+      "fontes": [
+        "https://www.tutorialspoint.com/python/index.htm"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:26:44.234998",
+      "acessos": 1,
+      "conexoes": [
+        {
+          "para": "b850a0f81ab34e71",
+          "tipo": "mesma_pagina",
+          "forca": 0.8
+        }
+      ]
+    },
+    "b850a0f81ab34e71": {
+      "conteudo": "This will print 'Hello, World!' as the output print (\"Hello, World!\"); Characteristics of Python Following are important characteristics of Python Programming It supports functional and structured programming methods as well as OOP It can be used as a scripting language or can be compiled to byte-code for building large applications. It provides very high-level dynamic data types and supports dynamic type checking. It supports automatic garbage collection. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java. Applications of Python Python is a general purpose programming language known for its readability. It is widely applied in various fields. In Data Science , Python libraries like Numpy Pandas , and Matplotlib are used for data analysis and visualization. Python frameworks like Django , and Pyramid , make the development and deployment of Web Applications easy. This programming language also extends its applications to computer vision and image processing. It is also favored in many tasks like Automation , Job Scheduling, GUI development , etc. Features of Python The latest release of Python is 3.x. As mentioned before, Python is one of the most widely used languages on the web. I'm going to list a few of them here: Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly. Easy-to-read − Python code is more clearly defined and visible to the eyes. Easy-to-maintain − Python's source code is fairly easy-to-maintain. A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh. Interactive Mode − Python has support for an interactive mode that allows interactive testing and debugging of snippets of code. Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms. Extendable − You can add low-level modules to the Python interpreter . These modules enable programmers to add to or customize their tools to be more efficient. Databases − Python provides interfaces to all major commercial databases. GUI Programming − Python supports GUI applications that can be created and ported to many system calls, libraries, and Windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix. Scalable − Python provides a better structure and support for large programs than shell scripting. Python Database Handling The following tutorials will help you learn how to work with different databases using Python programming: Python MongoDB Tutorial Python MySQL Tutorial Python PostgreSQL Tutorial Python SQLite Tutorial Python Reference The complete function and method references − Python Complete Reference Python Built-in Functions Reference Python Modules Reference Python Keywords Reference Python Cheatsheet Python Practice Practice Python from the below-given links: Python Quick Guide Python Online Quiz Python Interview Questions & Answers Python Exercises You can practice various Python topics with the help of examples provided: String Exercises List Exercises Tuple Exercises Set Exercises Dictionary Exercises Array Exercises Python Jobs Today, Python is very high in demand, and all the major companies are looking for great Python programmers to develop websites, software components, and applications or to work with data science, AI, and ML technologies. When we are developing this tutorial in 2022, there is a high shortage of Python programmers, where the market demands a greater number of Python programmers due to its applications in machine learning, artificial intelligence, etc. Today, a Python programmer with 3-5 years of experience is asking for around $150,000 in an in an annual package, and this is the most demanding programming language in America. Though it can vary depending on the location of the job. It's impossible to list all of the companies using Python, to name a few big companies are: Google Intel NASA PayPal Facebook IBM Amazon Netflix Pinterest Uber Many more... So, you could be the next potential employee for any of these major companies. We have developed great learning material for you to learn Python programming, which will help you prepare for the technical interviews and certification exams based on Python. So, start learning Python using this simple and effective tutorial from anywhere and anytime, absolutely at your pace. Why to Learn Python? Python is consistently rated as one of the world's most popular programming languages. Python is fairly easy to learn, so if you are starting to learn any programming language, then Python could be your great choice. Today, various schools, colleges, and universities are teaching Python as their primary programming language. There are many other good reasons that make Python the top choice of any programmer: Python is open source, which means it's available free of cost. Python is simple and so easy to learn. Python is versatile and can be used to create many different things. Python has powerful development libraries, including AI, ML, etc. Python is much in demand and ensures a high salary. Python is a MUST for students and working professionals to become great software engineers, especially when they are working in the web development domain. I will list down some of the key advantages of learning Python: Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP. Python is Interactive − You can actually sit at a Python prompt and interact with the interpreter directly to write your programs. Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects. Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games. Careers with Python If you know Python nicely, then you have a great career ahead. Here are just a few of the career options where Python is a key skill: Game developer Web designer Python developer Full-stack developer Machine learning engineer Data scientist Data analyst Data engineer DevOps engineer Software engineer Many more other roles Download Python You can download Python from its official website: https://www.python.org/downloads/ Python Updates & New Features The current stable version of Python is 3.13, which was released on October 7, 2024. Python 3.14 is still in the development phase with many new features and changes: PEP 649 : Deferred evaluation of annotations. PEP 741 : Python configuration C API. PEP 761 : Sigstore replaces PGP signatures for verification. Improved error messages. Target Audience: Who Can Learn Python? This tutorial has been prepared for the beginners to help them understand the basics to advanced concepts of Python programming language. After completing this tutorial, you will find yourself at a great level of expertise in Python programming, from where you can take yourself to the next levels. Prerequisites to Learn Python Although it is a beginners tutorial, we assume that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc. Python Questions & Answers You can explore a set of Python Questions and Answers at Python Questions & Answers Print Page Previous Next Advertisements",
+      "tipo": "codigo",
+      "fontes": [
+        "https://www.tutorialspoint.com/python/index.htm"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:26:44.235361",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "73c30f0c4a60b045": {
+      "conteudo": "TITULO: Python Tutorial\nCONTEUDO: Python - Home Python - Overview Python - History Python - Features Python vs C++ Python - Hello World Program Python - Application Areas Python - Interpreter Python - Environment Setup Python - Virtual Environment Python - Basic Syntax Python - Variables Python - Private Variables Python - Data Types Python - Type Casting Python - Unicode System Python - Literals Python - Operators Python - Arithmetic Operators Python - Comparison Operators Python - Assignment Operators Python - Logical Operator...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.tutorialspoint.com/python/index.htm"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:26:44.236459",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9819,6 +9946,30 @@
       "texto_completo": "Monitor & Protect Idera SQL SQL Server monitoring, backups, and performance tools. Webyog MySQL database management with real-time monitoring tools. Data Modeling & Management Aqua Data Studio Multifunction Enterprise IDE- Code, Model, BI, AI Assist. ER/Studio Enterprise data modeling, metadata and governance tools. WhereScape Data automation tools to build and manage warehouses. Migration & Intelligence BitTitan Simplify Microsoft & Google migrations with MigrationWiz. Perspectium ServiceNow data replication, integration, archiving and backups. Yellowfin Embedded analytics and dashboards to drive insight.",
       "data_acesso": "2026-03-13T14:26:20.106492",
       "tamanho": 613
+    },
+    "https://www.w3schools.com/python/": {
+      "titulo": "Python Tutorial",
+      "texto_completo": "Python Tutorial Python HOME Python Intro Python Get Started Python Syntax Syntax Statements Code Challenge Python Output Print Text Print Numbers Code Challenge Python Comments Comments Code Challenge Python Variables Python Variables Variable Names Assign Multiple Values Output Variables Global Variables Variable Exercises Code Challenge Python Data Types Data Types Code Challenge Python Numbers Numbers Code Challenge Python Casting Casting Code Challenge Python Strings Python Strings Slicing Strings Modify Strings Concatenate Strings Format Strings Escape Characters String Methods String Exercises Code Challenge Python Booleans Booleans Code Challenge Python Operators Python Operators Arithmetic Operators Assignment Operators Comparison Operators Logical Operators Identity Operators Membership Operators Bitwise Operators Operator Precedence Code Challenge Python Lists Python Lists Access List Items Change List Items Add List Items Remove List Items Loop Lists List Comprehension Sort Lists Copy Lists Join Lists List Methods List Exercises Code Challenge Python Tuples Python Tuples Access Tuples Update Tuples Unpack Tuples Loop Tuples Join Tuples Tuple Methods Tuple Exercises Code Challenge Python Sets Python Sets Access Set Items Add Set Items Remove Set Items Loop Sets Join Sets Frozenset Set Methods Set Exercises Code Challenge Python Dictionaries Python Dictionaries Access Items Change Items Add Items Remove Items Loop Dictionaries Copy Dictionaries Nested Dictionaries Dictionary Methods Dictionary Exercises Code Challenge Python If...Else Python If Python Elif Python Else Shorthand If Logical Operators Nested If Pass Statement Code Challenge Python Match Match Code Challenge Python While Loops While Loops Code Challenge Python For Loops For Loops Code Challenge Python Functions Python Functions Python Arguments Python *args / **kwargs Python Scope Python Decorators Python Lambda Python Recursion Python Generators Code Challenge Python Range Range Code Challenge Python Arrays Arrays Code Challenge Python Iterators Iterators Code Challenge Python Modules Modules Code Challenge Python Dates Dates Code Challenge Python Math Math Code Challenge Python JSON JSON Code Challenge Python RegEx RegEx Code Challenge Python PIP Python Try...Except Try...Except Code Challenge Python String Formatting String Formatting Code Challenge Python None None Code Challenge Python User Input Python VirtualEnv Python Classes Python OOP Python Classes/Objects Classes/Objects Code Challenge Python __init__ Method __init__ Method Code Challenge Python self Parameter self Parameter Code Challenge Python Class Properties Class Properties Code Challenge Python Class Methods Class Methods Code Challenge Python Inheritance Inheritance Code Challenge Python Polymorphism Polymorphism Code Challenge Python Encapsulation Encapsulation Code Challenge Python Inner Classes File Handling Python File Handling Python Read Files Python Write/Create Files Python Delete Files Python Modules NumPy Tutorial Pandas Tutorial SciPy Tutorial Django Tutorial Python Matplotlib Matplotlib Intro Matplotlib Get Started Matplotlib Pyplot Matplotlib Plotting Matplotlib Markers Matplotlib Line Matplotlib Labels Matplotlib Grid Matplotlib Subplot Matplotlib Scatter Matplotlib Bars Matplotlib Histograms Matplotlib Pie Charts Machine Learning Getting Started Mean Median Mode Standard Deviation Percentile Data Distribution Normal Data Distribution Scatter Plot Linear Regression Polynomial Regression Multiple Regression Scale Train/Test Decision Tree Confusion Matrix Hierarchical Clustering Logistic Regression Grid Search Categorical Data K-means Bootstrap Aggregation Cross Validation AUC - ROC Curve K-nearest neighbors Python DSA Python DSA Lists and Arrays Stacks Queues Linked Lists Hash Tables Trees Binary Trees Binary Search Trees AVL Trees Graphs Linear Search Binary Search Bubble Sort Selection Sort Insertion Sort Quick Sort Counting Sort Radix Sort Merge Sort Python MySQL MySQL Get Started MySQL Create Database MySQL Create Table MySQL Insert MySQL Select MySQL Where MySQL Order By MySQL Delete MySQL Drop Table MySQL Update MySQL Limit MySQL Join Python MongoDB MongoDB Get Started MongoDB Create DB MongoDB Collection MongoDB Insert MongoDB Find MongoDB Query MongoDB Sort MongoDB Delete MongoDB Drop Collection MongoDB Update MongoDB Limit Python Reference Python Overview Python Built-in Functions Python String Methods Python List Methods Python Dictionary Methods Python Tuple Methods Python Set Methods Python File Methods Python Keywords Python Exceptions Python Glossary Module Reference Built-in Modules Random Module Requests Module Statistics Module Math Module cMath Module Python How To Remove List Duplicates Reverse a String Add Two Numbers Python Examples Python Examples Python Compiler Python Exercises Python Quiz Python Challenges Python Server Python Syllabus Python Study Plan Python Interview Q&A Python Bootcamp Python Certificate Python Training Python Tutorial ❮ Home Next ❯ Learn Python Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » Tip: Sign in to track your progress. Learning by Examples With our \"Try it Yourself\" editor, you can edit Python code and view the result. Example print(\"Hello, World!\") Try it Yourself » Click on the \"Try it Yourself\" button to see how it works. Python File Handling In our File Handling section you will learn how to open, read, write, and delete files. Python File Handling Python Database Handling In our database section you will learn how to access and work with MySQL and MongoDB databases: Python MySQL Tutorial Python MongoDB Tutorial Python Exercises Many chapters in this tutorial end with an exercise where you can check your level of knowledge. See all Python Exercises Python Examples Learn by examples! This tutorial supplements all explanations with clarifying examples. See All Python Examples Python Quiz Test your Python skills with a quiz. Python Quiz Track Your Progress Create a W3Schools account and get access to more features and learning materials: View your completed tutorials, exercises, and quizzes Keep an eye on your progress and daily streaks Join the leaderboard and compete with others Get your own avatar and unlock new skins Create your own personal website Sign Up » Note: This is an optional feature. You can study at W3Schools without creating an account. Python Reference You will also find complete function and method references: Reference Overview Built-in Functions String Methods List / Array Methods Dictionary Methods Tuple Methods Set Methods File Methods Python Keywords Python Exceptions Python Glossary Random Module Requests Module Statistics Module Math Module CMath Module Download Python Download Python from the official Python web site: https://python.org Kickstart your career Get certified by completing the course Get certified w 3 s c h o o l s C E R T I F I E D 2 0 2 6 ❮ Home Next ❯ +1 Sign in to track progress COLOR PICKER REMOVE ADS",
+      "data_acesso": "2026-03-13T14:26:38.100640",
+      "tamanho": 7067
+    },
+    "https://docs.python.org/3/tutorial/index.html": {
+      "titulo": "The Python Tutorial — Python 3.14.3 documentation",
+      "texto_completo": "The Python Tutorial — Python 3.14.3 documentation Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial Theme Auto Light Dark The Python Tutorial Tip This tutorial is designed for programmers that are new to the Python language, not beginners who are new to programming. Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python website, https://www.python.org/ , and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation. The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications. This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. Be aware that it expects you to have a basic understanding of programming in general. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, see The Python Standard Library The Python Language Reference gives a more formal definition of the language. To write extensions in C or C++, read Extending and Embedding the Python Interpreter and Python/C API reference manual . There are also several books covering Python in depth. This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library The Glossary is also worth going through. 1. Whetting Your Appetite 2. Using the Python Interpreter 2.1. Invoking the Interpreter 2.1.1. Argument Passing 2.1.2. Interactive Mode 2.2. The Interpreter and Its Environment 2.2.1. Source Code Encoding 3. An Informal Introduction to Python 3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists 3.2. First Steps Towards Programming 4. More Control Flow Tools 4.1. if Statements 4.2. for Statements 4.3. The range() Function 4.4. break and continue Statements 4.5. else Clauses on Loops 4.6. pass Statements 4.7. match Statements 4.8. Defining Functions 4.9. More on Defining Functions 4.9.1. Default Argument Values 4.9.2. Keyword Arguments 4.9.3. Special parameters 4.9.3.1. Positional-or-Keyword Arguments 4.9.3.2. Positional-Only Parameters 4.9.3.3. Keyword-Only Arguments 4.9.3.4. Function Examples 4.9.3.5. Recap 4.9.4. Arbitrary Argument Lists 4.9.5. Unpacking Argument Lists 4.9.6. Lambda Expressions 4.9.7. Documentation Strings 4.9.8. Function Annotations 4.10. Intermezzo: Coding Style 5. Data Structures 5.1. More on Lists 5.1.1. Using Lists as Stacks 5.1.2. Using Lists as Queues 5.1.3. List Comprehensions 5.1.4. Nested List Comprehensions 5.2. The del statement 5.3. Tuples and Sequences 5.4. Sets 5.5. Dictionaries 5.6. Looping Techniques 5.7. More on Conditions 5.8. Comparing Sequences and Other Types 6. Modules 6.1. More on Modules 6.1.1. Executing modules as scripts 6.1.2. The Module Search Path 6.1.3. “Compiled” Python files 6.2. Standard Modules 6.3. The dir() Function 6.4. Packages 6.4.1. Importing * From a Package 6.4.2. Intra-package References 6.4.3. Packages in Multiple Directories 7. Input and Output 7.1. Fancier Output Formatting 7.1.1. Formatted String Literals 7.1.2. The String format() Method 7.1.3. Manual String Formatting 7.1.4. Old string formatting 7.2. Reading and Writing Files 7.2.1. Methods of File Objects 7.2.2. Saving structured data with json 8. Errors and Exceptions 8.1. Syntax Errors 8.2. Exceptions 8.3. Handling Exceptions 8.4. Raising Exceptions 8.5. Exception Chaining 8.6. User-defined Exceptions 8.7. Defining Clean-up Actions 8.8. Predefined Clean-up Actions 8.9. Raising and Handling Multiple Unrelated Exceptions 8.10. Enriching Exceptions with Notes 9. Classes 9.1. A Word About Names and Objects 9.2. Python Scopes and Namespaces 9.2.1. Scopes and Namespaces Example 9.3. A First Look at Classes 9.3.1. Class Definition Syntax 9.3.2. Class Objects 9.3.3. Instance Objects 9.3.4. Method Objects 9.3.5. Class and Instance Variables 9.4. Random Remarks 9.5. Inheritance 9.5.1. Multiple Inheritance 9.6. Private Variables 9.7. Odds and Ends 9.8. Iterators 9.9. Generators 9.10. Generator Expressions 10. Brief Tour of the Standard Library 10.1. Operating System Interface 10.2. File Wildcards 10.3. Command Line Arguments 10.4. Error Output Redirection and Program Termination 10.5. String Pattern Matching 10.6. Mathematics 10.7. Internet Access 10.8. Dates and Times 10.9. Data Compression 10.10. Performance Measurement 10.11. Quality Control 10.12. Batteries Included 11. Brief Tour of the Standard Library — Part II 11.1. Output Formatting 11.2. Templating 11.3. Working with Binary Data Record Layouts 11.4. Multi-threading 11.5. Logging 11.6. Weak References 11.7. Tools for Working with Lists 11.8. Decimal Floating-Point Arithmetic 12. Virtual Environments and Packages 12.1. Introduction 12.2. Creating Virtual Environments 12.3. Managing Packages with pip 13. What Now? 14. Interactive Input Editing and History Substitution 14.1. Tab Completion and History Editing 14.2. Alternatives to the Interactive Interpreter 15. Floating-Point Arithmetic: Issues and Limitations 15.1. Representation Error 16. Appendix 16.1. Interactive Mode 16.1.1. Error Handling 16.1.2. Executable Python Scripts 16.1.3. The Interactive Startup File 16.1.4. The Customization Modules Previous topic Changelog Next topic 1. Whetting Your Appetite This page Report a bug Improve this page Show source Navigation index modules next previous Python 3.14.3 Documentation The Python Tutorial Theme Auto Light Dark Copyright 2001 Python Software Foundation. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. See History and License for more information. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Mar 13, 2026 (15:07 UTC). Found a bug Created using Sphinx 8.2.3.",
+      "data_acesso": "2026-03-13T14:26:39.362038",
+      "tamanho": 6946
+    },
+    "https://www.learnpython.org/": {
+      "titulo": "Learn Python - Free Interactive Python Tutorial",
+      "texto_completo": "Learn Python - Free Interactive Python Tutorial Get started learning Python with DataCamp's free Intro to Python tutorial . Learn Data Science by completing interactive coding challenges and watching videos by expert instructors. Start Now This site is generously supported by DataCamp . DataCamp offers online interactive Python Tutorials for Data Science. Join 11 million other learners and get started learning Python for data science today! Good news! You can save 25% off your Datacamp annual subscription with the code LEARNPYTHON23ALE25 - Click here to redeem your discount Welcome Welcome to the LearnPython.org interactive Python tutorial. Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the Python programming language. You are welcome to join our group on Facebook for questions, discussions and updates. After you complete the tutorials, you can get certified at LearnX and add your certification to your LinkedIn profile. Just click on the chapter you wish to begin from, and follow the instructions. Good luck! Learn the Basics Hello, World! Variables and Types Lists Basic Operators String Formatting Basic String Operations Conditions Loops Functions Classes and Objects Dictionaries Modules and Packages Input and Output Coding for Kids Starting Out Movement with Functions Collecting items Pushing objects Printing on screen Building objects Apply what you've learned Advanced Tutorials Generators List Comprehensions Lambda functions Multiple Function Arguments Regular Expressions Exception Handling Sets Serialization Partial functions Code Introspection Closures Decorators Map, Filter, Reduce Parsing CSV Files Other Python Tutorials DataCamp has tons of great interactive Python Tutorials covering data manipulation, data visualization, statistics, machine learning, and more Read Python Tutorials and References course from After Hours Programming Contributing Tutorials Read more here: Contributing Tutorials This site is generously supported by DataCamp . DataCamp offers online interactive Python Tutorials for Data Science. Join over a million other learners and get started learning Python for data science today! Take the Test Sponsors Chapters Hello, World! Variables and Types Lists Basic Operators String Formatting Basic String Operations Conditions Loops Functions Classes and Objects Dictionaries Modules and Packages Input and Output Generators List Comprehensions Lambda functions Multiple Function Arguments Regular Expressions Exception Handling Sets Serialization Partial functions Code Introspection Closures Decorators Map, Filter, Reduce Parsing CSV Files DataCamp Copyright © learnpython.org. Read our Terms of Use and Privacy Policy",
+      "data_acesso": "2026-03-13T14:26:41.604319",
+      "tamanho": 2739
+    },
+    "https://www.tutorialspoint.com/python/index.htm": {
+      "titulo": "Python Tutorial",
+      "texto_completo": "Python - Home Python - Overview Python - History Python - Features Python vs C++ Python - Hello World Program Python - Application Areas Python - Interpreter Python - Environment Setup Python - Virtual Environment Python - Basic Syntax Python - Variables Python - Private Variables Python - Data Types Python - Type Casting Python - Unicode System Python - Literals Python - Operators Python - Arithmetic Operators Python - Comparison Operators Python - Assignment Operators Python - Logical Operators Python - Bitwise Operators Python - Membership Operators Python - Identity Operators Python - Walrus Operator Python - Operator Precedence Python - Comments Python - User Input Python - Numbers Python - Booleans Python - Floating Points Python - Control Flow Python - Decision Making Python - If Statement Python - If else Python - Nested If Python - Conditional User Inputs Python - Match-Case Statement Python - Loops Python - for Loops Python - for-else Loops Python - While Loops Python - break Statement Python - continue Statement Python - pass Statement Python - Nested Loops Python Functions & Modules Python - Functions Python - Default Arguments Python - Keyword Arguments Python - Keyword-Only Arguments Python - Positional Arguments Python - Positional-Only Arguments Python - Arbitrary Arguments Python - Variables Scope Python - Function Annotations Python - Modules Python - Packing and Unpacking Python - Built in Functions Python Strings Python - Strings Python - Slicing Strings Python - Modify Strings Python - String Concatenation Python - String Formatting Python - Escape Characters Python - String Methods Python - String Exercises Python Lists Python - Lists Python - Access List Items Python - Change List Items Python - Add List Items Python - Remove List Items Python - Loop Lists Python - List Comprehension Python - Sort Lists Python - Copy Lists Python - Join Lists Python - List Methods Python - List Exercises Python Tuples Python - Tuples Python - Access Tuple Items Python - Update Tuples Python - Unpack Tuples Python - Loop Tuples Python - Join Tuples Python - Tuple Methods Python - Namedtuple Python - Tuple Exercises Python Sets Python - Sets Python - Access Set Items Python - Add Set Items Python - Remove Set Items Python - Loop Sets Python - Join Sets Python - Copy Sets Python - Set Operators Python - Set Methods Python - Set Exercises Python Dictionaries Python - Dictionaries Python - Access Dictionary Items Python - Change Dictionary Items Python - Add Dictionary Items Python - Remove Dictionary Items Python - Dictionary View Objects Python - Loop Dictionaries Python - Copy Dictionaries Python - Nested Dictionaries Python - Dictionary Methods Python - Dictionary Exercises Python Arrays Python - Arrays Python - Access Array Items Python - Add Array Items Python - Remove Array Items Python - Loop Arrays Python - Copy Arrays Python - Reverse Arrays Python - Sort Arrays Python - Join Arrays Python - Array Methods Python - Array Exercises Python File Handling Python - File Handling Python - Write to File Python - Read Files Python - Renaming and Deleting Files Python - Directories Python - File Methods Python - OS File/Directory Methods Python - OS Path Methods Object Oriented Programming Python - OOPs Concepts Python - Classes & Objects Python - Class Attributes Python - Class Methods Python - Static Methods Python - Constructors Python - Access Modifiers Python - Inheritance Python - Multiple Inheritance Python - Multilevel Inheritance Python - Polymorphism Python - Method Overriding Python - Method Overloading Python - Dynamic Binding Python - Dynamic Typing Python - Abstraction Python - Encapsulation Python - Interfaces Python - Packages Python - Inner Classes Python - Anonymous Class and Objects Python - Singleton Class Python - Wrapper Classes Python - Enums Python - Reflection Python - Data Classes Python Errors & Exceptions Python - Syntax Errors Python - Exceptions Python - try-except Block Python - try-finally Block Python - Raising Exceptions Python - Exception Chaining Python - Nested try Block Python - User-defined Exception Python - Logging Python - Assertions Python - Warnings Python - Built-in Exceptions Python - Debugger (PDB) Python Multithreading Python - Multithreading Python - Thread Life Cycle Python - Creating a Thread Python - Starting a Thread Python - Joining Threads Python - Naming Thread Python - Thread Scheduling Python - Thread Pools Python - Main Thread Python - Thread Priority Python - Daemon Threads Python - Synchronizing Threads Python Synchronization Python - Inter-thread Communication Python - Thread Deadlock Python - Interrupting a Thread Python Networking Python - Networking Python - Socket Programming Python - URL Processing Python - Generics Python Libraries NumPy Tutorial Pandas Tutorial SciPy Tutorial Matplotlib Tutorial Django Tutorial OpenCV Tutorial Python Miscellenous Python - Date & Time Python - Maths Python - Iterators Python - Generators Python - Generator Expressions Python - Lambda Expressions Python - Closures Python - Decorators Python - Recursion Python - Reg Expressions Python - PIP Python - Database Access Python - Weak References Python - Serialization Python - Templating Python - Output Formatting Python - Performance Measurement Python - Data Compression Python - CGI Programming Python - XML Processing Python - GUI Programming Python - Command-Line Arguments Python - Docstrings Python - JSON Python - Sending Email Python - Further Extensions Python - Tools/Utilities Python - Odds and Ends Python - GUIs Python Advanced Concepts Python - Abstract Base Classes Python - Custom Exceptions Python - Higher Order Functions Python - Object Internals Python - Memory Management Python - Metaclasses Python - Metaprogramming with Metaclasses Python - Mocking and Stubbing Python - Monkey Patching Python - Signal Handling Python - Type Hints Python - Automation Tutorial Python - Humanize Package Python - Context Managers Python - Coroutines Python - Descriptors Python - Diagnosing and Fixing Memory Leaks Python - Immutable Data Structures Python - Domain Specific Language (DSL) Python - Data Model Python Useful Resources Python - Questions & Answers Python - Interview Questions & Answers Python - Online Quiz Python - Quick Guide Python - Reference Python - Cheatsheet Python - Projects Python - Useful Resources Python - Discussion Python Compiler NumPy Compiler Matplotlib Compiler SciPy Compiler Selected Reading UPSC IAS Exams Notes Developer's Best Practices Questions and Answers Online Resume Builder HR Interview Questions Computer Glossary Who is Who Python Tutorial Python Introduction What is Python Python \"Hello, World!\" Python Compiler Python Characteristics Applications of Python Features of Python Python Database Handling Python Reference Python Practice Python Exercises Python Jobs Why to Learn Python Careers with Python Download Python Python Updates Python Audiences Python Prerequisites Python Questions & Answers Job Search PDF Version Quick Guide Resources Discussion Python Tutorial Today, Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more. This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer. This Python tutorial is based on the latest Python 3.13 version. What is Python? Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation. This Python tutorial gives a complete understanding of Python programming language, starting from basic concepts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language. Python \"Hello, World!\" To start with Python programming, the very basic program is to print \"Hello, World!\" You can use the print() function . Below is an example of Python code to print \"Hello, World!\" − # Python code to print \"Hello, World!\" print (\"Hello, World!\") Python Online Compiler Our Python programming tutorial provides various examples to explain different concepts. We have provided Online Python Compiler/Interpreter . You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment. Try to click the icon to run the following Python code to print conventional \"Hello, World!\". Below code box allows you to change the value of the code. Try to change the value inside print() and run it again to verify the result. # This is my first Python program. # This will print 'Hello, World!' as the output print (\"Hello, World!\"); Characteristics of Python Following are important characteristics of Python Programming It supports functional and structured programming methods as well as OOP It can be used as a scripting language or can be compiled to byte-code for building large applications. It provides very high-level dynamic data types and supports dynamic type checking. It supports automatic garbage collection. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java. Applications of Python Python is a general purpose programming language known for its readability. It is w",
+      "data_acesso": "2026-03-13T14:26:44.232570",
+      "tamanho": 16930
     }
   },
   "indices": {
@@ -10261,7 +10412,8 @@
         "6fddd04117eaedbc",
         "1af3e9801063ed28",
         "6cb9dd3ec0aa8739",
-        "59c1f7af031c6db5"
+        "59c1f7af031c6db5",
+        "dd7e384a921fc225"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10286,7 +10438,11 @@
         "66af99b6e8fa3152",
         "cb214497609573a8",
         "0c698dccfe6ccd1c",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "69480fe95ce24a31",
+        "4caa16206e5fd138",
+        "e6d382a3c8d852d4",
+        "73c30f0c4a60b045"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10304,7 +10460,12 @@
         "aa95eaa70b67371b",
         "9d3eef28d73f90e5",
         "08b5b3a969983ea5",
-        "d44db2d70aa038be"
+        "d44db2d70aa038be",
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
       ]
     },
     "por_fonte": {
@@ -10940,6 +11101,24 @@
       "https://www.idera.com/blogs/sql-query-optimization/": [
         "d44db2d70aa038be",
         "d21e1b2bed9eebaa"
+      ],
+      "https://www.w3schools.com/python/": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31"
+      ],
+      "https://docs.python.org/3/tutorial/index.html": [
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138"
+      ],
+      "https://www.learnpython.org/": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "https://www.tutorialspoint.com/python/index.htm": [
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
       ]
     },
     "por_palavra": {
@@ -10953,7 +11132,12 @@
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -10970,7 +11154,8 @@
         "c6b34bef6d7f378b",
         "6cb9dd3ec0aa8739",
         "111b3fbd6b950047",
-        "66af99b6e8fa3152"
+        "66af99b6e8fa3152",
+        "cc6901ebb1f7f3e7"
       ],
       "malicious": [
         "76e1b1a09f317aa1"
@@ -10985,7 +11170,9 @@
         "869ef110cbcdc27e",
         "b8f86559bf96fa79",
         "9d3eef28d73f90e5",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
       ],
       "computer": [
         "76e1b1a09f317aa1"
@@ -10994,7 +11181,8 @@
         "76e1b1a09f317aa1"
       ],
       "system": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "73c30f0c4a60b045"
       ],
       "risks": [
         "76e1b1a09f317aa1"
@@ -11012,7 +11200,12 @@
         "9d3eef28d73f90e5",
         "08b5b3a969983ea5",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "0897ec52374a6727",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
       ],
       "blog": [
         "76e1b1a09f317aa1",
@@ -11037,7 +11230,11 @@
         "50d89ae937544a7e",
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
       ],
       "systems": [
         "76e1b1a09f317aa1"
@@ -11048,7 +11245,9 @@
         "7a07f2ff806d1129",
         "581c8fb845bd6d65",
         "b8f86559bf96fa79",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "cc6901ebb1f7f3e7",
+        "b850a0f81ab34e71"
       ],
       "with": [
         "76e1b1a09f317aa1",
@@ -11058,10 +11257,17 @@
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
       ],
       "user": [
-        "76e1b1a09f317aa1"
+        "76e1b1a09f317aa1",
+        "95e3a5b592935fe3"
       ],
       "what": [
         "76e1b1a09f317aa1",
@@ -11091,7 +11297,9 @@
       "will": [
         "76e1b1a09f317aa1",
         "0414d536276c3f78",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "cc6901ebb1f7f3e7",
+        "b850a0f81ab34e71"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -11141,14 +11349,21 @@
         "0414d536276c3f78",
         "9d3eef28d73f90e5",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
       ],
       "different": [
         "76e1b1a09f317aa1",
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "dd7e384a921fc225"
       ],
       "vulnerabilities": [
         "76e1b1a09f317aa1"
@@ -11214,7 +11429,11 @@
         "66af99b6e8fa3152",
         "cb214497609573a8",
         "0c698dccfe6ccd1c",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "69480fe95ce24a31",
+        "4caa16206e5fd138",
+        "e6d382a3c8d852d4",
+        "73c30f0c4a60b045"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11244,7 +11463,11 @@
         "66af99b6e8fa3152",
         "cb214497609573a8",
         "0c698dccfe6ccd1c",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "69480fe95ce24a31",
+        "4caa16206e5fd138",
+        "e6d382a3c8d852d4",
+        "73c30f0c4a60b045"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11282,10 +11505,21 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
       ],
       "access": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
       ],
       "criminal": [
         "869ef110cbcdc27e"
@@ -11335,7 +11569,11 @@
         "869ef110cbcdc27e"
       ],
       "interactive": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "b850a0f81ab34e71"
       ],
       "video": [
         "869ef110cbcdc27e"
@@ -11358,12 +11596,16 @@
       ],
       "program": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "73c30f0c4a60b045"
       ],
       "online": [
         "fe0a23e029896722",
         "7a07f2ff806d1129",
-        "8ed8baff7acd22b8"
+        "8ed8baff7acd22b8",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "dd7e384a921fc225"
       ],
       "security": [
         "fe0a23e029896722"
@@ -11378,12 +11620,14 @@
         "fe0a23e029896722"
       ],
       "files": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "242d8505c4a22160"
       ],
       "help": [
         "fe0a23e029896722",
         "581c8fb845bd6d65",
-        "17ce6e361a1d01ee"
+        "17ce6e361a1d01ee",
+        "b850a0f81ab34e71"
       ],
       "public": [
         "fe0a23e029896722",
@@ -11397,7 +11641,11 @@
         "c89318b0e0615d97",
         "cb214497609573a8",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "b850a0f81ab34e71"
       ],
       "about": [
         "fe0a23e029896722",
@@ -11444,7 +11692,9 @@
         "7a07f2ff806d1129"
       ],
       "using": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "cc6901ebb1f7f3e7",
+        "b850a0f81ab34e71"
       ],
       "federal": [
         "fe0a23e029896722"
@@ -11459,7 +11709,8 @@
         "fe0a23e029896722"
       ],
       "private": [
-        "fe0a23e029896722"
+        "fe0a23e029896722",
+        "73c30f0c4a60b045"
       ],
       "informed": [
         "fe0a23e029896722"
@@ -11528,7 +11779,8 @@
         "17ce6e361a1d01ee",
         "1b875cbff8d9d6f0",
         "890e6f3385756921",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "dd7e384a921fc225"
       ],
       "play": [
         "7a07f2ff806d1129"
@@ -11539,14 +11791,18 @@
         "0c698dccfe6ccd1c"
       ],
       "simple": [
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
       ],
       "steps": [
         "7a07f2ff806d1129"
       ],
       "home": [
         "7a07f2ff806d1129",
-        "c6b34bef6d7f378b"
+        "c6b34bef6d7f378b",
+        "69480fe95ce24a31",
+        "73c30f0c4a60b045"
       ],
       "workplace": [
         "7a07f2ff806d1129"
@@ -11591,7 +11847,8 @@
         "026f23a1d4ac4177",
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "73c30f0c4a60b045"
       ],
       "table": [
         "581c8fb845bd6d65",
@@ -11631,7 +11888,8 @@
         "59c1f7af031c6db5"
       ],
       "edit": [
-        "581c8fb845bd6d65"
+        "581c8fb845bd6d65",
+        "dd7e384a921fc225"
       ],
       "make": [
         "581c8fb845bd6d65",
@@ -11641,7 +11899,8 @@
       ],
       "also": [
         "581c8fb845bd6d65",
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "cc6901ebb1f7f3e7"
       ],
       "cookiedelivery": [
         "581c8fb845bd6d65",
@@ -11661,7 +11920,9 @@
       "free": [
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
       ],
       "paid": [
         "581c8fb845bd6d65",
@@ -11765,7 +12026,8 @@
         "9d3eef28d73f90e5"
       ],
       "here": [
-        "581c8fb845bd6d65"
+        "581c8fb845bd6d65",
+        "0897ec52374a6727"
       ],
       "comparisontabl": [
         "581c8fb845bd6d65"
@@ -11832,13 +12094,19 @@
         "b8f86559bf96fa79"
       ],
       "read": [
-        "b8f86559bf96fa79"
+        "b8f86559bf96fa79",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727"
       ],
       "started": [
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
         "9d3eef28d73f90e5",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
       ],
       "creating": [
         "b8f86559bf96fa79",
@@ -12306,7 +12574,11 @@
         "3e417395659575d0",
         "e21f689f4d1500b8",
         "28507d9dd792b9d2",
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "b850a0f81ab34e71"
       ],
       "mathworks": [
         "3e417395659575d0",
@@ -12605,7 +12877,8 @@
       "index": [
         "a572412ab66c4013",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "4caa16206e5fd138"
       ],
       "rosulek": [
         "a572412ab66c4013"
@@ -12766,7 +13039,13 @@
       ],
       "programming": [
         "17380aa1e75c8e1c",
-        "b742dc8a21aec10c"
+        "b742dc8a21aec10c",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
       ],
       "为什么有人显老": [
         "17380aa1e75c8e1c",
@@ -13152,7 +13431,17 @@
       "tutorial": [
         "8ed8baff7acd22b8",
         "357ae7ac9bd5d805",
-        "111b3fbd6b950047"
+        "111b3fbd6b950047",
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
       ],
       "fácil": [
         "8ed8baff7acd22b8",
@@ -13332,7 +13621,9 @@
         "c89318b0e0615d97"
       ],
       "site": [
-        "f4274a87f70b7a9c"
+        "f4274a87f70b7a9c",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
       ],
       "página": [
         "f4274a87f70b7a9c",
@@ -13797,7 +14088,8 @@
         "f542a8a92a748193"
       ],
       "global": [
-        "f542a8a92a748193"
+        "f542a8a92a748193",
+        "69480fe95ce24a31"
       ],
       "computing": [
         "f542a8a92a748193"
@@ -13831,7 +14123,8 @@
         "71a1a96eb62a2f10",
         "1d4e81d94c23b2c2",
         "0414d536276c3f78",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "b850a0f81ab34e71"
       ],
       "multi": [
         "026f23a1d4ac4177",
@@ -13887,13 +14180,18 @@
         "1d4e81d94c23b2c2",
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "dd7e384a921fc225"
       ],
       "lambda": [
         "026f23a1d4ac4177"
       ],
       "functions": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
       ],
       "managed": [
         "026f23a1d4ac4177"
@@ -13909,7 +14207,8 @@
         "d21e1b2bed9eebaa"
       ],
       "search": [
-        "026f23a1d4ac4177"
+        "026f23a1d4ac4177",
+        "242d8505c4a22160"
       ],
       "always": [
         "026f23a1d4ac4177"
@@ -14000,7 +14299,8 @@
       ],
       "copy": [
         "71a1a96eb62a2f10",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "95e3a5b592935fe3"
       ],
       "largest": [
         "71a1a96eb62a2f10"
@@ -14027,7 +14327,8 @@
         "71a1a96eb62a2f10"
       ],
       "annual": [
-        "71a1a96eb62a2f10"
+        "71a1a96eb62a2f10",
+        "e6d382a3c8d852d4"
       ],
       "advantage": [
         "71a1a96eb62a2f10"
@@ -14140,7 +14441,8 @@
       ],
       "expert": [
         "1d4e81d94c23b2c2",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "e6d382a3c8d852d4"
       ],
       "honest": [
         "0414d536276c3f78"
@@ -14170,7 +14472,8 @@
         "0414d536276c3f78"
       ],
       "areas": [
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "73c30f0c4a60b045"
       ],
       "managing": [
         "0414d536276c3f78"
@@ -14245,7 +14548,8 @@
         "aa95eaa70b67371b"
       ],
       "virtual": [
-        "aa95eaa70b67371b"
+        "aa95eaa70b67371b",
+        "73c30f0c4a60b045"
       ],
       "gerenciar": [
         "aa95eaa70b67371b"
@@ -14626,7 +14930,8 @@
       "create": [
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "242d8505c4a22160"
       ],
       "main": [
         "9d3eef28d73f90e5"
@@ -14636,7 +14941,8 @@
       ],
       "like": [
         "9d3eef28d73f90e5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "b850a0f81ab34e71"
       ],
       "commits": [
         "9d3eef28d73f90e5",
@@ -14666,7 +14972,10 @@
         "c89318b0e0615d97"
       ],
       "file": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "95e3a5b592935fe3"
       ],
       "important": [
         "9d3eef28d73f90e5"
@@ -14696,7 +15005,9 @@
         "9d3eef28d73f90e5"
       ],
       "many": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "cc6901ebb1f7f3e7",
+        "b850a0f81ab34e71"
       ],
       "guides": [
         "91e38248c22bb7fb"
@@ -15134,7 +15445,11 @@
         "08b5b3a969983ea5"
       ],
       "join": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3"
       ],
       "user_id": [
         "08b5b3a969983ea5"
@@ -15160,7 +15475,8 @@
         "0c698dccfe6ccd1c"
       ],
       "explain": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "dd7e384a921fc225"
       ],
       "columns": [
         "08b5b3a969983ea5"
@@ -15185,7 +15501,8 @@
       ],
       "approach": [
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "4caa16206e5fd138"
       ],
       "large": [
         "08b5b3a969983ea5"
@@ -15197,7 +15514,8 @@
         "08b5b3a969983ea5"
       ],
       "after": [
-        "08b5b3a969983ea5"
+        "08b5b3a969983ea5",
+        "0897ec52374a6727"
       ],
       "completed": [
         "08b5b3a969983ea5"
@@ -15217,13 +15535,27 @@
         "0c698dccfe6ccd1c"
       ],
       "coding": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
       ],
       "tutorials": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
       ],
       "python": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4",
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
       ],
       "swift": [
         "0c698dccfe6ccd1c"
@@ -15267,7 +15599,8 @@
         "0c698dccfe6ccd1c"
       ],
       "operations": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "0897ec52374a6727"
       ],
       "career": [
         "0c698dccfe6ccd1c"
@@ -15283,7 +15616,8 @@
       ],
       "tools": [
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "cc6901ebb1f7f3e7"
       ],
       "monitoring": [
         "d44db2d70aa038be",
@@ -15319,7 +15653,8 @@
       ],
       "mysql": [
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "242d8505c4a22160"
       ],
       "real": [
         "d44db2d70aa038be",
@@ -15415,12 +15750,615 @@
       ],
       "techniques": [
         "d21e1b2bed9eebaa"
+      ],
+      "challenge": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31"
+      ],
+      "methods": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "matplotlib": [
+        "242d8505c4a22160"
+      ],
+      "mongodb": [
+        "242d8505c4a22160"
+      ],
+      "items": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "module": [
+        "242d8505c4a22160"
+      ],
+      "exercises": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
+      ],
+      "operators": [
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "73c30f0c4a60b045"
+      ],
+      "list": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
+      ],
+      "sort": [
+        "242d8505c4a22160"
+      ],
+      "lists": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
+      ],
+      "string": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
+      ],
+      "tuples": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "examples": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "dd7e384a921fc225"
+      ],
+      "strings": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "95e3a5b592935fe3"
+      ],
+      "handling": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "95e3a5b592935fe3"
+      ],
+      "remove": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "dictionaries": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "numbers": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31"
+      ],
+      "variables": [
+        "242d8505c4a22160",
+        "69480fe95ce24a31",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "73c30f0c4a60b045"
+      ],
+      "loop": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "tuple": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "sets": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "dictionary": [
+        "242d8505c4a22160",
+        "95e3a5b592935fe3"
+      ],
+      "loops": [
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
+      ],
+      "modules": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
+      ],
+      "math": [
+        "242d8505c4a22160"
+      ],
+      "classes": [
+        "242d8505c4a22160",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
+      ],
+      "class": [
+        "242d8505c4a22160",
+        "cc6901ebb1f7f3e7",
+        "95e3a5b592935fe3"
+      ],
+      "delete": [
+        "242d8505c4a22160"
+      ],
+      "regression": [
+        "242d8505c4a22160"
+      ],
+      "trees": [
+        "242d8505c4a22160"
+      ],
+      "reference": [
+        "242d8505c4a22160",
+        "b850a0f81ab34e71"
+      ],
+      "quiz": [
+        "242d8505c4a22160"
+      ],
+      "syntax": [
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "73c30f0c4a60b045"
+      ],
+      "output": [
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7"
+      ],
+      "print": [
+        "69480fe95ce24a31",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
+      ],
+      "comments": [
+        "69480fe95ce24a31"
+      ],
+      "variable": [
+        "69480fe95ce24a31"
+      ],
+      "types": [
+        "69480fe95ce24a31",
+        "0897ec52374a6727",
+        "73c30f0c4a60b045"
+      ],
+      "casting": [
+        "69480fe95ce24a31",
+        "73c30f0c4a60b045"
+      ],
+      "intro": [
+        "69480fe95ce24a31",
+        "e6d382a3c8d852d4"
+      ],
+      "statements": [
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7"
+      ],
+      "text": [
+        "69480fe95ce24a31"
+      ],
+      "names": [
+        "69480fe95ce24a31"
+      ],
+      "assign": [
+        "69480fe95ce24a31"
+      ],
+      "multiple": [
+        "69480fe95ce24a31",
+        "cc6901ebb1f7f3e7"
+      ],
+      "values": [
+        "69480fe95ce24a31"
+      ],
+      "slicing": [
+        "69480fe95ce24a31"
+      ],
+      "language": [
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138",
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
+      ],
+      "interpreter": [
+        "cc6901ebb1f7f3e7",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
+      ],
+      "standard": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "exceptions": [
+        "cc6901ebb1f7f3e7",
+        "95e3a5b592935fe3"
+      ],
+      "documentation": [
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138"
+      ],
+      "library": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "objects": [
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "95e3a5b592935fe3"
+      ],
+      "argument": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "function": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "arguments": [
+        "cc6901ebb1f7f3e7",
+        "95e3a5b592935fe3"
+      ],
+      "packages": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "formatting": [
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727"
+      ],
+      "next": [
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138"
+      ],
+      "previous": [
+        "cc6901ebb1f7f3e7",
+        "4caa16206e5fd138"
+      ],
+      "source": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "other": [
+        "cc6901ebb1f7f3e7",
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "defining": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "keyword": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "error": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "history": [
+        "cc6901ebb1f7f3e7",
+        "73c30f0c4a60b045"
+      ],
+      "page": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "foundation": [
+        "cc6901ebb1f7f3e7"
+      ],
+      "navigation": [
+        "4caa16206e5fd138"
+      ],
+      "theme": [
+        "4caa16206e5fd138"
+      ],
+      "auto": [
+        "4caa16206e5fd138"
+      ],
+      "light": [
+        "4caa16206e5fd138"
+      ],
+      "dark": [
+        "4caa16206e5fd138"
+      ],
+      "designed": [
+        "4caa16206e5fd138"
+      ],
+      "programmers": [
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
+      ],
+      "beginners": [
+        "4caa16206e5fd138"
+      ],
+      "easy": [
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
+      ],
+      "powerful": [
+        "4caa16206e5fd138"
+      ],
+      "efficient": [
+        "4caa16206e5fd138"
+      ],
+      "high": [
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
+      ],
+      "level": [
+        "4caa16206e5fd138",
+        "b850a0f81ab34e71"
+      ],
+      "structures": [
+        "4caa16206e5fd138"
+      ],
+      "effective": [
+        "4caa16206e5fd138"
+      ],
+      "object": [
+        "4caa16206e5fd138",
+        "95e3a5b592935fe3"
+      ],
+      "oriented": [
+        "4caa16206e5fd138",
+        "95e3a5b592935fe3"
+      ],
+      "elegant": [
+        "4caa16206e5fd138"
+      ],
+      "datacamp": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "science": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "basic": [
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "73c30f0c4a60b045"
+      ],
+      "welcome": [
+        "0897ec52374a6727"
+      ],
+      "generously": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "supported": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "offers": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "million": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "learners": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "today": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "good": [
+        "0897ec52374a6727",
+        "e6d382a3c8d852d4"
+      ],
+      "click": [
+        "0897ec52374a6727",
+        "dd7e384a921fc225"
+      ],
+      "learnpython": [
+        "0897ec52374a6727"
+      ],
+      "hello": [
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "73c30f0c4a60b045"
+      ],
+      "world": [
+        "0897ec52374a6727",
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
+      ],
+      "conditions": [
+        "0897ec52374a6727"
+      ],
+      "completing": [
+        "e6d382a3c8d852d4"
+      ],
+      "challenges": [
+        "e6d382a3c8d852d4"
+      ],
+      "watching": [
+        "e6d382a3c8d852d4"
+      ],
+      "videos": [
+        "e6d382a3c8d852d4"
+      ],
+      "instructors": [
+        "e6d382a3c8d852d4"
+      ],
+      "start": [
+        "e6d382a3c8d852d4"
+      ],
+      "news": [
+        "e6d382a3c8d852d4"
+      ],
+      "save": [
+        "e6d382a3c8d852d4"
+      ],
+      "thread": [
+        "95e3a5b592935fe3"
+      ],
+      "arrays": [
+        "95e3a5b592935fe3"
+      ],
+      "statement": [
+        "95e3a5b592935fe3"
+      ],
+      "array": [
+        "95e3a5b592935fe3"
+      ],
+      "concepts": [
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225"
+      ],
+      "questions": [
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
+      ],
+      "compiler": [
+        "95e3a5b592935fe3",
+        "dd7e384a921fc225"
+      ],
+      "nested": [
+        "95e3a5b592935fe3"
+      ],
+      "answers": [
+        "95e3a5b592935fe3",
+        "b850a0f81ab34e71"
+      ],
+      "change": [
+        "dd7e384a921fc225"
+      ],
+      "value": [
+        "dd7e384a921fc225"
+      ],
+      "provides": [
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
+      ],
+      "various": [
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
+      ],
+      "provided": [
+        "dd7e384a921fc225"
+      ],
+      "execute": [
+        "dd7e384a921fc225"
+      ],
+      "almost": [
+        "dd7e384a921fc225"
+      ],
+      "directly": [
+        "dd7e384a921fc225"
+      ],
+      "browser": [
+        "dd7e384a921fc225"
+      ],
+      "without": [
+        "dd7e384a921fc225"
+      ],
+      "development": [
+        "dd7e384a921fc225",
+        "b850a0f81ab34e71"
+      ],
+      "environment": [
+        "dd7e384a921fc225",
+        "73c30f0c4a60b045"
+      ],
+      "icon": [
+        "dd7e384a921fc225"
+      ],
+      "following": [
+        "dd7e384a921fc225"
+      ],
+      "conventional": [
+        "dd7e384a921fc225"
+      ],
+      "below": [
+        "dd7e384a921fc225"
+      ],
+      "allows": [
+        "dd7e384a921fc225"
+      ],
+      "inside": [
+        "dd7e384a921fc225"
+      ],
+      "again": [
+        "dd7e384a921fc225"
+      ],
+      "verify": [
+        "dd7e384a921fc225"
+      ],
+      "result": [
+        "dd7e384a921fc225"
+      ],
+      "applications": [
+        "b850a0f81ab34e71"
+      ],
+      "great": [
+        "b850a0f81ab34e71"
+      ],
+      "supports": [
+        "b850a0f81ab34e71"
+      ],
+      "used": [
+        "b850a0f81ab34e71"
+      ],
+      "companies": [
+        "b850a0f81ab34e71"
+      ],
+      "engineer": [
+        "b850a0f81ab34e71"
+      ],
+      "very": [
+        "b850a0f81ab34e71"
+      ],
+      "libraries": [
+        "b850a0f81ab34e71"
+      ],
+      "features": [
+        "b850a0f81ab34e71",
+        "73c30f0c4a60b045"
+      ],
+      "windows": [
+        "b850a0f81ab34e71"
+      ],
+      "databases": [
+        "b850a0f81ab34e71"
+      ],
+      "major": [
+        "b850a0f81ab34e71"
+      ],
+      "overview": [
+        "73c30f0c4a60b045"
+      ],
+      "application": [
+        "73c30f0c4a60b045"
+      ],
+      "setup": [
+        "73c30f0c4a60b045"
+      ],
+      "type": [
+        "73c30f0c4a60b045"
+      ],
+      "unicode": [
+        "73c30f0c4a60b045"
+      ],
+      "literals": [
+        "73c30f0c4a60b045"
+      ],
+      "arithmetic": [
+        "73c30f0c4a60b045"
+      ],
+      "assignment": [
+        "73c30f0c4a60b045"
+      ],
+      "logical": [
+        "73c30f0c4a60b045"
+      ],
+      "operator": [
+        "73c30f0c4a60b045"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 23,
-    "paginas_falhas": 44,
-    "total_caracteres": 136589
+    "paginas_baixadas": 27,
+    "paginas_falhas": 49,
+    "total_caracteres": 170271
   }
 }
