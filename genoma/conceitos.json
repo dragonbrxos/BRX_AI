@@ -1407,6 +1407,11 @@
         "para": "4b4fcb17a77fc5aa",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1424,7 +1429,8 @@
       "https://www.ibm.com/br-pt/think/topics/generative-ai",
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
       "https://aws.amazon.com/pt/what-is/generative-ai/",
-      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
     ]
   },
   {
@@ -2222,6 +2228,11 @@
         "para": "a487d7ee22e69288",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2235,7 +2246,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
     ]
   },
   {
@@ -3786,6 +3798,11 @@
         "para": "e133acfa4480895c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -3800,7 +3817,8 @@
     "fontes": [
       "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
       "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2",
-      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
     ]
   },
   {
@@ -4126,6 +4144,11 @@
         "para": "e133acfa4480895c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -4138,7 +4161,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
     ]
   },
   {
@@ -5163,6 +5187,506 @@
     "profundidade": 0,
     "fontes": [
       "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "33d4c72374a61c9f",
+    "tipo": "conceito",
+    "conteudo": "executar",
+    "criado": "2026-03-13T13:43:12.933946",
+    "modificado": "2026-03-13T13:43:12.933946",
+    "conexoes": [
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+    ]
+  },
+  {
+    "id": "187a236b1615a197",
+    "tipo": "conceito",
+    "conteudo": "aproveite",
+    "criado": "2026-03-13T13:43:12.934488",
+    "modificado": "2026-03-13T13:43:12.934488",
+    "conexoes": [
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+    ]
+  },
+  {
+    "id": "bd6a3007e46daa6d",
+    "tipo": "conceito",
+    "conteudo": "multiagentes",
+    "criado": "2026-03-13T13:43:12.934675",
+    "modificado": "2026-03-13T13:43:12.934675",
+    "conexoes": [
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system",
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "4ce253124a3a08da",
+    "tipo": "conceito",
+    "conteudo": "trabalhando",
+    "criado": "2026-03-13T13:43:12.934870",
+    "modificado": "2026-03-13T13:43:12.934870",
+    "conexoes": [
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+    ]
+  },
+  {
+    "id": "a2f32773dd2472a7",
+    "tipo": "conceito",
+    "conteudo": "coletivamente",
+    "criado": "2026-03-13T13:43:12.935056",
+    "modificado": "2026-03-13T13:43:12.935056",
+    "conexoes": [
+      {
+        "para": "91b8f8795d0539ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+    ]
+  },
+  {
+    "id": "04c88f134433e25c",
+    "tipo": "conceito",
+    "conteudo": "computacionais",
+    "criado": "2026-03-13T13:43:13.035766",
+    "modificado": "2026-03-13T13:43:13.035766",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "a842437c361a60c2",
+    "tipo": "conceito",
+    "conteudo": "situadas",
+    "criado": "2026-03-13T13:43:13.036009",
+    "modificado": "2026-03-13T13:43:13.036009",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "112c740645cd8fd5",
+    "tipo": "conceito",
+    "conteudo": "esses",
+    "criado": "2026-03-13T13:43:13.036248",
+    "modificado": "2026-03-13T13:43:13.036248",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "c2ae4aa20e67416b",
+    "tipo": "conceito",
+    "conteudo": "colaboram",
+    "criado": "2026-03-13T13:43:13.036482",
+    "modificado": "2026-03-13T13:43:13.036482",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "c4afb82b6fb8a6ef",
+    "tipo": "conceito",
+    "conteudo": "várias",
+    "criado": "2026-03-13T13:43:13.036787",
+    "modificado": "2026-03-13T13:43:13.036787",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "4ff299e7fbea7c82",
+    "tipo": "conceito",
+    "conteudo": "autônomas",
+    "criado": "2026-03-13T13:43:13.037054",
+    "modificado": "2026-03-13T13:43:13.037054",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "e162f9cdce48390c",
+    "tipo": "conceito",
+    "conteudo": "compartilhado",
+    "criado": "2026-03-13T13:43:13.037291",
+    "modificado": "2026-03-13T13:43:13.037291",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "49f5080a4d02d043",
+    "tipo": "conceito",
+    "conteudo": "composto",
+    "criado": "2026-03-13T13:43:13.037528",
+    "modificado": "2026-03-13T13:43:13.037528",
+    "conexoes": [
+      {
+        "para": "f373192620c05edf",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "69f34a02a27e8517",
+    "tipo": "conceito",
+    "conteudo": "global",
+    "criado": "2026-03-13T13:43:13.138272",
+    "modificado": "2026-03-13T13:43:13.138272",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "a3c2b7e123a0aaf7",
+    "tipo": "conceito",
+    "conteudo": "necessário",
+    "criado": "2026-03-13T13:43:13.138939",
+    "modificado": "2026-03-13T13:43:13.138939",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "428a2ea0d5224ef3",
+    "tipo": "conceito",
+    "conteudo": "individual",
+    "criado": "2026-03-13T13:43:13.139635",
+    "modificado": "2026-03-13T13:43:13.139635",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "eb60557d17985fc6",
+    "tipo": "conceito",
+    "conteudo": "ideia",
+    "criado": "2026-03-13T13:43:13.140586",
+    "modificado": "2026-03-13T13:43:13.140586",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "40be3c82ded3d22a",
+    "tipo": "conceito",
+    "conteudo": "principal",
+    "criado": "2026-03-13T13:43:13.141606",
+    "modificado": "2026-03-13T13:43:13.141606",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
+  },
+  {
+    "id": "20a8e0622097caaa",
+    "tipo": "conceito",
+    "conteudo": "partir",
+    "criado": "2026-03-13T13:43:13.142166",
+    "modificado": "2026-03-13T13:43:13.142166",
+    "conexoes": [
+      {
+        "para": "992710ac9f762580",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
     ]
   }
 ]
