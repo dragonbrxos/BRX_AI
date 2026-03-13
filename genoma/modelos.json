@@ -479,5 +479,65 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "54fb219c98b545fa",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'algoritmos geneticos otimizacao'. Estrutura conceitual com 76 nos e 1094 conexoes. Nucleo: genéticos, otimização, eles, genético, utilizam, evidentemente, profissionais.",
+    "criado": "2026-03-13T13:56:04.368059",
+    "modificado": "2026-03-13T13:56:04.368059",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "algoritmos_geneticos_otimizaca_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "9f5bd632fad9a9c0",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'modelos transformers GPT'. Estrutura conceitual com 39 nos e 714 conexoes. Nucleo: agências, oferecemos, profissionalismo, necessidades, categorias, Paulo, identificar.",
+    "criado": "2026-03-13T13:56:27.071442",
+    "modificado": "2026-03-13T13:56:27.071442",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "arquivo": "modelos_transformers_gpt_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "ce416bb8c4146bd9",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'redes neurais profundas'. Estrutura conceitual com 89 nos e 1100 conexoes. Nucleo: toda, lidar, explicará, base, capítulos, cerne, ampla.",
+    "criado": "2026-03-13T13:56:51.578533",
+    "modificado": "2026-03-13T13:56:51.578533",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "redes neurais profundas",
+      "arquivo": "redes_neurais_profundas_modelo.json",
+      "conceitos_count": 15,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
