@@ -329,17 +329,31 @@
       "2c854c6a1e6de3b3",
       "fe847f69cb1b180a",
       "561857cbe839c3de"
+    ],
+    "processamento linguagem natural": [
+      "90d15cd36d9e53b3",
+      "c402971f05dcc71f",
+      "3243dff24fb24ead",
+      "08d9bcdaa5a16eef",
+      "9e4cc1ebd7cd21a4",
+      "64788fafda8b6a63",
+      "a1a90918a87a3c33",
+      "7d169478a4eff439",
+      "76abf8fa5dc87a55",
+      "4d6bc0ff7bbda4a7",
+      "882bcedb887e4cb6",
+      "b6b0cd354ce13bf8"
     ]
   },
   "estatisticas": {
-    "ciclos": 14,
-    "nascimentos": 300,
+    "ciclos": 15,
+    "nascimentos": 312,
     "mortes": 0,
-    "refinamentos": 54,
-    "pesquisas_realizadas": 14,
+    "refinamentos": 57,
+    "pesquisas_realizadas": 15,
     "arquivos_gerados": 7
   },
-  "topico_atual": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao algoritmos implementacao",
+  "topico_atual": "processamento linguagem natural",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -354,7 +368,8 @@
     "inteligencia artificial explicavel",
     "inteligencia artificial explicavel algoritmos implementacao",
     "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
-    "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao algoritmos implementacao"
+    "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao algoritmos implementacao",
+    "processamento linguagem natural"
   ],
-  "timestamp": "2026-03-13T13:45:28.646257"
+  "timestamp": "2026-03-13T13:45:54.225010"
 }
