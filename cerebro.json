@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 51,
+    "ciclos": 52,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 281165
+    "caracteres_aprendidos": 284980
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -10070,6 +10070,28 @@
       "criado": "2026-03-13T14:35:12.487644",
       "acessos": 1,
       "conexoes": []
+    },
+    "f0c2f536dcbaf6b1": {
+      "conteudo": "cyber security fundamentals Rating: 4.4 out of 5 4.4 (265 ratings) 18,441 students Preview this course cyber security fundamentals The right way to start your career in cybersecurity Created by Ahmed Zekraoui Last updated 3/2022 English English Preview this course What you'll learn How to start your career in cybersecurity Cybersecuity marketsize & statistics Cybersecuity laws (US, EU & Australia) Cybersecuity standards (NIST, ISO27001, PCI-DSS) Cybersecuity career pathway (including the certifications) Malwares Categories Hackers techniques & Motivations Hackers categories Cybersecurity killchain cyber security basics Explore related topics Cybersecurity Network & Security IT & Software Course content 4 sections 28 lectures 1h 29m total length Expand all sections Introduction 1 lecture 2min Course introduction Preview 2:27 cybersecurity path 9 lectures 32min Section introduction Preview 1:17 What is cybersecurity 1:57 Cybersecurity statistics 5:15 Cybersecurity market size 2:35 Cybersecurity vs Cyber Security Preview 2:20 Cybersecurity vs information security 5:02 Cybersecurity pathway 4:40 Roadmap & salary expectation 5:00 Top cybersecurity certifications 3:50 Hackers techniques and motivations 10 lectures 35min Section introduction 1:15 Hackers categories 5:20 Hackers motivations 1:55 Why hackers hack? 5:07 Cybersecurity killchain - Part 01 3:25 Cybersecurity killchain - Part 02 3:24 Social engineering Preview 4:47 Hacking techniques 3:41 Malwares - Part 01 Preview 3:25 Malwares - Part 02 3:07 Cybersecurity laws and standards 8 lectures 20min Section introduction 1:28 ISO 27001 3:06 NIST Preview 4:05 PCI-DSS 2:35 How to become PCI-DSS compliant? 1:38 Cybersecurity laws 1:23 Cybersecurity laws examples (US, EU & Australia) 4:09 Conclusion Preview 1:10 Requirements No previous experience is required Description If you are freshly graduated and looking to start your career in cybersecurity (or even if you are switching from other IT field), then this is the right course for you! This course cover all the aspects that anyone needs for a good start in cybersecurity, including the basics of this fields : Like what exactly is cybersecutiy? what are the differences between cybersecurity and information security? Is the cybersecurity marketsize really huge? and what does it cover exactly? Certification and career roadmap are included in the course, so that you can prepare your plans for a great career (including salary expectations) You will also be able to classify hackers and know the way they think, so that you can easly protect your company. For this, we will dive deep into the cybersecurity kill chain, and discover the malicious tools that are used by hackers, in order to hack systems. This course also cover the laws and standards that organize the cybersecurity world. For the laws we take the example of the United states of America, the European Union and Australia cybersecurity laws. Regarding the standards, we will take the most well known ones, this include PCI-DSS for payment cards security, National Institute of Standards and Technology (NIST) & ISO27001 as part of the ISO 27k family of standards. Who this course is for: Beginner in cybersecurity IT engineers Developers Show more Show less Report abuse",
+      "tipo": "exemplo_numerico",
+      "fontes": [
+        "https://www.udemy.com/course/cybersecurity-fundamentals/"
+      ],
+      "peso": 2.0,
+      "criado": "2026-03-13T14:41:09.627897",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "f107e4b01ec0b955": {
+      "conteudo": "TITULO: cyber security fundamentals\nCONTEUDO: cyber security fundamentals Rating: 4.4 out of 5 4.4 (265 ratings) 18,441 students Preview this course cyber security fundamentals The right way to start your career in cybersecurity Created by Ahmed Zekraoui Last updated 3/2022 English English Preview this course What you'll learn How to start your career in cybersecurity Cybersecuity marketsize & statistics Cybersecuity laws (US, EU & Australia) Cybersecuity standards (NIST, ISO27001, PCI-DSS) Cybersecuity career pathway (including the certifi...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.udemy.com/course/cybersecurity-fundamentals/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:41:09.628265",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -10306,6 +10328,12 @@
       "texto_completo": "Take a look at our Cybersecurity Fundamentals Certificate Cybersecurity Fundamentals Certificate candidates demonstrate their understanding of the principles that frame and define cybersecurity, and the integral role of cybersecurity professionals in protecting enterprise data and infrastructure. Who would benefit from Cybersecurity Fundamentals: STUDENTS & RECENT GRADUATES TEAMS & INDIVIDUALS LOOKING TO UPSKILL RISING IT PROFESSIONALS What you will learn with Cybersecurity Fundamentals: Cybersecurity Fundamentals offers hybrid knowledge and hands-on learning. Gain insight into the principles of data and technologies that frame and define cybersecurity, its language and the integral role of cybersecurity professionals in protecting enterprise data and infrastructure. Threat Landscape Security Operations and Response Information Security Fundamentals Securing Assets VIEW ALL STUDY MATERIALS HOW DO I BECOME CERTIFIED? Build a world-class team If your business has multiple employees in need of Cybersecurity Fundamentals training, our online, on-demand group training solutions can be customized to meet your team's unique needs and goals. Our instructors are current-day practitioners and industry certified, bringing their proven cybersecurity experience and expertise to you and your colleagues. TALK TO OUR EXPERTS Learn, train and grow with Cybersecurity Fundamentals Build your cybersecurity knowledge and skills with your choice of guidance and self-paced study materials developed by industry-leading experts. Resources to to get started Cybersecurity Fundamentals Online Course Prepare for real-world situations with this interactive, self-guided course created by experts. A blend of knowledge and hands-on application provides a truly unique and dynamic learning experience that builds and reinforces the critical skills required to perform many of the technical tasks that the IT work environment demands. Access your study materials and performance-based labs on demand, 24/7. You’ll also earn 9.5 CPE upon completion. BUY COURSE Cybersecurity Fundamentals Lab Package Build on and reinforce critical skills required to accomplish real-world technical tasks in an online virtual training environment. Once purchased, online labs are accessible for 12 months, whenever you want, 24/7, from wherever you are. You’ll also earn 9.5 CPE upon completion. BUY PACKAGE Cybersecurity Fundamentals Study Guide Authored by global industry experts, the study guide helps build your knowledge of the Cybersecurity Fundamentals domains, outlines what to expect from the exam, and offers example questions complete with recommended answers. We recommend purchasing the Cybersecurity Fundamentals Lab Package as a companion to this study guide. BUY GUIDE TRAIN YOUR CORPORATE TEAM How do I earn this certificate? About Register Schedule About About the final exam Domains covered in exam Securing Assets Information Security Fundamentals Security Operations and Response Threat Landscape There are no prerequisites. You can register for the Cybersecurity Fundamentals exam at any time. The online, remotely proctored 2-hour exam blends both knowledge (multiple choice) and performance-based questions set in a virtual lab environment . To pass the exam, you must earn a score of 65% or higher. PREPARING FOR THE EXAM Exam Candidate Guide Review the Exam Candidate Guide to learn about exam registration, scheduling, preparation, rules, administration, scoring, retake policy, proctoring and more. CANDIDATE GUIDES By successfully passing this exam, candidates prove their knowledge of cybersecurity risk, data, languages and technologies. Register Before you register: CHECK SYSTEM COMPATIBILITY Register for the exam ISACA certificate exams are computer-based and administered as remotely proctored exams. Registration for the Cybersecurity Fundamentals exam is continuous, meaning candidates can register any time, no restrictions. Candidates can schedule a testing appointment as early as 48 hours after payment of exam registration fees. US$120.00 Member exam cost US$144.00 Non-Member exam cost REGISTER Seamless certificate journey ISACA’S Cybersecurity Fundamentals certificate exam is computer-based and administered via remotely proctored exams. Cybersecurity Fundamentals exam registration is continuous, meaning candidates can register any time, no restrictions. Candidates can schedule a testing appointment as early as 48 hours after payment of exam registration fees. Log in to MyISACA or create an account to begin If you are creating an account, please ensure your name matches what appears on your government-issued identification that you will present on the day of your Cybersecurity Fundamentals exam. LOG IN TO MYISACA Become A Member Schedule Schedule your exam Cybersecurity Fundamentals exam eligibility is required to schedule and take an exam. Eligibility is established at the time of exam registration and is good for twelve months. Exam registration and payment are required before you can schedule and take an exam. These are the key steps to scheduling your Cybersecurity Fundamentals exam: Resources to help schedule your exam: Exam guides Special accommodations Log in to your ISACA Account > Click Certificates Click Schedule Your Exam or Visit Exam Website , you will be taken to the PSI dashboard to schedule your exam. On the PSI dashboard, click Schedule Exam Please note, exam appointments are only available 90 days in advance. If you do not see your exam site or date available more than 90 days in advance, please check back when it is closer to your desired exam date. If you still do not see your desired exam site or date available, please verify that your exam eligibility has not expired by logging into your ISACA Account, and clicking the Certification & CPE Management tab. Rescheduling an exam You can reschedule your exam anytime, without penalty, during your eligibility period if done a minimum of 48 hours prior to your scheduled testing appointment. To reschedule an appointment: Log in to your ISACA Account and follow the rescheduling steps in the Scheduling Guide LOG IN TO MYISACA How to access your certificate With a score of 65% or higher you will be notified of your achievement (congrats!). Then log in to your MyISACA certificate page. LOG IN TO MYISACA Curious about global advocacy in IT? Learn more",
       "data_acesso": "2026-03-13T14:35:12.486624",
       "tamanho": 6376
+    },
+    "https://www.udemy.com/course/cybersecurity-fundamentals/": {
+      "titulo": "cyber security fundamentals",
+      "texto_completo": "cyber security fundamentals Rating: 4.4 out of 5 4.4 (265 ratings) 18,441 students Preview this course cyber security fundamentals The right way to start your career in cybersecurity Created by Ahmed Zekraoui Last updated 3/2022 English English Preview this course What you'll learn How to start your career in cybersecurity Cybersecuity marketsize & statistics Cybersecuity laws (US, EU & Australia) Cybersecuity standards (NIST, ISO27001, PCI-DSS) Cybersecuity career pathway (including the certifications) Malwares Categories Hackers techniques & Motivations Hackers categories Cybersecurity killchain cyber security basics Explore related topics Cybersecurity Network & Security IT & Software Course content 4 sections 28 lectures 1h 29m total length Expand all sections Introduction 1 lecture 2min Course introduction Preview 2:27 cybersecurity path 9 lectures 32min Section introduction Preview 1:17 What is cybersecurity 1:57 Cybersecurity statistics 5:15 Cybersecurity market size 2:35 Cybersecurity vs Cyber Security Preview 2:20 Cybersecurity vs information security 5:02 Cybersecurity pathway 4:40 Roadmap & salary expectation 5:00 Top cybersecurity certifications 3:50 Hackers techniques and motivations 10 lectures 35min Section introduction 1:15 Hackers categories 5:20 Hackers motivations 1:55 Why hackers hack? 5:07 Cybersecurity killchain - Part 01 3:25 Cybersecurity killchain - Part 02 3:24 Social engineering Preview 4:47 Hacking techniques 3:41 Malwares - Part 01 Preview 3:25 Malwares - Part 02 3:07 Cybersecurity laws and standards 8 lectures 20min Section introduction 1:28 ISO 27001 3:06 NIST Preview 4:05 PCI-DSS 2:35 How to become PCI-DSS compliant? 1:38 Cybersecurity laws 1:23 Cybersecurity laws examples (US, EU & Australia) 4:09 Conclusion Preview 1:10 Requirements No previous experience is required Description If you are freshly graduated and looking to start your career in cybersecurity (or even if you are switching from other IT field), then this is the right course for you! This course cover all the aspects that anyone needs for a good start in cybersecurity, including the basics of this fields : Like what exactly is cybersecutiy? what are the differences between cybersecurity and information security? Is the cybersecurity marketsize really huge? and what does it cover exactly? Certification and career roadmap are included in the course, so that you can prepare your plans for a great career (including salary expectations) You will also be able to classify hackers and know the way they think, so that you can easly protect your company. For this, we will dive deep into the cybersecurity kill chain, and discover the malicious tools that are used by hackers, in order to hack systems. This course also cover the laws and standards that organize the cybersecurity world. For the laws we take the example of the United states of America, the European Union and Australia cybersecurity laws. Regarding the standards, we will take the most well known ones, this include PCI-DSS for payment cards security, National Institute of Standards and Technology (NIST) & ISO27001 as part of the ISO 27k family of standards. Who this course is for: Beginner in cybersecurity IT engineers Developers Show more Show less Report abuse",
+      "data_acesso": "2026-03-13T14:41:09.627503",
+      "tamanho": 3266
     }
   },
   "indices": {
@@ -10794,7 +10822,8 @@
         "bd98ca4333ae9b5d",
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f107e4b01ec0b955"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -10807,7 +10836,8 @@
         "1d4e81d94c23b2c2",
         "c89318b0e0615d97",
         "0e103e53f9552598",
-        "4263343f5723c911"
+        "4263343f5723c911",
+        "f0c2f536dcbaf6b1"
       ],
       "codigo": [
         "026f23a1d4ac4177",
@@ -11527,6 +11557,10 @@
       "https://www.isaca.org/credentialing/cybersecurity-fundamentals-certificate": [
         "b538f01e5184994e",
         "6657cde91a25b327"
+      ],
+      "https://www.udemy.com/course/cybersecurity-fundamentals/": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ]
     },
     "por_palavra": {
@@ -11556,7 +11590,9 @@
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
         "83d7352ddb89d173",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "cybersecurity": [
         "76e1b1a09f317aa1",
@@ -11570,7 +11606,9 @@
         "83d7352ddb89d173",
         "29f959514c4bbb81",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "malware": [
         "76e1b1a09f317aa1",
@@ -11594,7 +11632,8 @@
         "869ef110cbcdc27e",
         "fe0a23e029896722",
         "63cccdfba6defaab",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "f0c2f536dcbaf6b1"
       ],
       "that": [
         "76e1b1a09f317aa1",
@@ -11613,7 +11652,8 @@
         "4263343f5723c911",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1"
       ],
       "computer": [
         "76e1b1a09f317aa1",
@@ -11765,7 +11805,9 @@
         "62f1bd97f2f5f854",
         "63cccdfba6defaab",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -11797,7 +11839,8 @@
         "63cccdfba6defaab",
         "83d7352ddb89d173",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1"
       ],
       "attackers": [
         "76e1b1a09f317aa1"
@@ -11827,7 +11870,8 @@
         "7a07f2ff806d1129",
         "63cccdfba6defaab",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1"
       ],
       "yourself": [
         "76e1b1a09f317aa1"
@@ -11871,7 +11915,9 @@
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
         "83d7352ddb89d173",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "different": [
         "76e1b1a09f317aa1",
@@ -11965,7 +12011,8 @@
         "bd98ca4333ae9b5d",
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f107e4b01ec0b955"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -12011,7 +12058,8 @@
         "bd98ca4333ae9b5d",
         "29f959514c4bbb81",
         "2d749a51e2b48af0",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f107e4b01ec0b955"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -12181,7 +12229,9 @@
         "63cccdfba6defaab",
         "83d7352ddb89d173",
         "29f959514c4bbb81",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "2012": [
         "fe0a23e029896722"
@@ -12231,7 +12281,8 @@
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f107e4b01ec0b955"
       ],
       "about": [
         "fe0a23e029896722",
@@ -12284,13 +12335,16 @@
         "7a07f2ff806d1129",
         "63cccdfba6defaab",
         "83d7352ddb89d173",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "part": [
         "fe0a23e029896722",
         "7a07f2ff806d1129",
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "f0c2f536dcbaf6b1"
       ],
       "using": [
         "fe0a23e029896722",
@@ -12530,7 +12584,8 @@
         "581c8fb845bd6d65",
         "b8f86559bf96fa79",
         "cc6901ebb1f7f3e7",
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "f0c2f536dcbaf6b1"
       ],
       "cookiedelivery": [
         "581c8fb845bd6d65",
@@ -13257,7 +13312,9 @@
       ],
       "statistics": [
         "3e417395659575d0",
-        "e21f689f4d1500b8"
+        "e21f689f4d1500b8",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "上班途中天气原因受伤算工伤吗": [
         "3e417395659575d0",
@@ -15048,7 +15105,9 @@
       ],
       "right": [
         "71a1a96eb62a2f10",
-        "0414d536276c3f78"
+        "0414d536276c3f78",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "workload": [
         "71a1a96eb62a2f10"
@@ -15889,7 +15948,8 @@
         "91e38248c22bb7fb"
       ],
       "basics": [
-        "91e38248c22bb7fb"
+        "91e38248c22bb7fb",
+        "f0c2f536dcbaf6b1"
       ],
       "workflow": [
         "91e38248c22bb7fb"
@@ -16462,7 +16522,9 @@
       ],
       "career": [
         "0c698dccfe6ccd1c",
-        "63cccdfba6defaab"
+        "63cccdfba6defaab",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "path": [
         "0c698dccfe6ccd1c"
@@ -16611,7 +16673,8 @@
         "d21e1b2bed9eebaa"
       ],
       "techniques": [
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "f0c2f536dcbaf6b1"
       ],
       "challenge": [
         "242d8505c4a22160",
@@ -17080,7 +17143,9 @@
         "a2bd74e873119959"
       ],
       "start": [
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "news": [
         "e6d382a3c8d852d4"
@@ -17398,7 +17463,8 @@
       ],
       "exactly": [
         "6ab1d04c7b4b949f",
-        "62f1bd97f2f5f854"
+        "62f1bd97f2f5f854",
+        "f0c2f536dcbaf6b1"
       ],
       "instantly": [
         "6ab1d04c7b4b949f",
@@ -17801,7 +17867,8 @@
         "0116c4c6c3da46e7",
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "f107e4b01ec0b955"
       ],
       "past": [
         "0116c4c6c3da46e7"
@@ -18041,7 +18108,8 @@
         "4263343f5723c911"
       ],
       "last": [
-        "e9b87086091506eb"
+        "e9b87086091506eb",
+        "f107e4b01ec0b955"
       ],
       "wrappers": [
         "e9b87086091506eb"
@@ -18115,7 +18183,9 @@
         "63cccdfba6defaab",
         "233ff78d2aee3830",
         "bd98ca4333ae9b5d",
-        "b538f01e5184994e"
+        "b538f01e5184994e",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "specialization": [
         "63cccdfba6defaab",
@@ -18170,7 +18240,9 @@
         "83d7352ddb89d173",
         "29f959514c4bbb81",
         "b538f01e5184994e",
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "jeff": [
         "a2bd74e873119959"
@@ -18334,7 +18406,8 @@
         "83d7352ddb89d173"
       ],
       "hackers": [
-        "83d7352ddb89d173"
+        "83d7352ddb89d173",
+        "f0c2f536dcbaf6b1"
       ],
       "shweta": [
         "29f959514c4bbb81"
@@ -18361,7 +18434,8 @@
         "29f959514c4bbb81"
       ],
       "certifications": [
-        "29f959514c4bbb81"
+        "29f959514c4bbb81",
+        "f0c2f536dcbaf6b1"
       ],
       "conclusi": [
         "29f959514c4bbb81"
@@ -18621,7 +18695,9 @@
         "6657cde91a25b327"
       ],
       "students": [
-        "6657cde91a25b327"
+        "6657cde91a25b327",
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
       ],
       "recent": [
         "6657cde91a25b327"
@@ -18646,12 +18722,118 @@
       ],
       "cyberse": [
         "6657cde91a25b327"
+      ],
+      "preview": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "laws": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "standards": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "introduction": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "cybersecuity": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "lectures": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "australia": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "nist": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "including": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "malwares": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "categories": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "motivations": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "killchain": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "section": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "cover": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "english": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "marketsize": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "iso27001": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "pathway": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "sections": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "roadmap": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "salary": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "hack": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "show": [
+        "f0c2f536dcbaf6b1"
+      ],
+      "rating": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "ratings": [
+        "f0c2f536dcbaf6b1",
+        "f107e4b01ec0b955"
+      ],
+      "created": [
+        "f107e4b01ec0b955"
+      ],
+      "ahmed": [
+        "f107e4b01ec0b955"
+      ],
+      "zekraoui": [
+        "f107e4b01ec0b955"
+      ],
+      "2022": [
+        "f107e4b01ec0b955"
+      ],
+      "certifi": [
+        "f107e4b01ec0b955"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 39,
-    "paginas_falhas": 228,
-    "total_caracteres": 259090
+    "paginas_baixadas": 40,
+    "paginas_falhas": 229,
+    "total_caracteres": 262356
   }
 }
