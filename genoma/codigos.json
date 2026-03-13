@@ -1030,5 +1030,92 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "a44e005043138df2",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: algoritmos geneticos otimizacao",
+    "criado": "2026-03-13T14:01:37.815576",
+    "modificado": "2026-03-13T14:01:37.815576",
+    "conexoes": [
+      {
+        "para": "a328be4bf8171fed",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "arquivo": "mod_416104a3_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "a328be4bf8171fed",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "c16da903dda2e3b2",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: machine learning nao supervisionado",
+    "criado": "2026-03-13T14:01:38.282882",
+    "modificado": "2026-03-13T14:01:38.282882",
+    "conexoes": [
+      {
+        "para": "605f0d6417a2cef2",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "arquivo": "mod_71faa7b7_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "605f0d6417a2cef2",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "19daa73e6816b963",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: inteligencia artificial generativa",
+    "criado": "2026-03-13T14:01:53.173885",
+    "modificado": "2026-03-13T14:01:53.173885",
+    "conexoes": [
+      {
+        "para": "93ccc4789c171a12",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "arquivo": "mod_113ef6df_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": [
+        "referir",
+        "cognitiva",
+        "usado",
+        "fator",
+        "discurso"
+      ]
+    },
+    "origem": "93ccc4789c171a12",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
