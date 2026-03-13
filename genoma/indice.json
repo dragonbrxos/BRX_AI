@@ -398,17 +398,40 @@
       "dc6fe012a4dff509",
       "83221fd03e703cda",
       "2645d88fe212315f"
+    ],
+    "transformers arquitetura": [
+      "082e2acd68e5d906",
+      "c17afacdee0d86f3",
+      "03e104ac31e8f16b",
+      "91c9912423ca9d63",
+      "d481696bccfa7aba",
+      "1fe29de824c780bb",
+      "04db98a2c09505a0",
+      "37a5505c34461681",
+      "1dc8192bab731b98",
+      "603b5f8ac8cfa25f",
+      "4b71a41e2132566f",
+      "6ea7fb3a82e27c01",
+      "e5f3beef6333836f",
+      "78e3c2b1651ef309",
+      "aa2c072092225d3a",
+      "d378b3e1a357ddcb",
+      "e98097238c2dbac6",
+      "02b02e12f9fe1fcb",
+      "e8a4f53f86b6b32e",
+      "b1ca0478586db19a",
+      "9b55f1684317de40"
     ]
   },
   "estatisticas": {
-    "ciclos": 18,
-    "nascimentos": 361,
+    "ciclos": 19,
+    "nascimentos": 382,
     "mortes": 0,
-    "refinamentos": 66,
-    "pesquisas_realizadas": 18,
+    "refinamentos": 69,
+    "pesquisas_realizadas": 19,
     "arquivos_gerados": 7
   },
-  "topico_atual": "etica inteligencia artificial",
+  "topico_atual": "transformers arquitetura",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -427,7 +450,8 @@
     "processamento linguagem natural",
     "processamento linguagem natural algoritmos implementacao",
     "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
-    "etica inteligencia artificial"
+    "etica inteligencia artificial",
+    "transformers arquitetura"
   ],
-  "timestamp": "2026-03-13T13:47:11.938006"
+  "timestamp": "2026-03-13T13:47:37.645287"
 }
