@@ -1,125 +1,250 @@
-{
-  "indice_topico": {
-    "etica em IA": [
-      "32670491cbba1e9f",
-      "66db97981fde6f2f",
-      "660e0be793cf1092",
-      "774dd9af8ca1aef9",
-      "689999653226b84a",
-      "7284d66d269796ee",
-      "a50ee62ab8cef13c",
-      "ade0935ee1d334ce",
-      "279540b6711bd135",
-      "615588092259ca35",
-      "42b4801b2ce1a550",
-      "2adde769ed727704",
-      "ca062175472f3e5c",
-      "a82c7170e407797a",
-      "45e685289e373f92",
-      "f122204db68ea271",
-      "05dd7f701992e11b",
-      "630f9cc32439f835",
-      "6ef615bdffd3d01b",
-      "c2a6a8914906fa07",
-      "7e82fd1e939e1d51",
-      "50a2ef1d62cfd1b6",
-      "90ebb0ba231dc1c6",
-      "650d2dd8a7ee9d66",
-      "c8876264fe881f05",
-      "14fce0d25336018a",
-      "3c3b7e423154924d"
+[
+  {
+    "id": "32670491cbba1e9f",
+    "tipo": "conhecimento",
+    "conteudo": "## Consolidacao v5: etica em IA\n\n## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam.....\n\n- Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, socie...\n\n- 1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em...\n\n**Evolucao:** Documento refinado por 5 iteracoes. Qualidade atual: 0.84. Baseado em 5 fontes unicas.",
+    "criado": "2026-03-13T13:33:38.348977",
+    "modificado": "2026-03-13T13:33:38.355698",
+    "conexoes": [],
+    "energia": 0.99,
+    "geracao": 6,
+    "meta": {
+      "topico": "etica em IA",
+      "fase": "coleta",
+      "fontes_count": 5
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao inicial: etica em IA",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:33:38.354826",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: etica em IA\n\n**Conceitos Identificados (8):** significado, ações, dicio, comportamento, dicionário, dedicada, ética, filosofia\n\n**Base Empirica:** 5 observacoes coletadas de 5 f...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:38.355072",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional: etica em IA\n\n**Rede Conceitual:** 93 conexoes mapeadas entre 20 conceitos.\n\n**Clusters Identificados:**\n- **geral**: ética, filosofia, dedicada\n\n**Densidade:** 4.7 conexoes/conc...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:38.355240",
+        "razao": "refinamento_v3"
+      },
+      {
+        "conteudo": "## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípio...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355388",
+        "razao": "refinamento_v4"
+      },
+      {
+        "conteudo": "## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355526",
+        "razao": "refinamento_v5"
+      },
+      {
+        "conteudo": "## Consolidacao v5: etica em IA\n\n## Consolidacao v4: etica em IA\n\n## Sintese do Conhecimento: etica em IA\n\n**Compreensao Atual:**\n- Ética é a área da filosofia dedicada às ações e ao comportamento hum...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:38.355666",
+        "razao": "consolidacao_final"
+      }
     ],
-    "{ultimo} aplicacoes praticas": [
-      "e2b56aeabaad1ab0",
-      "86b05a2e1fa19941",
-      "048bb9feb8d07be4",
-      "7104463272c3cc5b",
-      "bd53ca2c9da7e313",
-      "48627f4594860684",
-      "33f82850ff816ad5",
-      "82b94f1ef4b88c05",
-      "7b4f5c481aeadc78",
-      "cd4d66d839bafa42",
-      "300ecdcaea29c247",
-      "19b1df384e9e04c5",
-      "46826dc157df8ed1",
-      "8e2fd9339c4f232b",
-      "85d5707c721f9ba0",
-      "f746693a341447b3",
-      "5e4576f35a2e8e06",
-      "8ce4fc1b2ca8fc9f",
-      "ea732dc956ab0894",
-      "880dde78817ec886",
-      "26d1822fb795875d",
-      "7e3070db898b51aa",
-      "e1a2882e1aa7d733",
-      "106249e3f82518f8",
-      "d9555264f0c590bf",
-      "ff272defc3a8f602"
-    ],
-    "inteligencia artificial generativa": [
-      "cd8f14e3286b9db5",
-      "bfdea60e6360433b",
-      "78a639f0dc1312a5",
-      "19296e6943a9242c",
-      "4a87751943f68d02",
-      "0625b321c2deac15",
-      "6fd5fdd923205e23",
-      "ea6b1f1f6860e443",
-      "686f7b397f227d0a",
-      "40d5a991b1d268e2",
-      "f22342441f4e1864",
-      "ff4d689618612d76",
-      "9e5aa69a241adc7c",
-      "033934386ec91def",
-      "7001ce88e431ce7c",
-      "a487d7ee22e69288",
-      "f0c9d0e782649d3b",
-      "d994df5826f38a57",
-      "1ff7cb6ad6ef234a",
-      "e89483d3253a1089",
-      "eec91d6232d36b61"
-    ],
-    "geral": [
-      "e4b3ca60a5ea1dc3"
-    ],
-    "visao computacional": [
-      "25d03372067fc0f2",
-      "5fc93e48d9a66f4f",
-      "4bebed172c2e45be",
-      "1e23a86bc711c543",
-      "5b524a7d61d1bb50",
-      "7618ad64a30d28d8",
-      "5b5541aec58922ab",
-      "9ad1f5b0771104d4",
-      "6758d4f0cb6e1ea1",
-      "ba370b96d72beb03",
-      "87d35b1c9c9befbd",
-      "4633d0877de2fb93",
-      "c106fef28bb680dd",
-      "e0f30ac4fd08ae29",
-      "f135b2fca131f7c5",
-      "25f17370ad24ce95",
-      "778dc37a03bd4b16",
-      "0d487f1293d46246",
-      "5f7c07a05247297a",
-      "921a6660904aa4c2"
+    "profundidade": 6,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.dicio.com.br/etica/",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.todamateria.com.br/etica/"
     ]
   },
-  "estatisticas": {
-    "ciclos": 4,
-    "nascimentos": 95,
-    "mortes": 0,
-    "refinamentos": 24,
-    "pesquisas_realizadas": 4,
-    "arquivos_gerados": 6
+  {
+    "id": "e2b56aeabaad1ab0",
+    "tipo": "conhecimento",
+    "conteudo": "## Consolidacao v5: {ultimo} aplicacoes praticas\n\n## Consolidacao v4: {ultimo} aplicacoes praticas\n\n## Sintese do Conhecimento: {ultimo} aplicacoes praticas\n\n**Compreensao Atual:**\n- 8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conhecimentos no dia a dia, com foco ...\n\n- 2 dias atrás · 5 aplicações práticas da Inteligência Artificial para acelerar sua carreira em tecnologia Durante a primeira mentoria do programa DIO C...\n\n- Este artigo aborda de maneira detalhada o que é a IA,...\n\n**Evolucao:** Documento refinado por 5 iteracoes. Qualidade atual: 0.84. Baseado em 5 fontes unicas.",
+    "criado": "2026-03-13T13:33:55.291903",
+    "modificado": "2026-03-13T13:33:55.298509",
+    "conexoes": [],
+    "energia": 0.99,
+    "geracao": 6,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "fase": "coleta",
+      "fontes_count": 5
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao inicial: {ultimo} aplicacoes praticas",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:33:55.297759",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: {ultimo} aplicacoes praticas\n\n**Conceitos Identificados (8):** reais, exemplos, atrás, descubra, artificial, aplicações, práticas, inteligência\n\n**Base Empirica:** 5 observacoes...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:55.297989",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional: {ultimo} aplicacoes praticas\n\n**Rede Conceitual:** 97 conexoes mapeadas entre 19 conceitos.\n\n**Clusters Identificados:**\n- **geral**: descubra, aplicações, práticas\n- **filosofi...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:33:55.298124",
+        "razao": "refinamento_v3"
+      },
+      {
+        "conteudo": "## Sintese do Conhecimento: {ultimo} aplicacoes praticas\n\n**Compreensao Atual:**\n- 8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conh...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:55.298255",
+        "razao": "refinamento_v4"
+      },
+      {
+        "conteudo": "## Consolidacao v4: {ultimo} aplicacoes praticas\n\n## Sintese do Conhecimento: {ultimo} aplicacoes praticas\n\n**Compreensao Atual:**\n- 8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:55.298373",
+        "razao": "refinamento_v5"
+      },
+      {
+        "conteudo": "## Consolidacao v5: {ultimo} aplicacoes praticas\n\n## Consolidacao v4: {ultimo} aplicacoes praticas\n\n## Sintese do Conhecimento: {ultimo} aplicacoes praticas\n\n**Compreensao Atual:**\n- 8 de jan. de 2026...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:33:55.298490",
+        "razao": "consolidacao_final"
+      }
+    ],
+    "profundidade": 6,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+      "https://mdbf.com.br/blog/aplicacoes-praticas",
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
+    ]
   },
-  "topico_atual": "visao computacional",
-  "historico_topicos": [
-    "etica em IA",
-    "{ultimo} aplicacoes praticas",
-    "inteligencia artificial generativa",
-    "visao computacional"
-  ],
-  "timestamp": "2026-03-13T13:34:39.059214"
-}
+  {
+    "id": "cd8f14e3286b9db5",
+    "tipo": "conhecimento",
+    "conteudo": "## Consolidacao v5: inteligencia artificial generativa\n\n## Consolidacao v4: inteligencia artificial generativa\n\n## Sintese do Conhecimento: inteligencia artificial generativa\n\n**Compreensao Atual:**\n- O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode criar conteúdo original, como texto, ima...\n\n- A Inteligência Artificial Generativa é um ramo da inteligência artificial projetado para criar conteúdos, como textos, áudios, imagens, vídeos e até c...\n\n- A inteligência artificial generativa (IA ...\n\n**Evolucao:** Documento refinado por 5 iteracoes. Qualidade atual: 0.84. Baseado em 5 fontes unicas.",
+    "criado": "2026-03-13T13:34:16.558911",
+    "modificado": "2026-03-13T13:34:16.568636",
+    "conexoes": [],
+    "energia": 0.99,
+    "geracao": 6,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fase": "coleta",
+      "fontes_count": 5
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao inicial: inteligencia artificial generativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:34:16.567959",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: inteligencia artificial generativa\n\n**Conceitos Identificados (8):** sistema, generativo, projetado, criar, novos, vezes, chamada, generativa\n\n**Base Empirica:** 5 observacoes c...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:34:16.568143",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional: inteligencia artificial generativa\n\n**Rede Conceitual:** 64 conexoes mapeadas entre 14 conceitos.\n\n**Clusters Identificados:**\n- **geral**: generativa, vezes, chamada\n- **tecnic...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:34:16.568266",
+        "razao": "refinamento_v3"
+      },
+      {
+        "conteudo": "## Sintese do Conhecimento: inteligencia artificial generativa\n\n**Compreensao Atual:**\n- O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode c...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:16.568390",
+        "razao": "refinamento_v4"
+      },
+      {
+        "conteudo": "## Consolidacao v4: inteligencia artificial generativa\n\n## Sintese do Conhecimento: inteligencia artificial generativa\n\n**Compreensao Atual:**\n- O que é IA generativa? A IA generativa, às vezes chamad...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:16.568506",
+        "razao": "refinamento_v5"
+      },
+      {
+        "conteudo": "## Consolidacao v5: inteligencia artificial generativa\n\n## Consolidacao v4: inteligencia artificial generativa\n\n## Sintese do Conhecimento: inteligencia artificial generativa\n\n**Compreensao Atual:**\n-...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:16.568618",
+        "razao": "consolidacao_final"
+      }
+    ],
+    "profundidade": 6,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "25d03372067fc0f2",
+    "tipo": "conhecimento",
+    "conteudo": "## Consolidacao v5: visao computacional\n\n## Consolidacao v4: visao computacional\n\n## Sintese do Conhecimento: visao computacional\n\n**Compreensao Atual:**\n- O que é a visão por computador? A visão computacional é uma tecnologia que as máquinas usam para reconhecer imagens automaticamente e descrevê-las com...\n\n- 10 de fev. de 2026 · De uma forma bem direta, a visão computacional é um subcampo da inteligência artificial (IA) que treina computadores para interpr...\n\n- O que é visão computacional? A computer vision é um subcampo da intelig...\n\n**Evolucao:** Documento refinado por 5 iteracoes. Qualidade atual: 0.84. Baseado em 5 fontes unicas.",
+    "criado": "2026-03-13T13:34:39.047388",
+    "modificado": "2026-03-13T13:34:39.058598",
+    "conexoes": [],
+    "energia": 0.99,
+    "geracao": 6,
+    "meta": {
+      "topico": "visao computacional",
+      "fase": "coleta",
+      "fontes_count": 5
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao inicial: visao computacional",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:34:39.058305",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: visao computacional\n\n**Conceitos Identificados (8):** visão, forma, tecnologia, subcampo, computador, computacional, máquinas, direta\n\n**Base Empirica:** 5 observacoes coletadas...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:34:39.058405",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional: visao computacional\n\n**Rede Conceitual:** 69 conexoes mapeadas entre 13 conceitos.\n\n**Clusters Identificados:**\n- **filosofico**: visão, computador, computacional\n- **geral**: f...",
+        "energia": 0.645,
+        "timestamp": "2026-03-13T13:34:39.058448",
+        "razao": "refinamento_v3"
+      },
+      {
+        "conteudo": "## Sintese do Conhecimento: visao computacional\n\n**Compreensao Atual:**\n- O que é a visão por computador? A visão computacional é uma tecnologia que as máquinas usam para reconhecer imagens automatica...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:39.058489",
+        "razao": "refinamento_v4"
+      },
+      {
+        "conteudo": "## Consolidacao v4: visao computacional\n\n## Sintese do Conhecimento: visao computacional\n\n**Compreensao Atual:**\n- O que é a visão por computador? A visão computacional é uma tecnologia que as máquina...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:39.058552",
+        "razao": "refinamento_v5"
+      },
+      {
+        "conteudo": "## Consolidacao v5: visao computacional\n\n## Consolidacao v4: visao computacional\n\n## Sintese do Conhecimento: visao computacional\n\n**Compreensao Atual:**\n- O que é a visão por computador? A visão comp...",
+        "energia": 0.84,
+        "timestamp": "2026-03-13T13:34:39.058592",
+        "razao": "consolidacao_final"
+      }
+    ],
+    "profundidade": 6,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "https://www.alura.com.br/artigos/visao-computacional",
+      "https://www.ibm.com/br-pt/think/topics/computer-vision",
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision",
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  }
+]
