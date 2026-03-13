@@ -1403,6 +1403,11 @@
         "para": "2bfb1216f2a0c228",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1430,7 +1435,8 @@
       "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106"
+      "https://oquenosfazpensar.fil.puc-rio.br/oqnfp/article/download/982/758/2106",
+      "https://www.alura.com.br/artigos/transformers"
     ]
   },
   {
@@ -2213,6 +2219,11 @@
         "para": "300ecdcaea29c247",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2226,7 +2237,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
     ]
   },
   {
@@ -6962,6 +6974,11 @@
         "para": "53b3d34597a51c5b",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6974,7 +6991,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
     ]
   },
   {
@@ -7673,6 +7691,11 @@
         "para": "c1a996f73d3b1272",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7689,7 +7712,8 @@
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
-      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf",
+      "https://www.alura.com.br/artigos/transformers"
     ]
   },
   {
@@ -7728,6 +7752,11 @@
         "para": "c1a996f73d3b1272",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7744,7 +7773,8 @@
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
-      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf",
+      "https://www.alura.com.br/artigos/transformers"
     ]
   },
   {
@@ -7783,6 +7813,11 @@
         "para": "c1a996f73d3b1272",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7799,7 +7834,8 @@
       "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
       "https://www.ime.usp.br/~slago/IA-pln.pdf",
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
-      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf",
+      "https://www.alura.com.br/artigos/transformers"
     ]
   },
   {
@@ -8589,6 +8625,11 @@
         "para": "4b71a41e2132566f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8886,6 +8927,21 @@
         "para": "e98097238c2dbac6",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8900,7 +8956,8 @@
     "fontes": [
       "https://www.alura.com.br/artigos/transformers",
       "https://huggingface.co/learn/llm-course/pt/chapter1/4",
-      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+      "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118",
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
     ]
   },
   {
@@ -8919,6 +8976,21 @@
         "para": "4b71a41e2132566f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -8932,7 +9004,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.alura.com.br/artigos/transformers",
-      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
     ]
   },
   {
@@ -9076,6 +9149,11 @@
         "para": "4b71a41e2132566f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -9100,6 +9178,11 @@
     "conexoes": [
       {
         "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -9128,6 +9211,11 @@
         "para": "4b71a41e2132566f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -9154,6 +9242,11 @@
         "para": "4b71a41e2132566f",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -9178,6 +9271,11 @@
     "conexoes": [
       {
         "para": "4b71a41e2132566f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "61dbf09883b460e5",
         "tipo": "menciona",
         "forca": 0.5
       }
@@ -9271,6 +9369,162 @@
     "profundidade": 0,
     "fontes": [
       "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
+    ]
+  },
+  {
+    "id": "d5acbc19a7a496fa",
+    "tipo": "conceito",
+    "conteudo": "inovadora",
+    "criado": "2026-03-13T13:48:03.897721",
+    "modificado": "2026-03-13T13:48:03.897721",
+    "conexoes": [
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+    ]
+  },
+  {
+    "id": "9f6eb4b8796f61dc",
+    "tipo": "conceito",
+    "conteudo": "resposta",
+    "criado": "2026-03-13T13:48:03.900083",
+    "modificado": "2026-03-13T13:48:03.900083",
+    "conexoes": [
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+    ]
+  },
+  {
+    "id": "c08ac848ff75f6aa",
+    "tipo": "conceito",
+    "conteudo": "outros",
+    "criado": "2026-03-13T13:48:03.900949",
+    "modificado": "2026-03-13T13:48:03.900949",
+    "conexoes": [
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+    ]
+  },
+  {
+    "id": "1775ff88501257da",
+    "tipo": "conceito",
+    "conteudo": "comparações",
+    "criado": "2026-03-13T13:48:03.902646",
+    "modificado": "2026-03-13T13:48:03.902646",
+    "conexoes": [
+      {
+        "para": "dd7c1c1bf07a3cae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+    ]
+  },
+  {
+    "id": "fd05e4882159779e",
+    "tipo": "conceito",
+    "conteudo": "redefiniu",
+    "criado": "2026-03-13T13:48:04.007903",
+    "modificado": "2026-03-13T13:48:04.007903",
+    "conexoes": [
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "41970c03341fccca",
+    "tipo": "conceito",
+    "conteudo": "impressionantes",
+    "criado": "2026-03-13T13:48:04.008778",
+    "modificado": "2026-03-13T13:48:04.008778",
+    "conexoes": [
+      {
+        "para": "d379c382b99a19a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
     ]
   }
 ]
