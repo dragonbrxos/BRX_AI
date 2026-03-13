@@ -64193,5 +64193,4760 @@
     "fontes": [
       "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
     ]
+  },
+  {
+    "id": "80761e44e2d39042",
+    "tipo": "memoria",
+    "conteudo": "A Aprendizagem Por Reforço é o treinamento de modelos de aprendizado de máquina para tomar uma sequência de decisões. O agente aprende …",
+    "criado": "2026-03-13T14:04:31.803503",
+    "modificado": "2026-03-13T14:04:31.803503",
+    "conexoes": [
+      {
+        "para": "2c16de24167d00c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f3c94133b046028",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/"
+    ]
+  },
+  {
+    "id": "6080ddb9af913f2a",
+    "tipo": "memoria",
+    "conteudo": "O que é aprendizado por reforço? O aprendizado por reforço (RL) é um tipo de processo de aprendizado de máquina no qual agentes …",
+    "criado": "2026-03-13T14:04:31.817560",
+    "modificado": "2026-03-13T14:04:31.817560",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning"
+    ]
+  },
+  {
+    "id": "43ed6408703b69a7",
+    "tipo": "memoria",
+    "conteudo": "A forma típica de enquadrar um cenário de aprendizado por reforço (RL): um agente executa ações em um ambiente, que são interpretadas …",
+    "criado": "2026-03-13T14:04:31.817976",
+    "modificado": "2026-03-13T14:04:31.817976",
+    "conexoes": [
+      {
+        "para": "2279c98560196138",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b5fa3de3e13b280f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33d4c72374a61c9f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0559a05187307aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29e3946fa92239ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e3384158aa13301",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço"
+    ]
+  },
+  {
+    "id": "11e0c99d02e28e16",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:04:31.818223",
+    "modificado": "2026-03-13T14:04:31.818223",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "5a891408421f8e38",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado por reforço (RL) é uma técnica de aprendizado de máquina (ML) que treina o software para tomar decisões para alcançar …",
+    "criado": "2026-03-13T14:04:31.818625",
+    "modificado": "2026-03-13T14:04:31.818625",
+    "conexoes": [
+      {
+        "para": "6616c2a852a03deb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb93b7422bc1a072",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "377dca1d13d56a80",
+    "tipo": "memoria",
+    "conteudo": "Os métodos de aprendizado por reforço também se diferenciam bastante de outras técnicas de machine learning no que tange os dados. …",
+    "criado": "2026-03-13T14:04:31.818985",
+    "modificado": "2026-03-13T14:04:31.818985",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d36bc0234722a8ce",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "985063d62cdb68fb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04fb4cb9e302f1ba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0f61ee26199e5d0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef5c9c399d84f13f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/"
+    ]
+  },
+  {
+    "id": "b49e7abc5fde93fa",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:04:31.819216",
+    "modificado": "2026-03-13T14:04:31.819216",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "e4cf99ffa84db012",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:04:31.819556",
+    "modificado": "2026-03-13T14:04:31.819556",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "d798c41eb070a53f",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:04:32.237304",
+    "modificado": "2026-03-13T14:04:32.237304",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "6fea827a9303447d",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:04:32.356930",
+    "modificado": "2026-03-13T14:04:32.356930",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "1b375376783c02f2",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:04:32.357582",
+    "modificado": "2026-03-13T14:04:32.357582",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "acca6bb42d28dc08",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:04:32.401524",
+    "modificado": "2026-03-13T14:04:32.401524",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "6e7a09a60aef6785",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:04:32.486250",
+    "modificado": "2026-03-13T14:04:32.486250",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "c3d987400971d9c0",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:04:32.492524",
+    "modificado": "2026-03-13T14:04:32.492524",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "bdc8354ffb5e5804",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:04:32.492713",
+    "modificado": "2026-03-13T14:04:32.492713",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "ed5299beb1e25528",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:04:32.562987",
+    "modificado": "2026-03-13T14:04:32.562987",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "ad1f697ebdf513ff",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:04:32.780531",
+    "modificado": "2026-03-13T14:04:32.780531",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "cbeb44fe412e7699",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:04:32.852168",
+    "modificado": "2026-03-13T14:04:32.852168",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "78f868c10a294b2a",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:04:32.884201",
+    "modificado": "2026-03-13T14:04:32.884201",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "bb332c681b0b119f",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:04:32.902328",
+    "modificado": "2026-03-13T14:04:32.902328",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "3c05cba991583c27",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:04:33.119682",
+    "modificado": "2026-03-13T14:04:33.119682",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "256378cffffa165a",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:04:33.132818",
+    "modificado": "2026-03-13T14:04:33.132818",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "35ab9201eec4c99a",
+    "tipo": "memoria",
+    "conteudo": "A Inteligência Artificial Generativa é um ramo da inteligência artificial projetado para criar conteúdos, como textos, áudios, imagens, vídeos e até códigos de software.",
+    "criado": "2026-03-13T14:04:33.132958",
+    "modificado": "2026-03-13T14:04:33.132958",
+    "conexoes": [
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd445ef565fdfc34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6fd5fdd923205e23",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c6b67d117ceca91",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
+    ]
+  },
+  {
+    "id": "a5930c3453e7c334",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:04:33.133104",
+    "modificado": "2026-03-13T14:04:33.133104",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "ff04c68ca7ebafe4",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:04:33.133270",
+    "modificado": "2026-03-13T14:04:33.133270",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "7a8430a746946596",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:04:33.133448",
+    "modificado": "2026-03-13T14:04:33.133448",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa fundamentos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "95a315cd86d2675d",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial generativa (IA generativa) é um tipo de IA que pode criar novos conteúdos e ideias, incluindo conversas, histórias, imagens, vídeos e músicas.",
+    "criado": "2026-03-13T14:04:33.133607",
+    "modificado": "2026-03-13T14:04:33.133607",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "40d5a991b1d268e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "23ce4c59c4411cb2",
+    "tipo": "memoria",
+    "conteudo": "O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode criar conteúdo original, como texto, imagens, vídeo, áudio ou código de software, em resposta …",
+    "criado": "2026-03-13T14:04:33.133861",
+    "modificado": "2026-03-13T14:04:33.133861",
+    "conexoes": [
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9f6eb4b8796f61dc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "e265d486e2a1787a",
+    "tipo": "memoria",
+    "conteudo": "Um sistema de IA generativo é construído aplicando aprendizado de máquina não supervisionado ou autossupervisionado a um conjunto de dados. As capacidades e aplicações de um sistema de IA …",
+    "criado": "2026-03-13T14:04:33.482861",
+    "modificado": "2026-03-13T14:04:33.482861",
+    "conexoes": [
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7001ce88e431ce7c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "033934386ec91def",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "73eae3864d60f103",
+    "tipo": "memoria",
+    "conteudo": "1 dia atrás · Diferenças entre IA preditiva e generativa Com a tecnologia tão presente, cresce a dúvida sobre como adotar esse tipo de ferramenta nas empresas, já que nem toda inteligência artificial é ...",
+    "criado": "2026-03-13T14:04:33.507515",
+    "modificado": "2026-03-13T14:04:33.507515",
+    "conexoes": [
+      {
+        "para": "112c740645cd8fd5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c932178da988098",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa",
+      "fonte": "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "a5144e8557da8142",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:04:33.508117",
+    "modificado": "2026-03-13T14:04:33.508117",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "682f998caf31d129",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:04:33.621398",
+    "modificado": "2026-03-13T14:04:33.621398",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "25aa193c4c1519cd",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:04:33.694685",
+    "modificado": "2026-03-13T14:04:33.694685",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "18340c6444b07cce",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:04:33.694847",
+    "modificado": "2026-03-13T14:04:33.694847",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "1558573db23eeba6",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:04:33.721118",
+    "modificado": "2026-03-13T14:04:33.721118",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa aplicacoes",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "3f0cf31df3a40304",
+    "tipo": "memoria",
+    "conteudo": "Acreditamos que nossa pesquisa um dia resultará na inteligência artificial geral (AGI), um sistema capaz de resolver problemas de nível …",
+    "criado": "2026-03-13T14:04:33.748324",
+    "modificado": "2026-03-13T14:04:33.748324",
+    "conexoes": [
+      {
+        "para": "3425c446eef57687",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://openai.com/pt-BR/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "eb294bc91a1b7e00",
+    "tipo": "memoria",
+    "conteudo": "Inteligência, QI e fator g são conceitos distintos. A inteligência é o termo usado no discurso comum para se referir à habilidade cognitiva. …",
+    "criado": "2026-03-13T14:04:33.910172",
+    "modificado": "2026-03-13T14:04:33.910172",
+    "conexoes": [
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Inteligência",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "080a42de5b9ade9c",
+    "tipo": "memoria",
+    "conteudo": "O que é a inteligência: Inteligência é um conjunto que forma todas as características intelectuais de um indivíduo, ou seja, a faculdade de …",
+    "criado": "2026-03-13T14:04:33.995688",
+    "modificado": "2026-03-13T14:04:33.995688",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://www.significados.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "d3d96791cb3d4979",
+    "tipo": "memoria",
+    "conteudo": "Significado de Inteligência no Dicio, Dicionário Online de Português. O que é inteligência: s.f. Faculdade de conhecer, de compreender; …",
+    "criado": "2026-03-13T14:04:33.999915",
+    "modificado": "2026-03-13T14:04:33.999915",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58a434bf35093fb1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://www.dicio.com.br/inteligencia/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "d469679c77fb8a41",
+    "tipo": "memoria",
+    "conteudo": "23 de fev. de 2020 · Entenda os quatro tipos de inteligência e suas características principais de funcionamento. A inteligência é a capacidade …",
+    "criado": "2026-03-13T14:04:34.004907",
+    "modificado": "2026-03-13T14:04:34.004907",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "91858f50d6499c87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "11bf3ea3c408353f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "subtopico": "inteligencia artificial generativa algoritmos",
+      "fonte": "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
+  },
+  {
+    "id": "a22a0adc50ae539b",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T14:04:34.224816",
+    "modificado": "2026-03-13T14:04:34.224816",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "a3c325dfe0d45319",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T14:04:34.241970",
+    "modificado": "2026-03-13T14:04:34.241970",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "82a20c3e88781058",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T14:04:34.242294",
+    "modificado": "2026-03-13T14:04:34.242294",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "4a1d4fa56e7463f2",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T14:04:34.242689",
+    "modificado": "2026-03-13T14:04:34.242689",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "acb25f0ee459dcd9",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T14:04:34.243073",
+    "modificado": "2026-03-13T14:04:34.243073",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "1bb8356f57ee0166",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T14:04:34.243596",
+    "modificado": "2026-03-13T14:04:34.243596",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "664b16e1b81fcc7d",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T14:04:34.244039",
+    "modificado": "2026-03-13T14:04:34.244039",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "a311b908ce3c3b7c",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T14:04:34.244429",
+    "modificado": "2026-03-13T14:04:34.244429",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "a7ba0578a9d09984",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T14:04:34.678920",
+    "modificado": "2026-03-13T14:04:34.678920",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "212c2ecc961721bb",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T14:04:34.686561",
+    "modificado": "2026-03-13T14:04:34.686561",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN aplicacoes",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "c73b04b1e6268303",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T14:04:34.697428",
+    "modificado": "2026-03-13T14:04:34.697428",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "654d6a89cdc197b4",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T14:04:34.701951",
+    "modificado": "2026-03-13T14:04:34.701951",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "b2409b76501e27aa",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T14:04:34.706234",
+    "modificado": "2026-03-13T14:04:34.706234",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "0904070e6fcf44d1",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T14:04:34.710935",
+    "modificado": "2026-03-13T14:04:34.710935",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "a976506c92190379",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T14:04:34.761292",
+    "modificado": "2026-03-13T14:04:34.761292",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN algoritmos",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
+  },
+  {
+    "id": "723b9e84d5a163a9",
+    "tipo": "memoria",
+    "conteudo": "Deseja fazer uma citação? LAZARIN, Marilia. \"Visão\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/oscincosentidos/visao.htm. …",
+    "criado": "2026-03-13T14:04:34.769441",
+    "modificado": "2026-03-13T14:04:34.769441",
+    "conexoes": [
+      {
+        "para": "3293f844cc806edd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5de8df12da70f02b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b17272ee72bb90",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f7c0c2f6230f267c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a0a7465dd0eadcb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e19f06c855815a68",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/oscincosentidos/visao.htm"
+    ]
+  },
+  {
+    "id": "42f63f8acc18852d",
+    "tipo": "memoria",
+    "conteudo": "A visão (a vista) é um dos cinco sentidos que permite aos seres vivos dotados de órgãos adequados, aprimorarem a percepção do …",
+    "criado": "2026-03-13T14:04:34.995637",
+    "modificado": "2026-03-13T14:04:34.995637",
+    "conexoes": [
+      {
+        "para": "6d2d504ec60ccb72",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "642e57ae9b90af0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9306972f5ead501",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c45c1ab0a06a9f8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72524e3c2f563c6f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa0fc00ba6126c83",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Visão",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Visão"
+    ]
+  },
+  {
+    "id": "0e0b52872441b940",
+    "tipo": "memoria",
+    "conteudo": "Um dos cinco sentidos, a visão é a responsável por enxergarmos e tem como órgãos principais os olhos. O Olho Nos seres humanos, o olho é …",
+    "criado": "2026-03-13T14:04:35.005673",
+    "modificado": "2026-03-13T14:04:35.005673",
+    "conexoes": [
+      {
+        "para": "7c68ebcf42608336",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8b32c9df7d390d4c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb40e4994a7ca49f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5694caad87ced854",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "089e82c216a20bf5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "76ae8a6af511ae95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "de1167bb05fc449d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a2d5f38087d4e77d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://www.todamateria.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/visao/"
+    ]
+  },
+  {
+    "id": "23c42db19982410d",
+    "tipo": "memoria",
+    "conteudo": "Significado de Visão no Dicio, Dicionário Online de Português. O que é visão: s.f. e s.m. Sentido da vista; ação ou efeito de ver; capacidade de …",
+    "criado": "2026-03-13T14:04:35.009466",
+    "modificado": "2026-03-13T14:04:35.009466",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "526de59c892e8539",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5aac4a63b625a48e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://www.dicio.com.br/visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/visao/"
+    ]
+  },
+  {
+    "id": "b2144ca4f0295e38",
+    "tipo": "memoria",
+    "conteudo": "Entenda o que é visão e como ela funciona. Descubra a importância da visão e dos exames oftalmológicos para sua saúde.",
+    "criado": "2026-03-13T14:04:35.078931",
+    "modificado": "2026-03-13T14:04:35.078931",
+    "conexoes": [
+      {
+        "para": "bd704db16d1e760c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6db97df12a00ac80",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a484b139e1a3efd9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39b1b055c0faf69a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ac8d3df6e948ab55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional CNN",
+      "subtopico": "visao computacional CNN fundamentos",
+      "fonte": "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+    ]
   }
 ]
