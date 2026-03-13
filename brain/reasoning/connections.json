@@ -1,0 +1,180 @@
+{
+  "lista": [
+    {
+      "de": "a525b083d35688d9e165",
+      "para": "01ed4248d079eebc38bb",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a525b083d35688d9e165",
+      "para": "9eb4901b9ef3450a6128",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "01ed4248d079eebc38bb",
+      "para": "9eb4901b9ef3450a6128",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "eda0bea3da57d376fa64",
+      "para": "94c3c0e9045c7078684f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7f8a8b513dd4082e5552",
+      "para": "7a351f3228c0b7fe8a32",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7f8a8b513dd4082e5552",
+      "para": "13b591983c61f4731c6e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7a351f3228c0b7fe8a32",
+      "para": "13b591983c61f4731c6e",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "7a351f3228c0b7fe8a32",
+      "para": "3135b8205d11ab25f8fb",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "13b591983c61f4731c6e",
+      "para": "3135b8205d11ab25f8fb",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "13b591983c61f4731c6e",
+      "para": "dbb507cf34f4ae6a5574",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3135b8205d11ab25f8fb",
+      "para": "dbb507cf34f4ae6a5574",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "3135b8205d11ab25f8fb",
+      "para": "6bb00e529ffcb9f88497",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "dbb507cf34f4ae6a5574",
+      "para": "6bb00e529ffcb9f88497",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "dbb507cf34f4ae6a5574",
+      "para": "284fdc807b7c53800acd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6bb00e529ffcb9f88497",
+      "para": "284fdc807b7c53800acd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "6bb00e529ffcb9f88497",
+      "para": "5ad803174476710f46fd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "284fdc807b7c53800acd",
+      "para": "5ad803174476710f46fd",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "284fdc807b7c53800acd",
+      "para": "e43b2a0cc50573693e70",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "5ad803174476710f46fd",
+      "para": "e43b2a0cc50573693e70",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "266f2b6854b3f2b98c0c",
+      "para": "fd02a529d0f5d8b831cc",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "1497460d9493f49d87ee",
+      "para": "eba717e84f379734e7df",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ffe7d6d33ab1fae370fa",
+      "para": "c6bc0c174d40a40db0dc",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "ffe7d6d33ab1fae370fa",
+      "para": "de8ffe5e135d5c4b3c56",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c6bc0c174d40a40db0dc",
+      "para": "de8ffe5e135d5c4b3c56",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "c6bc0c174d40a40db0dc",
+      "para": "646a93fe7dbfc194754f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "de8ffe5e135d5c4b3c56",
+      "para": "646a93fe7dbfc194754f",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "a407bea2a75fba6ffbc9",
+      "para": "a1841b64b0da709aec2d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "9fcbe1968da05025d056",
+      "para": "ecdff91236b8d2f0f80c",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    },
+    {
+      "de": "876010ee936e1e8ca0fe",
+      "para": "346ec6e4e13e500d998d",
+      "tipo": "mesma_pagina",
+      "peso": 0.8
+    }
+  ],
+  "total": 29,
+  "atualizado": "2026-03-13T14:46:55"
+}
