@@ -475,13 +475,47 @@
           "razao": "refinamento_3"
         }
       ]
+    },
+    "881caf36603d": {
+      "id": "881caf36603d",
+      "tipo": "pensamento",
+      "conteudo": "Sintese final (v3): Analise aprofundada (v2): Estrutura de 'Analise inicial de 'aprendizado de maquina': encontrados 0 conceitos': conceitos chave sao  | Conexoes estabelecidas com 0 elementos [Consolidado apos 3 iteracoes]",
+      "criado": "2026-03-13T13:24:43.219347",
+      "modificado": "2026-03-13T13:24:45.557208",
+      "conexoes": [],
+      "energia": 0.5,
+      "geracao": 3,
+      "meta": {
+        "fase": "rascunho",
+        "iteracao": 1
+      },
+      "historico": [
+        {
+          "conteudo": "Analise inicial de 'aprendizado de maquina': encontrados 0 conceitos",
+          "energia": 1.0,
+          "timestamp": "2026-03-13T13:24:43.219442",
+          "razao": "refinamento_1"
+        },
+        {
+          "conteudo": "Estrutura de 'Analise inicial de 'aprendizado de maquina': encontrados 0 conceitos': conceitos chave sao ",
+          "energia": 0.5,
+          "timestamp": "2026-03-13T13:24:44.332133",
+          "razao": "refinamento_2"
+        },
+        {
+          "conteudo": "Analise aprofundada (v2): Estrutura de 'Analise inicial de 'aprendizado de maquina': encontrados 0 conceitos': conceitos chave sao  | Conexoes estabelecidas com 0 elementos",
+          "energia": 0.5,
+          "timestamp": "2026-03-13T13:24:45.557146",
+          "razao": "refinamento_3"
+        }
+      ]
     }
   },
   "estatisticas": {
-    "ciclos": 12,
-    "nascimentos": 14,
+    "ciclos": 13,
+    "nascimentos": 15,
     "mortes": 0,
-    "refinamentos": 42
+    "refinamentos": 45
   },
   "ultima_digestao": ""
 }
