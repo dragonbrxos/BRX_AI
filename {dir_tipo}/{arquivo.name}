@@ -1,98 +1,75 @@
 {
-  "topico": "etica em IA",
-  "criado_em": "2026-03-13T13:33:38.355766",
-  "conceitos_principais": [
-    {
-      "termo": "ética",
-      "conexoes": 12,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.significados.com.br/etica/",
-        "https://www.dicio.com.br/etica/",
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
-      ]
-    },
-    {
-      "termo": "filosofia",
-      "conexoes": 6,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.significados.com.br/etica/",
-        "https://www.todamateria.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "dedicada",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.significados.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "ações",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.significados.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "comportamento",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.significados.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "porfírio",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
-      ]
-    },
-    {
-      "termo": "francisco",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
-      ]
-    },
-    {
-      "termo": "dilema",
-      "conexoes": 5,
-      "categoria": "geral",
-      "fontes": [
-        "https://pt.wikipedia.org/wiki/Ética"
-      ]
-    },
-    {
-      "termo": "significado",
-      "conexoes": 4,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.dicio.com.br/etica/"
-      ]
-    },
-    {
-      "termo": "dicio",
-      "conexoes": 4,
-      "categoria": "geral",
-      "fontes": [
-        "https://www.dicio.com.br/etica/"
-      ]
-    }
+  "indice_topico": {
+    "etica em IA": [
+      "32670491cbba1e9f",
+      "66db97981fde6f2f",
+      "660e0be793cf1092",
+      "774dd9af8ca1aef9",
+      "689999653226b84a",
+      "7284d66d269796ee",
+      "a50ee62ab8cef13c",
+      "ade0935ee1d334ce",
+      "279540b6711bd135",
+      "615588092259ca35",
+      "42b4801b2ce1a550",
+      "2adde769ed727704",
+      "ca062175472f3e5c",
+      "a82c7170e407797a",
+      "45e685289e373f92",
+      "f122204db68ea271",
+      "05dd7f701992e11b",
+      "630f9cc32439f835",
+      "6ef615bdffd3d01b",
+      "c2a6a8914906fa07",
+      "7e82fd1e939e1d51",
+      "50a2ef1d62cfd1b6",
+      "90ebb0ba231dc1c6",
+      "650d2dd8a7ee9d66",
+      "c8876264fe881f05",
+      "14fce0d25336018a",
+      "3c3b7e423154924d"
+    ],
+    "{ultimo} aplicacoes praticas": [
+      "e2b56aeabaad1ab0",
+      "86b05a2e1fa19941",
+      "048bb9feb8d07be4",
+      "7104463272c3cc5b",
+      "bd53ca2c9da7e313",
+      "48627f4594860684",
+      "33f82850ff816ad5",
+      "82b94f1ef4b88c05",
+      "7b4f5c481aeadc78",
+      "cd4d66d839bafa42",
+      "300ecdcaea29c247",
+      "19b1df384e9e04c5",
+      "46826dc157df8ed1",
+      "8e2fd9339c4f232b",
+      "85d5707c721f9ba0",
+      "f746693a341447b3",
+      "5e4576f35a2e8e06",
+      "8ce4fc1b2ca8fc9f",
+      "ea732dc956ab0894",
+      "880dde78817ec886",
+      "26d1822fb795875d",
+      "7e3070db898b51aa",
+      "e1a2882e1aa7d733",
+      "106249e3f82518f8",
+      "d9555264f0c590bf",
+      "ff272defc3a8f602"
+    ]
+  },
+  "estatisticas": {
+    "ciclos": 2,
+    "nascimentos": 53,
+    "mortes": 0,
+    "refinamentos": 12,
+    "pesquisas_realizadas": 2,
+    "arquivos_gerados": 5
+  },
+  "topico_atual": "{ultimo} aplicacoes praticas",
+  "historico_topicos": [
+    "etica em IA",
+    "{ultimo} aplicacoes praticas"
   ],
-  "relacoes": [],
-  "sintese": "Modelo de 'etica em IA' centrado em: ética, filosofia, dedicada, ações, comportamento. Baseado em 5 observacoes e 20 conceitos extraidos.",
-  "fontes": [
-    "https://www.todamateria.com.br/etica/",
-    "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
-    "https://pt.wikipedia.org/wiki/Ética",
-    "https://www.significados.com.br/etica/",
-    "https://www.dicio.com.br/etica/"
-  ]
+  "timestamp": "2026-03-13T13:33:55.300001"
 }
