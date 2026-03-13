@@ -1511,5 +1511,191 @@
     "fontes": [
       "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
     ]
+  },
+  {
+    "id": "4b4fcb17a77fc5aa",
+    "tipo": "memoria",
+    "conteudo": "A aprendizagem por reforço profundo (DRL) é um subconjunto avançado da inteligência artificial (IA) que combina as capacidades de tomada de decisão da aprendizagem por reforço com o poder …",
+    "criado": "2026-03-13T13:42:47.819646",
+    "modificado": "2026-03-13T13:42:47.819646",
+    "conexoes": [
+      {
+        "para": "71a07b5441677009",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "49ecad51fa0d9631",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8acd5aace13f4cdb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4a628f067ea7f6ac",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "fonte": "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "indice": 0
+    },
+    "origem": "a1ed2b36b3de357d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning"
+    ]
+  },
+  {
+    "id": "e62fd74821b14f1b",
+    "tipo": "memoria",
+    "conteudo": "Combinação de aprendizado por reforço com redes neurais profundas, permitindo que agentes aprendam políticas ótimas em ambientes complexos. Modelos como DQN, A3C e PPO têm …",
+    "criado": "2026-03-13T13:42:47.923350",
+    "modificado": "2026-03-13T13:42:47.923350",
+    "conexoes": [
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4dc1a52158a30321",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "361bc7634ed13613",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8c420f231228619b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "29e3946fa92239ef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2e65eaea59ea043b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "fonte": "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf",
+      "indice": 0
+    },
+    "origem": "a1ed2b36b3de357d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
+  },
+  {
+    "id": "7fe2d1fa42dd3ca2",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado por reforço profundo é uma das áreas mais fascinantes da inteligência artificial moderna. Ao combinar conceitos de aprendizado por reforço com o poder das redes neurais, ele …",
+    "criado": "2026-03-13T13:42:48.025854",
+    "modificado": "2026-03-13T13:42:48.025854",
+    "conexoes": [
+      {
+        "para": "108983c4fd6a7def",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "502228c82f7aa942",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78cf750c70a4dc47",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "148a86cd9428ba67",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "fonte": "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+      "indice": 0
+    },
+    "origem": "a1ed2b36b3de357d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+    ]
   }
 ]
