@@ -2813,5 +2813,129 @@
     "fontes": [
       "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
     ]
+  },
+  {
+    "id": "c402971f05dcc71f",
+    "tipo": "memoria",
+    "conteudo": "Aprenda o que é o Processamento de Linguagem Natural (PLN), como funciona, as suas aplicações e os benefícios que oferece em diferentes indústrias. Descubra como o PLN está a transformar a …",
+    "criado": "2026-03-13T13:45:54.006878",
+    "modificado": "2026-03-13T13:45:54.006878",
+    "conexoes": [
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "961703357048f640",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a1a90918a87a3c33",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7d169478a4eff439",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8d871da789fa0f8c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "fonte": "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
+      "indice": 0
+    },
+    "origem": "90d15cd36d9e53b3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
+    ]
+  },
+  {
+    "id": "76abf8fa5dc87a55",
+    "tipo": "memoria",
+    "conteudo": "30 de out. de 2025 · Processamento de linguagem natural (PLN) é uma área da inteligência artificial que permite a comunicação entre humanos e computadores usando a linguagem natural.",
+    "criado": "2026-03-13T13:45:54.115234",
+    "modificado": "2026-03-13T13:45:54.115234",
+    "conexoes": [
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4d6bc0ff7bbda4a7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "882bcedb887e4cb6",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "fonte": "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/",
+      "indice": 0
+    },
+    "origem": "90d15cd36d9e53b3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
   }
 ]
