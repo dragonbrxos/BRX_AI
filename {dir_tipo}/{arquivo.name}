@@ -1,33 +1,68 @@
 [
   {
-    "id": "66db97981fde6f2f",
-    "tipo": "memoria",
-    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
-    "criado": "2026-03-13T13:33:38.349149",
-    "modificado": "2026-03-13T13:33:38.349149",
+    "id": "660e0be793cf1092",
+    "tipo": "conceito",
+    "conteudo": "ética",
+    "criado": "2026-03-13T13:33:38.350158",
+    "modificado": "2026-03-13T13:33:38.350158",
     "conexoes": [
       {
-        "para": "660e0be793cf1092",
+        "para": "66db97981fde6f2f",
         "tipo": "menciona",
         "forca": 0.5
       },
       {
         "para": "774dd9af8ca1aef9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ade0935ee1d334ce",
+        "tipo": "menciona",
+        "forca": 0.6000000000000001
+      },
+      {
+        "para": "ca062175472f3e5c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "630f9cc32439f835",
         "tipo": "menciona",
         "forca": 0.5
       },
       {
-        "para": "689999653226b84a",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "6ef615bdffd3d01b",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "7284d66d269796ee",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "a50ee62ab8cef13c",
+        "para": "90ebb0ba231dc1c6",
         "tipo": "menciona",
         "forca": 0.4
       }
@@ -36,11 +71,114 @@
     "geracao": 0,
     "meta": {
       "topico": "etica em IA",
-      "fonte": "https://www.significados.com.br/etica/",
-      "indice": 0,
-      "tamanho": 151
+      "frequencia": 2,
+      "categoria": "geral"
     },
-    "origem": "32670491cbba1e9f",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.dicio.com.br/etica/",
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.todamateria.com.br/etica/"
+    ]
+  },
+  {
+    "id": "774dd9af8ca1aef9",
+    "tipo": "conceito",
+    "conteudo": "filosofia",
+    "criado": "2026-03-13T13:33:38.350304",
+    "modificado": "2026-03-13T13:33:38.350304",
+    "conexoes": [
+      {
+        "para": "66db97981fde6f2f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "90ebb0ba231dc1c6",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 2,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/",
+      "https://www.todamateria.com.br/etica/"
+    ]
+  },
+  {
+    "id": "689999653226b84a",
+    "tipo": "conceito",
+    "conteudo": "dedicada",
+    "criado": "2026-03-13T13:33:38.350443",
+    "modificado": "2026-03-13T13:33:38.350443",
+    "conexoes": [
+      {
+        "para": "66db97981fde6f2f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -48,47 +186,135 @@
     ]
   },
   {
-    "id": "ade0935ee1d334ce",
-    "tipo": "memoria",
-    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
-    "criado": "2026-03-13T13:33:38.350889",
-    "modificado": "2026-03-13T13:33:38.350889",
+    "id": "7284d66d269796ee",
+    "tipo": "conceito",
+    "conteudo": "ações",
+    "criado": "2026-03-13T13:33:38.350595",
+    "modificado": "2026-03-13T13:33:38.350595",
     "conexoes": [
       {
+        "para": "66db97981fde6f2f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
         "para": "660e0be793cf1092",
-        "tipo": "menciona",
-        "forca": 0.6000000000000001
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "279540b6711bd135",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "774dd9af8ca1aef9",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "615588092259ca35",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "689999653226b84a",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "42b4801b2ce1a550",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "2adde769ed727704",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "a50ee62ab8cef13c",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "etica em IA",
-      "fonte": "https://www.dicio.com.br/etica/",
-      "indice": 0,
-      "tamanho": 195
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "32670491cbba1e9f",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "a50ee62ab8cef13c",
+    "tipo": "conceito",
+    "conteudo": "comportamento",
+    "criado": "2026-03-13T13:33:38.350749",
+    "modificado": "2026-03-13T13:33:38.350749",
+    "conexoes": [
+      {
+        "para": "66db97981fde6f2f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "279540b6711bd135",
+    "tipo": "conceito",
+    "conteudo": "significado",
+    "criado": "2026-03-13T13:33:38.351246",
+    "modificado": "2026-03-13T13:33:38.351246",
+    "conexoes": [
+      {
+        "para": "ade0935ee1d334ce",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "2adde769ed727704",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -96,47 +322,172 @@
     ]
   },
   {
-    "id": "ca062175472f3e5c",
-    "tipo": "memoria",
-    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
-    "criado": "2026-03-13T13:33:38.351817",
-    "modificado": "2026-03-13T13:33:38.351817",
+    "id": "615588092259ca35",
+    "tipo": "conceito",
+    "conteudo": "dicio",
+    "criado": "2026-03-13T13:33:38.351373",
+    "modificado": "2026-03-13T13:33:38.351373",
     "conexoes": [
       {
-        "para": "a82c7170e407797a",
+        "para": "ade0935ee1d334ce",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "45e685289e373f92",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "279540b6711bd135",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "660e0be793cf1092",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "42b4801b2ce1a550",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "f122204db68ea271",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "05dd7f701992e11b",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "2adde769ed727704",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "etica em IA",
-      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
-      "indice": 0,
-      "tamanho": 184
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "32670491cbba1e9f",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "42b4801b2ce1a550",
+    "tipo": "conceito",
+    "conteudo": "dicionário",
+    "criado": "2026-03-13T13:33:38.351535",
+    "modificado": "2026-03-13T13:33:38.351535",
+    "conexoes": [
+      {
+        "para": "ade0935ee1d334ce",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "2adde769ed727704",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "2adde769ed727704",
+    "tipo": "conceito",
+    "conteudo": "online",
+    "criado": "2026-03-13T13:33:38.351671",
+    "modificado": "2026-03-13T13:33:38.351671",
+    "conexoes": [
+      {
+        "para": "ade0935ee1d334ce",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "a82c7170e407797a",
+    "tipo": "conceito",
+    "conteudo": "porfírio",
+    "criado": "2026-03-13T13:33:38.352111",
+    "modificado": "2026-03-13T13:33:38.352111",
+    "conexoes": [
+      {
+        "para": "ca062175472f3e5c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -144,47 +495,177 @@
     ]
   },
   {
-    "id": "630f9cc32439f835",
-    "tipo": "memoria",
-    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
-    "criado": "2026-03-13T13:33:38.352763",
-    "modificado": "2026-03-13T13:33:38.352763",
+    "id": "45e685289e373f92",
+    "tipo": "conceito",
+    "conteudo": "francisco",
+    "criado": "2026-03-13T13:33:38.352251",
+    "modificado": "2026-03-13T13:33:38.352251",
     "conexoes": [
       {
-        "para": "6ef615bdffd3d01b",
+        "para": "ca062175472f3e5c",
         "tipo": "menciona",
-        "forca": 0.5
+        "forca": 0.4
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "660e0be793cf1092",
-        "tipo": "menciona",
-        "forca": 0.5
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "c2a6a8914906fa07",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "f122204db68ea271",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "7e82fd1e939e1d51",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "50a2ef1d62cfd1b6",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "05dd7f701992e11b",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "etica em IA",
-      "fonte": "https://pt.wikipedia.org/wiki/Ética",
-      "indice": 0,
-      "tamanho": 207
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "32670491cbba1e9f",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "f122204db68ea271",
+    "tipo": "conceito",
+    "conteudo": "brasil",
+    "criado": "2026-03-13T13:33:38.352481",
+    "modificado": "2026-03-13T13:33:38.352481",
+    "conexoes": [
+      {
+        "para": "ca062175472f3e5c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "05dd7f701992e11b",
+    "tipo": "conceito",
+    "conteudo": "escola",
+    "criado": "2026-03-13T13:33:38.352624",
+    "modificado": "2026-03-13T13:33:38.352624",
+    "conexoes": [
+      {
+        "para": "ca062175472f3e5c",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "6ef615bdffd3d01b",
+    "tipo": "conceito",
+    "conteudo": "dilema",
+    "criado": "2026-03-13T13:33:38.353086",
+    "modificado": "2026-03-13T13:33:38.353086",
+    "conexoes": [
+      {
+        "para": "630f9cc32439f835",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 2,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -192,47 +673,162 @@
     ]
   },
   {
-    "id": "90ebb0ba231dc1c6",
-    "tipo": "memoria",
-    "conteudo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
-    "criado": "2026-03-13T13:33:38.353807",
-    "modificado": "2026-03-13T13:33:38.353807",
+    "id": "c2a6a8914906fa07",
+    "tipo": "conceito",
+    "conteudo": "ilustração",
+    "criado": "2026-03-13T13:33:38.353325",
+    "modificado": "2026-03-13T13:33:38.353325",
     "conexoes": [
       {
-        "para": "660e0be793cf1092",
+        "para": "630f9cc32439f835",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "774dd9af8ca1aef9",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "6ef615bdffd3d01b",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "650d2dd8a7ee9d66",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "7e82fd1e939e1d51",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "c8876264fe881f05",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "14fce0d25336018a",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "etica em IA",
-      "fonte": "https://www.todamateria.com.br/etica/",
-      "indice": 0,
-      "tamanho": 195
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "32670491cbba1e9f",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "7e82fd1e939e1d51",
+    "tipo": "conceito",
+    "conteudo": "bonde",
+    "criado": "2026-03-13T13:33:38.353502",
+    "modificado": "2026-03-13T13:33:38.353502",
+    "conexoes": [
+      {
+        "para": "630f9cc32439f835",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "50a2ef1d62cfd1b6",
+    "tipo": "conceito",
+    "conteudo": "ético",
+    "criado": "2026-03-13T13:33:38.353667",
+    "modificado": "2026-03-13T13:33:38.353667",
+    "conexoes": [
+      {
+        "para": "630f9cc32439f835",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "650d2dd8a7ee9d66",
+    "tipo": "conceito",
+    "conteudo": "moral",
+    "criado": "2026-03-13T13:33:38.354252",
+    "modificado": "2026-03-13T13:33:38.354252",
+    "conexoes": [
+      {
+        "para": "90ebb0ba231dc1c6",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -240,47 +836,120 @@
     ]
   },
   {
-    "id": "86b05a2e1fa19941",
-    "tipo": "memoria",
-    "conteudo": "8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conhecimentos no dia a dia, com foco em resultados.",
-    "criado": "2026-03-13T13:33:55.291999",
-    "modificado": "2026-03-13T13:33:55.291999",
+    "id": "c8876264fe881f05",
+    "tipo": "conceito",
+    "conteudo": "conhecimento",
+    "criado": "2026-03-13T13:33:38.354416",
+    "modificado": "2026-03-13T13:33:38.354416",
     "conexoes": [
       {
-        "para": "048bb9feb8d07be4",
+        "para": "90ebb0ba231dc1c6",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/etica/"
+    ]
+  },
+  {
+    "id": "14fce0d25336018a",
+    "tipo": "conceito",
+    "conteudo": "objeto",
+    "criado": "2026-03-13T13:33:38.354577",
+    "modificado": "2026-03-13T13:33:38.354577",
+    "conexoes": [
+      {
+        "para": "90ebb0ba231dc1c6",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica em IA",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.todamateria.com.br/etica/"
+    ]
+  },
+  {
+    "id": "048bb9feb8d07be4",
+    "tipo": "conceito",
+    "conteudo": "descubra",
+    "criado": "2026-03-13T13:33:55.292369",
+    "modificado": "2026-03-13T13:33:55.292369",
+    "conexoes": [
+      {
+        "para": "86b05a2e1fa19941",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
         "para": "7104463272c3cc5b",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "bd53ca2c9da7e313",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "48627f4594860684",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "33f82850ff816ad5",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "{ultimo} aplicacoes praticas",
-      "fonte": "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
-      "indice": 0,
-      "tamanho": 164
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "e2b56aeabaad1ab0",
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -288,34 +957,286 @@
     ]
   },
   {
-    "id": "82b94f1ef4b88c05",
-    "tipo": "memoria",
-    "conteudo": "2 dias atrás · 5 aplicações práticas da Inteligência Artificial para acelerar sua carreira em tecnologia Durante a primeira mentoria do programa DIO Campus Expert – Turma 15, tivemos um debate muito …",
-    "criado": "2026-03-13T13:33:55.293450",
-    "modificado": "2026-03-13T13:33:55.293450",
+    "id": "7104463272c3cc5b",
+    "tipo": "conceito",
+    "conteudo": "aplicações",
+    "criado": "2026-03-13T13:33:55.292599",
+    "modificado": "2026-03-13T13:33:55.292599",
     "conexoes": [
       {
+        "para": "86b05a2e1fa19941",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "82b94f1ef4b88c05",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
         "para": "7b4f5c481aeadc78",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8ce4fc1b2ca8fc9f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea732dc956ab0894",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://mdbf.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "bd53ca2c9da7e313",
+    "tipo": "conceito",
+    "conteudo": "práticas",
+    "criado": "2026-03-13T13:33:55.292886",
+    "modificado": "2026-03-13T13:33:55.292886",
+    "conexoes": [
+      {
+        "para": "86b05a2e1fa19941",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "82b94f1ef4b88c05",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8ce4fc1b2ca8fc9f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea732dc956ab0894",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://mdbf.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "48627f4594860684",
+    "tipo": "conceito",
+    "conteudo": "exemplos",
+    "criado": "2026-03-13T13:33:55.293110",
+    "modificado": "2026-03-13T13:33:55.293110",
+    "conexoes": [
+      {
+        "para": "86b05a2e1fa19941",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "33f82850ff816ad5",
+    "tipo": "conceito",
+    "conteudo": "reais",
+    "criado": "2026-03-13T13:33:55.293330",
+    "modificado": "2026-03-13T13:33:55.293330",
+    "conexoes": [
+      {
+        "para": "86b05a2e1fa19941",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "48627f4594860684",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://psicopedagogia.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "7b4f5c481aeadc78",
+    "tipo": "conceito",
+    "conteudo": "atrás",
+    "criado": "2026-03-13T13:33:55.293759",
+    "modificado": "2026-03-13T13:33:55.293759",
+    "conexoes": [
+      {
+        "para": "82b94f1ef4b88c05",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
         "para": "7104463272c3cc5b",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "bd53ca2c9da7e313",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "26d1822fb795875d",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "300ecdcaea29c247",
+        "para": "f0c9d0e782649d3b",
         "tipo": "menciona",
         "forca": 0.4
       }
@@ -324,46 +1245,198 @@
     "geracao": 0,
     "meta": {
       "topico": "{ultimo} aplicacoes praticas",
-      "fonte": "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
-      "indice": 0,
-      "tamanho": 200
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "e2b56aeabaad1ab0",
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487"
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
     ]
   },
   {
-    "id": "19b1df384e9e04c5",
-    "tipo": "memoria",
-    "conteudo": "Este artigo aborda de maneira detalhada o que é a IA, sua evolução histórica, e suas aplicações práticas atualmente. Discutiremos também os possíveis futuros desta tecnologia, suas tendências e …",
-    "criado": "2026-03-13T13:33:55.294690",
-    "modificado": "2026-03-13T13:33:55.294690",
+    "id": "cd4d66d839bafa42",
+    "tipo": "conceito",
+    "conteudo": "inteligência",
+    "criado": "2026-03-13T13:33:55.294352",
+    "modificado": "2026-03-13T13:33:55.294352",
     "conexoes": [
       {
-        "para": "46826dc157df8ed1",
+        "para": "82b94f1ef4b88c05",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bfdea60e6360433b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0625b321c2deac15",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "686f7b397f227d0a",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "5f7c07a05247297a",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  },
+  {
+    "id": "300ecdcaea29c247",
+    "tipo": "conceito",
+    "conteudo": "artificial",
+    "criado": "2026-03-13T13:33:55.294582",
+    "modificado": "2026-03-13T13:33:55.294582",
+    "conexoes": [
+      {
+        "para": "82b94f1ef4b88c05",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bfdea60e6360433b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0625b321c2deac15",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "686f7b397f227d0a",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "46826dc157df8ed1",
+    "tipo": "conceito",
+    "conteudo": "artigo",
+    "criado": "2026-03-13T13:33:55.294873",
+    "modificado": "2026-03-13T13:33:55.294873",
+    "conexoes": [
+      {
+        "para": "19b1df384e9e04c5",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
         "para": "8e2fd9339c4f232b",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "85d5707c721f9ba0",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "f746693a341447b3",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "5e4576f35a2e8e06",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8ce4fc1b2ca8fc9f",
         "tipo": "menciona",
         "forca": 0.4
       }
@@ -372,11 +1445,58 @@
     "geracao": 0,
     "meta": {
       "topico": "{ultimo} aplicacoes praticas",
-      "fonte": "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
-      "indice": 0,
-      "tamanho": 195
+      "frequencia": 1,
+      "categoria": "filosofico"
     },
-    "origem": "e2b56aeabaad1ab0",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+      "https://mdbf.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "8e2fd9339c4f232b",
+    "tipo": "conceito",
+    "conteudo": "aborda",
+    "criado": "2026-03-13T13:33:55.294952",
+    "modificado": "2026-03-13T13:33:55.294952",
+    "conexoes": [
+      {
+        "para": "19b1df384e9e04c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f746693a341447b3",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -384,47 +1504,182 @@
     ]
   },
   {
-    "id": "8ce4fc1b2ca8fc9f",
-    "tipo": "memoria",
-    "conteudo": "21 de dez. de 2025 · Este artigo apresenta diversas aplicações práticas que podem transformar o seu dia a dia e impulsionar o sucesso nos negócios, além de fornecer dicas, exemplos e referências …",
-    "criado": "2026-03-13T13:33:55.295288",
-    "modificado": "2026-03-13T13:33:55.295288",
+    "id": "85d5707c721f9ba0",
+    "tipo": "conceito",
+    "conteudo": "maneira",
+    "criado": "2026-03-13T13:33:55.295072",
+    "modificado": "2026-03-13T13:33:55.295072",
     "conexoes": [
       {
+        "para": "19b1df384e9e04c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
         "para": "46826dc157df8ed1",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "ea732dc956ab0894",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "8e2fd9339c4f232b",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "880dde78817ec886",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "f746693a341447b3",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "7104463272c3cc5b",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "bd53ca2c9da7e313",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "5e4576f35a2e8e06",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "{ultimo} aplicacoes praticas",
-      "fonte": "https://mdbf.com.br/blog/aplicacoes-praticas",
-      "indice": 0,
-      "tamanho": 196
+      "frequencia": 1,
+      "categoria": "filosofico"
     },
-    "origem": "e2b56aeabaad1ab0",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
+    ]
+  },
+  {
+    "id": "f746693a341447b3",
+    "tipo": "conceito",
+    "conteudo": "detalhada",
+    "criado": "2026-03-13T13:33:55.295155",
+    "modificado": "2026-03-13T13:33:55.295155",
+    "conexoes": [
+      {
+        "para": "19b1df384e9e04c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8e2fd9339c4f232b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5e4576f35a2e8e06",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
+    ]
+  },
+  {
+    "id": "5e4576f35a2e8e06",
+    "tipo": "conceito",
+    "conteudo": "evolução",
+    "criado": "2026-03-13T13:33:55.295245",
+    "modificado": "2026-03-13T13:33:55.295245",
+    "conexoes": [
+      {
+        "para": "19b1df384e9e04c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "46826dc157df8ed1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8e2fd9339c4f232b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f746693a341447b3",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/"
+    ]
+  },
+  {
+    "id": "ea732dc956ab0894",
+    "tipo": "conceito",
+    "conteudo": "apresenta",
+    "criado": "2026-03-13T13:33:55.295467",
+    "modificado": "2026-03-13T13:33:55.295467",
+    "conexoes": [
+      {
+        "para": "8ce4fc1b2ca8fc9f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "bd53ca2c9da7e313",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -432,47 +1687,83 @@
     ]
   },
   {
-    "id": "26d1822fb795875d",
-    "tipo": "memoria",
-    "conteudo": "3 dias atrás · A aplicação dessas análises, considerando as atividades anteriores, permite identificar oportunidades e riscos, além de fundamentar estratégias sólidas. A análise técnica é uma …",
-    "criado": "2026-03-13T13:33:55.296040",
-    "modificado": "2026-03-13T13:33:55.296040",
+    "id": "880dde78817ec886",
+    "tipo": "conceito",
+    "conteudo": "diversas",
+    "criado": "2026-03-13T13:33:55.295551",
+    "modificado": "2026-03-13T13:33:55.295551",
     "conexoes": [
       {
-        "para": "7b4f5c481aeadc78",
+        "para": "8ce4fc1b2ca8fc9f",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "7e3070db898b51aa",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "ea732dc956ab0894",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "e1a2882e1aa7d733",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "7104463272c3cc5b",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "106249e3f82518f8",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "d9555264f0c590bf",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "bd53ca2c9da7e313",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "{ultimo} aplicacoes praticas",
-      "fonte": "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/",
-      "indice": 0,
-      "tamanho": 193
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "e2b56aeabaad1ab0",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://mdbf.com.br/blog/aplicacoes-praticas"
+    ]
+  },
+  {
+    "id": "7e3070db898b51aa",
+    "tipo": "conceito",
+    "conteudo": "aplicação",
+    "criado": "2026-03-13T13:33:55.296628",
+    "modificado": "2026-03-13T13:33:55.296628",
+    "conexoes": [
+      {
+        "para": "26d1822fb795875d",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "d9555264f0c590bf",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -480,47 +1771,252 @@
     ]
   },
   {
-    "id": "bfdea60e6360433b",
-    "tipo": "memoria",
-    "conteudo": "O que é IA generativa? A IA generativa, às vezes chamada de IA gen, é a inteligência artificial (IA) que pode criar conteúdo original, como texto, imagens, vídeo, áudio ou código de software, em resposta …",
-    "criado": "2026-03-13T13:34:16.559007",
-    "modificado": "2026-03-13T13:34:16.559007",
+    "id": "e1a2882e1aa7d733",
+    "tipo": "conceito",
+    "conteudo": "dessas",
+    "criado": "2026-03-13T13:33:55.296942",
+    "modificado": "2026-03-13T13:33:55.296942",
     "conexoes": [
       {
-        "para": "78a639f0dc1312a5",
+        "para": "26d1822fb795875d",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "d9555264f0c590bf",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
+    ]
+  },
+  {
+    "id": "106249e3f82518f8",
+    "tipo": "conceito",
+    "conteudo": "análises",
+    "criado": "2026-03-13T13:33:55.297229",
+    "modificado": "2026-03-13T13:33:55.297229",
+    "conexoes": [
+      {
+        "para": "26d1822fb795875d",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "d9555264f0c590bf",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
+    ]
+  },
+  {
+    "id": "d9555264f0c590bf",
+    "tipo": "conceito",
+    "conteudo": "considerando",
+    "criado": "2026-03-13T13:33:55.297519",
+    "modificado": "2026-03-13T13:33:55.297519",
+    "conexoes": [
+      {
+        "para": "26d1822fb795875d",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "7e3070db898b51aa",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e1a2882e1aa7d733",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "106249e3f82518f8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "{ultimo} aplicacoes praticas",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/"
+    ]
+  },
+  {
+    "id": "78a639f0dc1312a5",
+    "tipo": "conceito",
+    "conteudo": "generativa",
+    "criado": "2026-03-13T13:34:16.559499",
+    "modificado": "2026-03-13T13:34:16.559499",
+    "conexoes": [
+      {
+        "para": "bfdea60e6360433b",
         "tipo": "menciona",
         "forca": 0.5
       },
       {
         "para": "19296e6943a9242c",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "4a87751943f68d02",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0625b321c2deac15",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "300ecdcaea29c247",
+        "para": "686f7b397f227d0a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f0c9d0e782649d3b",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "inteligencia artificial generativa",
-      "fonte": "https://www.ibm.com/br-pt/think/topics/generative-ai",
-      "indice": 0,
-      "tamanho": 205
+      "frequencia": 2,
+      "categoria": "geral"
     },
-    "origem": "cd8f14e3286b9db5",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "19296e6943a9242c",
+    "tipo": "conceito",
+    "conteudo": "vezes",
+    "criado": "2026-03-13T13:34:16.559852",
+    "modificado": "2026-03-13T13:34:16.559852",
+    "conexoes": [
+      {
+        "para": "bfdea60e6360433b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -528,47 +2024,78 @@
     ]
   },
   {
-    "id": "0625b321c2deac15",
-    "tipo": "memoria",
-    "conteudo": "A Inteligência Artificial Generativa é um ramo da inteligência artificial projetado para criar conteúdos, como textos, áudios, imagens, vídeos e até códigos de software.",
-    "criado": "2026-03-13T13:34:16.560822",
-    "modificado": "2026-03-13T13:34:16.560822",
+    "id": "4a87751943f68d02",
+    "tipo": "conceito",
+    "conteudo": "chamada",
+    "criado": "2026-03-13T13:34:16.560176",
+    "modificado": "2026-03-13T13:34:16.560176",
     "conexoes": [
       {
-        "para": "cd4d66d839bafa42",
+        "para": "bfdea60e6360433b",
         "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "300ecdcaea29c247",
-        "tipo": "menciona",
-        "forca": 0.5
+        "forca": 0.4
       },
       {
         "para": "78a639f0dc1312a5",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "6fd5fdd923205e23",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "19296e6943a9242c",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "ea6b1f1f6860e443",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "inteligencia artificial generativa",
-      "fonte": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
-      "indice": 0,
-      "tamanho": 169
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "cd8f14e3286b9db5",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "6fd5fdd923205e23",
+    "tipo": "conceito",
+    "conteudo": "projetado",
+    "criado": "2026-03-13T13:34:16.561971",
+    "modificado": "2026-03-13T13:34:16.561971",
+    "conexoes": [
+      {
+        "para": "0625b321c2deac15",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -576,34 +2103,24 @@
     ]
   },
   {
-    "id": "686f7b397f227d0a",
-    "tipo": "memoria",
-    "conteudo": "A inteligência artificial generativa (IA generativa) é um tipo de IA que pode criar novos conteúdos e ideias, incluindo conversas, histórias, imagens, vídeos e músicas.",
-    "criado": "2026-03-13T13:34:16.562390",
-    "modificado": "2026-03-13T13:34:16.562390",
+    "id": "ea6b1f1f6860e443",
+    "tipo": "conceito",
+    "conteudo": "criar",
+    "criado": "2026-03-13T13:34:16.562292",
+    "modificado": "2026-03-13T13:34:16.562292",
     "conexoes": [
       {
-        "para": "78a639f0dc1312a5",
-        "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "cd4d66d839bafa42",
+        "para": "0625b321c2deac15",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "300ecdcaea29c247",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "6fd5fdd923205e23",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "ea6b1f1f6860e443",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "40d5a991b1d268e2",
+        "para": "686f7b397f227d0a",
         "tipo": "menciona",
         "forca": 0.4
       }
@@ -612,11 +2129,38 @@
     "geracao": 0,
     "meta": {
       "topico": "inteligencia artificial generativa",
-      "fonte": "https://aws.amazon.com/pt/what-is/generative-ai/",
-      "indice": 0,
-      "tamanho": 168
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "cd8f14e3286b9db5",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "40d5a991b1d268e2",
+    "tipo": "conceito",
+    "conteudo": "novos",
+    "criado": "2026-03-13T13:34:16.563812",
+    "modificado": "2026-03-13T13:34:16.563812",
+    "conexoes": [
+      {
+        "para": "686f7b397f227d0a",
+        "tipo": "menciona",
+        "forca": 0.4
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -624,47 +2168,46 @@
     ]
   },
   {
-    "id": "f22342441f4e1864",
-    "tipo": "memoria",
-    "conteudo": "Um sistema de IA generativo é construído aplicando aprendizado de máquina não supervisionado ou autossupervisionado a um conjunto de dados. As capacidades e aplicações de um sistema de IA …",
-    "criado": "2026-03-13T13:34:16.563913",
-    "modificado": "2026-03-13T13:34:16.563913",
+    "id": "ff4d689618612d76",
+    "tipo": "conceito",
+    "conteudo": "sistema",
+    "criado": "2026-03-13T13:34:16.564351",
+    "modificado": "2026-03-13T13:34:16.564351",
     "conexoes": [
       {
-        "para": "ff4d689618612d76",
+        "para": "f22342441f4e1864",
         "tipo": "menciona",
         "forca": 0.5
       },
       {
         "para": "9e5aa69a241adc7c",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "033934386ec91def",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "7001ce88e431ce7c",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "a487d7ee22e69288",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "inteligencia artificial generativa",
-      "fonte": "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
-      "indice": 0,
-      "tamanho": 189
+      "frequencia": 2,
+      "categoria": "tecnico"
     },
-    "origem": "cd8f14e3286b9db5",
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -672,47 +2215,229 @@
     ]
   },
   {
-    "id": "f0c9d0e782649d3b",
-    "tipo": "memoria",
-    "conteudo": "1 dia atrás · Diferenças entre IA preditiva e generativa Com a tecnologia tão presente, cresce a dúvida sobre como adotar esse tipo de ferramenta nas empresas, já que nem toda inteligência artificial é ...",
-    "criado": "2026-03-13T13:34:16.565888",
-    "modificado": "2026-03-13T13:34:16.565888",
+    "id": "9e5aa69a241adc7c",
+    "tipo": "conceito",
+    "conteudo": "generativo",
+    "criado": "2026-03-13T13:34:16.564676",
+    "modificado": "2026-03-13T13:34:16.564676",
     "conexoes": [
       {
-        "para": "7b4f5c481aeadc78",
+        "para": "f22342441f4e1864",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "d994df5826f38a57",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "1ff7cb6ad6ef234a",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "033934386ec91def",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "e89483d3253a1089",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "7001ce88e431ce7c",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "78a639f0dc1312a5",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "a487d7ee22e69288",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "inteligencia artificial generativa",
-      "fonte": "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
-      "indice": 0,
-      "tamanho": 205
+      "frequencia": 1,
+      "categoria": "tecnico"
     },
-    "origem": "cd8f14e3286b9db5",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "033934386ec91def",
+    "tipo": "conceito",
+    "conteudo": "construído",
+    "criado": "2026-03-13T13:34:16.565068",
+    "modificado": "2026-03-13T13:34:16.565068",
+    "conexoes": [
+      {
+        "para": "f22342441f4e1864",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7001ce88e431ce7c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "tecnico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "7001ce88e431ce7c",
+    "tipo": "conceito",
+    "conteudo": "aplicando",
+    "criado": "2026-03-13T13:34:16.565411",
+    "modificado": "2026-03-13T13:34:16.565411",
+    "conexoes": [
+      {
+        "para": "f22342441f4e1864",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "033934386ec91def",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "tecnico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "a487d7ee22e69288",
+    "tipo": "conceito",
+    "conteudo": "aprendizado",
+    "criado": "2026-03-13T13:34:16.565775",
+    "modificado": "2026-03-13T13:34:16.565775",
+    "conexoes": [
+      {
+        "para": "f22342441f4e1864",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9e5aa69a241adc7c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "033934386ec91def",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7001ce88e431ce7c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "tecnico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
+    ]
+  },
+  {
+    "id": "d994df5826f38a57",
+    "tipo": "conceito",
+    "conteudo": "diferenças",
+    "criado": "2026-03-13T13:34:16.566673",
+    "modificado": "2026-03-13T13:34:16.566673",
+    "conexoes": [
+      {
+        "para": "f0c9d0e782649d3b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -720,47 +2445,211 @@
     ]
   },
   {
-    "id": "5fc93e48d9a66f4f",
-    "tipo": "memoria",
-    "conteudo": "O que é a visão por computador? A visão computacional é uma tecnologia que as máquinas usam para reconhecer imagens automaticamente e descrevê-las com precisão e eficiência.",
-    "criado": "2026-03-13T13:34:39.047435",
-    "modificado": "2026-03-13T13:34:39.047435",
+    "id": "1ff7cb6ad6ef234a",
+    "tipo": "conceito",
+    "conteudo": "entre",
+    "criado": "2026-03-13T13:34:16.567088",
+    "modificado": "2026-03-13T13:34:16.567088",
     "conexoes": [
       {
-        "para": "4bebed172c2e45be",
+        "para": "f0c9d0e782649d3b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "e89483d3253a1089",
+    "tipo": "conceito",
+    "conteudo": "preditiva",
+    "criado": "2026-03-13T13:34:16.567440",
+    "modificado": "2026-03-13T13:34:16.567440",
+    "conexoes": [
+      {
+        "para": "f0c9d0e782649d3b",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "d994df5826f38a57",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "4bebed172c2e45be",
+    "tipo": "conceito",
+    "conteudo": "visão",
+    "criado": "2026-03-13T13:34:39.048079",
+    "modificado": "2026-03-13T13:34:39.048079",
+    "conexoes": [
+      {
+        "para": "5fc93e48d9a66f4f",
         "tipo": "menciona",
         "forca": 0.5
       },
       {
         "para": "1e23a86bc711c543",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "5b524a7d61d1bb50",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9ad1f5b0771104d4",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "5b5541aec58922ab",
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ba370b96d72beb03",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4633d0877de2fb93",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "f135b2fca131f7c5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5f7c07a05247297a",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "visao computacional",
-      "fonte": "https://aws.amazon.com/pt/what-is/computer-vision/",
-      "indice": 0,
-      "tamanho": 173
+      "frequencia": 2,
+      "categoria": "filosofico"
     },
-    "origem": "25d03372067fc0f2",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "https://www.alura.com.br/artigos/visao-computacional",
+      "https://www.ibm.com/br-pt/think/topics/computer-vision",
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision",
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  },
+  {
+    "id": "1e23a86bc711c543",
+    "tipo": "conceito",
+    "conteudo": "computador",
+    "criado": "2026-03-13T13:34:39.048531",
+    "modificado": "2026-03-13T13:34:39.048531",
+    "conexoes": [
+      {
+        "para": "5fc93e48d9a66f4f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -768,47 +2657,221 @@
     ]
   },
   {
-    "id": "9ad1f5b0771104d4",
-    "tipo": "memoria",
-    "conteudo": "10 de fev. de 2026 · De uma forma bem direta, a visão computacional é um subcampo da inteligência artificial (IA) que treina computadores para interpretar e compreender o mundo visual.",
-    "criado": "2026-03-13T13:34:39.049965",
-    "modificado": "2026-03-13T13:34:39.049965",
+    "id": "5b524a7d61d1bb50",
+    "tipo": "conceito",
+    "conteudo": "computacional",
+    "criado": "2026-03-13T13:34:39.048969",
+    "modificado": "2026-03-13T13:34:39.048969",
     "conexoes": [
       {
-        "para": "6758d4f0cb6e1ea1",
-        "tipo": "menciona",
-        "forca": 0.4
-      },
-      {
-        "para": "ba370b96d72beb03",
+        "para": "5fc93e48d9a66f4f",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
         "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9ad1f5b0771104d4",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "5b524a7d61d1bb50",
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ba370b96d72beb03",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4633d0877de2fb93",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "87d35b1c9c9befbd",
+        "para": "f135b2fca131f7c5",
         "tipo": "menciona",
-        "forca": 0.4
+        "forca": 0.5
+      },
+      {
+        "para": "5f7c07a05247297a",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "visao computacional",
-      "fonte": "https://www.alura.com.br/artigos/visao-computacional",
-      "indice": 0,
-      "tamanho": 184
+      "frequencia": 1,
+      "categoria": "filosofico"
     },
-    "origem": "25d03372067fc0f2",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/",
+      "https://www.alura.com.br/artigos/visao-computacional",
+      "https://www.ibm.com/br-pt/think/topics/computer-vision",
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision",
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  },
+  {
+    "id": "7618ad64a30d28d8",
+    "tipo": "conceito",
+    "conteudo": "tecnologia",
+    "criado": "2026-03-13T13:34:39.049375",
+    "modificado": "2026-03-13T13:34:39.049375",
+    "conexoes": [
+      {
+        "para": "5fc93e48d9a66f4f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/"
+    ]
+  },
+  {
+    "id": "5b5541aec58922ab",
+    "tipo": "conceito",
+    "conteudo": "máquinas",
+    "criado": "2026-03-13T13:34:39.049847",
+    "modificado": "2026-03-13T13:34:39.049847",
+    "conexoes": [
+      {
+        "para": "5fc93e48d9a66f4f",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1e23a86bc711c543",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "filosofico"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/computer-vision/"
+    ]
+  },
+  {
+    "id": "6758d4f0cb6e1ea1",
+    "tipo": "conceito",
+    "conteudo": "forma",
+    "criado": "2026-03-13T13:34:39.050491",
+    "modificado": "2026-03-13T13:34:39.050491",
+    "conexoes": [
+      {
+        "para": "9ad1f5b0771104d4",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "ba370b96d72beb03",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5b524a7d61d1bb50",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -816,34 +2879,91 @@
     ]
   },
   {
-    "id": "4633d0877de2fb93",
-    "tipo": "memoria",
-    "conteudo": "O que é visão computacional? A computer vision é um subcampo da inteligência artificial (IA) que equipa máquinas com a capacidade de processar, analisar e interpretar entradas visuais, como …",
-    "criado": "2026-03-13T13:34:39.052176",
-    "modificado": "2026-03-13T13:34:39.052176",
+    "id": "ba370b96d72beb03",
+    "tipo": "conceito",
+    "conteudo": "direta",
+    "criado": "2026-03-13T13:34:39.050939",
+    "modificado": "2026-03-13T13:34:39.050939",
     "conexoes": [
       {
-        "para": "4bebed172c2e45be",
+        "para": "9ad1f5b0771104d4",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4bebed172c2e45be",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
         "para": "5b524a7d61d1bb50",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/visao-computacional"
+    ]
+  },
+  {
+    "id": "87d35b1c9c9befbd",
+    "tipo": "conceito",
+    "conteudo": "subcampo",
+    "criado": "2026-03-13T13:34:39.052057",
+    "modificado": "2026-03-13T13:34:39.052057",
+    "conexoes": [
+      {
+        "para": "9ad1f5b0771104d4",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ba370b96d72beb03",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4633d0877de2fb93",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
         "para": "c106fef28bb680dd",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
         "para": "e0f30ac4fd08ae29",
-        "tipo": "menciona",
-        "forca": 0.4
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "87d35b1c9c9befbd",
+        "para": "5f7c07a05247297a",
         "tipo": "menciona",
         "forca": 0.4
       }
@@ -852,11 +2972,49 @@
     "geracao": 0,
     "meta": {
       "topico": "visao computacional",
-      "fonte": "https://www.ibm.com/br-pt/think/topics/computer-vision",
-      "indice": 0,
-      "tamanho": 191
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "25d03372067fc0f2",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/visao-computacional",
+      "https://www.ibm.com/br-pt/think/topics/computer-vision",
+      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+    ]
+  },
+  {
+    "id": "c106fef28bb680dd",
+    "tipo": "conceito",
+    "conteudo": "computer",
+    "criado": "2026-03-13T13:34:39.053410",
+    "modificado": "2026-03-13T13:34:39.053410",
+    "conexoes": [
+      {
+        "para": "4633d0877de2fb93",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "e0f30ac4fd08ae29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "87d35b1c9c9befbd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -864,47 +3022,73 @@
     ]
   },
   {
-    "id": "f135b2fca131f7c5",
-    "tipo": "memoria",
-    "conteudo": "Em termos simples, a visão computacional é um ramo da IA que estuda como os computadores podem ver e entender o conteúdo de imagens e vídeos digitais. O objetivo final da visão computacional é …",
-    "criado": "2026-03-13T13:34:39.054147",
-    "modificado": "2026-03-13T13:34:39.054147",
+    "id": "e0f30ac4fd08ae29",
+    "tipo": "conceito",
+    "conteudo": "vision",
+    "criado": "2026-03-13T13:34:39.053859",
+    "modificado": "2026-03-13T13:34:39.053859",
     "conexoes": [
       {
-        "para": "4bebed172c2e45be",
-        "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "5b524a7d61d1bb50",
-        "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "25f17370ad24ce95",
+        "para": "4633d0877de2fb93",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "778dc37a03bd4b16",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "c106fef28bb680dd",
+        "tipo": "relacionado",
+        "forca": 0.3
       },
       {
-        "para": "0d487f1293d46246",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "87d35b1c9c9befbd",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "visao computacional",
-      "fonte": "https://www.datacamp.com/pt/blog/what-is-computer-vision",
-      "indice": 0,
-      "tamanho": 194
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "25d03372067fc0f2",
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/computer-vision"
+    ]
+  },
+  {
+    "id": "25f17370ad24ce95",
+    "tipo": "conceito",
+    "conteudo": "termos",
+    "criado": "2026-03-13T13:34:39.055362",
+    "modificado": "2026-03-13T13:34:39.055362",
+    "conexoes": [
+      {
+        "para": "f135b2fca131f7c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "778dc37a03bd4b16",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
@@ -912,46 +3096,77 @@
     ]
   },
   {
-    "id": "5f7c07a05247297a",
-    "tipo": "memoria",
-    "conteudo": "11 de fev. de 2025 · O que é Visão Computacional? A Visão Computacional é um campo da inteligência artificial que se concentra em permitir que os computadores interpretem e compreendam o mundo …",
-    "criado": "2026-03-13T13:34:39.056256",
-    "modificado": "2026-03-13T13:34:39.056256",
+    "id": "778dc37a03bd4b16",
+    "tipo": "conceito",
+    "conteudo": "simples",
+    "criado": "2026-03-13T13:34:39.055676",
+    "modificado": "2026-03-13T13:34:39.055676",
     "conexoes": [
       {
-        "para": "4bebed172c2e45be",
-        "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "5b524a7d61d1bb50",
-        "tipo": "menciona",
-        "forca": 0.5
-      },
-      {
-        "para": "87d35b1c9c9befbd",
+        "para": "f135b2fca131f7c5",
         "tipo": "menciona",
         "forca": 0.4
       },
       {
-        "para": "cd4d66d839bafa42",
-        "tipo": "menciona",
-        "forca": 0.4
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0d487f1293d46246",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
     "geracao": 0,
     "meta": {
       "topico": "visao computacional",
-      "fonte": "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/",
-      "indice": 0,
-      "tamanho": 194
+      "frequencia": 1,
+      "categoria": "geral"
     },
-    "origem": "25d03372067fc0f2",
+    "origem": null,
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/"
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision"
+    ]
+  },
+  {
+    "id": "0d487f1293d46246",
+    "tipo": "conceito",
+    "conteudo": "estuda",
+    "criado": "2026-03-13T13:34:39.056139",
+    "modificado": "2026-03-13T13:34:39.056139",
+    "conexoes": [
+      {
+        "para": "f135b2fca131f7c5",
+        "tipo": "menciona",
+        "forca": 0.4
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "778dc37a03bd4b16",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "visao computacional",
+      "frequencia": 1,
+      "categoria": "geral"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.datacamp.com/pt/blog/what-is-computer-vision"
     ]
   }
 ]
