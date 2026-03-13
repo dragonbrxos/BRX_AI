@@ -47,7 +47,8 @@
     "b7650036e2457c69333d"
   ],
   "used": [
-    "a525b083d35688d9e165"
+    "a525b083d35688d9e165",
+    "7db760ced88775a3f94c"
   ],
   "many": [
     "a525b083d35688d9e165",
@@ -56,7 +57,8 @@
     "ffe7d6d33ab1fae370fa",
     "a407bea2a75fba6ffbc9",
     "9fcbe1968da05025d056",
-    "876010ee936e1e8ca0fe"
+    "876010ee936e1e8ca0fe",
+    "4db9d21bb853c864d70a"
   ],
   "geometry": [
     "a525b083d35688d9e165"
@@ -75,7 +77,8 @@
     "c6bc0c174d40a40db0dc",
     "de8ffe5e135d5c4b3c56",
     "646a93fe7dbfc194754f",
-    "9fcbe1968da05025d056"
+    "9fcbe1968da05025d056",
+    "7f9ee12230f57f3df560"
   ],
   "science": [
     "a525b083d35688d9e165",
@@ -89,7 +92,8 @@
     "c6bc0c174d40a40db0dc",
     "646a93fe7dbfc194754f",
     "a407bea2a75fba6ffbc9",
-    "a1841b64b0da709aec2d"
+    "a1841b64b0da709aec2d",
+    "30a67042b845b2e27a25"
   ],
   "elements": [
     "a525b083d35688d9e165",
@@ -120,7 +124,11 @@
   "including": [
     "a525b083d35688d9e165",
     "7a351f3228c0b7fe8a32",
-    "9fcbe1968da05025d056"
+    "9fcbe1968da05025d056",
+    "ca18c459d173b4fedc95",
+    "04d1e4ddf6bcea63db39",
+    "278675270c704cc7b714",
+    "7db760ced88775a3f94c"
   ],
   "algebra": [
     "a525b083d35688d9e165"
@@ -140,7 +148,15 @@
     "3135b8205d11ab25f8fb",
     "fd02a529d0f5d8b831cc",
     "ffe7d6d33ab1fae370fa",
-    "346ec6e4e13e500d998d"
+    "346ec6e4e13e500d998d",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "05fc92afad384388faaa",
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "70aec589cd60c1eba8ed"
   ],
   "other": [
     "a525b083d35688d9e165",
@@ -150,13 +166,15 @@
     "5ad803174476710f46fd",
     "1497460d9493f49d87ee",
     "ffe7d6d33ab1fae370fa",
-    "c6bc0c174d40a40db0dc"
+    "c6bc0c174d40a40db0dc",
+    "4188333f4ba5b20f6ed0"
   ],
   "some": [
     "a525b083d35688d9e165",
     "eda0bea3da57d376fa64",
     "1497460d9493f49d87ee",
-    "de8ffe5e135d5c4b3c56"
+    "de8ffe5e135d5c4b3c56",
+    "df8201907237acea9496"
   ],
   "resources": [
     "a525b083d35688d9e165",
@@ -166,7 +184,8 @@
   ],
   "need": [
     "a525b083d35688d9e165",
-    "94c3c0e9045c7078684f"
+    "94c3c0e9045c7078684f",
+    "41448cb12b7814c3fed3"
   ],
   "scientific": [
     "a525b083d35688d9e165",
@@ -215,7 +234,8 @@
     "284fdc807b7c53800acd",
     "ffe7d6d33ab1fae370fa",
     "c6bc0c174d40a40db0dc",
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "05fc92afad384388faaa"
   ],
   "mole": [
     "01ed4248d079eebc38bb"
@@ -231,12 +251,16 @@
     "b7650036e2457c69333d"
   ],
   "states": [
-    "01ed4248d079eebc38bb"
+    "01ed4248d079eebc38bb",
+    "c285582a8193fb9443a3",
+    "4db9d21bb853c864d70a",
+    "a4f632d74c5d5e8ec08b"
   ],
   "well": [
     "01ed4248d079eebc38bb",
     "7f8a8b513dd4082e5552",
-    "ecdff91236b8d2f0f80c"
+    "ecdff91236b8d2f0f80c",
+    "df8201907237acea9496"
   ],
   "fixed": [
     "01ed4248d079eebc38bb"
@@ -299,7 +323,8 @@
   ],
   "design": [
     "9eb4901b9ef3450a6128",
-    "7a351f3228c0b7fe8a32"
+    "7a351f3228c0b7fe8a32",
+    "4188333f4ba5b20f6ed0"
   ],
   "experiment": [
     "9eb4901b9ef3450a6128"
@@ -311,10 +336,12 @@
     "9eb4901b9ef3450a6128"
   ],
   "before": [
-    "9eb4901b9ef3450a6128"
+    "9eb4901b9ef3450a6128",
+    "39edc377b348450a08d2"
   ],
   "textbook": [
-    "9eb4901b9ef3450a6128"
+    "9eb4901b9ef3450a6128",
+    "176e184974cefab0157a"
   ],
   "high": [
     "9eb4901b9ef3450a6128",
@@ -328,7 +355,8 @@
     "9eb4901b9ef3450a6128"
   ],
   "needed": [
-    "9eb4901b9ef3450a6128"
+    "9eb4901b9ef3450a6128",
+    "df8201907237acea9496"
   ],
   "college": [
     "9eb4901b9ef3450a6128"
@@ -337,7 +365,8 @@
     "9eb4901b9ef3450a6128"
   ],
   "material": [
-    "9eb4901b9ef3450a6128"
+    "9eb4901b9ef3450a6128",
+    "9aa9a9d8edf8235f4883"
   ],
   "safety": [
     "9eb4901b9ef3450a6128"
@@ -428,7 +457,8 @@
     "b7650036e2457c69333d"
   ],
   "overview": [
-    "b7650036e2457c69333d"
+    "b7650036e2457c69333d",
+    "41448cb12b7814c3fed3"
   ],
   "compounds": [
     "b7650036e2457c69333d",
@@ -471,7 +501,8 @@
     "eda0bea3da57d376fa64",
     "7a351f3228c0b7fe8a32",
     "a1841b64b0da709aec2d",
-    "346ec6e4e13e500d998d"
+    "346ec6e4e13e500d998d",
+    "4188333f4ba5b20f6ed0"
   ],
   "biology": [
     "eda0bea3da57d376fa64"
@@ -546,7 +577,10 @@
   "more": [
     "94c3c0e9045c7078684f",
     "3135b8205d11ab25f8fb",
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "6c4c4656a42ee8c07617",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25"
   ],
   "biochemical": [
     "94c3c0e9045c7078684f"
@@ -593,14 +627,17 @@
   "ancient": [
     "7f8a8b513dd4082e5552",
     "13b591983c61f4731c6e",
-    "e43b2a0cc50573693e70"
+    "e43b2a0cc50573693e70",
+    "30a67042b845b2e27a25"
   ],
   "every": [
     "7f8a8b513dd4082e5552",
     "3135b8205d11ab25f8fb",
     "5ad803174476710f46fd",
     "876010ee936e1e8ca0fe",
-    "346ec6e4e13e500d998d"
+    "346ec6e4e13e500d998d",
+    "6c4c4656a42ee8c07617",
+    "760b4685569239b7f0f2"
   ],
   "development": [
     "7f8a8b513dd4082e5552",
@@ -617,7 +654,8 @@
     "266f2b6854b3f2b98c0c",
     "1497460d9493f49d87ee",
     "ffe7d6d33ab1fae370fa",
-    "a407bea2a75fba6ffbc9"
+    "a407bea2a75fba6ffbc9",
+    "5e3cb3243387a244b162"
   ],
   "fundamental": [
     "7f8a8b513dd4082e5552",
@@ -632,7 +670,10 @@
     "7f8a8b513dd4082e5552"
   ],
   "times": [
-    "7f8a8b513dd4082e5552"
+    "7f8a8b513dd4082e5552",
+    "176e184974cefab0157a",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1"
   ],
   "postulates": [
     "7f8a8b513dd4082e5552",
@@ -670,7 +711,8 @@
     "284fdc807b7c53800acd",
     "266f2b6854b3f2b98c0c",
     "fd02a529d0f5d8b831cc",
-    "ffe7d6d33ab1fae370fa"
+    "ffe7d6d33ab1fae370fa",
+    "6c4c4656a42ee8c07617"
   ],
   "aspect": [
     "7f8a8b513dd4082e5552"
@@ -686,12 +728,14 @@
   ],
   "tools": [
     "7a351f3228c0b7fe8a32",
-    "dbb507cf34f4ae6a5574"
+    "dbb507cf34f4ae6a5574",
+    "70aec589cd60c1eba8ed"
   ],
   "most": [
     "7a351f3228c0b7fe8a32",
     "13b591983c61f4731c6e",
-    "a1841b64b0da709aec2d"
+    "a1841b64b0da709aec2d",
+    "6c4c4656a42ee8c07617"
   ],
   "indian": [
     "7a351f3228c0b7fe8a32"
@@ -715,7 +759,12 @@
     "7a351f3228c0b7fe8a32",
     "13b591983c61f4731c6e",
     "3135b8205d11ab25f8fb",
-    "e43b2a0cc50573693e70"
+    "e43b2a0cc50573693e70",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "04d1e4ddf6bcea63db39",
+    "6053650e1c3229348ab1"
   ],
   "physical": [
     "7a351f3228c0b7fe8a32",
@@ -800,7 +849,8 @@
   "such": [
     "13b591983c61f4731c6e",
     "9fcbe1968da05025d056",
-    "ecdff91236b8d2f0f80c"
+    "ecdff91236b8d2f0f80c",
+    "38d1b149cb58fb87ec22"
   ],
   "kongming": [
     "13b591983c61f4731c6e"
@@ -810,7 +860,10 @@
   ],
   "world": [
     "13b591983c61f4731c6e",
-    "ecdff91236b8d2f0f80c"
+    "ecdff91236b8d2f0f80c",
+    "499b8ce4bb1e4ac0ba3f",
+    "808414c261d48fb1166e",
+    "7f9ee12230f57f3df560"
   ],
   "years": [
     "13b591983c61f4731c6e",
@@ -839,7 +892,11 @@
     "fd02a529d0f5d8b831cc"
   ],
   "home": [
-    "13b591983c61f4731c6e"
+    "13b591983c61f4731c6e",
+    "d93a6516efcb50decee5",
+    "ca18c459d173b4fedc95",
+    "7db760ced88775a3f94c",
+    "70aec589cd60c1eba8ed"
   ],
   "incredible": [
     "13b591983c61f4731c6e",
@@ -903,7 +960,8 @@
   ],
   "made": [
     "3135b8205d11ab25f8fb",
-    "a407bea2a75fba6ffbc9"
+    "a407bea2a75fba6ffbc9",
+    "cb8fd025418c063bd67b"
   ],
   "copernicus": [
     "3135b8205d11ab25f8fb",
@@ -942,7 +1000,11 @@
   "under": [
     "dbb507cf34f4ae6a5574",
     "1497460d9493f49d87ee",
-    "c6bc0c174d40a40db0dc"
+    "c6bc0c174d40a40db0dc",
+    "d93a6516efcb50decee5",
+    "05fc92afad384388faaa",
+    "760b4685569239b7f0f2",
+    "278675270c704cc7b714"
   ],
   "mechanics": [
     "dbb507cf34f4ae6a5574",
@@ -956,7 +1018,8 @@
     "dbb507cf34f4ae6a5574"
   ],
   "robert": [
-    "dbb507cf34f4ae6a5574"
+    "dbb507cf34f4ae6a5574",
+    "7f9ee12230f57f3df560"
   ],
   "stands": [
     "dbb507cf34f4ae6a5574"
@@ -966,7 +1029,9 @@
     "eba717e84f379734e7df"
   ],
   "during": [
-    "dbb507cf34f4ae6a5574"
+    "dbb507cf34f4ae6a5574",
+    "d93a6516efcb50decee5",
+    "05fc92afad384388faaa"
   ],
   "eighteenth": [
     "dbb507cf34f4ae6a5574"
@@ -1020,7 +1085,12 @@
   "year": [
     "6bb00e529ffcb9f88497",
     "56d8c333ee2dd2a1d0c9",
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "39edc377b348450a08d2",
+    "b0d31d384f392f21d04d",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39"
   ],
   "current": [
     "6bb00e529ffcb9f88497"
@@ -1119,7 +1189,8 @@
     "284fdc807b7c53800acd"
   ],
   "second": [
-    "284fdc807b7c53800acd"
+    "284fdc807b7c53800acd",
+    "39edc377b348450a08d2"
   ],
   "region": [
     "284fdc807b7c53800acd",
@@ -1167,7 +1238,8 @@
     "eb46b2c984179c25e8d3"
   ],
   "standard": [
-    "5ad803174476710f46fd"
+    "5ad803174476710f46fd",
+    "d75296e1128025bbdc0c"
   ],
   "discoveries": [
     "5ad803174476710f46fd",
@@ -1210,7 +1282,8 @@
     "5ad803174476710f46fd"
   ],
   "cannot": [
-    "5ad803174476710f46fd"
+    "5ad803174476710f46fd",
+    "41448cb12b7814c3fed3"
   ],
   "contribution": [
     "e43b2a0cc50573693e70"
@@ -1272,7 +1345,9 @@
   ],
   "learning": [
     "e43b2a0cc50573693e70",
-    "a1841b64b0da709aec2d"
+    "a1841b64b0da709aec2d",
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf"
   ],
   "branches": [
     "266f2b6854b3f2b98c0c",
@@ -1290,7 +1365,8 @@
     "a1841b64b0da709aec2d"
   ],
   "subject": [
-    "266f2b6854b3f2b98c0c"
+    "266f2b6854b3f2b98c0c",
+    "cb8fd025418c063bd67b"
   ],
   "behaviour": [
     "266f2b6854b3f2b98c0c"
@@ -1338,7 +1414,8 @@
     "fd02a529d0f5d8b831cc"
   ],
   "work": [
-    "fd02a529d0f5d8b831cc"
+    "fd02a529d0f5d8b831cc",
+    "c285582a8193fb9443a3"
   ],
   "means": [
     "fd02a529d0f5d8b831cc"
@@ -1360,7 +1437,10 @@
   ],
   "time": [
     "1497460d9493f49d87ee",
-    "9fcbe1968da05025d056"
+    "9fcbe1968da05025d056",
+    "b0d31d384f392f21d04d",
+    "df8201907237acea9496",
+    "278675270c704cc7b714"
   ],
   "centre": [
     "1497460d9493f49d87ee"
@@ -1397,7 +1477,8 @@
   "below": [
     "1497460d9493f49d87ee",
     "56d8c333ee2dd2a1d0c9",
-    "c6bc0c174d40a40db0dc"
+    "c6bc0c174d40a40db0dc",
+    "04d1e4ddf6bcea63db39"
   ],
   "mercury": [
     "1497460d9493f49d87ee"
@@ -1477,10 +1558,12 @@
     "eb46b2c984179c25e8d3"
   ],
   "online": [
-    "eb46b2c984179c25e8d3"
+    "eb46b2c984179c25e8d3",
+    "176e184974cefab0157a"
   ],
   "tool": [
-    "eb46b2c984179c25e8d3"
+    "eb46b2c984179c25e8d3",
+    "6c4c4656a42ee8c07617"
   ],
   "solve": [
     "eb46b2c984179c25e8d3"
@@ -1556,7 +1639,8 @@
   "2024": [
     "56d8c333ee2dd2a1d0c9",
     "a3abf607847074d6add6",
-    "e865ab08795fe6f37769"
+    "e865ab08795fe6f37769",
+    "176e184974cefab0157a"
   ],
   "record": [
     "56d8c333ee2dd2a1d0c9",
@@ -1597,7 +1681,8 @@
     "346ec6e4e13e500d998d"
   ],
   "level": [
-    "56d8c333ee2dd2a1d0c9"
+    "56d8c333ee2dd2a1d0c9",
+    "05fc92afad384388faaa"
   ],
   "rise": [
     "56d8c333ee2dd2a1d0c9"
@@ -1609,7 +1694,9 @@
   ],
   "early": [
     "56d8c333ee2dd2a1d0c9",
-    "e865ab08795fe6f37769"
+    "e865ab08795fe6f37769",
+    "d93a6516efcb50decee5",
+    "760b4685569239b7f0f2"
   ],
   "protect": [
     "56d8c333ee2dd2a1d0c9"
@@ -1667,10 +1754,12 @@
     "ffe7d6d33ab1fae370fa"
   ],
   "research": [
-    "ffe7d6d33ab1fae370fa"
+    "ffe7d6d33ab1fae370fa",
+    "30a67042b845b2e27a25"
   ],
   "acquired": [
-    "ffe7d6d33ab1fae370fa"
+    "ffe7d6d33ab1fae370fa",
+    "38d1b149cb58fb87ec22"
   ],
   "changes": [
     "ffe7d6d33ab1fae370fa",
@@ -1692,7 +1781,8 @@
     "c6bc0c174d40a40db0dc"
   ],
   "include": [
-    "c6bc0c174d40a40db0dc"
+    "c6bc0c174d40a40db0dc",
+    "41448cb12b7814c3fed3"
   ],
   "humans": [
     "c6bc0c174d40a40db0dc"
@@ -1701,7 +1791,8 @@
     "c6bc0c174d40a40db0dc"
   ],
   "language": [
-    "c6bc0c174d40a40db0dc"
+    "c6bc0c174d40a40db0dc",
+    "30a67042b845b2e27a25"
   ],
   "natural": [
     "c6bc0c174d40a40db0dc"
@@ -1725,7 +1816,9 @@
   ],
   "king": [
     "de8ffe5e135d5c4b3c56",
-    "646a93fe7dbfc194754f"
+    "646a93fe7dbfc194754f",
+    "808414c261d48fb1166e",
+    "99bc54e52cfb03192b5b"
   ],
   "acids": [
     "de8ffe5e135d5c4b3c56",
@@ -1743,7 +1836,8 @@
     "de8ffe5e135d5c4b3c56"
   ],
   "free": [
-    "de8ffe5e135d5c4b3c56"
+    "de8ffe5e135d5c4b3c56",
+    "70aec589cd60c1eba8ed"
   ],
   "articles": [
     "de8ffe5e135d5c4b3c56",
@@ -1794,7 +1888,11 @@
     "646a93fe7dbfc194754f"
   ],
   "million": [
-    "646a93fe7dbfc194754f"
+    "646a93fe7dbfc194754f",
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "d75296e1128025bbdc0c"
   ],
   "copper": [
     "646a93fe7dbfc194754f"
@@ -1816,13 +1914,15 @@
   ],
   "information": [
     "a407bea2a75fba6ffbc9",
-    "ecdff91236b8d2f0f80c"
+    "ecdff91236b8d2f0f80c",
+    "39edc377b348450a08d2"
   ],
   "exploring": [
     "a407bea2a75fba6ffbc9"
   ],
   "apple": [
-    "a407bea2a75fba6ffbc9"
+    "a407bea2a75fba6ffbc9",
+    "4188333f4ba5b20f6ed0"
   ],
   "falls": [
     "a407bea2a75fba6ffbc9"
@@ -1864,7 +1964,8 @@
     "a1841b64b0da709aec2d"
   ],
   "education": [
-    "a1841b64b0da709aec2d"
+    "a1841b64b0da709aec2d",
+    "b56fddc301cd48b03c83"
   ],
   "abbreviated": [
     "a1841b64b0da709aec2d"
@@ -1885,7 +1986,11 @@
     "a1841b64b0da709aec2d"
   ],
   "2025": [
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "4594119657f1aa053810",
+    "d93a6516efcb50decee5",
+    "5e3cb3243387a244b162",
+    "a4f632d74c5d5e8ec08b"
   ],
   "2029": [
     "a3abf607847074d6add6"
@@ -1915,10 +2020,12 @@
     "ecdff91236b8d2f0f80c"
   ],
   "least": [
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "41448cb12b7814c3fed3"
   ],
   "next": [
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "6c4c4656a42ee8c07617"
   ],
   "warmest": [
     "a3abf607847074d6add6",
@@ -1991,7 +2098,8 @@
   ],
   "land": [
     "9fcbe1968da05025d056",
-    "876010ee936e1e8ca0fe"
+    "876010ee936e1e8ca0fe",
+    "760b4685569239b7f0f2"
   ],
   "atmosphere": [
     "9fcbe1968da05025d056",
@@ -2076,7 +2184,8 @@
     "ecdff91236b8d2f0f80c"
   ],
   "across": [
-    "876010ee936e1e8ca0fe"
+    "876010ee936e1e8ca0fe",
+    "ca18c459d173b4fedc95"
   ],
   "ipcc": [
     "876010ee936e1e8ca0fe",
@@ -2123,7 +2232,8 @@
     "346ec6e4e13e500d998d"
   ],
   "united": [
-    "346ec6e4e13e500d998d"
+    "346ec6e4e13e500d998d",
+    "a4f632d74c5d5e8ec08b"
   ],
   "nations": [
     "346ec6e4e13e500d998d"
@@ -2160,5 +2270,3764 @@
   ],
   "cascading": [
     "346ec6e4e13e500d998d"
+  ],
+  "história": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "c53ea0c4b70a9def9a76",
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0",
+    "99bdace1c1cfe6afc2fb",
+    "3b448d9ac2cf2aa266c3",
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc",
+    "9253295853595aae4df3",
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49",
+    "715f3eb9436f03113fc8",
+    "b1371d170ecc0c3ef88d",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e",
+    "5c4950d16d5069e4913c",
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94",
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883",
+    "186da5d42b551aabb2a5"
+  ],
+  "como": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "c53ea0c4b70a9def9a76",
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0",
+    "3b448d9ac2cf2aa266c3",
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc",
+    "9253295853595aae4df3",
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49",
+    "b1371d170ecc0c3ef88d",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e",
+    "4594119657f1aa053810",
+    "8709ba4804f6a7db8005",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "estudo": [
+    "06f2d070583f9f81a457",
+    "c397f6707df128ebdef7",
+    "4917fb3f1c6eb6df1ff0",
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc",
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e"
+  ],
+  "eventos": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "a0c495e73c45bae897cc",
+    "7399be274ecab1aa2b49",
+    "3f15d48112e4dcadd39c",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e"
+  ],
+  "disciplina": [
+    "06f2d070583f9f81a457",
+    "9253295853595aae4df3",
+    "715f3eb9436f03113fc8"
+  ],
+  "pesquisa": [
+    "06f2d070583f9f81a457"
+  ],
+  "conhecimento": [
+    "06f2d070583f9f81a457"
+  ],
+  "investigação": [
+    "06f2d070583f9f81a457",
+    "53559ebac9e62ea509d5"
+  ],
+  "passado": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "c53ea0c4b70a9def9a76",
+    "4917fb3f1c6eb6df1ff0",
+    "a0c495e73c45bae897cc",
+    "7399be274ecab1aa2b49",
+    "b1371d170ecc0c3ef88d",
+    "53559ebac9e62ea509d5",
+    "5c4950d16d5069e4913c"
+  ],
+  "passados": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "53559ebac9e62ea509d5"
+  ],
+  "historiadores": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "c53ea0c4b70a9def9a76",
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0",
+    "99bdace1c1cfe6afc2fb",
+    "3b448d9ac2cf2aa266c3",
+    "c9a86c156a099a07b703",
+    "9253295853595aae4df3",
+    "b1371d170ecc0c3ef88d",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b",
+    "e9a8d64437b3c023a27e"
+  ],
+  "fontes": [
+    "06f2d070583f9f81a457",
+    "c397f6707df128ebdef7",
+    "53559ebac9e62ea509d5"
+  ],
+  "narrativa": [
+    "06f2d070583f9f81a457",
+    "08fb0e09fb3fb24bebd7",
+    "3f15d48112e4dcadd39c"
+  ],
+  "natureza": [
+    "06f2d070583f9f81a457"
+  ],
+  "geralmente": [
+    "06f2d070583f9f81a457",
+    "715f3eb9436f03113fc8",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "ensino": [
+    "06f2d070583f9f81a457",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b"
+  ],
+  "grego": [
+    "06f2d070583f9f81a457",
+    "5cebb131b1943bbbca07"
+  ],
+  "antigo": [
+    "06f2d070583f9f81a457"
+  ],
+  "ἱστορία": [
+    "06f2d070583f9f81a457"
+  ],
+  "transl": [
+    "06f2d070583f9f81a457"
+  ],
+  "historía": [
+    "06f2d070583f9f81a457"
+  ],
+  "significa": [
+    "06f2d070583f9f81a457",
+    "186da5d42b551aabb2a5"
+  ],
+  "advindo": [
+    "06f2d070583f9f81a457"
+  ],
+  "documentação": [
+    "06f2d070583f9f81a457"
+  ],
+  "sistemática": [
+    "06f2d070583f9f81a457"
+  ],
+  "humano": [
+    "06f2d070583f9f81a457"
+  ],
+  "período": [
+    "06f2d070583f9f81a457",
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e",
+    "9fddfbbae33cd4eef116",
+    "ce7b703bce977f8873d8"
+  ],
+  "acontecimentos": [
+    "06f2d070583f9f81a457",
+    "c397f6707df128ebdef7",
+    "99bdace1c1cfe6afc2fb",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e"
+  ],
+  "anteriores": [
+    "06f2d070583f9f81a457"
+  ],
+  "invenção": [
+    "06f2d070583f9f81a457"
+  ],
+  "palavra": [
+    "5cebb131b1943bbbca07",
+    "186da5d42b551aabb2a5"
+  ],
+  "heródoto": [
+    "5cebb131b1943bbbca07",
+    "4917fb3f1c6eb6df1ff0",
+    "53559ebac9e62ea509d5"
+  ],
+  "historiador": [
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7",
+    "4917fb3f1c6eb6df1ff0",
+    "3b448d9ac2cf2aa266c3",
+    "c9a86c156a099a07b703",
+    "3f15d48112e4dcadd39c",
+    "53559ebac9e62ea509d5"
+  ],
+  "século": [
+    "5cebb131b1943bbbca07",
+    "4917fb3f1c6eb6df1ff0",
+    "3b448d9ac2cf2aa266c3",
+    "6d7de29e59895591669e",
+    "5c4950d16d5069e4913c",
+    "9286f73076369706ad94",
+    "9fddfbbae33cd4eef116"
+  ],
+  "embora": [
+    "5cebb131b1943bbbca07"
+  ],
+  "tucídides": [
+    "5cebb131b1943bbbca07",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "atualmente": [
+    "5cebb131b1943bbbca07"
+  ],
+  "foco": [
+    "5cebb131b1943bbbca07",
+    "7399be274ecab1aa2b49"
+  ],
+  "historia": [
+    "5cebb131b1943bbbca07"
+  ],
+  "clássico": [
+    "5cebb131b1943bbbca07"
+  ],
+  "sentido": [
+    "5cebb131b1943bbbca07"
+  ],
+  "escrevem": [
+    "5cebb131b1943bbbca07"
+  ],
+  "frequentemente": [
+    "5cebb131b1943bbbca07",
+    "c397f6707df128ebdef7"
+  ],
+  "considerado": [
+    "5cebb131b1943bbbca07",
+    "3f15d48112e4dcadd39c"
+  ],
+  "primeiros": [
+    "5cebb131b1943bbbca07"
+  ],
+  "tradição": [
+    "5cebb131b1943bbbca07",
+    "c53ea0c4b70a9def9a76"
+  ],
+  "ocidental": [
+    "5cebb131b1943bbbca07",
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "tenha": [
+    "5cebb131b1943bbbca07"
+  ],
+  "sido": [
+    "5cebb131b1943bbbca07",
+    "c53ea0c4b70a9def9a76",
+    "99bdace1c1cfe6afc2fb",
+    "5f09533238b9a7a55a05"
+  ],
+  "criticado": [
+    "5cebb131b1943bbbca07"
+  ],
+  "mentiras": [
+    "5cebb131b1943bbbca07"
+  ],
+  "junto": [
+    "5cebb131b1943bbbca07"
+  ],
+  "contemporâneo": [
+    "5cebb131b1943bbbca07",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "arqueologia": [
+    "c397f6707df128ebdef7"
+  ],
+  "forma": [
+    "c397f6707df128ebdef7",
+    "08fb0e09fb3fb24bebd7",
+    "5f09533238b9a7a55a05",
+    "7399be274ecab1aa2b49",
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e"
+  ],
+  "histórico": [
+    "c397f6707df128ebdef7",
+    "4917fb3f1c6eb6df1ff0",
+    "7399be274ecab1aa2b49",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "mais": [
+    "c397f6707df128ebdef7",
+    "3b448d9ac2cf2aa266c3",
+    "9253295853595aae4df3",
+    "499b8ce4bb1e4ac0ba3f",
+    "715f3eb9436f03113fc8",
+    "5c4950d16d5069e4913c",
+    "4594119657f1aa053810",
+    "cc78d24a4262a5a0f51e",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "suas": [
+    "c397f6707df128ebdef7",
+    "3b448d9ac2cf2aa266c3",
+    "5f09533238b9a7a55a05",
+    "9fddfbbae33cd4eef116"
+  ],
+  "parte": [
+    "c397f6707df128ebdef7",
+    "c9a86c156a099a07b703"
+  ],
+  "podem": [
+    "c397f6707df128ebdef7",
+    "c9a86c156a099a07b703",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "útil": [
+    "c397f6707df128ebdef7"
+  ],
+  "relatos": [
+    "c397f6707df128ebdef7"
+  ],
+  "arquivo": [
+    "c397f6707df128ebdef7"
+  ],
+  "geral": [
+    "c397f6707df128ebdef7",
+    "6d7de29e59895591669e"
+  ],
+  "documentos": [
+    "c397f6707df128ebdef7"
+  ],
+  "usar": [
+    "c397f6707df128ebdef7"
+  ],
+  "vezes": [
+    "c397f6707df128ebdef7",
+    "a0c495e73c45bae897cc",
+    "5f09533238b9a7a55a05",
+    "8a6aead086e5deda344b"
+  ],
+  "metodologias": [
+    "c397f6707df128ebdef7"
+  ],
+  "quer": [
+    "c397f6707df128ebdef7"
+  ],
+  "escrito": [
+    "c397f6707df128ebdef7"
+  ],
+  "através": [
+    "c397f6707df128ebdef7"
+  ],
+  "três": [
+    "c397f6707df128ebdef7"
+  ],
+  "todos": [
+    "c397f6707df128ebdef7",
+    "9253295853595aae4df3",
+    "7399be274ecab1aa2b49",
+    "6d7de29e59895591669e",
+    "8709ba4804f6a7db8005",
+    "ce7b703bce977f8873d8"
+  ],
+  "existem": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "pode": [
+    "c53ea0c4b70a9def9a76",
+    "08fb0e09fb3fb24bebd7",
+    "3f15d48112e4dcadd39c"
+  ],
+  "tanto": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "muito": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "especialização": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "área": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "grande": [
+    "c53ea0c4b70a9def9a76",
+    "ce7b703bce977f8873d8"
+  ],
+  "estudada": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "experiência": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "sapiens": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "mundo": [
+    "c53ea0c4b70a9def9a76",
+    "99bdace1c1cfe6afc2fb",
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49"
+  ],
+  "registos": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "escritos": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "onde": [
+    "c53ea0c4b70a9def9a76",
+    "8a6aead086e5deda344b"
+  ],
+  "históricos": [
+    "c53ea0c4b70a9def9a76",
+    "99bdace1c1cfe6afc2fb",
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc",
+    "7399be274ecab1aa2b49",
+    "e9a8d64437b3c023a27e"
+  ],
+  "pelo": [
+    "c53ea0c4b70a9def9a76",
+    "186da5d42b551aabb2a5"
+  ],
+  "futuro": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "diversas": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "formas": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "pelas": [
+    "c53ea0c4b70a9def9a76",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "quais": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "organizada": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "inclusive": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "cronologicamente": [
+    "c53ea0c4b70a9def9a76"
+  ],
+  "produzido": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "análise": [
+    "08fb0e09fb3fb24bebd7",
+    "53559ebac9e62ea509d5"
+  ],
+  "lugar": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "referir": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "produzida": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "crítica": [
+    "08fb0e09fb3fb24bebd7",
+    "53559ebac9e62ea509d5"
+  ],
+  "historiografia": [
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "exemplo": [
+    "08fb0e09fb3fb24bebd7",
+    "9253295853595aae4df3",
+    "8a6aead086e5deda344b"
+  ],
+  "prazo": [
+    "08fb0e09fb3fb24bebd7",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "medieval": [
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "durante": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "década": [
+    "08fb0e09fb3fb24bebd7",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "1960": [
+    "08fb0e09fb3fb24bebd7",
+    "5f09533238b9a7a55a05"
+  ],
+  "qual": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "filosofia": [
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "primeiras": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "narrativas": [
+    "08fb0e09fb3fb24bebd7",
+    "c9a86c156a099a07b703"
+  ],
+  "método": [
+    "08fb0e09fb3fb24bebd7",
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "sobre": [
+    "08fb0e09fb3fb24bebd7",
+    "b1371d170ecc0c3ef88d",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b",
+    "53559ebac9e62ea509d5",
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94",
+    "186da5d42b551aabb2a5",
+    "ce7b703bce977f8873d8"
+  ],
+  "moderno": [
+    "08fb0e09fb3fb24bebd7",
+    "ce7b703bce977f8873d8"
+  ],
+  "fonte": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "vários": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "significados": [
+    "08fb0e09fb3fb24bebd7"
+  ],
+  "relacionados": [
+    "08fb0e09fb3fb24bebd7",
+    "715f3eb9436f03113fc8",
+    "6d7de29e59895591669e"
+  ],
+  "caldune": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "ações": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "resultado": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "avaliação": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "princípios": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "aclamado": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "entanto": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "credita": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "abordado": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "pela": [
+    "4917fb3f1c6eb6df1ff0",
+    "c9a86c156a099a07b703",
+    "8a6aead086e5deda344b",
+    "9286f73076369706ad94"
+  ],
+  "primeira": [
+    "4917fb3f1c6eb6df1ff0",
+    "e9a8d64437b3c023a27e",
+    "9fddfbbae33cd4eef116"
+  ],
+  "desenvolvido": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "obra": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "guerra": [
+    "4917fb3f1c6eb6df1ff0",
+    "9253295853595aae4df3",
+    "8a6aead086e5deda344b",
+    "cc78d24a4262a5a0f51e",
+    "9fddfbbae33cd4eef116",
+    "186da5d42b551aabb2a5"
+  ],
+  "peloponeso": [
+    "4917fb3f1c6eb6df1ff0"
+  ],
+  "ciência": [
+    "99bdace1c1cfe6afc2fb",
+    "3b448d9ac2cf2aa266c3",
+    "53559ebac9e62ea509d5"
+  ],
+  "métodos": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "enquanto": [
+    "99bdace1c1cfe6afc2fb",
+    "5f09533238b9a7a55a05"
+  ],
+  "alemanha": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "spencer": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "estes": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "eles": [
+    "99bdace1c1cfe6afc2fb",
+    "a0c495e73c45bae897cc"
+  ],
+  "tudo": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "isto": [
+    "99bdace1c1cfe6afc2fb",
+    "9253295853595aae4df3"
+  ],
+  "minério": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "rico": [
+    "99bdace1c1cfe6afc2fb",
+    "ce7b703bce977f8873d8",
+    "99bc54e52cfb03192b5b",
+    "04d1e4ddf6bcea63db39"
+  ],
+  "deveriam": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "serem": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "buckle": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "sonho": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "leis": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "homens": [
+    "99bdace1c1cfe6afc2fb",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "regularidade": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "ranke": [
+    "99bdace1c1cfe6afc2fb",
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "dados": [
+    "99bdace1c1cfe6afc2fb",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "examinados": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "desenvolveram": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "modernos": [
+    "99bdace1c1cfe6afc2fb"
+  ],
+  "fazendo": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "teoria": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "muitos": [
+    "3b448d9ac2cf2aa266c3",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "seguiram": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "seja": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "concentraram": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "menos": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "social": [
+    "3b448d9ac2cf2aa266c3",
+    "a0c495e73c45bae897cc",
+    "5f09533238b9a7a55a05",
+    "8c06318b9ebb4b1cd6cf",
+    "b56fddc301cd48b03c83",
+    "186da5d42b551aabb2a5"
+  ],
+  "braudel": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "pesquisas": [
+    "3b448d9ac2cf2aa266c3",
+    "a0c495e73c45bae897cc"
+  ],
+  "digital": [
+    "3b448d9ac2cf2aa266c3",
+    "a0c495e73c45bae897cc"
+  ],
+  "argumento": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "informação": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "marxista": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "condições": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "materiais": [
+    "3b448d9ac2cf2aa266c3",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "outras": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "assim": [
+    "3b448d9ac2cf2aa266c3",
+    "6d7de29e59895591669e"
+  ],
+  "dizem": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "dada": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "maneira": [
+    "3b448d9ac2cf2aa266c3"
+  ],
+  "está": [
+    "c9a86c156a099a07b703"
+  ],
+  "maneiras": [
+    "c9a86c156a099a07b703"
+  ],
+  "política": [
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc",
+    "5f09533238b9a7a55a05",
+    "4594119657f1aa053810"
+  ],
+  "omissões": [
+    "c9a86c156a099a07b703"
+  ],
+  "históricas": [
+    "c9a86c156a099a07b703",
+    "a0c495e73c45bae897cc"
+  ],
+  "produção": [
+    "c9a86c156a099a07b703"
+  ],
+  "preconceitos": [
+    "c9a86c156a099a07b703"
+  ],
+  "fatos": [
+    "c9a86c156a099a07b703"
+  ],
+  "conhecidos": [
+    "c9a86c156a099a07b703"
+  ],
+  "várias": [
+    "c9a86c156a099a07b703"
+  ],
+  "informações": [
+    "c9a86c156a099a07b703"
+  ],
+  "trabalho": [
+    "c9a86c156a099a07b703",
+    "7399be274ecab1aa2b49",
+    "53559ebac9e62ea509d5"
+  ],
+  "estas": [
+    "c9a86c156a099a07b703"
+  ],
+  "ambiental": [
+    "c9a86c156a099a07b703"
+  ],
+  "garantir": [
+    "c9a86c156a099a07b703"
+  ],
+  "devem": [
+    "c9a86c156a099a07b703"
+  ],
+  "outros": [
+    "c9a86c156a099a07b703",
+    "53559ebac9e62ea509d5"
+  ],
+  "campos": [
+    "c9a86c156a099a07b703",
+    "715f3eb9436f03113fc8"
+  ],
+  "início": [
+    "c9a86c156a099a07b703"
+  ],
+  "arte": [
+    "c9a86c156a099a07b703",
+    "5c4950d16d5069e4913c",
+    "4594119657f1aa053810"
+  ],
+  "perspectiva": [
+    "a0c495e73c45bae897cc",
+    "7399be274ecab1aa2b49"
+  ],
+  "longo": [
+    "a0c495e73c45bae897cc",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "militar": [
+    "a0c495e73c45bae897cc",
+    "9253295853595aae4df3",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "pessoas": [
+    "a0c495e73c45bae897cc",
+    "9253295853595aae4df3",
+    "5f09533238b9a7a55a05",
+    "7399be274ecab1aa2b49",
+    "715f3eb9436f03113fc8",
+    "5c4950d16d5069e4913c"
+  ],
+  "gênero": [
+    "a0c495e73c45bae897cc",
+    "7399be274ecab1aa2b49"
+  ],
+  "contrafactual": [
+    "a0c495e73c45bae897cc"
+  ],
+  "poderiam": [
+    "a0c495e73c45bae897cc"
+  ],
+  "acontecido": [
+    "a0c495e73c45bae897cc"
+  ],
+  "diferentes": [
+    "a0c495e73c45bae897cc",
+    "b1371d170ecc0c3ef88d",
+    "9286f73076369706ad94"
+  ],
+  "circunstâncias": [
+    "a0c495e73c45bae897cc"
+  ],
+  "causais": [
+    "a0c495e73c45bae897cc"
+  ],
+  "cultural": [
+    "a0c495e73c45bae897cc",
+    "5f09533238b9a7a55a05",
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "cultura": [
+    "a0c495e73c45bae897cc",
+    "9253295853595aae4df3",
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "tecnologias": [
+    "a0c495e73c45bae897cc"
+  ],
+  "computação": [
+    "a0c495e73c45bae897cc"
+  ],
+  "fazer": [
+    "a0c495e73c45bae897cc"
+  ],
+  "massivas": [
+    "a0c495e73c45bae897cc"
+  ],
+  "civilização": [
+    "9253295853595aae4df3"
+  ],
+  "base": [
+    "9253295853595aae4df3",
+    "30a67042b845b2e27a25"
+  ],
+  "cidades": [
+    "9253295853595aae4df3"
+  ],
+  "geografia": [
+    "9253295853595aae4df3"
+  ],
+  "margens": [
+    "9253295853595aae4df3"
+  ],
+  "anos": [
+    "9253295853595aae4df3",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "solo": [
+    "9253295853595aae4df3"
+  ],
+  "cultivar": [
+    "9253295853595aae4df3"
+  ],
+  "clima": [
+    "9253295853595aae4df3"
+  ],
+  "huntington": [
+    "9253295853595aae4df3"
+  ],
+  "semple": [
+    "9253295853595aae4df3"
+  ],
+  "impacto": [
+    "9253295853595aae4df3",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "governo": [
+    "9253295853595aae4df3"
+  ],
+  "psicologia": [
+    "9253295853595aae4df3"
+  ],
+  "desde": [
+    "9253295853595aae4df3",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "localizações": [
+    "9253295853595aae4df3"
+  ],
+  "geográficas": [
+    "9253295853595aae4df3"
+  ],
+  "específicas": [
+    "9253295853595aae4df3"
+  ],
+  "campo": [
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f",
+    "3f15d48112e4dcadd39c"
+  ],
+  "décadas": [
+    "5f09533238b9a7a55a05",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "inclui": [
+    "5f09533238b9a7a55a05"
+  ],
+  "entre": [
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49",
+    "53559ebac9e62ea509d5",
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883",
+    "186da5d42b551aabb2a5"
+  ],
+  "departamentos": [
+    "5f09533238b9a7a55a05",
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "proporção": [
+    "5f09533238b9a7a55a05"
+  ],
+  "universidades": [
+    "5f09533238b9a7a55a05"
+  ],
+  "políticos": [
+    "5f09533238b9a7a55a05"
+  ],
+  "tema": [
+    "5f09533238b9a7a55a05"
+  ],
+  "econômica": [
+    "5f09533238b9a7a55a05"
+  ],
+  "culturais": [
+    "5f09533238b9a7a55a05",
+    "b1371d170ecc0c3ef88d"
+  ],
+  "chamada": [
+    "5f09533238b9a7a55a05"
+  ],
+  "nova": [
+    "5f09533238b9a7a55a05"
+  ],
+  "comuns": [
+    "5f09533238b9a7a55a05",
+    "7399be274ecab1aa2b49"
+  ],
+  "estratégias": [
+    "5f09533238b9a7a55a05"
+  ],
+  "instituições": [
+    "5f09533238b9a7a55a05"
+  ],
+  "lidar": [
+    "5f09533238b9a7a55a05"
+  ],
+  "relações": [
+    "499b8ce4bb1e4ac0ba3f",
+    "7399be274ecab1aa2b49"
+  ],
+  "estudos": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "negócios": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "diplomática": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "principalmente": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "causas": [
+    "499b8ce4bb1e4ac0ba3f",
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94",
+    "9fddfbbae33cd4eef116",
+    "186da5d42b551aabb2a5"
+  ],
+  "internacionais": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "estados": [
+    "499b8ce4bb1e4ac0ba3f",
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b"
+  ],
+  "tempo": [
+    "499b8ce4bb1e4ac0ba3f",
+    "b1371d170ecc0c3ef88d",
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e"
+  ],
+  "após": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "mundial": [
+    "499b8ce4bb1e4ac0ba3f",
+    "3f15d48112e4dcadd39c",
+    "9fddfbbae33cd4eef116",
+    "186da5d42b551aabb2a5"
+  ],
+  "últimos": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "acadêmicos": [
+    "499b8ce4bb1e4ac0ba3f",
+    "715f3eb9436f03113fc8"
+  ],
+  "individuais": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "1980": [
+    "499b8ce4bb1e4ac0ba3f"
+  ],
+  "mulheres": [
+    "7399be274ecab1aa2b49",
+    "5c4950d16d5069e4913c",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "sociais": [
+    "7399be274ecab1aa2b49",
+    "5c4950d16d5069e4913c"
+  ],
+  "ideias": [
+    "7399be274ecab1aa2b49"
+  ],
+  "partir": [
+    "7399be274ecab1aa2b49",
+    "53559ebac9e62ea509d5"
+  ],
+  "diferenças": [
+    "7399be274ecab1aa2b49"
+  ],
+  "sexos": [
+    "7399be274ecab1aa2b49"
+  ],
+  "poder": [
+    "7399be274ecab1aa2b49",
+    "ce7b703bce977f8873d8"
+  ],
+  "lgbt": [
+    "7399be274ecab1aa2b49"
+  ],
+  "popular": [
+    "7399be274ecab1aa2b49",
+    "9fddfbbae33cd4eef116"
+  ],
+  "tipo": [
+    "7399be274ecab1aa2b49"
+  ],
+  "tenta": [
+    "7399be274ecab1aa2b49"
+  ],
+  "explicar": [
+    "7399be274ecab1aa2b49"
+  ],
+  "idade": [
+    "715f3eb9436f03113fc8",
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e"
+  ],
+  "média": [
+    "715f3eb9436f03113fc8"
+  ],
+  "pública": [
+    "715f3eb9436f03113fc8"
+  ],
+  "paleolítico": [
+    "715f3eb9436f03113fc8"
+  ],
+  "antiguidade": [
+    "715f3eb9436f03113fc8",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "homo": [
+    "715f3eb9436f03113fc8"
+  ],
+  "ambientes": [
+    "715f3eb9436f03113fc8"
+  ],
+  "museus": [
+    "715f3eb9436f03113fc8"
+  ],
+  "tardia": [
+    "715f3eb9436f03113fc8"
+  ],
+  "1000": [
+    "715f3eb9436f03113fc8"
+  ],
+  "1300": [
+    "715f3eb9436f03113fc8"
+  ],
+  "1453": [
+    "715f3eb9436f03113fc8"
+  ],
+  "1789": [
+    "715f3eb9436f03113fc8",
+    "9286f73076369706ad94"
+  ],
+  "descreve": [
+    "715f3eb9436f03113fc8"
+  ],
+  "ampla": [
+    "715f3eb9436f03113fc8"
+  ],
+  "gama": [
+    "715f3eb9436f03113fc8"
+  ],
+  "atividades": [
+    "715f3eb9436f03113fc8"
+  ],
+  "realizadas": [
+    "715f3eb9436f03113fc8"
+  ],
+  "alguma": [
+    "715f3eb9436f03113fc8"
+  ],
+  "formação": [
+    "715f3eb9436f03113fc8"
+  ],
+  "trabalham": [
+    "715f3eb9436f03113fc8"
+  ],
+  "fora": [
+    "715f3eb9436f03113fc8"
+  ],
+  "períodos": [
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e",
+    "186da5d42b551aabb2a5"
+  ],
+  "periodização": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "nomes": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "datas": [
+    "b1371d170ecc0c3ef88d",
+    "8a6aead086e5deda344b"
+  ],
+  "usados": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "datação": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "construídos": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "mudanças": [
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e"
+  ],
+  "também": [
+    "b1371d170ecc0c3ef88d",
+    "3f15d48112e4dcadd39c",
+    "4594119657f1aa053810",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "cronologia": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "culturas": [
+    "b1371d170ecc0c3ef88d"
+  ],
+  "escrita": [
+    "b1371d170ecc0c3ef88d",
+    "e9a8d64437b3c023a27e"
+  ],
+  "termo": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "pseudo": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "conclusões": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "nacionais": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "unidos": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "cursos": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "alunos": [
+    "3f15d48112e4dcadd39c",
+    "8a6aead086e5deda344b"
+  ],
+  "indivíduo": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "estuda": [
+    "3f15d48112e4dcadd39c",
+    "53559ebac9e62ea509d5"
+  ],
+  "escreve": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "autoridade": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "neste": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "preocupam": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "contínua": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "metódica": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "descontínua": [
+    "3f15d48112e4dcadd39c"
+  ],
+  "nacional": [
+    "8a6aead086e5deda344b"
+  ],
+  "países": [
+    "8a6aead086e5deda344b",
+    "186da5d42b551aabb2a5"
+  ],
+  "professores": [
+    "8a6aead086e5deda344b"
+  ],
+  "manuais": [
+    "8a6aead086e5deda344b"
+  ],
+  "livros": [
+    "8a6aead086e5deda344b"
+  ],
+  "didáticos": [
+    "8a6aead086e5deda344b"
+  ],
+  "contra": [
+    "8a6aead086e5deda344b"
+  ],
+  "patriotismo": [
+    "8a6aead086e5deda344b"
+  ],
+  "menção": [
+    "8a6aead086e5deda344b"
+  ],
+  "conteúdo": [
+    "8a6aead086e5deda344b",
+    "8709ba4804f6a7db8005"
+  ],
+  "estado": [
+    "8a6aead086e5deda344b",
+    "ce7b703bce977f8873d8"
+  ],
+  "escolas": [
+    "8a6aead086e5deda344b"
+  ],
+  "francesas": [
+    "8a6aead086e5deda344b"
+  ],
+  "influenciado": [
+    "8a6aead086e5deda344b"
+  ],
+  "nouvelle": [
+    "8a6aead086e5deda344b"
+  ],
+  "histoire": [
+    "8a6aead086e5deda344b"
+  ],
+  "divulgada": [
+    "8a6aead086e5deda344b"
+  ],
+  "history": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "808414c261d48fb1166e",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a",
+    "5e3cb3243387a244b162"
+  ],
+  "isbn": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "808414c261d48fb1166e",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "5e3cb3243387a244b162"
+  ],
+  "york": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "176e184974cefab0157a",
+    "4db9d21bb853c864d70a",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1"
+  ],
+  "university": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "808414c261d48fb1166e"
+  ],
+  "peter": [
+    "21e9797f73e58b7a5016"
+  ],
+  "consultado": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a"
+  ],
+  "2000": [
+    "21e9797f73e58b7a5016",
+    "7f9ee12230f57f3df560"
+  ],
+  "press": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "808414c261d48fb1166e",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "aba0032cf122c1fb77b1"
+  ],
+  "london": [
+    "21e9797f73e58b7a5016"
+  ],
+  "seixas": [
+    "21e9797f73e58b7a5016"
+  ],
+  "2008": [
+    "21e9797f73e58b7a5016",
+    "176e184974cefab0157a",
+    "39edc377b348450a08d2",
+    "5e3cb3243387a244b162"
+  ],
+  "arquivado": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a"
+  ],
+  "original": [
+    "21e9797f73e58b7a5016",
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "stearns": [
+    "21e9797f73e58b7a5016"
+  ],
+  "wineburg": [
+    "21e9797f73e58b7a5016"
+  ],
+  "knowing": [
+    "21e9797f73e58b7a5016"
+  ],
+  "teaching": [
+    "21e9797f73e58b7a5016",
+    "176e184974cefab0157a"
+  ],
+  "national": [
+    "21e9797f73e58b7a5016",
+    "38d1b149cb58fb87ec22",
+    "70aec589cd60c1eba8ed"
+  ],
+  "international": [
+    "21e9797f73e58b7a5016",
+    "b56fddc301cd48b03c83",
+    "176e184974cefab0157a",
+    "4188333f4ba5b20f6ed0"
+  ],
+  "perspectives": [
+    "21e9797f73e58b7a5016"
+  ],
+  "direitos": [
+    "21e9797f73e58b7a5016"
+  ],
+  "humanos": [
+    "21e9797f73e58b7a5016"
+  ],
+  "democracia": [
+    "21e9797f73e58b7a5016"
+  ],
+  "richard": [
+    "21e9797f73e58b7a5016"
+  ],
+  "dezembro": [
+    "21e9797f73e58b7a5016",
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "2014": [
+    "21e9797f73e58b7a5016",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "john": [
+    "21e9797f73e58b7a5016",
+    "7db760ced88775a3f94c"
+  ],
+  "professor": [
+    "21e9797f73e58b7a5016"
+  ],
+  "2001": [
+    "21e9797f73e58b7a5016",
+    "df8201907237acea9496"
+  ],
+  "vives": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "2022": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "juan": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "luis": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "julho": [
+    "8c06318b9ebb4b1cd6cf",
+    "176e184974cefab0157a"
+  ],
+  "wayback": [
+    "8c06318b9ebb4b1cd6cf",
+    "7f9ee12230f57f3df560",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "machine": [
+    "8c06318b9ebb4b1cd6cf",
+    "7f9ee12230f57f3df560",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "2020": [
+    "8c06318b9ebb4b1cd6cf",
+    "176e184974cefab0157a",
+    "d93a6516efcb50decee5",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "disciplinis": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "inglês": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "cópia": [
+    "8c06318b9ebb4b1cd6cf",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560"
+  ],
+  "arquivada": [
+    "8c06318b9ebb4b1cd6cf",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560"
+  ],
+  "dictionary": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "2021": [
+    "8c06318b9ebb4b1cd6cf",
+    "30a67042b845b2e27a25",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "4db9d21bb853c864d70a",
+    "b2012c7e4039edadfd25"
+  ],
+  "1995": [
+    "8c06318b9ebb4b1cd6cf",
+    "38d1b149cb58fb87ec22",
+    "05fc92afad384388faaa"
+  ],
+  "gordon": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "scott": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "routledge": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "lowenthal": [
+    "8c06318b9ebb4b1cd6cf"
+  ],
+  "david": [
+    "8c06318b9ebb4b1cd6cf",
+    "b56fddc301cd48b03c83",
+    "6053650e1c3229348ab1"
+  ],
+  "archaeology": [
+    "30a67042b845b2e27a25"
+  ],
+  "intellectual": [
+    "30a67042b845b2e27a25"
+  ],
+  "oxford": [
+    "30a67042b845b2e27a25"
+  ],
+  "2007": [
+    "30a67042b845b2e27a25",
+    "39edc377b348450a08d2",
+    "df8201907237acea9496",
+    "aba0032cf122c1fb77b1"
+  ],
+  "historiography": [
+    "30a67042b845b2e27a25",
+    "b56fddc301cd48b03c83"
+  ],
+  "sinclair": [
+    "30a67042b845b2e27a25"
+  ],
+  "archaeological": [
+    "30a67042b845b2e27a25"
+  ],
+  "2013": [
+    "30a67042b845b2e27a25",
+    "760b4685569239b7f0f2",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "networks": [
+    "30a67042b845b2e27a25"
+  ],
+  "conceptual": [
+    "30a67042b845b2e27a25"
+  ],
+  "internet": [
+    "30a67042b845b2e27a25"
+  ],
+  "11141": [
+    "30a67042b845b2e27a25"
+  ],
+  "1997": [
+    "30a67042b845b2e27a25",
+    "05fc92afad384388faaa"
+  ],
+  "books": [
+    "30a67042b845b2e27a25"
+  ],
+  "janeiro": [
+    "30a67042b845b2e27a25",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "9fddfbbae33cd4eef116"
+  ],
+  "lamberg": [
+    "30a67042b845b2e27a25"
+  ],
+  "karlovsky": [
+    "30a67042b845b2e27a25"
+  ],
+  "jeremy": [
+    "30a67042b845b2e27a25"
+  ],
+  "sabloff": [
+    "30a67042b845b2e27a25"
+  ],
+  "muse": [
+    "808414c261d48fb1166e"
+  ],
+  "marx": [
+    "808414c261d48fb1166e",
+    "9fddfbbae33cd4eef116"
+  ],
+  "ideas": [
+    "808414c261d48fb1166e",
+    "7f9ee12230f57f3df560"
+  ],
+  "edinburgh": [
+    "808414c261d48fb1166e"
+  ],
+  "historical": [
+    "808414c261d48fb1166e",
+    "176e184974cefab0157a"
+  ],
+  "fate": [
+    "808414c261d48fb1166e"
+  ],
+  "russian": [
+    "808414c261d48fb1166e",
+    "176e184974cefab0157a"
+  ],
+  "chicago": [
+    "808414c261d48fb1166e"
+  ],
+  "journal": [
+    "808414c261d48fb1166e",
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a",
+    "aba0032cf122c1fb77b1"
+  ],
+  "jstor": [
+    "808414c261d48fb1166e",
+    "b56fddc301cd48b03c83"
+  ],
+  "2079346": [
+    "808414c261d48fb1166e"
+  ],
+  "2307": [
+    "808414c261d48fb1166e"
+  ],
+  "geography": [
+    "808414c261d48fb1166e"
+  ],
+  "1775737": [
+    "808414c261d48fb1166e"
+  ],
+  "exeter": [
+    "808414c261d48fb1166e"
+  ],
+  "ostrovski": [
+    "808414c261d48fb1166e"
+  ],
+  "hyperbole": [
+    "808414c261d48fb1166e"
+  ],
+  "order": [
+    "808414c261d48fb1166e"
+  ],
+  "lanham": [
+    "808414c261d48fb1166e"
+  ],
+  "rowman": [
+    "808414c261d48fb1166e"
+  ],
+  "littlefield": [
+    "808414c261d48fb1166e"
+  ],
+  "2006": [
+    "808414c261d48fb1166e",
+    "b56fddc301cd48b03c83",
+    "7f9ee12230f57f3df560",
+    "39edc377b348450a08d2"
+  ],
+  "michelle": [
+    "808414c261d48fb1166e"
+  ],
+  "2016": [
+    "808414c261d48fb1166e",
+    "7f9ee12230f57f3df560",
+    "d75296e1128025bbdc0c"
+  ],
+  "1988": [
+    "b56fddc301cd48b03c83"
+  ],
+  "stephen": [
+    "b56fddc301cd48b03c83"
+  ],
+  "images": [
+    "b56fddc301cd48b03c83"
+  ],
+  "michael": [
+    "b56fddc301cd48b03c83"
+  ],
+  "military": [
+    "b56fddc301cd48b03c83"
+  ],
+  "juliet": [
+    "b56fddc301cd48b03c83"
+  ],
+  "gardiner": [
+    "b56fddc301cd48b03c83"
+  ],
+  "today": [
+    "b56fddc301cd48b03c83",
+    "b2012c7e4039edadfd25"
+  ],
+  "macmillan": [
+    "b56fddc301cd48b03c83"
+  ],
+  "0333422267": [
+    "b56fddc301cd48b03c83"
+  ],
+  "1007": [
+    "b56fddc301cd48b03c83"
+  ],
+  "19161": [
+    "b56fddc301cd48b03c83"
+  ],
+  "catholic": [
+    "b56fddc301cd48b03c83"
+  ],
+  "italian": [
+    "b56fddc301cd48b03c83"
+  ],
+  "diplomatic": [
+    "b56fddc301cd48b03c83"
+  ],
+  "2011": [
+    "7f9ee12230f57f3df560",
+    "ca18c459d173b4fedc95",
+    "7db760ced88775a3f94c",
+    "aba0032cf122c1fb77b1"
+  ],
+  "2010": [
+    "7f9ee12230f57f3df560"
+  ],
+  "fevereiro": [
+    "7f9ee12230f57f3df560"
+  ],
+  "maio": [
+    "7f9ee12230f57f3df560",
+    "176e184974cefab0157a"
+  ],
+  "gender": [
+    "7f9ee12230f57f3df560"
+  ],
+  "public": [
+    "7f9ee12230f57f3df560"
+  ],
+  "3377910": [
+    "7f9ee12230f57f3df560"
+  ],
+  "páginas": [
+    "7f9ee12230f57f3df560"
+  ],
+  "whaples": [
+    "7f9ee12230f57f3df560"
+  ],
+  "economic": [
+    "7f9ee12230f57f3df560"
+  ],
+  "issue": [
+    "176e184974cefab0157a"
+  ],
+  "2009": [
+    "176e184974cefab0157a"
+  ],
+  "textbooks": [
+    "176e184974cefab0157a"
+  ],
+  "workshop": [
+    "176e184974cefab0157a"
+  ],
+  "american": [
+    "176e184974cefab0157a"
+  ],
+  "1998": [
+    "176e184974cefab0157a",
+    "05fc92afad384388faaa"
+  ],
+  "curriculum": [
+    "176e184974cefab0157a"
+  ],
+  "teacher": [
+    "176e184974cefab0157a"
+  ],
+  "politics": [
+    "176e184974cefab0157a"
+  ],
+  "2015": [
+    "176e184974cefab0157a",
+    "d75296e1128025bbdc0c",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "2018": [
+    "176e184974cefab0157a",
+    "04d1e4ddf6bcea63db39",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "historian": [
+    "176e184974cefab0157a"
+  ],
+  "deve": [
+    "53559ebac9e62ea509d5"
+  ],
+  "acontecimento": [
+    "53559ebac9e62ea509d5"
+  ],
+  "conclusão": [
+    "53559ebac9e62ea509d5"
+  ],
+  "papel": [
+    "53559ebac9e62ea509d5"
+  ],
+  "homem": [
+    "53559ebac9e62ea509d5",
+    "e9a8d64437b3c023a27e"
+  ],
+  "determinado": [
+    "53559ebac9e62ea509d5"
+  ],
+  "gregos": [
+    "53559ebac9e62ea509d5"
+  ],
+  "conflito": [
+    "53559ebac9e62ea509d5"
+  ],
+  "travado": [
+    "53559ebac9e62ea509d5"
+  ],
+  "marco": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "acompanha": [
+    "e9a8d64437b3c023a27e",
+    "6d7de29e59895591669e"
+  ],
+  "surgimento": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "processo": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "povos": [
+    "e9a8d64437b3c023a27e",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "desse": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "queda": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "romano": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "organizar": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "criada": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "pelos": [
+    "e9a8d64437b3c023a27e",
+    "186da5d42b551aabb2a5"
+  ],
+  "sumérios": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "império": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "ocidente": [
+    "e9a8d64437b3c023a27e"
+  ],
+  "brasil": [
+    "6d7de29e59895591669e",
+    "5c4950d16d5069e4913c",
+    "4594119657f1aa053810",
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94",
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "país": [
+    "6d7de29e59895591669e",
+    "5c4950d16d5069e4913c",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "nosso": [
+    "6d7de29e59895591669e",
+    "4594119657f1aa053810"
+  ],
+  "hoje": [
+    "6d7de29e59895591669e",
+    "4594119657f1aa053810"
+  ],
+  "sendo": [
+    "6d7de29e59895591669e"
+  ],
+  "aqueles": [
+    "6d7de29e59895591669e"
+  ],
+  "estão": [
+    "6d7de29e59895591669e"
+  ],
+  "assuntos": [
+    "6d7de29e59895591669e"
+  ],
+  "américa": [
+    "6d7de29e59895591669e"
+  ],
+  "exemplos": [
+    "6d7de29e59895591669e",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "temas": [
+    "6d7de29e59895591669e"
+  ],
+  "chegada": [
+    "6d7de29e59895591669e"
+  ],
+  "portugueses": [
+    "6d7de29e59895591669e"
+  ],
+  "atual": [
+    "6d7de29e59895591669e"
+  ],
+  "estamos": [
+    "6d7de29e59895591669e"
+  ],
+  "inseridos": [
+    "6d7de29e59895591669e"
+  ],
+  "final": [
+    "6d7de29e59895591669e"
+  ],
+  "xviii": [
+    "6d7de29e59895591669e",
+    "9286f73076369706ad94"
+  ],
+  "dias": [
+    "6d7de29e59895591669e"
+  ],
+  "brasileiras": [
+    "5c4950d16d5069e4913c"
+  ],
+  "ainda": [
+    "5c4950d16d5069e4913c",
+    "8709ba4804f6a7db8005"
+  ],
+  "fazem": [
+    "5c4950d16d5069e4913c"
+  ],
+  "presente": [
+    "5c4950d16d5069e4913c"
+  ],
+  "quem": [
+    "5c4950d16d5069e4913c"
+  ],
+  "meio": [
+    "5c4950d16d5069e4913c"
+  ],
+  "além": [
+    "5c4950d16d5069e4913c"
+  ],
+  "importantes": [
+    "5c4950d16d5069e4913c",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "artistas": [
+    "5c4950d16d5069e4913c"
+  ],
+  "época": [
+    "5c4950d16d5069e4913c"
+  ],
+  "extraordinárias": [
+    "5c4950d16d5069e4913c"
+  ],
+  "fizeram": [
+    "5c4950d16d5069e4913c"
+  ],
+  "conheça": [
+    "5c4950d16d5069e4913c"
+  ],
+  "histórias": [
+    "5c4950d16d5069e4913c"
+  ],
+  "mudaram": [
+    "5c4950d16d5069e4913c"
+  ],
+  "sempre": [
+    "5c4950d16d5069e4913c"
+  ],
+  "receberam": [
+    "5c4950d16d5069e4913c"
+  ],
+  "devido": [
+    "5c4950d16d5069e4913c"
+  ],
+  "reconhecimento": [
+    "5c4950d16d5069e4913c"
+  ],
+  "transforme": [
+    "5c4950d16d5069e4913c"
+  ],
+  "claudia": [
+    "4594119657f1aa053810",
+    "8709ba4804f6a7db8005"
+  ],
+  "moderna": [
+    "4594119657f1aa053810"
+  ],
+  "casas": [
+    "4594119657f1aa053810"
+  ],
+  "moradias": [
+    "4594119657f1aa053810"
+  ],
+  "autora": [
+    "4594119657f1aa053810"
+  ],
+  "recente": [
+    "4594119657f1aa053810"
+  ],
+  "livro": [
+    "4594119657f1aa053810"
+  ],
+  "mulher": [
+    "4594119657f1aa053810",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "busca": [
+    "4594119657f1aa053810"
+  ],
+  "chef": [
+    "4594119657f1aa053810"
+  ],
+  "melhor": [
+    "4594119657f1aa053810"
+  ],
+  "receitas": [
+    "4594119657f1aa053810"
+  ],
+  "receber": [
+    "4594119657f1aa053810"
+  ],
+  "whatsapp": [
+    "4594119657f1aa053810"
+  ],
+  "notícias": [
+    "4594119657f1aa053810"
+  ],
+  "exposição": [
+    "4594119657f1aa053810"
+  ],
+  "1917": [
+    "4594119657f1aa053810"
+  ],
+  "provocou": [
+    "4594119657f1aa053810"
+  ],
+  "forte": [
+    "4594119657f1aa053810"
+  ],
+  "polêmica": [
+    "4594119657f1aa053810"
+  ],
+  "críticas": [
+    "4594119657f1aa053810"
+  ],
+  "aplicativo": [
+    "8709ba4804f6a7db8005"
+  ],
+  "disponível": [
+    "8709ba4804f6a7db8005"
+  ],
+  "android": [
+    "8709ba4804f6a7db8005"
+  ],
+  "você": [
+    "8709ba4804f6a7db8005",
+    "cc78d24a4262a5a0f51e"
+  ],
+  "confere": [
+    "8709ba4804f6a7db8005"
+  ],
+  "edições": [
+    "8709ba4804f6a7db8005"
+  ],
+  "impressas": [
+    "8709ba4804f6a7db8005"
+  ],
+  "íntegra": [
+    "8709ba4804f6a7db8005"
+  ],
+  "ganha": [
+    "8709ba4804f6a7db8005"
+  ],
+  "acesso": [
+    "8709ba4804f6a7db8005"
+  ],
+  "ilimitado": [
+    "8709ba4804f6a7db8005"
+  ],
+  "apps": [
+    "8709ba4804f6a7db8005"
+  ],
+  "títulos": [
+    "8709ba4804f6a7db8005"
+  ],
+  "abril": [
+    "8709ba4804f6a7db8005"
+  ],
+  "veja": [
+    "8709ba4804f6a7db8005"
+  ],
+  "superinteressante": [
+    "8709ba4804f6a7db8005"
+  ],
+  "jena": [
+    "39edc377b348450a08d2"
+  ],
+  "schmidt": [
+    "39edc377b348450a08d2"
+  ],
+  "ralf": [
+    "39edc377b348450a08d2"
+  ],
+  "carl": [
+    "39edc377b348450a08d2"
+  ],
+  "zeiss": [
+    "39edc377b348450a08d2"
+  ],
+  "team": [
+    "39edc377b348450a08d2"
+  ],
+  "nürnberg": [
+    "39edc377b348450a08d2"
+  ],
+  "birth": [
+    "39edc377b348450a08d2"
+  ],
+  "october": [
+    "39edc377b348450a08d2",
+    "04d1e4ddf6bcea63db39",
+    "aba0032cf122c1fb77b1",
+    "6053650e1c3229348ab1"
+  ],
+  "1985": [
+    "39edc377b348450a08d2"
+  ],
+  "2004": [
+    "39edc377b348450a08d2",
+    "df8201907237acea9496"
+  ],
+  "german": [
+    "39edc377b348450a08d2"
+  ],
+  "former": [
+    "39edc377b348450a08d2"
+  ],
+  "edit": [
+    "39edc377b348450a08d2",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "4db9d21bb853c864d70a",
+    "7db760ced88775a3f94c"
+  ],
+  "played": [
+    "39edc377b348450a08d2"
+  ],
+  "division": [
+    "39edc377b348450a08d2",
+    "df8201907237acea9496"
+  ],
+  "injury": [
+    "39edc377b348450a08d2"
+  ],
+  "personal": [
+    "39edc377b348450a08d2"
+  ],
+  "full": [
+    "39edc377b348450a08d2",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b"
+  ],
+  "name": [
+    "39edc377b348450a08d2"
+  ],
+  "date": [
+    "39edc377b348450a08d2"
+  ],
+  "place": [
+    "39edc377b348450a08d2"
+  ],
+  "east": [
+    "39edc377b348450a08d2"
+  ],
+  "jcpenney": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b",
+    "4188333f4ba5b20f6ed0",
+    "d93a6516efcb50decee5",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "05fc92afad384388faaa",
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "7db760ced88775a3f94c",
+    "70aec589cd60c1eba8ed",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "purchases": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "your": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b",
+    "41448cb12b7814c3fed3"
+  ],
+  "credit": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "card": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "spend": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "cashpass": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "reward": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "qualifying": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "else": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "cardmembers": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "mastercard": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b",
+    "4188333f4ba5b20f6ed0"
+  ],
+  "accepted": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "earn": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "rewards": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "everyone": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "cardholders": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "issued": [
+    "6c4c4656a42ee8c07617",
+    "4188333f4ba5b20f6ed0",
+    "41448cb12b7814c3fed3"
+  ],
+  "increments": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "points": [
+    "6c4c4656a42ee8c07617",
+    "cb8fd025418c063bd67b"
+  ],
+  "dollar": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "bigger": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "better": [
+    "6c4c4656a42ee8c07617"
+  ],
+  "exclusively": [
+    "6c4c4656a42ee8c07617",
+    "ca18c459d173b4fedc95"
+  ],
+  "account": [
+    "cb8fd025418c063bd67b",
+    "41448cb12b7814c3fed3"
+  ],
+  "point": [
+    "cb8fd025418c063bd67b"
+  ],
+  "purchase": [
+    "cb8fd025418c063bd67b",
+    "278675270c704cc7b714"
+  ],
+  "stores": [
+    "cb8fd025418c063bd67b",
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "05fc92afad384388faaa",
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "7db760ced88775a3f94c",
+    "70aec589cd60c1eba8ed",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25"
+  ],
+  "returns": [
+    "cb8fd025418c063bd67b"
+  ],
+  "apply": [
+    "cb8fd025418c063bd67b"
+  ],
+  "approval": [
+    "cb8fd025418c063bd67b"
+  ],
+  "variable": [
+    "cb8fd025418c063bd67b"
+  ],
+  "eligible": [
+    "cb8fd025418c063bd67b"
+  ],
+  "spent": [
+    "cb8fd025418c063bd67b"
+  ],
+  "using": [
+    "cb8fd025418c063bd67b",
+    "41448cb12b7814c3fed3"
+  ],
+  "receive": [
+    "cb8fd025418c063bd67b"
+  ],
+  "maximum": [
+    "cb8fd025418c063bd67b"
+  ],
+  "transaction": [
+    "cb8fd025418c063bd67b"
+  ],
+  "good": [
+    "cb8fd025418c063bd67b"
+  ],
+  "trademarks": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "google": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "incorporated": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "registered": [
+    "4188333f4ba5b20f6ed0",
+    "41448cb12b7814c3fed3"
+  ],
+  "logo": [
+    "4188333f4ba5b20f6ed0",
+    "7db760ced88775a3f94c"
+  ],
+  "play": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "amazon": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "synchrony": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "bank": [
+    "4188333f4ba5b20f6ed0",
+    "38d1b149cb58fb87ec22"
+  ],
+  "pursuant": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "license": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "circles": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "countries": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "store": [
+    "4188333f4ba5b20f6ed0",
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "05fc92afad384388faaa",
+    "df8201907237acea9496",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "70aec589cd60c1eba8ed",
+    "aba0032cf122c1fb77b1",
+    "b2012c7e4039edadfd25"
+  ],
+  "service": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "mark": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "kindle": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "fire": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "logos": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "affiliates": [
+    "4188333f4ba5b20f6ed0"
+  ],
+  "exercícios": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94"
+  ],
+  "gabarito": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94"
+  ],
+  "revolução": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94"
+  ],
+  "saiba": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "questões": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94",
+    "ce7b703bce977f8873d8"
+  ],
+  "iluminismo": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "república": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "renascimento": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "pensadores": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "principais": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94"
+  ],
+  "internacional": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "comentários": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "velha": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "explicado": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "artístico": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "francesa": [
+    "cc78d24a4262a5a0f51e",
+    "9286f73076369706ad94"
+  ],
+  "contestado": [
+    "cc78d24a4262a5a0f51e"
+  ],
+  "grécia": [
+    "9286f73076369706ad94"
+  ],
+  "antiga": [
+    "9286f73076369706ad94"
+  ],
+  "movimento": [
+    "9286f73076369706ad94"
+  ],
+  "industrial": [
+    "9286f73076369706ad94"
+  ],
+  "evolução": [
+    "9286f73076369706ad94"
+  ],
+  "sociedade": [
+    "9286f73076369706ad94"
+  ],
+  "resumo": [
+    "9286f73076369706ad94",
+    "186da5d42b551aabb2a5"
+  ],
+  "umbanda": [
+    "9286f73076369706ad94"
+  ],
+  "1799": [
+    "9286f73076369706ad94"
+  ],
+  "consequências": [
+    "9286f73076369706ad94",
+    "9fddfbbae33cd4eef116"
+  ],
+  "computadores": [
+    "9286f73076369706ad94"
+  ],
+  "níveis": [
+    "9286f73076369706ad94"
+  ],
+  "seus": [
+    "9286f73076369706ad94"
+  ],
+  "conhecimentos": [
+    "9286f73076369706ad94"
+  ],
+  "fácil": [
+    "9286f73076369706ad94"
+  ],
+  "1914": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "1918": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "características": [
+    "9fddfbbae33cd4eef116",
+    "9aa9a9d8edf8235f4883"
+  ],
+  "compreende": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "tríplice": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "vinda": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "família": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "real": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "ocorreu": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "novembro": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "europa": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "vacina": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "importante": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "karl": [
+    "9fddfbbae33cd4eef116"
+  ],
+  "diversidade": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "áfrica": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "racismo": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "nível": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "representam": [
+    "9aa9a9d8edf8235f4883",
+    "ce7b703bce977f8873d8"
+  ],
+  "comunicação": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "esse": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "vida": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "roma": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "centro": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "palmares": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "fascismo": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "político": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "imaterial": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "patrimônio": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "região": [
+    "9aa9a9d8edf8235f4883"
+  ],
+  "econômico": [
+    "186da5d42b551aabb2a5"
+  ],
+  "blocos": [
+    "186da5d42b551aabb2a5"
+  ],
+  "carta": [
+    "186da5d42b551aabb2a5"
+  ],
+  "pero": [
+    "186da5d42b551aabb2a5"
+  ],
+  "caminha": [
+    "186da5d42b551aabb2a5"
+  ],
+  "canudos": [
+    "186da5d42b551aabb2a5"
+  ],
+  "capital": [
+    "186da5d42b551aabb2a5"
+  ],
+  "fria": [
+    "186da5d42b551aabb2a5"
+  ],
+  "liderados": [
+    "186da5d42b551aabb2a5"
+  ],
+  "união": [
+    "186da5d42b551aabb2a5"
+  ],
+  "divisão": [
+    "186da5d42b551aabb2a5"
+  ],
+  "segunda": [
+    "186da5d42b551aabb2a5"
+  ],
+  "enem": [
+    "186da5d42b551aabb2a5"
+  ],
+  "econômicos": [
+    "186da5d42b551aabb2a5"
+  ],
+  "candomblé": [
+    "186da5d42b551aabb2a5"
+  ],
+  "dança": [
+    "186da5d42b551aabb2a5"
+  ],
+  "vargas": [
+    "ce7b703bce977f8873d8"
+  ],
+  "símbolos": [
+    "ce7b703bce977f8873d8"
+  ],
+  "natal": [
+    "ce7b703bce977f8873d8"
+  ],
+  "cenário": [
+    "ce7b703bce977f8873d8"
+  ],
+  "comemoração": [
+    "ce7b703bce977f8873d8"
+  ],
+  "dessa": [
+    "ce7b703bce977f8873d8"
+  ],
+  "festa": [
+    "ce7b703bce977f8873d8"
+  ],
+  "cristã": [
+    "ce7b703bce977f8873d8"
+  ],
+  "nessa": [
+    "ce7b703bce977f8873d8"
+  ],
+  "altura": [
+    "ce7b703bce977f8873d8"
+  ],
+  "encontramos": [
+    "ce7b703bce977f8873d8"
+  ],
+  "espalhados": [
+    "ce7b703bce977f8873d8"
+  ],
+  "cantos": [
+    "ce7b703bce977f8873d8"
+  ],
+  "origens": [
+    "ce7b703bce977f8873d8"
+  ],
+  "épocas": [
+    "ce7b703bce977f8873d8"
+  ],
+  "respostas": [
+    "ce7b703bce977f8873d8"
+  ],
+  "comentadas": [
+    "ce7b703bce977f8873d8"
+  ],
+  "1930": [
+    "ce7b703bce977f8873d8"
+  ],
+  "1945": [
+    "ce7b703bce977f8873d8"
+  ],
+  "transformações": [
+    "ce7b703bce977f8873d8"
+  ],
+  "ncat": [
+    "41448cb12b7814c3fed3"
+  ],
+  "oneid": [
+    "41448cb12b7814c3fed3"
+  ],
+  "blackboard": [
+    "41448cb12b7814c3fed3"
+  ],
+  "username": [
+    "41448cb12b7814c3fed3"
+  ],
+  "password": [
+    "41448cb12b7814c3fed3"
+  ],
+  "reset": [
+    "41448cb12b7814c3fed3"
+  ],
+  "access": [
+    "41448cb12b7814c3fed3"
+  ],
+  "remember": [
+    "41448cb12b7814c3fed3"
+  ],
+  "credentials": [
+    "41448cb12b7814c3fed3"
+  ],
+  "ittd": [
+    "41448cb12b7814c3fed3"
+  ],
+  "4499": [
+    "41448cb12b7814c3fed3"
+  ],
+  "site": [
+    "41448cb12b7814c3fed3"
+  ],
+  "leader": [
+    "41448cb12b7814c3fed3"
+  ],
+  "click": [
+    "41448cb12b7814c3fed3"
+  ],
+  "here": [
+    "41448cb12b7814c3fed3"
+  ],
+  "course": [
+    "41448cb12b7814c3fed3"
+  ],
+  "register": [
+    "41448cb12b7814c3fed3"
+  ],
+  "where": [
+    "41448cb12b7814c3fed3"
+  ],
+  "registeroneid": [
+    "41448cb12b7814c3fed3"
+  ],
+  "select": [
+    "41448cb12b7814c3fed3"
+  ],
+  "brands": [
+    "d93a6516efcb50decee5",
+    "278675270c704cc7b714",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "group": [
+    "d93a6516efcb50decee5",
+    "05fc92afad384388faaa",
+    "278675270c704cc7b714"
+  ],
+  "penney": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "7db760ced88775a3f94c",
+    "70aec589cd60c1eba8ed",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "catalyst": [
+    "d93a6516efcb50decee5"
+  ],
+  "authentic": [
+    "d93a6516efcb50decee5"
+  ],
+  "chain": [
+    "d93a6516efcb50decee5",
+    "38d1b149cb58fb87ec22",
+    "4db9d21bb853c864d70a",
+    "70aec589cd60c1eba8ed"
+  ],
+  "1902": [
+    "d93a6516efcb50decee5",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "simon": [
+    "d93a6516efcb50decee5",
+    "278675270c704cc7b714",
+    "b2012c7e4039edadfd25"
+  ],
+  "company": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "278675270c704cc7b714",
+    "70aec589cd60c1eba8ed",
+    "5e3cb3243387a244b162"
+  ],
+  "golden": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3"
+  ],
+  "rule": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3"
+  ],
+  "department": [
+    "d93a6516efcb50decee5"
+  ],
+  "founded": [
+    "d93a6516efcb50decee5",
+    "7db760ced88775a3f94c"
+  ],
+  "james": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3"
+  ],
+  "cash": [
+    "d93a6516efcb50decee5",
+    "c285582a8193fb9443a3"
+  ],
+  "furnishings": [
+    "d93a6516efcb50decee5"
+  ],
+  "joint": [
+    "d93a6516efcb50decee5"
+  ],
+  "brookfield": [
+    "d93a6516efcb50decee5",
+    "278675270c704cc7b714",
+    "b2012c7e4039edadfd25"
+  ],
+  "property": [
+    "d93a6516efcb50decee5",
+    "278675270c704cc7b714"
+  ],
+  "managed": [
+    "d93a6516efcb50decee5"
+  ],
+  "retail": [
+    "d93a6516efcb50decee5",
+    "aba0032cf122c1fb77b1"
+  ],
+  "callahan": [
+    "c285582a8193fb9443a3"
+  ],
+  "johnson": [
+    "c285582a8193fb9443a3"
+  ],
+  "wyoming": [
+    "c285582a8193fb9443a3"
+  ],
+  "moved": [
+    "c285582a8193fb9443a3"
+  ],
+  "hamilton": [
+    "c285582a8193fb9443a3"
+  ],
+  "missouri": [
+    "c285582a8193fb9443a3"
+  ],
+  "retailer": [
+    "c285582a8193fb9443a3"
+  ],
+  "colorado": [
+    "c285582a8193fb9443a3"
+  ],
+  "owned": [
+    "c285582a8193fb9443a3"
+  ],
+  "goods": [
+    "c285582a8193fb9443a3"
+  ],
+  "opening": [
+    "c285582a8193fb9443a3"
+  ],
+  "partnership": [
+    "c285582a8193fb9443a3",
+    "05fc92afad384388faaa"
+  ],
+  "opened": [
+    "c285582a8193fb9443a3",
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "05fc92afad384388faaa"
+  ],
+  "headquarters": [
+    "c285582a8193fb9443a3",
+    "38d1b149cb58fb87ec22",
+    "760b4685569239b7f0f2",
+    "278675270c704cc7b714",
+    "d75296e1128025bbdc0c",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "city": [
+    "c285582a8193fb9443a3"
+  ],
+  "operated": [
+    "c285582a8193fb9443a3"
+  ],
+  "walton": [
+    "c285582a8193fb9443a3"
+  ],
+  "center": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "dedicated": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "plaza": [
+    "99bc54e52cfb03192b5b",
+    "05fc92afad384388faaa"
+  ],
+  "1962": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "merchandise": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "catalog": [
+    "99bc54e52cfb03192b5b",
+    "38d1b149cb58fb87ec22"
+  ],
+  "alaska": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "hawaii": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "puerto": [
+    "99bc54e52cfb03192b5b",
+    "04d1e4ddf6bcea63db39"
+  ],
+  "anchorage": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "1968": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "building": [
+    "99bc54e52cfb03192b5b",
+    "70aec589cd60c1eba8ed"
+  ],
+  "mall": [
+    "99bc54e52cfb03192b5b",
+    "05fc92afad384388faaa"
+  ],
+  "square": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "line": [
+    "99bc54e52cfb03192b5b",
+    "b0d31d384f392f21d04d",
+    "ca18c459d173b4fedc95",
+    "7db760ced88775a3f94c"
+  ],
+  "shopping": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "located": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "prussia": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "pennsylvania": [
+    "99bc54e52cfb03192b5b"
+  ],
+  "price": [
+    "b0d31d384f392f21d04d"
+  ],
+  "closed": [
+    "b0d31d384f392f21d04d",
+    "05fc92afad384388faaa",
+    "df8201907237acea9496",
+    "4db9d21bb853c864d70a",
+    "70aec589cd60c1eba8ed"
+  ],
+  "billion": [
+    "b0d31d384f392f21d04d",
+    "df8201907237acea9496"
+  ],
+  "however": [
+    "b0d31d384f392f21d04d"
+  ],
+  "italy": [
+    "b0d31d384f392f21d04d"
+  ],
+  "treasury": [
+    "b0d31d384f392f21d04d",
+    "70aec589cd60c1eba8ed"
+  ],
+  "february": [
+    "b0d31d384f392f21d04d",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "reached": [
+    "b0d31d384f392f21d04d"
+  ],
+  "business": [
+    "b0d31d384f392f21d04d",
+    "38d1b149cb58fb87ec22",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "sold": [
+    "b0d31d384f392f21d04d",
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "760b4685569239b7f0f2",
+    "70aec589cd60c1eba8ed"
+  ],
+  "same": [
+    "b0d31d384f392f21d04d"
+  ],
+  "unprofitable": [
+    "b0d31d384f392f21d04d"
+  ],
+  "discount": [
+    "b0d31d384f392f21d04d"
+  ],
+  "historic": [
+    "b0d31d384f392f21d04d",
+    "70aec589cd60c1eba8ed"
+  ],
+  "1983": [
+    "b0d31d384f392f21d04d"
+  ],
+  "discontinued": [
+    "b0d31d384f392f21d04d"
+  ],
+  "auto": [
+    "b0d31d384f392f21d04d",
+    "70aec589cd60c1eba8ed"
+  ],
+  "centers": [
+    "b0d31d384f392f21d04d",
+    "df8201907237acea9496",
+    "70aec589cd60c1eba8ed"
+  ],
+  "drug": [
+    "38d1b149cb58fb87ec22",
+    "df8201907237acea9496",
+    "70aec589cd60c1eba8ed"
+  ],
+  "kerr": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "thrift": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "branded": [
+    "38d1b149cb58fb87ec22",
+    "70aec589cd60c1eba8ed"
+  ],
+  "eckerd": [
+    "38d1b149cb58fb87ec22",
+    "df8201907237acea9496"
+  ],
+  "acquisition": [
+    "38d1b149cb58fb87ec22",
+    "df8201907237acea9496"
+  ],
+  "became": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "cards": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "began": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "plano": [
+    "38d1b149cb58fb87ec22",
+    "278675270c704cc7b714",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "texas": [
+    "38d1b149cb58fb87ec22",
+    "278675270c704cc7b714"
+  ],
+  "1980s": [
+    "38d1b149cb58fb87ec22",
+    "70aec589cd60c1eba8ed"
+  ],
+  "firearms": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "expanded": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "chile": [
+    "38d1b149cb58fb87ec22"
+  ],
+  "collections": [
+    "05fc92afad384388faaa"
+  ],
+  "supermal": [
+    "05fc92afad384388faaa"
+  ],
+  "lippo": [
+    "05fc92afad384388faaa"
+  ],
+  "taman": [
+    "05fc92afad384388faaa"
+  ],
+  "anggrek": [
+    "05fc92afad384388faaa"
+  ],
+  "down": [
+    "05fc92afad384388faaa"
+  ],
+  "indonesia": [
+    "05fc92afad384388faaa"
+  ],
+  "upper": [
+    "05fc92afad384388faaa"
+  ],
+  "ground": [
+    "05fc92afad384388faaa"
+  ],
+  "karawaci": [
+    "05fc92afad384388faaa"
+  ],
+  "close": [
+    "05fc92afad384388faaa",
+    "760b4685569239b7f0f2",
+    "4db9d21bb853c864d70a",
+    "6053650e1c3229348ab1"
+  ],
+  "entered": [
+    "05fc92afad384388faaa"
+  ],
+  "multipolar": [
+    "05fc92afad384388faaa"
+  ],
+  "locations": [
+    "df8201907237acea9496",
+    "278675270c704cc7b714"
+  ],
+  "launched": [
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95"
+  ],
+  "inside": [
+    "df8201907237acea9496"
+  ],
+  "after": [
+    "df8201907237acea9496"
+  ],
+  "rite": [
+    "df8201907237acea9496"
+  ],
+  "sale": [
+    "df8201907237acea9496"
+  ],
+  "citation": [
+    "df8201907237acea9496"
+  ],
+  "mexico": [
+    "df8201907237acea9496"
+  ],
+  "renner": [
+    "df8201907237acea9496"
+  ],
+  "private": [
+    "df8201907237acea9496",
+    "ca18c459d173b4fedc95",
+    "7db760ced88775a3f94c",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "brand": [
+    "ca18c459d173b4fedc95",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "linden": [
+    "ca18c459d173b4fedc95"
+  ],
+  "street": [
+    "ca18c459d173b4fedc95",
+    "aba0032cf122c1fb77b1"
+  ],
+  "clothing": [
+    "ca18c459d173b4fedc95",
+    "7db760ced88775a3f94c"
+  ],
+  "living": [
+    "ca18c459d173b4fedc95"
+  ],
+  "launch": [
+    "ca18c459d173b4fedc95"
+  ],
+  "summer": [
+    "ca18c459d173b4fedc95"
+  ],
+  "juniors": [
+    "ca18c459d173b4fedc95"
+  ],
+  "young": [
+    "ca18c459d173b4fedc95"
+  ],
+  "decree": [
+    "ca18c459d173b4fedc95"
+  ],
+  "seattle": [
+    "ca18c459d173b4fedc95"
+  ],
+  "best": [
+    "ca18c459d173b4fedc95"
+  ],
+  "coffee": [
+    "ca18c459d173b4fedc95"
+  ],
+  "within": [
+    "ca18c459d173b4fedc95"
+  ],
+  "country": [
+    "ca18c459d173b4fedc95"
+  ],
+  "january": [
+    "760b4685569239b7f0f2",
+    "4db9d21bb853c864d70a",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1"
+  ],
+  "announced": [
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714"
+  ],
+  "sales": [
+    "760b4685569239b7f0f2",
+    "04d1e4ddf6bcea63db39",
+    "6053650e1c3229348ab1"
+  ],
+  "employees": [
+    "760b4685569239b7f0f2"
+  ],
+  "2012": [
+    "760b4685569239b7f0f2",
+    "7db760ced88775a3f94c",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "pricing": [
+    "760b4685569239b7f0f2"
+  ],
+  "april": [
+    "760b4685569239b7f0f2",
+    "4db9d21bb853c864d70a",
+    "5e3cb3243387a244b162",
+    "d75296e1128025bbdc0c"
+  ],
+  "performing": [
+    "760b4685569239b7f0f2"
+  ],
+  "2017": [
+    "760b4685569239b7f0f2",
+    "d75296e1128025bbdc0c"
+  ],
+  "distribution": [
+    "760b4685569239b7f0f2"
+  ],
+  "boutiques": [
+    "760b4685569239b7f0f2"
+  ],
+  "implemented": [
+    "760b4685569239b7f0f2"
+  ],
+  "strategy": [
+    "760b4685569239b7f0f2"
+  ],
+  "replacing": [
+    "760b4685569239b7f0f2"
+  ],
+  "prices": [
+    "760b4685569239b7f0f2"
+  ],
+  "quarter": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "fell": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "stock": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "2019": [
+    "04d1e4ddf6bcea63db39",
+    "aba0032cf122c1fb77b1",
+    "6053650e1c3229348ab1"
+  ],
+  "loss": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "lowered": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "cents": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "share": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "said": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "much": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "announcement": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "shares": [
+    "04d1e4ddf6bcea63db39"
+  ],
+  "december": [
+    "04d1e4ddf6bcea63db39",
+    "4db9d21bb853c864d70a",
+    "aba0032cf122c1fb77b1",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "bankruptcy": [
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "b2012c7e4039edadfd25"
+  ],
+  "march": [
+    "4db9d21bb853c864d70a",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "covid": [
+    "4db9d21bb853c864d70a"
+  ],
+  "soltau": [
+    "4db9d21bb853c864d70a",
+    "6053650e1c3229348ab1"
+  ],
+  "additional": [
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714"
+  ],
+  "june": [
+    "4db9d21bb853c864d70a",
+    "278675270c704cc7b714",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "temporarily": [
+    "4db9d21bb853c864d70a"
+  ],
+  "jill": [
+    "4db9d21bb853c864d70a",
+    "6053650e1c3229348ab1"
+  ],
+  "pandemic": [
+    "4db9d21bb853c864d70a"
+  ],
+  "reopened": [
+    "4db9d21bb853c864d70a"
+  ],
+  "plans": [
+    "4db9d21bb853c864d70a"
+  ],
+  "businesses": [
+    "4db9d21bb853c864d70a"
+  ],
+  "ordered": [
+    "4db9d21bb853c864d70a"
+  ],
+  "july": [
+    "278675270c704cc7b714",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "sephora": [
+    "278675270c704cc7b714"
+  ],
+  "kohl": [
+    "278675270c704cc7b714"
+  ],
+  "closing": [
+    "278675270c704cc7b714",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1"
+  ],
+  "partners": [
+    "278675270c704cc7b714",
+    "b2012c7e4039edadfd25"
+  ],
+  "owners": [
+    "278675270c704cc7b714"
+  ],
+  "november": [
+    "278675270c704cc7b714",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "women": [
+    "7db760ced88775a3f94c"
+  ],
+  "casual": [
+    "7db760ced88775a3f94c"
+  ],
+  "apparel": [
+    "7db760ced88775a3f94c"
+  ],
+  "shoes": [
+    "7db760ced88775a3f94c"
+  ],
+  "tall": [
+    "7db760ced88775a3f94c"
+  ],
+  "until": [
+    "7db760ced88775a3f94c"
+  ],
+  "location": [
+    "7db760ced88775a3f94c",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "2026": [
+    "7db760ced88775a3f94c",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "2023": [
+    "7db760ced88775a3f94c",
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "marathon": [
+    "7db760ced88775a3f94c"
+  ],
+  "hats": [
+    "7db760ced88775a3f94c"
+  ],
+  "outdoor": [
+    "7db760ced88775a3f94c"
+  ],
+  "arizona": [
+    "7db760ced88775a3f94c"
+  ],
+  "children": [
+    "7db760ced88775a3f94c"
+  ],
+  "claiborne": [
+    "7db760ced88775a3f94c"
+  ],
+  "outlet": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "insurance": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "standing": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "warehouse": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "star": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "lower": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "furniture": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "restaurants": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "manufactured": [
+    "70aec589cd60c1eba8ed"
+  ],
+  "retrieved": [
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "archived": [
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "august": [
+    "5e3cb3243387a244b162",
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c"
+  ],
+  "funding": [
+    "5e3cb3243387a244b162"
+  ],
+  "forbes": [
+    "5e3cb3243387a244b162",
+    "6053650e1c3229348ab1",
+    "b2012c7e4039edadfd25"
+  ],
+  "earthquake": [
+    "5e3cb3243387a244b162"
+  ],
+  "1964": [
+    "5e3cb3243387a244b162"
+  ],
+  "cole": [
+    "5e3cb3243387a244b162"
+  ],
+  "north": [
+    "5e3cb3243387a244b162"
+  ],
+  "future": [
+    "5e3cb3243387a244b162"
+  ],
+  "newspapers": [
+    "5e3cb3243387a244b162"
+  ],
+  "news": [
+    "aba0032cf122c1fb77b1",
+    "d75296e1128025bbdc0c",
+    "b2012c7e4039edadfd25",
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "wall": [
+    "aba0032cf122c1fb77b1"
+  ],
+  "staff": [
+    "aba0032cf122c1fb77b1"
+  ],
+  "dallas": [
+    "d75296e1128025bbdc0c",
+    "b2012c7e4039edadfd25"
+  ],
+  "wahba": [
+    "d75296e1128025bbdc0c"
+  ],
+  "phil": [
+    "d75296e1128025bbdc0c"
+  ],
+  "selling": [
+    "d75296e1128025bbdc0c"
+  ],
+  "thomas": [
+    "6053650e1c3229348ab1"
+  ],
+  "lauren": [
+    "6053650e1c3229348ab1"
+  ],
+  "taps": [
+    "6053650e1c3229348ab1"
+  ],
+  "chief": [
+    "6053650e1c3229348ab1"
+  ],
+  "cnbc": [
+    "6053650e1c3229348ab1"
+  ],
+  "shoulberg": [
+    "6053650e1c3229348ab1"
+  ],
+  "warren": [
+    "6053650e1c3229348ab1"
+  ],
+  "goldman": [
+    "6053650e1c3229348ab1"
+  ],
+  "closings": [
+    "b2012c7e4039edadfd25"
+  ],
+  "companyblog": [
+    "b2012c7e4039edadfd25"
+  ],
+  "jcpnewsroom": [
+    "b2012c7e4039edadfd25"
+  ],
+  "bomey": [
+    "b2012c7e4039edadfd25"
+  ],
+  "nathan": [
+    "b2012c7e4039edadfd25"
+  ],
+  "liquidation": [
+    "b2012c7e4039edadfd25"
+  ],
+  "pymnts": [
+    "b2012c7e4039edadfd25"
+  ],
+  "stein": [
+    "b2012c7e4039edadfd25"
+  ],
+  "companies": [
+    "a4f632d74c5d5e8ec08b"
+  ],
+  "retailers": [
+    "a4f632d74c5d5e8ec08b"
   ]
 }
