@@ -54,7 +54,9 @@
     "ef5ed8f74a10401a8353",
     "94f01db75d60cb724bd5",
     "e6cce1376ff1fa943a26",
-    "6b854f0c1c7f0a19c76d"
+    "6b854f0c1c7f0a19c76d",
+    "7f8b5efac45abe7d6b79",
+    "5247062093577c90449c"
   ],
   "used": [
     "a525b083d35688d9e165",
@@ -120,7 +122,9 @@
     "a407bea2a75fba6ffbc9",
     "a1841b64b0da709aec2d",
     "30a67042b845b2e27a25",
-    "6e5a4b11e7953c039d89"
+    "6e5a4b11e7953c039d89",
+    "5247062093577c90449c",
+    "aea7d11115659e700659"
   ],
   "elements": [
     "a525b083d35688d9e165",
@@ -448,7 +452,8 @@
     "96bf6b780e5b602a58bf",
     "65b5c54185317427420a",
     "47cbbf7e3e2f3da63e12",
-    "6d067a99e1f48dfcf1d4"
+    "6d067a99e1f48dfcf1d4",
+    "cabb40040acf1ac6f2e2"
   ],
   "experiment": [
     "9eb4901b9ef3450a6128"
@@ -502,7 +507,11 @@
   ],
   "material": [
     "9eb4901b9ef3450a6128",
-    "9aa9a9d8edf8235f4883"
+    "9aa9a9d8edf8235f4883",
+    "5c1e365ab2298a86bc8e",
+    "32e1ecf49a9fee915c38",
+    "b2692ee7a136e640f575",
+    "706bf1812fa68270e9a9"
   ],
   "safety": [
     "9eb4901b9ef3450a6128",
@@ -517,7 +526,9 @@
     "7d14f4414c13c8a76c14",
     "e6cce1376ff1fa943a26",
     "ce23a5d770a7f2f3c231",
-    "6b854f0c1c7f0a19c76d"
+    "6b854f0c1c7f0a19c76d",
+    "5247062093577c90449c",
+    "aea7d11115659e700659"
   ],
   "sheets": [
     "9eb4901b9ef3450a6128"
@@ -889,7 +900,8 @@
     "7f8a8b513dd4082e5552",
     "284fdc807b7c53800acd",
     "e865ab08795fe6f37769",
-    "91457e4986d9bf318179"
+    "91457e4986d9bf318179",
+    "7f8b5efac45abe7d6b79"
   ],
   "greek": [
     "7f8a8b513dd4082e5552"
@@ -1017,7 +1029,8 @@
     "7a351f3228c0b7fe8a32",
     "77a759d27e1ff04f9b78",
     "6e5a4b11e7953c039d89",
-    "a5f1d546de8a6b997280"
+    "a5f1d546de8a6b997280",
+    "7f8b5efac45abe7d6b79"
   ],
   "concepts": [
     "7a351f3228c0b7fe8a32",
@@ -1290,7 +1303,8 @@
   ],
   "started": [
     "3135b8205d11ab25f8fb",
-    "70f9181d514715202c7d"
+    "70f9181d514715202c7d",
+    "5247062093577c90449c"
   ],
   "made": [
     "3135b8205d11ab25f8fb",
@@ -1400,7 +1414,8 @@
     "ce23a5d770a7f2f3c231"
   ],
   "mathematics": [
-    "dbb507cf34f4ae6a5574"
+    "dbb507cf34f4ae6a5574",
+    "615e475d9c9b3c1657dd"
   ],
   "called": [
     "dbb507cf34f4ae6a5574",
@@ -1764,7 +1779,9 @@
     "a1841b64b0da709aec2d",
     "21e9797f73e58b7a5016",
     "8c06318b9ebb4b1cd6cf",
-    "a5f1d546de8a6b997280"
+    "a5f1d546de8a6b997280",
+    "615e475d9c9b3c1657dd",
+    "5247062093577c90449c"
   ],
   "branches": [
     "266f2b6854b3f2b98c0c",
@@ -2043,7 +2060,9 @@
     "eb46b2c984179c25e8d3",
     "176e184974cefab0157a",
     "181dbf8f4b11ad5a47b8",
-    "0c1f6d6f0ca40fa1a7fa"
+    "0c1f6d6f0ca40fa1a7fa",
+    "b2692ee7a136e640f575",
+    "5247062093577c90449c"
   ],
   "tool": [
     "eb46b2c984179c25e8d3",
@@ -2108,7 +2127,8 @@
     "eb46b2c984179c25e8d3"
   ],
   "lever": [
-    "eb46b2c984179c25e8d3"
+    "eb46b2c984179c25e8d3",
+    "5c1e365ab2298a86bc8e"
   ],
   "magnitude": [
     "eb46b2c984179c25e8d3"
@@ -2129,7 +2149,8 @@
     "176e184974cefab0157a",
     "b189b899bdb94ad7b8c9",
     "bf1dd48bf6129d12dbbf",
-    "6a867c6e91c190bdae08"
+    "6a867c6e91c190bdae08",
+    "b2692ee7a136e640f575"
   ],
   "record": [
     "56d8c333ee2dd2a1d0c9",
@@ -2395,7 +2416,8 @@
     "78139d138daf16a5cde2",
     "e37a53a648b25de44183",
     "3fe650d11d761a6efead",
-    "77a759d27e1ff04f9b78"
+    "77a759d27e1ff04f9b78",
+    "5247062093577c90449c"
   ],
   "articles": [
     "de8ffe5e135d5c4b3c56",
@@ -2466,7 +2488,8 @@
     "d75296e1128025bbdc0c",
     "d6c98f2b287380619e30",
     "4abc6786f1755438ee66",
-    "4540f1ffd920b9f38662"
+    "4540f1ffd920b9f38662",
+    "5247062093577c90449c"
   ],
   "copper": [
     "646a93fe7dbfc194754f"
@@ -2495,7 +2518,8 @@
     "44ffa0c2bac751c4fbf6",
     "d7ff4efd909fcad49891",
     "5e4fff5a62d246e80682",
-    "2a27bf5926b0ac541ba3"
+    "2a27bf5926b0ac541ba3",
+    "7f8b5efac45abe7d6b79"
   ],
   "information": [
     "a407bea2a75fba6ffbc9",
@@ -2609,7 +2633,8 @@
     "a3abf607847074d6add6"
   ],
   "chance": [
-    "a3abf607847074d6add6"
+    "a3abf607847074d6add6",
+    "7f8b5efac45abe7d6b79"
   ],
   "annual": [
     "a3abf607847074d6add6"
@@ -2659,7 +2684,8 @@
   ],
   "continue": [
     "a3abf607847074d6add6",
-    "1754d31131716e8fa8bb"
+    "1754d31131716e8fa8bb",
+    "aea7d11115659e700659"
   ],
   "near": [
     "a3abf607847074d6add6"
@@ -3007,7 +3033,8 @@
   ],
   "pesquisa": [
     "06f2d070583f9f81a457",
-    "cd27067bb14d84b4d606"
+    "cd27067bb14d84b4d606",
+    "4587291c1db37bed283a"
   ],
   "conhecimento": [
     "06f2d070583f9f81a457"
@@ -3092,13 +3119,15 @@
   ],
   "significa": [
     "06f2d070583f9f81a457",
-    "186da5d42b551aabb2a5"
+    "186da5d42b551aabb2a5",
+    "f4e2de910c1fc64b83df"
   ],
   "advindo": [
     "06f2d070583f9f81a457"
   ],
   "documentação": [
-    "06f2d070583f9f81a457"
+    "06f2d070583f9f81a457",
+    "8686ae8351ac6f04fb55"
   ],
   "sistemática": [
     "06f2d070583f9f81a457"
@@ -3192,7 +3221,9 @@
     "3f15d48112e4dcadd39c"
   ],
   "primeiros": [
-    "5cebb131b1943bbbca07"
+    "5cebb131b1943bbbca07",
+    "4587291c1db37bed283a",
+    "83df4263bb17073cd194"
   ],
   "tradição": [
     "5cebb131b1943bbbca07",
@@ -3235,7 +3266,9 @@
     "b1371d170ecc0c3ef88d",
     "e9a8d64437b3c023a27e",
     "6a4179899a6697e447b2",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "74a2652b6114b1a3a42c",
+    "aea7d11115659e700659"
   ],
   "histórico": [
     "c397f6707df128ebdef7",
@@ -3259,7 +3292,16 @@
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
     "e12b01136091151a3203",
-    "471a19dded0f28b7ac1e"
+    "471a19dded0f28b7ac1e",
+    "32e1ecf49a9fee915c38",
+    "5247062093577c90449c",
+    "f4e2de910c1fc64b83df",
+    "4587291c1db37bed283a",
+    "b9a3c6a66f8a8094ffef",
+    "7e640420cefc45d406f1",
+    "99d3e3c3559d1e611fd0",
+    "aea7d11115659e700659",
+    "daa762f52316eade860a"
   ],
   "suas": [
     "c397f6707df128ebdef7",
@@ -3268,12 +3310,16 @@
     "9fddfbbae33cd4eef116",
     "c7e6f1568072e19ea94d",
     "56b03ca419ad5766170f",
-    "1778b429ad07f6b4afd1"
+    "1778b429ad07f6b4afd1",
+    "cabb40040acf1ac6f2e2",
+    "5406bdf05ddadc964f72",
+    "b9a3c6a66f8a8094ffef"
   ],
   "parte": [
     "c397f6707df128ebdef7",
     "c9a86c156a099a07b703",
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "b3e251ebc0e88781652e"
   ],
   "podem": [
     "c397f6707df128ebdef7",
@@ -3282,7 +3328,8 @@
     "68f988c6d62bb1ba03a5",
     "354322fe9c0197e5c16a",
     "6598c81d8db11db89699",
-    "471a19dded0f28b7ac1e"
+    "471a19dded0f28b7ac1e",
+    "b9a3c6a66f8a8094ffef"
   ],
   "útil": [
     "c397f6707df128ebdef7"
@@ -3291,11 +3338,13 @@
     "c397f6707df128ebdef7"
   ],
   "arquivo": [
-    "c397f6707df128ebdef7"
+    "c397f6707df128ebdef7",
+    "8686ae8351ac6f04fb55"
   ],
   "geral": [
     "c397f6707df128ebdef7",
-    "6d7de29e59895591669e"
+    "6d7de29e59895591669e",
+    "f4e2de910c1fc64b83df"
   ],
   "documentos": [
     "c397f6707df128ebdef7"
@@ -3306,19 +3355,23 @@
     "68f988c6d62bb1ba03a5",
     "c7e6f1568072e19ea94d",
     "382dd7ca028e3c19a269",
-    "01317bc049cbaaeb9086"
+    "01317bc049cbaaeb9086",
+    "32e1ecf49a9fee915c38",
+    "8686ae8351ac6f04fb55"
   ],
   "vezes": [
     "c397f6707df128ebdef7",
     "a0c495e73c45bae897cc",
     "5f09533238b9a7a55a05",
-    "8a6aead086e5deda344b"
+    "8a6aead086e5deda344b",
+    "e51c5d24ba4f2d214bfb"
   ],
   "metodologias": [
     "c397f6707df128ebdef7"
   ],
   "quer": [
-    "c397f6707df128ebdef7"
+    "c397f6707df128ebdef7",
+    "83df4263bb17073cd194"
   ],
   "escrito": [
     "c397f6707df128ebdef7"
@@ -3335,7 +3388,8 @@
     "7399be274ecab1aa2b49",
     "6d7de29e59895591669e",
     "8709ba4804f6a7db8005",
-    "ce7b703bce977f8873d8"
+    "ce7b703bce977f8873d8",
+    "b9a3c6a66f8a8094ffef"
   ],
   "existem": [
     "c53ea0c4b70a9def9a76",
@@ -3353,7 +3407,12 @@
     "e4b07a1255e72a3a76e6",
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "32e1ecf49a9fee915c38",
+    "4587291c1db37bed283a",
+    "8686ae8351ac6f04fb55",
+    "7e640420cefc45d406f1",
+    "daa762f52316eade860a"
   ],
   "tanto": [
     "c53ea0c4b70a9def9a76"
@@ -3361,13 +3420,16 @@
   "muito": [
     "c53ea0c4b70a9def9a76",
     "3d489c3051cf620aecd4",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "32e1ecf49a9fee915c38",
+    "7e640420cefc45d406f1"
   ],
   "especialização": [
     "c53ea0c4b70a9def9a76"
   ],
   "área": [
-    "c53ea0c4b70a9def9a76"
+    "c53ea0c4b70a9def9a76",
+    "83df4263bb17073cd194"
   ],
   "grande": [
     "c53ea0c4b70a9def9a76",
@@ -3378,7 +3440,8 @@
   ],
   "experiência": [
     "c53ea0c4b70a9def9a76",
-    "471a19dded0f28b7ac1e"
+    "471a19dded0f28b7ac1e",
+    "706bf1812fa68270e9a9"
   ],
   "sapiens": [
     "c53ea0c4b70a9def9a76"
@@ -3387,20 +3450,25 @@
     "c53ea0c4b70a9def9a76",
     "99bdace1c1cfe6afc2fb",
     "499b8ce4bb1e4ac0ba3f",
-    "7399be274ecab1aa2b49"
+    "7399be274ecab1aa2b49",
+    "f4e2de910c1fc64b83df",
+    "83df4263bb17073cd194"
   ],
   "registos": [
     "c53ea0c4b70a9def9a76"
   ],
   "escritos": [
-    "c53ea0c4b70a9def9a76"
+    "c53ea0c4b70a9def9a76",
+    "706bf1812fa68270e9a9"
   ],
   "onde": [
     "c53ea0c4b70a9def9a76",
     "8a6aead086e5deda344b",
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
-    "6598c81d8db11db89699"
+    "6598c81d8db11db89699",
+    "32e1ecf49a9fee915c38",
+    "99d3e3c3559d1e611fd0"
   ],
   "históricos": [
     "c53ea0c4b70a9def9a76",
@@ -3439,7 +3507,9 @@
     "e4b07a1255e72a3a76e6",
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
-    "6598c81d8db11db89699"
+    "6598c81d8db11db89699",
+    "f4e2de910c1fc64b83df",
+    "daa762f52316eade860a"
   ],
   "organizada": [
     "c53ea0c4b70a9def9a76"
@@ -3455,13 +3525,15 @@
   ],
   "análise": [
     "08fb0e09fb3fb24bebd7",
-    "53559ebac9e62ea509d5"
+    "53559ebac9e62ea509d5",
+    "83df4263bb17073cd194"
   ],
   "lugar": [
     "08fb0e09fb3fb24bebd7",
     "01317bc049cbaaeb9086",
     "263598c6732c480c88cf",
-    "354322fe9c0197e5c16a"
+    "354322fe9c0197e5c16a",
+    "cabb40040acf1ac6f2e2"
   ],
   "referir": [
     "08fb0e09fb3fb24bebd7"
@@ -3481,7 +3553,10 @@
     "08fb0e09fb3fb24bebd7",
     "9253295853595aae4df3",
     "8a6aead086e5deda344b",
-    "68f988c6d62bb1ba03a5"
+    "68f988c6d62bb1ba03a5",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86",
+    "8686ae8351ac6f04fb55"
   ],
   "prazo": [
     "08fb0e09fb3fb24bebd7",
@@ -3507,14 +3582,17 @@
     "6a4179899a6697e447b2",
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
-    "6598c81d8db11db89699"
+    "6598c81d8db11db89699",
+    "8686ae8351ac6f04fb55",
+    "daa762f52316eade860a"
   ],
   "filosofia": [
     "08fb0e09fb3fb24bebd7",
     "4917fb3f1c6eb6df1ff0"
   ],
   "primeiras": [
-    "08fb0e09fb3fb24bebd7"
+    "08fb0e09fb3fb24bebd7",
+    "aea7d11115659e700659"
   ],
   "narrativas": [
     "08fb0e09fb3fb24bebd7",
@@ -3537,7 +3615,11 @@
     "6a4179899a6697e447b2",
     "62e044280267cc02a99d",
     "e4b07a1255e72a3a76e6",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "8686ae8351ac6f04fb55",
+    "b9a3c6a66f8a8094ffef",
+    "99d3e3c3559d1e611fd0",
+    "aea7d11115659e700659"
   ],
   "moderno": [
     "08fb0e09fb3fb24bebd7",
@@ -3591,7 +3673,8 @@
     "c9a86c156a099a07b703",
     "8a6aead086e5deda344b",
     "9286f73076369706ad94",
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "aea7d11115659e700659"
   ],
   "primeira": [
     "4917fb3f1c6eb6df1ff0",
@@ -3599,7 +3682,8 @@
     "9fddfbbae33cd4eef116"
   ],
   "desenvolvido": [
-    "4917fb3f1c6eb6df1ff0"
+    "4917fb3f1c6eb6df1ff0",
+    "b9a3c6a66f8a8094ffef"
   ],
   "obra": [
     "4917fb3f1c6eb6df1ff0"
@@ -3618,7 +3702,8 @@
   "ciência": [
     "99bdace1c1cfe6afc2fb",
     "3b448d9ac2cf2aa266c3",
-    "53559ebac9e62ea509d5"
+    "53559ebac9e62ea509d5",
+    "4587291c1db37bed283a"
   ],
   "métodos": [
     "99bdace1c1cfe6afc2fb"
@@ -3689,7 +3774,15 @@
   ],
   "dados": [
     "99bdace1c1cfe6afc2fb",
-    "b1371d170ecc0c3ef88d"
+    "b1371d170ecc0c3ef88d",
+    "5247062093577c90449c",
+    "4587291c1db37bed283a",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86",
+    "7e640420cefc45d406f1",
+    "99d3e3c3559d1e611fd0",
+    "83df4263bb17073cd194",
+    "aea7d11115659e700659"
   ],
   "examinados": [
     "99bdace1c1cfe6afc2fb"
@@ -3715,7 +3808,10 @@
     "3b448d9ac2cf2aa266c3"
   ],
   "seja": [
-    "3b448d9ac2cf2aa266c3"
+    "3b448d9ac2cf2aa266c3",
+    "84c9e7df2b586aff014b",
+    "74a2652b6114b1a3a42c",
+    "b9a3c6a66f8a8094ffef"
   ],
   "concentraram": [
     "3b448d9ac2cf2aa266c3"
@@ -3756,15 +3852,18 @@
     "3b448d9ac2cf2aa266c3"
   ],
   "condições": [
-    "3b448d9ac2cf2aa266c3"
+    "3b448d9ac2cf2aa266c3",
+    "74a2652b6114b1a3a42c"
   ],
   "materiais": [
     "3b448d9ac2cf2aa266c3",
-    "b1371d170ecc0c3ef88d"
+    "b1371d170ecc0c3ef88d",
+    "706bf1812fa68270e9a9"
   ],
   "outras": [
     "3b448d9ac2cf2aa266c3",
-    "62e044280267cc02a99d"
+    "62e044280267cc02a99d",
+    "99d3e3c3559d1e611fd0"
   ],
   "assim": [
     "3b448d9ac2cf2aa266c3",
@@ -3786,7 +3885,10 @@
     "c7e6f1568072e19ea94d",
     "263598c6732c480c88cf",
     "6598c81d8db11db89699",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "32e1ecf49a9fee915c38",
+    "e51c5d24ba4f2d214bfb",
+    "8686ae8351ac6f04fb55"
   ],
   "maneiras": [
     "c9a86c156a099a07b703"
@@ -3826,7 +3928,8 @@
   "trabalho": [
     "c9a86c156a099a07b703",
     "7399be274ecab1aa2b49",
-    "53559ebac9e62ea509d5"
+    "53559ebac9e62ea509d5",
+    "cabb40040acf1ac6f2e2"
   ],
   "estas": [
     "c9a86c156a099a07b703",
@@ -3852,7 +3955,8 @@
     "715f3eb9436f03113fc8"
   ],
   "início": [
-    "c9a86c156a099a07b703"
+    "c9a86c156a099a07b703",
+    "5406bdf05ddadc964f72"
   ],
   "arte": [
     "c9a86c156a099a07b703",
@@ -3882,7 +3986,9 @@
     "16181adf547c53f350b7",
     "62e044280267cc02a99d",
     "e4b07a1255e72a3a76e6",
-    "905e0eba2d7ed1e1a68a"
+    "905e0eba2d7ed1e1a68a",
+    "706bf1812fa68270e9a9",
+    "f4e2de910c1fc64b83df"
   ],
   "gênero": [
     "a0c495e73c45bae897cc",
@@ -3930,7 +4036,8 @@
     "a0c495e73c45bae897cc"
   ],
   "computação": [
-    "a0c495e73c45bae897cc"
+    "a0c495e73c45bae897cc",
+    "7e640420cefc45d406f1"
   ],
   "fazer": [
     "a0c495e73c45bae897cc",
@@ -3961,7 +4068,8 @@
   ],
   "anos": [
     "9253295853595aae4df3",
-    "499b8ce4bb1e4ac0ba3f"
+    "499b8ce4bb1e4ac0ba3f",
+    "f4e2de910c1fc64b83df"
   ],
   "solo": [
     "9253295853595aae4df3"
@@ -3990,7 +4098,8 @@
   ],
   "desde": [
     "9253295853595aae4df3",
-    "499b8ce4bb1e4ac0ba3f"
+    "499b8ce4bb1e4ac0ba3f",
+    "99d3e3c3559d1e611fd0"
   ],
   "localizações": [
     "9253295853595aae4df3"
@@ -4011,7 +4120,8 @@
     "b1371d170ecc0c3ef88d"
   ],
   "inclui": [
-    "5f09533238b9a7a55a05"
+    "5f09533238b9a7a55a05",
+    "706bf1812fa68270e9a9"
   ],
   "entre": [
     "5f09533238b9a7a55a05",
@@ -4050,7 +4160,8 @@
     "5f09533238b9a7a55a05"
   ],
   "nova": [
-    "5f09533238b9a7a55a05"
+    "5f09533238b9a7a55a05",
+    "5406bdf05ddadc964f72"
   ],
   "comuns": [
     "5f09533238b9a7a55a05",
@@ -4113,7 +4224,8 @@
     "186da5d42b551aabb2a5"
   ],
   "últimos": [
-    "499b8ce4bb1e4ac0ba3f"
+    "499b8ce4bb1e4ac0ba3f",
+    "f4e2de910c1fc64b83df"
   ],
   "acadêmicos": [
     "499b8ce4bb1e4ac0ba3f",
@@ -4135,13 +4247,15 @@
     "5c4950d16d5069e4913c"
   ],
   "ideias": [
-    "7399be274ecab1aa2b49"
+    "7399be274ecab1aa2b49",
+    "5406bdf05ddadc964f72"
   ],
   "partir": [
     "7399be274ecab1aa2b49",
     "53559ebac9e62ea509d5",
     "68f988c6d62bb1ba03a5",
-    "382dd7ca028e3c19a269"
+    "382dd7ca028e3c19a269",
+    "84c9e7df2b586aff014b"
   ],
   "diferenças": [
     "7399be274ecab1aa2b49"
@@ -4162,7 +4276,10 @@
   ],
   "tipo": [
     "7399be274ecab1aa2b49",
-    "263598c6732c480c88cf"
+    "263598c6732c480c88cf",
+    "cabb40040acf1ac6f2e2",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86"
   ],
   "tenta": [
     "7399be274ecab1aa2b49"
@@ -4177,7 +4294,8 @@
     "6d7de29e59895591669e"
   ],
   "média": [
-    "715f3eb9436f03113fc8"
+    "715f3eb9436f03113fc8",
+    "74a2652b6114b1a3a42c"
   ],
   "pública": [
     "715f3eb9436f03113fc8"
@@ -4193,7 +4311,8 @@
     "715f3eb9436f03113fc8"
   ],
   "ambientes": [
-    "715f3eb9436f03113fc8"
+    "715f3eb9436f03113fc8",
+    "b9a3c6a66f8a8094ffef"
   ],
   "museus": [
     "715f3eb9436f03113fc8"
@@ -4230,13 +4349,16 @@
     "715f3eb9436f03113fc8"
   ],
   "alguma": [
-    "715f3eb9436f03113fc8"
+    "715f3eb9436f03113fc8",
+    "706bf1812fa68270e9a9"
   ],
   "formação": [
-    "715f3eb9436f03113fc8"
+    "715f3eb9436f03113fc8",
+    "aea7d11115659e700659"
   ],
   "trabalham": [
-    "715f3eb9436f03113fc8"
+    "715f3eb9436f03113fc8",
+    "daa762f52316eade860a"
   ],
   "fora": [
     "715f3eb9436f03113fc8"
@@ -4250,7 +4372,8 @@
     "b1371d170ecc0c3ef88d"
   ],
   "nomes": [
-    "b1371d170ecc0c3ef88d"
+    "b1371d170ecc0c3ef88d",
+    "8686ae8351ac6f04fb55"
   ],
   "datas": [
     "b1371d170ecc0c3ef88d",
@@ -4274,7 +4397,8 @@
     "3f15d48112e4dcadd39c",
     "4594119657f1aa053810",
     "cc78d24a4262a5a0f51e",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "4587291c1db37bed283a"
   ],
   "cronologia": [
     "b1371d170ecc0c3ef88d"
@@ -4304,11 +4428,13 @@
     "3f15d48112e4dcadd39c"
   ],
   "cursos": [
-    "3f15d48112e4dcadd39c"
+    "3f15d48112e4dcadd39c",
+    "32e1ecf49a9fee915c38"
   ],
   "alunos": [
     "3f15d48112e4dcadd39c",
-    "8a6aead086e5deda344b"
+    "8a6aead086e5deda344b",
+    "eeb5d2d774a73c82fb86"
   ],
   "indivíduo": [
     "3f15d48112e4dcadd39c"
@@ -4352,7 +4478,8 @@
     "8a6aead086e5deda344b"
   ],
   "livros": [
-    "8a6aead086e5deda344b"
+    "8a6aead086e5deda344b",
+    "83df4263bb17073cd194"
   ],
   "didáticos": [
     "8a6aead086e5deda344b"
@@ -4566,7 +4693,8 @@
   "john": [
     "21e9797f73e58b7a5016",
     "7db760ced88775a3f94c",
-    "b36d6f63b9ad9ae1593f"
+    "b36d6f63b9ad9ae1593f",
+    "7f8b5efac45abe7d6b79"
   ],
   "professor": [
     "21e9797f73e58b7a5016",
@@ -4614,7 +4742,9 @@
     "c590112fda2c1e042184",
     "dbba9492e290d17dacd2",
     "47c94b310d701e49f51d",
-    "16d1fc1ed8d37c34d610"
+    "16d1fc1ed8d37c34d610",
+    "5c1e365ab2298a86bc8e",
+    "615e475d9c9b3c1657dd"
   ],
   "2020": [
     "8c06318b9ebb4b1cd6cf",
@@ -4661,7 +4791,8 @@
     "6a867c6e91c190bdae08",
     "c590112fda2c1e042184",
     "47c94b310d701e49f51d",
-    "1778b429ad07f6b4afd1"
+    "1778b429ad07f6b4afd1",
+    "b2692ee7a136e640f575"
   ],
   "1995": [
     "8c06318b9ebb4b1cd6cf",
@@ -4850,7 +4981,8 @@
     "808414c261d48fb1166e",
     "7f9ee12230f57f3df560",
     "d75296e1128025bbdc0c",
-    "6a867c6e91c190bdae08"
+    "6a867c6e91c190bdae08",
+    "b2692ee7a136e640f575"
   ],
   "1988": [
     "b56fddc301cd48b03c83"
@@ -4878,7 +5010,8 @@
     "b56fddc301cd48b03c83",
     "b2012c7e4039edadfd25",
     "b5c12ee2662bce1892f4",
-    "288ba888f4263133c591"
+    "288ba888f4263133c591",
+    "5247062093577c90449c"
   ],
   "macmillan": [
     "b56fddc301cd48b03c83"
@@ -5017,7 +5150,8 @@
   ],
   "deve": [
     "53559ebac9e62ea509d5",
-    "4342b867807e0e26948d"
+    "4342b867807e0e26948d",
+    "f4e2de910c1fc64b83df"
   ],
   "acontecimento": [
     "53559ebac9e62ea509d5"
@@ -5055,7 +5189,8 @@
     "e9a8d64437b3c023a27e"
   ],
   "processo": [
-    "e9a8d64437b3c023a27e"
+    "e9a8d64437b3c023a27e",
+    "f4e2de910c1fc64b83df"
   ],
   "povos": [
     "e9a8d64437b3c023a27e",
@@ -5078,7 +5213,8 @@
   ],
   "pelos": [
     "e9a8d64437b3c023a27e",
-    "186da5d42b551aabb2a5"
+    "186da5d42b551aabb2a5",
+    "daa762f52316eade860a"
   ],
   "sumérios": [
     "e9a8d64437b3c023a27e"
@@ -5136,7 +5272,8 @@
     "9aa9a9d8edf8235f4883"
   ],
   "temas": [
-    "6d7de29e59895591669e"
+    "6d7de29e59895591669e",
+    "aea7d11115659e700659"
   ],
   "chegada": [
     "6d7de29e59895591669e"
@@ -5161,14 +5298,17 @@
     "9286f73076369706ad94"
   ],
   "dias": [
-    "6d7de29e59895591669e"
+    "6d7de29e59895591669e",
+    "706bf1812fa68270e9a9"
   ],
   "brasileiras": [
     "5c4950d16d5069e4913c"
   ],
   "ainda": [
     "5c4950d16d5069e4913c",
-    "8709ba4804f6a7db8005"
+    "8709ba4804f6a7db8005",
+    "99d3e3c3559d1e611fd0",
+    "daa762f52316eade860a"
   ],
   "fazem": [
     "5c4950d16d5069e4913c",
@@ -5184,11 +5324,15 @@
     "905e0eba2d7ed1e1a68a",
     "354322fe9c0197e5c16a",
     "6598c81d8db11db89699",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "32e1ecf49a9fee915c38",
+    "f4e2de910c1fc64b83df",
+    "83df4263bb17073cd194"
   ],
   "meio": [
     "5c4950d16d5069e4913c",
-    "68f988c6d62bb1ba03a5"
+    "68f988c6d62bb1ba03a5",
+    "b9a3c6a66f8a8094ffef"
   ],
   "além": [
     "5c4950d16d5069e4913c",
@@ -5235,7 +5379,8 @@
     "5c4950d16d5069e4913c"
   ],
   "transforme": [
-    "5c4950d16d5069e4913c"
+    "5c4950d16d5069e4913c",
+    "5406bdf05ddadc964f72"
   ],
   "claudia": [
     "4594119657f1aa053810",
@@ -5257,14 +5402,16 @@
     "4594119657f1aa053810"
   ],
   "livro": [
-    "4594119657f1aa053810"
+    "4594119657f1aa053810",
+    "b2692ee7a136e640f575"
   ],
   "mulher": [
     "4594119657f1aa053810",
     "cc78d24a4262a5a0f51e"
   ],
   "busca": [
-    "4594119657f1aa053810"
+    "4594119657f1aa053810",
+    "83df4263bb17073cd194"
   ],
   "chef": [
     "4594119657f1aa053810"
@@ -5317,7 +5464,8 @@
     "01317bc049cbaaeb9086"
   ],
   "disponível": [
-    "8709ba4804f6a7db8005"
+    "8709ba4804f6a7db8005",
+    "e51c5d24ba4f2d214bfb"
   ],
   "android": [
     "8709ba4804f6a7db8005",
@@ -5338,7 +5486,16 @@
     "6598c81d8db11db89699",
     "e12b01136091151a3203",
     "cd27067bb14d84b4d606",
-    "471a19dded0f28b7ac1e"
+    "471a19dded0f28b7ac1e",
+    "32e1ecf49a9fee915c38",
+    "5247062093577c90449c",
+    "e51c5d24ba4f2d214bfb",
+    "84c9e7df2b586aff014b",
+    "74a2652b6114b1a3a42c",
+    "8686ae8351ac6f04fb55",
+    "83df4263bb17073cd194",
+    "aea7d11115659e700659",
+    "daa762f52316eade860a"
   ],
   "confere": [
     "8709ba4804f6a7db8005"
@@ -5358,13 +5515,15 @@
   "acesso": [
     "8709ba4804f6a7db8005",
     "01317bc049cbaaeb9086",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "b2692ee7a136e640f575"
   ],
   "ilimitado": [
     "8709ba4804f6a7db8005"
   ],
   "apps": [
-    "8709ba4804f6a7db8005"
+    "8709ba4804f6a7db8005",
+    "615e475d9c9b3c1657dd"
   ],
   "títulos": [
     "8709ba4804f6a7db8005"
@@ -5571,7 +5730,8 @@
   ],
   "else": [
     "6c4c4656a42ee8c07617",
-    "d6c98f2b287380619e30"
+    "d6c98f2b287380619e30",
+    "84c9e7df2b586aff014b"
   ],
   "cardmembers": [
     "6c4c4656a42ee8c07617",
@@ -5734,7 +5894,8 @@
     "2a27bf5926b0ac541ba3",
     "ce23a5d770a7f2f3c231",
     "471a19dded0f28b7ac1e",
-    "0acdefd5bd0527c1f390"
+    "0acdefd5bd0527c1f390",
+    "706bf1812fa68270e9a9"
   ],
   "incorporated": [
     "4188333f4ba5b20f6ed0"
@@ -5834,7 +5995,8 @@
   "exercícios": [
     "cc78d24a4262a5a0f51e",
     "9286f73076369706ad94",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "706bf1812fa68270e9a9"
   ],
   "gabarito": [
     "cc78d24a4262a5a0f51e",
@@ -5934,7 +6096,8 @@
   ],
   "seus": [
     "9286f73076369706ad94",
-    "62e044280267cc02a99d"
+    "62e044280267cc02a99d",
+    "83df4263bb17073cd194"
   ],
   "conhecimentos": [
     "9286f73076369706ad94"
@@ -5970,7 +6133,9 @@
   "real": [
     "9fddfbbae33cd4eef116",
     "571d762995439d43cd4b",
-    "4540f1ffd920b9f38662"
+    "4540f1ffd920b9f38662",
+    "b3e251ebc0e88781652e",
+    "83df4263bb17073cd194"
   ],
   "ocorreu": [
     "9fddfbbae33cd4eef116",
@@ -6001,7 +6166,8 @@
     "9aa9a9d8edf8235f4883"
   ],
   "nível": [
-    "9aa9a9d8edf8235f4883"
+    "9aa9a9d8edf8235f4883",
+    "7e640420cefc45d406f1"
   ],
   "representam": [
     "9aa9a9d8edf8235f4883",
@@ -6013,7 +6179,8 @@
   "esse": [
     "9aa9a9d8edf8235f4883",
     "68f988c6d62bb1ba03a5",
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "706bf1812fa68270e9a9"
   ],
   "vida": [
     "9aa9a9d8edf8235f4883"
@@ -6116,7 +6283,8 @@
     "ce7b703bce977f8873d8"
   ],
   "nessa": [
-    "ce7b703bce977f8873d8"
+    "ce7b703bce977f8873d8",
+    "f4e2de910c1fc64b83df"
   ],
   "altura": [
     "ce7b703bce977f8873d8"
@@ -6198,7 +6366,8 @@
     "e6cce1376ff1fa943a26",
     "9f14f3ca45ea3c490e3d",
     "ce23a5d770a7f2f3c231",
-    "471a19dded0f28b7ac1e"
+    "471a19dded0f28b7ac1e",
+    "5247062093577c90449c"
   ],
   "leader": [
     "41448cb12b7814c3fed3"
@@ -6239,7 +6408,8 @@
     "77a759d27e1ff04f9b78",
     "ccdc2731acb54c2e9976",
     "e7328c406a61118405ae",
-    "4540f1ffd920b9f38662"
+    "4540f1ffd920b9f38662",
+    "99d3e3c3559d1e611fd0"
   ],
   "registeroneid": [
     "41448cb12b7814c3fed3"
@@ -6901,7 +7071,8 @@
   "2017": [
     "760b4685569239b7f0f2",
     "d75296e1128025bbdc0c",
-    "c590112fda2c1e042184"
+    "c590112fda2c1e042184",
+    "b2692ee7a136e640f575"
   ],
   "distribution": [
     "760b4685569239b7f0f2",
@@ -7130,13 +7301,15 @@
     "7db760ced88775a3f94c",
     "a4f632d74c5d5e8ec08b",
     "1778b429ad07f6b4afd1",
-    "6e5a4b11e7953c039d89"
+    "6e5a4b11e7953c039d89",
+    "7f8b5efac45abe7d6b79"
   ],
   "2023": [
     "7db760ced88775a3f94c",
     "5e3cb3243387a244b162",
     "aba0032cf122c1fb77b1",
-    "a4f632d74c5d5e8ec08b"
+    "a4f632d74c5d5e8ec08b",
+    "99d3e3c3559d1e611fd0"
   ],
   "marathon": [
     "7db760ced88775a3f94c"
@@ -7729,7 +7902,8 @@
     "748b438318d7fed35c59",
     "0c1f6d6f0ca40fa1a7fa",
     "975414a3d484b873c8f7",
-    "ac9248a1e79a78488c58"
+    "ac9248a1e79a78488c58",
+    "7f8b5efac45abe7d6b79"
   ],
   "legend": [
     "1754d31131716e8fa8bb",
@@ -8000,16 +8174,25 @@
     "263598c6732c480c88cf"
   ],
   "arquivos": [
-    "3d489c3051cf620aecd4"
+    "3d489c3051cf620aecd4",
+    "daa762f52316eade860a"
   ],
   "código": [
     "3d489c3051cf620aecd4",
-    "4342b867807e0e26948d"
+    "4342b867807e0e26948d",
+    "706bf1812fa68270e9a9",
+    "f4e2de910c1fc64b83df",
+    "4587291c1db37bed283a",
+    "84c9e7df2b586aff014b",
+    "74a2652b6114b1a3a42c",
+    "7e640420cefc45d406f1"
   ],
   "versão": [
     "3d489c3051cf620aecd4",
     "68f988c6d62bb1ba03a5",
-    "c7e6f1568072e19ea94d"
+    "c7e6f1568072e19ea94d",
+    "e51c5d24ba4f2d214bfb",
+    "b9a3c6a66f8a8094ffef"
   ],
   "mensagens": [
     "3d489c3051cf620aecd4",
@@ -8042,7 +8225,9 @@
   "será": [
     "3d489c3051cf620aecd4",
     "354322fe9c0197e5c16a",
-    "cd27067bb14d84b4d606"
+    "cd27067bb14d84b4d606",
+    "e51c5d24ba4f2d214bfb",
+    "84c9e7df2b586aff014b"
   ],
   "então": [
     "3d489c3051cf620aecd4"
@@ -8065,7 +8250,8 @@
     "3d489c3051cf620aecd4"
   ],
   "ferramentas": [
-    "3d489c3051cf620aecd4"
+    "3d489c3051cf620aecd4",
+    "cabb40040acf1ac6f2e2"
   ],
   "arquivar": [
     "3d489c3051cf620aecd4"
@@ -8082,7 +8268,8 @@
   "windows": [
     "68f988c6d62bb1ba03a5",
     "c0a34112833e0f46519d",
-    "3f2f1693a564e67ace55"
+    "3f2f1693a564e67ace55",
+    "e51c5d24ba4f2d214bfb"
   ],
   "preciso": [
     "68f988c6d62bb1ba03a5"
@@ -8216,10 +8403,13 @@
   ],
   "quando": [
     "4342b867807e0e26948d",
-    "6a4179899a6697e447b2"
+    "6a4179899a6697e447b2",
+    "8686ae8351ac6f04fb55"
   ],
   "abaixo": [
-    "4342b867807e0e26948d"
+    "4342b867807e0e26948d",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86"
   ],
   "endereço": [
     "4342b867807e0e26948d"
@@ -8239,7 +8429,8 @@
     "c7e6f1568072e19ea94d",
     "382dd7ca028e3c19a269",
     "263598c6732c480c88cf",
-    "354322fe9c0197e5c16a"
+    "354322fe9c0197e5c16a",
+    "83df4263bb17073cd194"
   ],
   "hotmail": [
     "4342b867807e0e26948d"
@@ -8274,7 +8465,8 @@
   ],
   "aberto": [
     "4342b867807e0e26948d",
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "4587291c1db37bed283a"
   ],
   "contatos": [
     "16181adf547c53f350b7"
@@ -8283,22 +8475,29 @@
     "16181adf547c53f350b7"
   ],
   "iniciar": [
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "f4e2de910c1fc64b83df",
+    "e51c5d24ba4f2d214bfb"
   ],
   "número": [
     "16181adf547c53f350b7",
     "56b03ca419ad5766170f",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "b3e251ebc0e88781652e"
   ],
   "adicionar": [
     "16181adf547c53f350b7",
     "56b03ca419ad5766170f"
   ],
   "usando": [
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "cabb40040acf1ac6f2e2"
   ],
   "clique": [
-    "16181adf547c53f350b7"
+    "16181adf547c53f350b7",
+    "cabb40040acf1ac6f2e2",
+    "5406bdf05ddadc964f72",
+    "e51c5d24ba4f2d214bfb"
   ],
   "fórum": [
     "16181adf547c53f350b7"
@@ -8309,7 +8508,8 @@
   "usado": [
     "16181adf547c53f350b7",
     "e4b07a1255e72a3a76e6",
-    "354322fe9c0197e5c16a"
+    "354322fe9c0197e5c16a",
+    "b3e251ebc0e88781652e"
   ],
   "falar": [
     "16181adf547c53f350b7"
@@ -8323,13 +8523,22 @@
   "software": [
     "c7e6f1568072e19ea94d",
     "3315dba68b114c0c8686",
-    "ed512a5670aea7e32ace"
+    "ed512a5670aea7e32ace",
+    "7f8b5efac45abe7d6b79",
+    "b9a3c6a66f8a8094ffef"
   ],
   "artigo": [
-    "c7e6f1568072e19ea94d"
+    "c7e6f1568072e19ea94d",
+    "eeb5d2d774a73c82fb86",
+    "b9a3c6a66f8a8094ffef",
+    "daa762f52316eade860a"
   ],
   "programa": [
-    "c7e6f1568072e19ea94d"
+    "c7e6f1568072e19ea94d",
+    "f4e2de910c1fc64b83df",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86",
+    "84c9e7df2b586aff014b"
   ],
   "aqui": [
     "c7e6f1568072e19ea94d"
@@ -8348,7 +8557,8 @@
     "c7e6f1568072e19ea94d"
   ],
   "instalar": [
-    "c7e6f1568072e19ea94d"
+    "c7e6f1568072e19ea94d",
+    "e51c5d24ba4f2d214bfb"
   ],
   "licença": [
     "c7e6f1568072e19ea94d",
@@ -8361,10 +8571,12 @@
     "c7e6f1568072e19ea94d"
   ],
   "code": [
-    "382dd7ca028e3c19a269"
+    "382dd7ca028e3c19a269",
+    "7f8b5efac45abe7d6b79"
   ],
   "acessar": [
-    "382dd7ca028e3c19a269"
+    "382dd7ca028e3c19a269",
+    "7e640420cefc45d406f1"
   ],
   "passo": [
     "382dd7ca028e3c19a269"
@@ -8425,10 +8637,14 @@
     "01317bc049cbaaeb9086"
   ],
   "criar": [
-    "01317bc049cbaaeb9086"
+    "01317bc049cbaaeb9086",
+    "cabb40040acf1ac6f2e2",
+    "b9a3c6a66f8a8094ffef"
   ],
   "gratuita": [
-    "01317bc049cbaaeb9086"
+    "01317bc049cbaaeb9086",
+    "83df4263bb17073cd194",
+    "aea7d11115659e700659"
   ],
   "previsão": [
     "01317bc049cbaaeb9086"
@@ -8437,7 +8653,9 @@
     "01317bc049cbaaeb9086"
   ],
   "tecnologia": [
-    "01317bc049cbaaeb9086"
+    "01317bc049cbaaeb9086",
+    "b2692ee7a136e640f575",
+    "83df4263bb17073cd194"
   ],
   "segurança": [
     "01317bc049cbaaeb9086"
@@ -8449,7 +8667,9 @@
     "01317bc049cbaaeb9086"
   ],
   "qualquer": [
-    "01317bc049cbaaeb9086"
+    "01317bc049cbaaeb9086",
+    "cabb40040acf1ac6f2e2",
+    "5406bdf05ddadc964f72"
   ],
   "mywalden": [
     "91457e4986d9bf318179"
@@ -8531,7 +8751,8 @@
     "e68b49da8acc09aba671"
   ],
   "official": [
-    "07d72f2d21d1e44f5bb4"
+    "07d72f2d21d1e44f5bb4",
+    "7f8b5efac45abe7d6b79"
   ],
   "anglican": [
     "07d72f2d21d1e44f5bb4",
@@ -8886,7 +9107,8 @@
   ],
   "community": [
     "509f0d892e3b3a006ee7",
-    "d128bc1b53d9892d7394"
+    "d128bc1b53d9892d7394",
+    "7f8b5efac45abe7d6b79"
   ],
   "affected": [
     "509f0d892e3b3a006ee7",
@@ -8938,7 +9160,8 @@
     "976a35e83b9a33acb48b",
     "0b2fa62208cc7f821d7f",
     "d08a6e2c32613ddfa443",
-    "5fbc56f3ec4aceef4467"
+    "5fbc56f3ec4aceef4467",
+    "74a2652b6114b1a3a42c"
   ],
   "royals": [
     "976a35e83b9a33acb48b"
@@ -9496,7 +9719,8 @@
     "77a759d27e1ff04f9b78"
   ],
   "offers": [
-    "ac64afb7129d0e6d1742"
+    "ac64afb7129d0e6d1742",
+    "5247062093577c90449c"
   ],
   "product": [
     "ac64afb7129d0e6d1742",
@@ -9649,7 +9873,8 @@
   ],
   "easy": [
     "0a48845c6ef15d099718",
-    "c0a34112833e0f46519d"
+    "c0a34112833e0f46519d",
+    "7f8b5efac45abe7d6b79"
   ],
   "fantastic": [
     "0a48845c6ef15d099718"
@@ -9711,7 +9936,9 @@
   "download": [
     "d5ae2de13ea2799fe40e",
     "c0a34112833e0f46519d",
-    "a69178748075c28f6d29"
+    "a69178748075c28f6d29",
+    "7f8b5efac45abe7d6b79",
+    "e51c5d24ba4f2d214bfb"
   ],
   "invoice": [
     "d5ae2de13ea2799fe40e"
@@ -9890,7 +10117,9 @@
   ],
   "designs": [
     "3a897481f093fbd669ee",
-    "748b438318d7fed35c59"
+    "748b438318d7fed35c59",
+    "cabb40040acf1ac6f2e2",
+    "5406bdf05ddadc964f72"
   ],
   "vintage": [
     "3a897481f093fbd669ee"
@@ -10561,7 +10790,8 @@
     "62e044280267cc02a99d"
   ],
   "pontos": [
-    "62e044280267cc02a99d"
+    "62e044280267cc02a99d",
+    "eeb5d2d774a73c82fb86"
   ],
   "vista": [
     "62e044280267cc02a99d"
@@ -10579,7 +10809,8 @@
     "e4b07a1255e72a3a76e6"
   ],
   "origem": [
-    "e4b07a1255e72a3a76e6"
+    "e4b07a1255e72a3a76e6",
+    "daa762f52316eade860a"
   ],
   "latim": [
     "e4b07a1255e72a3a76e6"
@@ -10622,7 +10853,8 @@
     "e4b07a1255e72a3a76e6"
   ],
   "alguns": [
-    "e4b07a1255e72a3a76e6"
+    "e4b07a1255e72a3a76e6",
+    "f4e2de910c1fc64b83df"
   ],
   "certos": [
     "e4b07a1255e72a3a76e6"
@@ -10996,7 +11228,8 @@
   ],
   "machined": [
     "d277354d1c5020a5f599",
-    "bbbaf80813ce580236c1"
+    "bbbaf80813ce580236c1",
+    "5c1e365ab2298a86bc8e"
   ],
   "aluminum": [
     "d277354d1c5020a5f599"
@@ -11125,13 +11358,15 @@
     "ed512a5670aea7e32ace"
   ],
   "link": [
-    "ed512a5670aea7e32ace"
+    "ed512a5670aea7e32ace",
+    "b2692ee7a136e640f575"
   ],
   "party": [
     "ed512a5670aea7e32ace",
     "e6cce1376ff1fa943a26",
     "9f14f3ca45ea3c490e3d",
-    "ce23a5d770a7f2f3c231"
+    "ce23a5d770a7f2f3c231",
+    "5c1e365ab2298a86bc8e"
   ],
   "male": [
     "f44cace394ff57a934d0",
@@ -11254,7 +11489,9 @@
     "905e0eba2d7ed1e1a68a"
   ],
   "variáveis": [
-    "905e0eba2d7ed1e1a68a"
+    "905e0eba2d7ed1e1a68a",
+    "b3e251ebc0e88781652e",
+    "eeb5d2d774a73c82fb86"
   ],
   "invariáveis": [
     "905e0eba2d7ed1e1a68a"
@@ -11288,7 +11525,8 @@
     "354322fe9c0197e5c16a"
   ],
   "vindo": [
-    "354322fe9c0197e5c16a"
+    "354322fe9c0197e5c16a",
+    "706bf1812fa68270e9a9"
   ],
   "chegar": [
     "354322fe9c0197e5c16a"
@@ -11331,13 +11569,15 @@
   ],
   "problema": [
     "6598c81d8db11db89699",
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "b9a3c6a66f8a8094ffef"
   ],
   "cidade": [
     "6598c81d8db11db89699"
   ],
   "tipos": [
-    "e12b01136091151a3203"
+    "e12b01136091151a3203",
+    "eeb5d2d774a73c82fb86"
   ],
   "comprou": [
     "e12b01136091151a3203"
@@ -11378,7 +11618,8 @@
     "654c6088b827983f7dc5",
     "16d1fc1ed8d37c34d610",
     "beb944d68b0e46a99864",
-    "44ffa0c2bac751c4fbf6"
+    "44ffa0c2bac751c4fbf6",
+    "cabb40040acf1ac6f2e2"
   ],
   "strehl": [
     "1680330108071b32f85d",
@@ -11759,7 +12000,8 @@
   "case": [
     "6d067a99e1f48dfcf1d4",
     "16d1fc1ed8d37c34d610",
-    "62ac99c4aeca3b168d22"
+    "62ac99c4aeca3b168d22",
+    "74a2652b6114b1a3a42c"
   ],
   "triplet": [
     "6d067a99e1f48dfcf1d4"
@@ -12048,7 +12290,8 @@
     "cd27067bb14d84b4d606"
   ],
   "feita": [
-    "cd27067bb14d84b4d606"
+    "cd27067bb14d84b4d606",
+    "aea7d11115659e700659"
   ],
   "pedro": [
     "cd27067bb14d84b4d606"
@@ -12139,7 +12382,8 @@
     "8b5f9c12f9cc123c0d10"
   ],
   "digite": [
-    "8b5f9c12f9cc123c0d10"
+    "8b5f9c12f9cc123c0d10",
+    "74a2652b6114b1a3a42c"
   ],
   "excluídas": [
     "8b5f9c12f9cc123c0d10"
@@ -12535,7 +12779,8 @@
     "6eaeef12692533cab923"
   ],
   "completing": [
-    "d57cefa935be930b0442"
+    "d57cefa935be930b0442",
+    "5247062093577c90449c"
   ],
   "able": [
     "d57cefa935be930b0442",
