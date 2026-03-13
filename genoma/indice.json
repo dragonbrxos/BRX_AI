@@ -132,7 +132,29 @@
       "51930e7ccb1c77c8",
       "da3e0cd95389788c",
       "95207b0591ade63c",
-      "19daa73e6816b963"
+      "19daa73e6816b963",
+      "a337d5446694bb8e",
+      "3c05cba991583c27",
+      "256378cffffa165a",
+      "35ab9201eec4c99a",
+      "a5930c3453e7c334",
+      "ff04c68ca7ebafe4",
+      "7a8430a746946596",
+      "95a315cd86d2675d",
+      "23ce4c59c4411cb2",
+      "e265d486e2a1787a",
+      "73eae3864d60f103",
+      "a5144e8557da8142",
+      "682f998caf31d129",
+      "25aa193c4c1519cd",
+      "18340c6444b07cce",
+      "1558573db23eeba6",
+      "3f0cf31df3a40304",
+      "eb294bc91a1b7e00",
+      "080a42de5b9ade9c",
+      "d3d96791cb3d4979",
+      "d469679c77fb8a41",
+      "bd568b31952780d9"
     ],
     "geral": [
       "e4b3ca60a5ea1dc3"
@@ -1072,7 +1094,29 @@
       "522f524327f86fcb",
       "f7e9dc51b34374c2",
       "cd99bee9f1c51b33",
-      "236d640d8d5a2fbf"
+      "236d640d8d5a2fbf",
+      "f85ae8d342ff3873",
+      "a22a0adc50ae539b",
+      "a3c325dfe0d45319",
+      "82a20c3e88781058",
+      "4a1d4fa56e7463f2",
+      "acb25f0ee459dcd9",
+      "1bb8356f57ee0166",
+      "664b16e1b81fcc7d",
+      "a311b908ce3c3b7c",
+      "a7ba0578a9d09984",
+      "212c2ecc961721bb",
+      "c73b04b1e6268303",
+      "654d6a89cdc197b4",
+      "b2409b76501e27aa",
+      "0904070e6fcf44d1",
+      "a976506c92190379",
+      "723b9e84d5a163a9",
+      "42f63f8acc18852d",
+      "0e0b52872441b940",
+      "23c42db19982410d",
+      "b2144ca4f0295e38",
+      "64fbe26abbecba2e"
     ],
     "processamento linguagem natural BERT": [
       "8b74bdbec2937885",
@@ -1786,7 +1830,29 @@
       "42de0b224d643269",
       "e812dee4ad8f5f4b",
       "70caf3f4b132b65b",
-      "265a73ba4d7cc25f"
+      "265a73ba4d7cc25f",
+      "13cc63b248f1f42e",
+      "80761e44e2d39042",
+      "6080ddb9af913f2a",
+      "43ed6408703b69a7",
+      "11e0c99d02e28e16",
+      "5a891408421f8e38",
+      "377dca1d13d56a80",
+      "b49e7abc5fde93fa",
+      "e4cf99ffa84db012",
+      "d798c41eb070a53f",
+      "6fea827a9303447d",
+      "1b375376783c02f2",
+      "acca6bb42d28dc08",
+      "6e7a09a60aef6785",
+      "c3d987400971d9c0",
+      "bdc8354ffb5e5804",
+      "ed5299beb1e25528",
+      "ad1f697ebdf513ff",
+      "cbeb44fe412e7699",
+      "78f868c10a294b2a",
+      "bb332c681b0b119f",
+      "39663b2befa72524"
     ],
     "redes neurais recorrentes LSTM": [
       "c4bf5b40185f576b",
@@ -1939,14 +2005,14 @@
     ]
   },
   "estatisticas": {
-    "ciclos": 32,
-    "nascimentos": 1871,
+    "ciclos": 33,
+    "nascimentos": 1937,
     "mortes": 0,
-    "refinamentos": 252,
+    "refinamentos": 267,
     "pesquisas_realizadas": 74,
     "arquivos_gerados": 7
   },
-  "topico_atual": "aprendizado transferencia transfer learning",
+  "topico_atual": "visao computacional CNN",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -1981,5 +2047,5 @@
     "aprendizado por reforco",
     "redes neurais recorrentes LSTM"
   ],
-  "timestamp": "2026-03-13T14:03:55.474137"
+  "timestamp": "2026-03-13T14:04:35.219768"
 }
