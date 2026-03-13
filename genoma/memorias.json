@@ -1325,5 +1325,191 @@
     "fontes": [
       "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
     ]
+  },
+  {
+    "id": "820f54220d72f3d4",
+    "tipo": "memoria",
+    "conteudo": "Este artigo explora como funciona a aprendizagem auto-supervisionada, as suas principais técnicas, aplicações e porque é considerada o futuro da formação em IA.Este artigo explora os fundamentos da PNL, as suas principais técnicas, aplicações e …Ao aprender padrões \"normais\", a IA não supervisionada assinala desvios - como …Obtém uma perspetiva da aprendizagem automática, dos diferentes modelos e …Das cidades inteligentes à medicina personalizada, a IA de dados recentes …Este artigo explora o funcionamento da aprendizagem por reforço, os seus …A deteção de danos em automóveis é utilizada na indústria automóvel para …Descobre o poder da Aprendizagem Profunda. Explora como as redes …Desafios como a escalabilidade, o custo e a precisão estão a ser resolvidos através …",
+    "criado": "2026-03-13T13:42:22.190660",
+    "modificado": "2026-03-13T13:42:22.190660",
+    "conexoes": [
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ff092c5dde25c7b9",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bf82e60efec59100",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e9da6466f16f5c8f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3eaa7a0756915e80",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c643c7137409bbb7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08215e2d493cf6ce",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "fonte": "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/",
+      "indice": 0
+    },
+    "origem": "b63eb32bbc9b6002",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://focalx.ai/pt-pt/inteligencia-artificial/aprendizagem-auto-supervisionada-o-futuro-da-formacao-em-ia/"
+    ]
+  },
+  {
+    "id": "aa1c21f7c20f6085",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado auto-supervisionado ainda enfrenta desafios e limitações em termos de capturar completamente a inteligência humana. A construção de sistemas que aprendem hierarquicamente e …",
+    "criado": "2026-03-13T13:42:22.293024",
+    "modificado": "2026-03-13T13:42:22.293024",
+    "conexoes": [
+      {
+        "para": "81c3aad4736b1f95",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "370131d6a76a6a5e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "86bac5746684e517",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6cf41f4e74526e6c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "725ecab119cc703e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1da6100f52bffa0a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "fonte": "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
+      "indice": 0
+    },
+    "origem": "b63eb32bbc9b6002",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701"
+    ]
+  },
+  {
+    "id": "e138a9632ce924a8",
+    "tipo": "memoria",
+    "conteudo": "11 de jul. de 2025 · O aprendizado auto-supervisionado mostrou grande potencial, mas ainda enfrenta desafios pra alcançar níveis de desempenho comparáveis ao aprendizado supervisionado.",
+    "criado": "2026-03-13T13:42:22.395189",
+    "modificado": "2026-03-13T13:42:22.395189",
+    "conexoes": [
+      {
+        "para": "45b2f45ad0b48a77",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2f308f1d75da8823",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "81c3aad4736b1f95",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6a4b93f2cacde656",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "284f30024bb6b90f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9603e18be72f55e3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd07a7369ca84cd4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado desafios limitacoes",
+      "fonte": "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl",
+      "indice": 0
+    },
+    "origem": "b63eb32bbc9b6002",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
+    ]
   }
 ]
