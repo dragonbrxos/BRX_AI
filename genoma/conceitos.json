@@ -1370,6 +1370,11 @@
         "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1394,7 +1399,8 @@
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
       "https://www.mecalux.com.br/blog/ia-explicavel",
       "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
-      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
     ]
   },
   {
@@ -1483,6 +1489,11 @@
         "para": "211c70239dccbf08",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1505,7 +1516,8 @@
       "https://www.ibm.com/br-pt/think/topics/explainable-ai",
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
       "https://www.mecalux.com.br/blog/ia-explicavel",
-      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
     ]
   },
   {
@@ -2592,6 +2604,11 @@
         "para": "2ec07b6b5492f65a",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2606,7 +2623,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
-      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
     ]
   },
   {
@@ -6153,6 +6171,11 @@
         "para": "8f9bc35009cc771e",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6165,7 +6188,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+      "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
     ]
   },
   {
@@ -7082,6 +7106,11 @@
         "para": "2ec07b6b5492f65a",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -7094,7 +7123,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/",
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
     ]
   },
   {
@@ -7515,6 +7545,232 @@
     "profundidade": 0,
     "fontes": [
       "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "3243dff24fb24ead",
+    "tipo": "conceito",
+    "conteudo": "linguagem",
+    "criado": "2026-03-13T13:45:54.007892",
+    "modificado": "2026-03-13T13:45:54.007892",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
+  },
+  {
+    "id": "08d9bcdaa5a16eef",
+    "tipo": "conceito",
+    "conteudo": "processamento",
+    "criado": "2026-03-13T13:45:54.008949",
+    "modificado": "2026-03-13T13:45:54.008949",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
+  },
+  {
+    "id": "9e4cc1ebd7cd21a4",
+    "tipo": "conceito",
+    "conteudo": "natural",
+    "criado": "2026-03-13T13:45:54.009767",
+    "modificado": "2026-03-13T13:45:54.009767",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/",
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
+  },
+  {
+    "id": "64788fafda8b6a63",
+    "tipo": "conceito",
+    "conteudo": "diferentes",
+    "criado": "2026-03-13T13:45:54.010632",
+    "modificado": "2026-03-13T13:45:54.010632",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
+    ]
+  },
+  {
+    "id": "a1a90918a87a3c33",
+    "tipo": "conceito",
+    "conteudo": "oferece",
+    "criado": "2026-03-13T13:45:54.011618",
+    "modificado": "2026-03-13T13:45:54.011618",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
+    ]
+  },
+  {
+    "id": "7d169478a4eff439",
+    "tipo": "conceito",
+    "conteudo": "indústrias",
+    "criado": "2026-03-13T13:45:54.013518",
+    "modificado": "2026-03-13T13:45:54.013518",
+    "conexoes": [
+      {
+        "para": "c402971f05dcc71f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pythonrpa.org/pt/o-que-e-processamento-linguagem-natural/"
+    ]
+  },
+  {
+    "id": "4d6bc0ff7bbda4a7",
+    "tipo": "conceito",
+    "conteudo": "usando",
+    "criado": "2026-03-13T13:45:54.119947",
+    "modificado": "2026-03-13T13:45:54.119947",
+    "conexoes": [
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
+    ]
+  },
+  {
+    "id": "882bcedb887e4cb6",
+    "tipo": "conceito",
+    "conteudo": "comunicação",
+    "criado": "2026-03-13T13:45:54.122123",
+    "modificado": "2026-03-13T13:45:54.122123",
+    "conexoes": [
+      {
+        "para": "76abf8fa5dc87a55",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://algora.com.br/processamento-de-linguagem-natural-entenda-como-essa-tecnologia-pode-transformar-seu-dia-a-dia/"
     ]
   }
 ]
