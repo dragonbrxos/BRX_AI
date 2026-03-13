@@ -1860,5 +1860,217 @@
       "https://www.gaap.deqm.puc-rio.br/en/",
       "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
     ]
+  },
+  {
+    "id": "130058e2c0179cd3",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: processamento linguagem natural BERT\n\nEvolucao: ## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:04.624369",
+    "modificado": "2026-03-13T13:59:05.102992",
+    "conexoes": [
+      {
+        "para": "5c7089c029d698a7",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "fase": "coleta",
+      "fontes_count": 24,
+      "queries": [
+        "processamento linguagem natural BERT",
+        "processamento linguagem natural BERT fundamentos",
+        "processamento linguagem natural BERT aplicacoes",
+        "processamento linguagem natural BERT algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: processamento linguagem natural BERT",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:05.102514",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial: 220 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:05.102643",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 9.2 conexoes/celula\nClusters identificados:\n\n\nFontes: 9 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:05.102760",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: processamento linguagem natural BERT\n\nEvolucao: ## Analise Estrutural: processamento linguagem natural BERT\n\nConceitos mapeados: 0\nBase empirica: 24 observacoes\nRede inicial...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:05.102854",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: processamento linguagem natural BERT\n\nEvolucao: ## Analise Relacional (v2): processamento linguagem natural BERT\n\nDensidade: 9.2 conexoes/celula\nClusters identificados:\n\n\nFo...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:05.102979",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.tjsp.jus.br/UPJ",
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "https://www.dicio.com.br/processamento/",
+      "https://www.dicionario.info/processamento/",
+      "https://www.ibm.com/br-pt/think/topics/data-processing",
+      "https://www.sinonimos.com.br/processamento/",
+      "https://informatecdigital.com/pt/o-que-significa-processamento/",
+      "https://resumos.soescola.com/glossario/processamento-o-que-e-significado/",
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+    ]
+  },
+  {
+    "id": "679d92acd1d91d9a",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: sistemas recomendacao colaborativa\n\nEvolucao: ## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 21......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:05.104547",
+    "modificado": "2026-03-13T13:59:05.581901",
+    "conexoes": [
+      {
+        "para": "329966f771b9697a",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "sistemas recomendacao colaborativa",
+        "sistemas recomendacao colaborativa fundamentos",
+        "sistemas recomendacao colaborativa aplicacoes",
+        "sistemas recomendacao colaborativa algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: sistemas recomendacao colaborativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:05.581527",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:05.581640",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:05.581736",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 21...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:05.581824",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFonte...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:05.581894",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://uspdigital.usp.br/pt/",
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "https://sistemas.cvm.gov.br/",
+      "https://www.dicio.com.br/sistema/"
+    ]
+  },
+  {
+    "id": "18ad097006ede3d6",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: transformers processamento linguagem\n\nEvolucao: ## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T13:59:05.583342",
+    "modificado": "2026-03-13T13:59:06.073611",
+    "conexoes": [
+      {
+        "para": "8541c267122165ff",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "fase": "coleta",
+      "fontes_count": 25,
+      "queries": [
+        "transformers processamento linguagem",
+        "transformers processamento linguagem fundamentos",
+        "transformers processamento linguagem aplicacoes",
+        "transformers processamento linguagem algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: transformers processamento linguagem",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:59:06.073296",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial: 223 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:06.073421",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 10.6 conexoes/celula\nClusters identificados:\n\n\nFontes: 9 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:59:06.073492",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:06.073548",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: transformers processamento linguagem\n\nEvolucao: ## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 10.6 conexoes/celula\nClusters identificados:\n\n\nF...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T13:59:06.073602",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+    ]
   }
 ]
