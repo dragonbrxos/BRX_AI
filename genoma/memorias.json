@@ -1697,5 +1697,191 @@
     "fontes": [
       "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
     ]
+  },
+  {
+    "id": "91b8f8795d0539ae",
+    "tipo": "memoria",
+    "conteudo": "Um sistema multiagentes (MAS) consiste em vários agentes de inteligência artificial (IA) trabalhando coletivamente para executar tarefas em nome de um usuário ou de outro sistema.Aproveite conteúdo informativo como blogs, artigos, vídeos, podcasts, tutoriais, …Bem-vindo à Academia de IA da IBM, uma experiência educacional de IA para …",
+    "criado": "2026-03-13T13:43:12.933663",
+    "modificado": "2026-03-13T13:43:12.933663",
+    "conexoes": [
+      {
+        "para": "33d4c72374a61c9f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2ce5c6f4a1743b86",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "187a236b1615a197",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4ce253124a3a08da",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a2f32773dd2472a7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/multiagent-system",
+      "indice": 0
+    },
+    "origem": "fa092f0df9af2cf1",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+    ]
+  },
+  {
+    "id": "f373192620c05edf",
+    "tipo": "memoria",
+    "conteudo": "Um sistema multiagente é composto por várias entidades computacionais autônomas e interativas, conhecidas como agentes, situadas em um ambiente compartilhado. Esses agentes colaboram, se...",
+    "criado": "2026-03-13T13:43:13.035390",
+    "modificado": "2026-03-13T13:43:13.035390",
+    "conexoes": [
+      {
+        "para": "04c88f134433e25c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a842437c361a60c2",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "112c740645cd8fd5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c2ae4aa20e67416b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c4afb82b6fb8a6ef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4ff299e7fbea7c82",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e162f9cdce48390c",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "49f5080a4d02d043",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "fonte": "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
+      "indice": 0
+    },
+    "origem": "fa092f0df9af2cf1",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR"
+    ]
+  },
+  {
+    "id": "992710ac9f762580",
+    "tipo": "memoria",
+    "conteudo": "A ideia principal em um sistema multiagente é que um comportamento global inteligente pode ser alcançado a partir do comportamento individual dos agentes. Em um SMA não é necessário que cada …",
+    "criado": "2026-03-13T13:43:13.137773",
+    "modificado": "2026-03-13T13:43:13.137773",
+    "conexoes": [
+      {
+        "para": "69f34a02a27e8517",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a3c2b7e123a0aaf7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "428a2ea0d5224ef3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "eb60557d17985fc6",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "40be3c82ded3d22a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e0622097caaa",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "sistemas multiagentes",
+      "fonte": "https://pt.wikipedia.org/wiki/Sistema_multiagente",
+      "indice": 0
+    },
+    "origem": "fa092f0df9af2cf1",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Sistema_multiagente"
+    ]
   }
 ]
