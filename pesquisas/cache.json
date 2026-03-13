@@ -166,5 +166,29 @@
     ],
     "timestamp": 1773420087.5790062,
     "usos": 0
+  },
+  "machine learning auto supervisionado": {
+    "resultados": [
+      {
+        "titulo": "O que é aprendizado autossupervisionado? - IBM",
+        "corpo": "O que é aprendizado autossupervisionado? O aprendizado autossupervisionado é uma técnica de aprendizado de máquina que usa o aprendizado não supervisionado para tarefas que, …Um estúdio empresarial de última geração para desenvolvedores de IA treinarem, …O que é aprendizado por reforço a partir do feedback humano (ARFH)? Machine …O aprendizado não supervisionado, também conhecido como aprendizado de …",
+        "url": "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+        "timestamp": 1773420116.4901476
+      },
+      {
+        "titulo": "O que é ML automatizado? AutoML - Azure Machine Learning",
+        "corpo": "O aprendizado de máquina automatizado, também conhecido como ML automatizado ou AutoML, automatiza as tarefas iterativas e demoradas do desenvolvimento de modelos de machine learning.",
+        "url": "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2",
+        "timestamp": 1773420116.4902103
+      },
+      {
+        "titulo": "Aprendizado supervisionado | Machine Learning | Google for Developers",
+        "corpo": "As tarefas de aprendizado supervisionado são bem definidas e podem ser aplicadas a vários cenários, como identificar spam ou prever precipitações. O aprendizado de máquina supervisionado é...",
+        "url": "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+        "timestamp": 1773420116.490241
+      }
+    ],
+    "timestamp": 1773420116.4903097,
+    "usos": 0
   }
 }
