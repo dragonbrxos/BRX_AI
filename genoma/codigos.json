@@ -1525,5 +1525,86 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "a3ae5683cf3d30ba",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: inteligencia artificial explicavel",
+    "criado": "2026-03-13T14:05:54.008206",
+    "modificado": "2026-03-13T14:05:54.008206",
+    "conexoes": [
+      {
+        "para": "22df9ef4ad283513",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "arquivo": "mod_dafefd1d_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "22df9ef4ad283513",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "5a26f38e270c203f",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: processamento linguagem natural BERT",
+    "criado": "2026-03-13T14:05:54.948522",
+    "modificado": "2026-03-13T14:05:54.948522",
+    "conexoes": [
+      {
+        "para": "c3ec61c5f4f7baae",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural BERT",
+      "arquivo": "mod_6e458fcc_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "c3ec61c5f4f7baae",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
+  },
+  {
+    "id": "9639aa0a80f9750d",
+    "tipo": "codigo",
+    "conteudo": "Modulo inteligencia: transformers processamento linguagem",
+    "criado": "2026-03-13T14:05:55.863336",
+    "modificado": "2026-03-13T14:05:55.863336",
+    "conexoes": [
+      {
+        "para": "25b9e05684ddcbbd",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "arquivo": "mod_13e2f205_inteligencia.py",
+      "tipo": "inteligencia",
+      "linhas": 53,
+      "conceitos_base": []
+    },
+    "origem": "25b9e05684ddcbbd",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
