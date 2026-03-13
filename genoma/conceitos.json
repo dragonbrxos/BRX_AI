@@ -1339,6 +1339,21 @@
         "para": "e527f1b6389a964c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1360,7 +1375,10 @@
       "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
       "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
       "https://www.ibm.com/br-pt/think/topics/explainable-ai",
-      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "https://www.mecalux.com.br/blog/ia-explicavel",
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf",
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
     ]
   },
   {
@@ -1434,6 +1452,16 @@
         "para": "e527f1b6389a964c",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1454,7 +1482,9 @@
       "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
       "https://www.ibm.com/br-pt/think/topics/multiagent-system",
       "https://www.ibm.com/br-pt/think/topics/explainable-ai",
-      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável",
+      "https://www.mecalux.com.br/blog/ia-explicavel",
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
     ]
   },
   {
@@ -2536,6 +2566,11 @@
         "para": "78a639f0dc1312a5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2549,7 +2584,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
     ]
   },
   {
@@ -2970,6 +3006,11 @@
         "para": "87d35b1c9c9befbd",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -2983,7 +3024,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.alura.com.br/artigos/visao-computacional"
+      "https://www.alura.com.br/artigos/visao-computacional",
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
     ]
   },
   {
@@ -6205,6 +6247,11 @@
         "para": "20a8e12e67641d07",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -6218,7 +6265,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
-      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "https://www.mecalux.com.br/blog/ia-explicavel"
     ]
   },
   {
@@ -6555,6 +6603,422 @@
     "profundidade": 0,
     "fontes": [
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "2d5b04bb1c5c2d9e",
+    "tipo": "conceito",
+    "conteudo": "transparentes",
+    "criado": "2026-03-13T13:44:35.801575",
+    "modificado": "2026-03-13T13:44:35.801575",
+    "conexoes": [
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "3a233dcb7ed2a084",
+    "tipo": "conceito",
+    "conteudo": "internos",
+    "criado": "2026-03-13T13:44:35.803405",
+    "modificado": "2026-03-13T13:44:35.803405",
+    "conexoes": [
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "1180f052e441083c",
+    "tipo": "conceito",
+    "conteudo": "compreensíveis",
+    "criado": "2026-03-13T13:44:35.805232",
+    "modificado": "2026-03-13T13:44:35.805232",
+    "conexoes": [
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "f950c9ce68e12b6d",
+    "tipo": "conceito",
+    "conteudo": "algoritmos",
+    "criado": "2026-03-13T13:44:35.806118",
+    "modificado": "2026-03-13T13:44:35.806118",
+    "conexoes": [
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "3d26cb227a42bd53",
+    "tipo": "conceito",
+    "conteudo": "torna",
+    "criado": "2026-03-13T13:44:35.807034",
+    "modificado": "2026-03-13T13:44:35.807034",
+    "conexoes": [
+      {
+        "para": "032e810ff0d2f7ae",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.mecalux.com.br/blog/ia-explicavel"
+    ]
+  },
+  {
+    "id": "f00a3c9ab1185c69",
+    "tipo": "conceito",
+    "conteudo": "reside",
+    "criado": "2026-03-13T13:44:35.907754",
+    "modificado": "2026-03-13T13:44:35.907754",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "03670742476ad175",
+    "tipo": "conceito",
+    "conteudo": "trabalho",
+    "criado": "2026-03-13T13:44:35.908192",
+    "modificado": "2026-03-13T13:44:35.908192",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "00b2a62ba4b28b20",
+    "tipo": "conceito",
+    "conteudo": "requisito",
+    "criado": "2026-03-13T13:44:35.909107",
+    "modificado": "2026-03-13T13:44:35.909107",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "e3c4d34660a28e87",
+    "tipo": "conceito",
+    "conteudo": "central",
+    "criado": "2026-03-13T13:44:35.909957",
+    "modificado": "2026-03-13T13:44:35.909957",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "9bb5fc35bb569b68",
+    "tipo": "conceito",
+    "conteudo": "desta",
+    "criado": "2026-03-13T13:44:35.910915",
+    "modificado": "2026-03-13T13:44:35.910915",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "de0831ff843ea27e",
+    "tipo": "conceito",
+    "conteudo": "fundamental",
+    "criado": "2026-03-13T13:44:35.911815",
+    "modificado": "2026-03-13T13:44:35.911815",
+    "conexoes": [
+      {
+        "para": "53b3d34597a51c5b",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ifgoiano.edu.br/bitstream/prefix/5964/1/INTELIGÊNCIA+ARTIFICIAL+EXPLICÁVEL+(XAI)_+UM+REQUISITO+DE+TRANSPARÊNCIA+E+GOVERNANÇA+PARA+SISTEMAS+DE+INFORMAÇÃO.pdf"
+    ]
+  },
+  {
+    "id": "4cf6dac9e9c9ca5e",
+    "tipo": "conceito",
+    "conteudo": "opacidade",
+    "criado": "2026-03-13T13:44:36.016051",
+    "modificado": "2026-03-13T13:44:36.016051",
+    "conexoes": [
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
+  },
+  {
+    "id": "978ee5d7f706d674",
+    "tipo": "conceito",
+    "conteudo": "surge",
+    "criado": "2026-03-13T13:44:36.016988",
+    "modificado": "2026-03-13T13:44:36.016988",
+    "conexoes": [
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
+  },
+  {
+    "id": "e2d9dc9789b7af9e",
+    "tipo": "conceito",
+    "conteudo": "movimento",
+    "criado": "2026-03-13T13:44:36.017895",
+    "modificado": "2026-03-13T13:44:36.017895",
+    "conexoes": [
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
+  },
+  {
+    "id": "8d871da789fa0f8c",
+    "tipo": "conceito",
+    "conteudo": "transformar",
+    "criado": "2026-03-13T13:44:36.019757",
+    "modificado": "2026-03-13T13:44:36.019757",
+    "conexoes": [
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
+    ]
+  },
+  {
+    "id": "a1cf28b5466954fe",
+    "tipo": "conceito",
+    "conteudo": "nesse",
+    "criado": "2026-03-13T13:44:36.020647",
+    "modificado": "2026-03-13T13:44:36.020647",
+    "conexoes": [
+      {
+        "para": "2ec07b6b5492f65a",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
     ]
   }
 ]
