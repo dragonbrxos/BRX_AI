@@ -129,23 +129,50 @@
       "76ae8a6af511ae95",
       "222963d122448f9f",
       "c8e1b7a154b22c18"
+    ],
+    "machine learning auto supervisionado": [
+      "5b785a0a895ad19d",
+      "1eb2b9b67d52661e",
+      "6616c2a852a03deb",
+      "80ca533e566d47d5",
+      "89060c8670bfe82a",
+      "adde53f0b8809794",
+      "d81b0b89804729f5",
+      "cbcc98bb68774e75",
+      "3d9d47fbe5fe694d",
+      "324250596d1a5234",
+      "00a266e733caaa21",
+      "e5a71b67f9aa10d8",
+      "ec6ae1d6a2a75b45",
+      "f787a9e0688f281e",
+      "e62ddefa4d0d4155",
+      "48aad43c8d94099f",
+      "e133acfa4480895c",
+      "b5fa3de3e13b280f",
+      "fef8e20aafa1a2b1",
+      "2ce5c6f4a1743b86",
+      "8fcccda358878085",
+      "bea888b676799030",
+      "5bf57f23ec7836ef",
+      "72f07153365775b6"
     ]
   },
   "estatisticas": {
-    "ciclos": 5,
-    "nascimentos": 118,
+    "ciclos": 6,
+    "nascimentos": 142,
     "mortes": 0,
-    "refinamentos": 27,
-    "pesquisas_realizadas": 5,
-    "arquivos_gerados": 6
+    "refinamentos": 30,
+    "pesquisas_realizadas": 6,
+    "arquivos_gerados": 7
   },
-  "topico_atual": "visao computacional desafios limitacoes",
+  "topico_atual": "machine learning auto supervisionado",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
     "inteligencia artificial generativa",
     "visao computacional",
-    "visao computacional desafios limitacoes"
+    "visao computacional desafios limitacoes",
+    "machine learning auto supervisionado"
   ],
-  "timestamp": "2026-03-13T13:41:27.894625"
+  "timestamp": "2026-03-13T13:41:56.803612"
 }
