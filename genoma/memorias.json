@@ -1139,5 +1139,191 @@
     "fontes": [
       "https://www.todamateria.com.br/visao/"
     ]
+  },
+  {
+    "id": "1eb2b9b67d52661e",
+    "tipo": "memoria",
+    "conteudo": "O que é aprendizado autossupervisionado? O aprendizado autossupervisionado é uma técnica de aprendizado de máquina que usa o aprendizado não supervisionado para tarefas que, …Um estúdio empresarial de última geração para desenvolvedores de IA treinarem, …O que é aprendizado por reforço a partir do feedback humano (ARFH)? Machine …O aprendizado não supervisionado, também conhecido como aprendizado de …",
+    "criado": "2026-03-13T13:41:56.491183",
+    "modificado": "2026-03-13T13:41:56.491183",
+    "conexoes": [
+      {
+        "para": "6616c2a852a03deb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "adde53f0b8809794",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d81b0b89804729f5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3d9d47fbe5fe694d",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/self-supervised-learning",
+      "indice": 0
+    },
+    "origem": "5b785a0a895ad19d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/self-supervised-learning"
+    ]
+  },
+  {
+    "id": "324250596d1a5234",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado de máquina automatizado, também conhecido como ML automatizado ou AutoML, automatiza as tarefas iterativas e demoradas do desenvolvimento de modelos de machine learning.",
+    "criado": "2026-03-13T13:41:56.594036",
+    "modificado": "2026-03-13T13:41:56.594036",
+    "conexoes": [
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ec6ae1d6a2a75b45",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e62ddefa4d0d4155",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "48aad43c8d94099f",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "fonte": "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2",
+      "indice": 0
+    },
+    "origem": "5b785a0a895ad19d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://learn.microsoft.com/pt-br/azure/machine-learning/concept-automated-ml?view=azureml-api-2"
+    ]
+  },
+  {
+    "id": "e133acfa4480895c",
+    "tipo": "memoria",
+    "conteudo": "As tarefas de aprendizado supervisionado são bem definidas e podem ser aplicadas a vários cenários, como identificar spam ou prever precipitações. O aprendizado de máquina supervisionado é...",
+    "criado": "2026-03-13T13:41:56.696583",
+    "modificado": "2026-03-13T13:41:56.696583",
+    "conexoes": [
+      {
+        "para": "b5fa3de3e13b280f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fef8e20aafa1a2b1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "2ce5c6f4a1743b86",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8fcccda358878085",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "89060c8670bfe82a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bea888b676799030",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning auto supervisionado",
+      "fonte": "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
+      "indice": 0
+    },
+    "origem": "5b785a0a895ad19d",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br"
+    ]
   }
 ]
