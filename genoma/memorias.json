@@ -54670,5 +54670,4685 @@
     "fontes": [
       "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/"
     ]
+  },
+  {
+    "id": "b5edc0abbb7a4212",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:03.255445",
+    "modificado": "2026-03-13T14:03:03.255445",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "a869b2b1f68e80c6",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:03.267773",
+    "modificado": "2026-03-13T14:03:03.267773",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "99c06745280a16cd",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:03.267918",
+    "modificado": "2026-03-13T14:03:03.267918",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "26acfa28c8a3b8d8",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:03.269079",
+    "modificado": "2026-03-13T14:03:03.269079",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "8d1436b69fc75aea",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:03.269234",
+    "modificado": "2026-03-13T14:03:03.269234",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "442fe1f6d05edd58",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:03.269347",
+    "modificado": "2026-03-13T14:03:03.269347",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "9c062ebc3489e82a",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:03.269440",
+    "modificado": "2026-03-13T14:03:03.269440",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "112a307cfef88c20",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:03.269570",
+    "modificado": "2026-03-13T14:03:03.269570",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "6707f83689027e5f",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:03.471277",
+    "modificado": "2026-03-13T14:03:03.471277",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "b1886af232566586",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:03.491600",
+    "modificado": "2026-03-13T14:03:03.491600",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "dd62fc8f4bf41535",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:03.491759",
+    "modificado": "2026-03-13T14:03:03.491759",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "975a0f75e2d3622e",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:03.521577",
+    "modificado": "2026-03-13T14:03:03.521577",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "c3f3546e309e8266",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:03.542623",
+    "modificado": "2026-03-13T14:03:03.542623",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "94f1788f2723edca",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:03.545290",
+    "modificado": "2026-03-13T14:03:03.545290",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "a5d0388dba11caca",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:03.553741",
+    "modificado": "2026-03-13T14:03:03.553741",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "a3cf6fe2c311810f",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:03:03.556139",
+    "modificado": "2026-03-13T14:03:03.556139",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "0fe7ce13f13b0603",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:03:03.720721",
+    "modificado": "2026-03-13T14:03:03.720721",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "5d30dcfd77e36cb8",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:03:03.735120",
+    "modificado": "2026-03-13T14:03:03.735120",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "bc5e72a7bc9eb9cd",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:03:03.771478",
+    "modificado": "2026-03-13T14:03:03.771478",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "de2dc57ac57600dd",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:03:03.773881",
+    "modificado": "2026-03-13T14:03:03.773881",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado transferencia transfer learning",
+      "subtopico": "aprendizado transferencia transfer learning fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "68449762b15ab64f",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:03:03.917973",
+    "modificado": "2026-03-13T14:03:03.917973",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "d28f7d255a337016",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:03:03.932632",
+    "modificado": "2026-03-13T14:03:03.932632",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "5ba8fcb73d2fee88",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:03:03.932914",
+    "modificado": "2026-03-13T14:03:03.932914",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "31de09104cd602a5",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:03:03.933049",
+    "modificado": "2026-03-13T14:03:03.933049",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "2941787a75584ae6",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:03:03.933172",
+    "modificado": "2026-03-13T14:03:03.933172",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "48a9a015ce7e7356",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:03:03.933319",
+    "modificado": "2026-03-13T14:03:03.933319",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "52a9c0a96a29493c",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:03:03.937257",
+    "modificado": "2026-03-13T14:03:03.937257",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "da096acc9a0793e6",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:03:03.937420",
+    "modificado": "2026-03-13T14:03:03.937420",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "d79eb726c8e8f5e2",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:03:04.131319",
+    "modificado": "2026-03-13T14:03:04.131319",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "b816b0ffbca898c8",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:03:04.143517",
+    "modificado": "2026-03-13T14:03:04.143517",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "f5fdbe88bb18afb5",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:03:04.152481",
+    "modificado": "2026-03-13T14:03:04.152481",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "ad343bda3b9a7254",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:03:04.198542",
+    "modificado": "2026-03-13T14:03:04.198542",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "66d7b29b1ccb2458",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:03:04.202876",
+    "modificado": "2026-03-13T14:03:04.202876",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "255431c52eef4a9a",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:03:04.232311",
+    "modificado": "2026-03-13T14:03:04.232311",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "d298937e8898136c",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:03:04.232463",
+    "modificado": "2026-03-13T14:03:04.232463",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "dafd5450d09e1bb4",
+    "tipo": "memoria",
+    "conteudo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que …",
+    "criado": "2026-03-13T14:03:04.234815",
+    "modificado": "2026-03-13T14:03:04.234815",
+    "conexoes": [
+      {
+        "para": "d4a61aeda8f24866",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14fce0d25336018a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "774dd9af8ca1aef9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "650d2dd8a7ee9d66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a50ee62ab8cef13c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "689999653226b84a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.significados.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/etica/"
+    ]
+  },
+  {
+    "id": "95c91285f706587a",
+    "tipo": "memoria",
+    "conteudo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o …",
+    "criado": "2026-03-13T14:03:04.355948",
+    "modificado": "2026-03-13T14:03:04.355948",
+    "conexoes": [
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e17e7b245020e809",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "45e685289e373f92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f122204db68ea271",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c559a2ddd62cadf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a82c7170e407797a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+    ]
+  },
+  {
+    "id": "25d500640e15ae72",
+    "tipo": "memoria",
+    "conteudo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma …",
+    "criado": "2026-03-13T14:03:04.437939",
+    "modificado": "2026-03-13T14:03:04.437939",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f72ef097870883f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b7dc66e2b368d701",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "08c1fe574ba61f4f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c3f5fda6dfcecfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "535f76ef39d4f262",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.dicio.com.br/etica/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/etica/"
+    ]
+  },
+  {
+    "id": "c493b2c4d191e718",
+    "tipo": "memoria",
+    "conteudo": "15 de out. de 2025 · O conceito é discutido em diversas áreas do conhecimento e seu estudo é desenvolvido desde a era de Platão.",
+    "criado": "2026-03-13T14:03:04.453121",
+    "modificado": "2026-03-13T14:03:04.453121",
+    "conexoes": [
+      {
+        "para": "52a42fb565ab8f34",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4559173f8e9b5574",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcba7025fe3481d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c0fa7219742c36a7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c8876264fe881f05",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-por-que-ela-e-importante"
+    ]
+  },
+  {
+    "id": "3435bb1b63543e41",
+    "tipo": "memoria",
+    "conteudo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores …",
+    "criado": "2026-03-13T14:03:04.453381",
+    "modificado": "2026-03-13T14:03:04.453381",
+    "conexoes": [
+      {
+        "para": "6ef615bdffd3d01b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e7073910551c357d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "84d4acf22b855a5d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e55466897c2f5fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50a2ef1d62cfd1b6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4094c1d7d975bcc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03615111df9aa97b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "77d020d9ff87966e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "52a73f452ec1e347",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e82fd1e939e1d51",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "etica IA responsavel",
+      "subtopico": "etica IA responsavel algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Ética",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Ética"
+    ]
+  },
+  {
+    "id": "5246e56341799fb4",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:03:04.620879",
+    "modificado": "2026-03-13T14:03:04.620879",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "8b0804ede76afbc2",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:03:04.637393",
+    "modificado": "2026-03-13T14:03:04.637393",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "f165b76e6c4f388b",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:03:04.640412",
+    "modificado": "2026-03-13T14:03:04.640412",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "15392f094299999a",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:03:04.640560",
+    "modificado": "2026-03-13T14:03:04.640560",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "e96cc2becaf54e65",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:03:04.640697",
+    "modificado": "2026-03-13T14:03:04.640697",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "254aae4c9b0ecdf5",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:03:04.640849",
+    "modificado": "2026-03-13T14:03:04.640849",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "39a8ce27216281b7",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:03:04.641019",
+    "modificado": "2026-03-13T14:03:04.641019",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "47938b07f1aaf228",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:03:04.641162",
+    "modificado": "2026-03-13T14:03:04.641162",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "7afcb76d3878ac60",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:03:04.791065",
+    "modificado": "2026-03-13T14:03:04.791065",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "a491862404e30e1f",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:03:04.886360",
+    "modificado": "2026-03-13T14:03:04.886360",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "2f21232ffd238af1",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:03:04.927518",
+    "modificado": "2026-03-13T14:03:04.927518",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "435ff4173a1ab252",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:03:04.930453",
+    "modificado": "2026-03-13T14:03:04.930453",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "1325d348e1d22879",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:03:04.959327",
+    "modificado": "2026-03-13T14:03:04.959327",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "ecfe5ad42310680a",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:03:04.961959",
+    "modificado": "2026-03-13T14:03:04.961959",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "51cd8106c6d0ae1e",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:03:05.016161",
+    "modificado": "2026-03-13T14:03:05.016161",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "b5bd1e561ac128cb",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:03:05.031137",
+    "modificado": "2026-03-13T14:03:05.031137",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "e39047db0a39f8ec",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:03:05.079662",
+    "modificado": "2026-03-13T14:03:05.079662",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "aecc352923aff44d",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:03:05.171439",
+    "modificado": "2026-03-13T14:03:05.171439",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "954d96906985ff4a",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:03:05.184195",
+    "modificado": "2026-03-13T14:03:05.184195",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "50ef879075a681c9",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:03:05.267407",
+    "modificado": "2026-03-13T14:03:05.267407",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
   }
 ]
