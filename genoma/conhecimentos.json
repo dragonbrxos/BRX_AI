@@ -2941,5 +2941,221 @@
       "https://openai.com/pt-BR/",
       "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
+  },
+  {
+    "id": "7d18277c6bf0a665",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: transformers processamento linguagem\n\nEvolucao: ## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 9 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:02:27.289423",
+    "modificado": "2026-03-13T14:02:27.827274",
+    "conexoes": [
+      {
+        "para": "fbe78616cd09e128",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "transformers processamento linguagem",
+      "fase": "coleta",
+      "fontes_count": 25,
+      "queries": [
+        "transformers processamento linguagem fundamentos",
+        "transformers processamento linguagem",
+        "transformers processamento linguagem algoritmos",
+        "transformers processamento linguagem aplicacoes"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: transformers processamento linguagem",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:02:27.826788",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial: 223 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:27.826939",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 10.6 conexoes/celula\nClusters identificados:\n\n\nFontes: 9 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:27.827039",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: transformers processamento linguagem\n\nEvolucao: ## Analise Estrutural: transformers processamento linguagem\n\nConceitos mapeados: 0\nBase empirica: 21 observacoes\nRede inicial...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:27.827150",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: transformers processamento linguagem\n\nEvolucao: ## Analise Relacional (v2): transformers processamento linguagem\n\nDensidade: 10.6 conexoes/celula\nClusters identificados:\n\n\nF...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:27.827261",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://transformers.hasbro.com/en-us/bios/ytrewqio",
+      "https://transformers.hasbro.com/en-us/bios/rteahsip",
+      "https://transformers.hasbro.com/en-us/bios/arlpqavu",
+      "https://transformers.hasbro.com/en-us/bios/skyzmqof",
+      "https://www.guilhermefavaron.com.br/p/transformers-inteligencia-artificial",
+      "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
+      "https://nednex.com/pt-pt/latest-advancements-in-ai-architectures-transformers-mamba-i-jepa/",
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322"
+    ]
+  },
+  {
+    "id": "08f509cec6924043",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: algoritmos geneticos otimizacao\n\nEvolucao: ## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 13 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:02:27.829114",
+    "modificado": "2026-03-13T14:02:28.551994",
+    "conexoes": [
+      {
+        "para": "eb797c0652dcea19",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "algoritmos geneticos otimizacao",
+        "algoritmos geneticos otimizacao fundamentos",
+        "algoritmos geneticos otimizacao aplicacoes",
+        "algoritmos geneticos otimizacao algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: algoritmos geneticos otimizacao",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:02:28.551664",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:28.551810",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:28.551872",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:28.551930",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:28.551985",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "https://www.significados.com.br/algoritmo/",
+      "https://pt.wikipedia.org/wiki/Algoritmo",
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/"
+    ]
+  },
+  {
+    "id": "2832c56de44ee484",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: sistemas recomendacao colaborativa\n\nEvolucao: ## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 21......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 5 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:02:28.553412",
+    "modificado": "2026-03-13T14:02:29.215338",
+    "conexoes": [
+      {
+        "para": "c9248a0689dce432",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "sistemas recomendacao colaborativa",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "sistemas recomendacao colaborativa",
+        "sistemas recomendacao colaborativa fundamentos",
+        "sistemas recomendacao colaborativa aplicacoes",
+        "sistemas recomendacao colaborativa algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: sistemas recomendacao colaborativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:02:29.215036",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 216 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:29.215155",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFontes: 5 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:02:29.215221",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Estrutural: sistemas recomendacao colaborativa\n\nConceitos mapeados: 0\nBase empirica: 20 observacoes\nRede inicial: 21...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:29.215277",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: sistemas recomendacao colaborativa\n\nEvolucao: ## Analise Relacional (v2): sistemas recomendacao colaborativa\n\nDensidade: 10.8 conexoes/celula\nClusters identificados:\n\n\nFonte...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:02:29.215329",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://informatecdigital.com/pt/O-que-é-um-sistema,-definição-e-tipos-em-ciência-da-computação/",
+      "https://uspdigital.usp.br/pt/",
+      "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
+      "https://www.dicio.com.br/sistema/",
+      "https://sistemas.cvm.gov.br/"
+    ]
   }
 ]
