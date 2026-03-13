@@ -1329,6 +1329,16 @@
         "para": "7fe2d1fa42dd3ca2",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1348,7 +1358,9 @@
       "https://aws.amazon.com/pt/what-is/generative-ai/",
       "https://tecnnic.com.br/glossario/o-que-e-visao-computacional-tecnologia/",
       "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
-      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/"
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
     ]
   },
   {
@@ -1412,6 +1424,16 @@
         "para": "91b8f8795d0539ae",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
       }
     ],
     "energia": 1.0,
@@ -1430,7 +1452,9 @@
       "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
       "https://aws.amazon.com/pt/what-is/generative-ai/",
       "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
-      "https://www.ibm.com/br-pt/think/topics/multiagent-system"
+      "https://www.ibm.com/br-pt/think/topics/multiagent-system",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
     ]
   },
   {
@@ -6131,6 +6155,406 @@
     "profundidade": 0,
     "fontes": [
       "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf"
+    ]
+  },
+  {
+    "id": "68c6a396729a9bf3",
+    "tipo": "conceito",
+    "conteudo": "conjunto",
+    "criado": "2026-03-13T13:44:08.100347",
+    "modificado": "2026-03-13T13:44:08.100347",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "db2bd843c47ec7f1",
+    "tipo": "conceito",
+    "conteudo": "processos",
+    "criado": "2026-03-13T13:44:08.101164",
+    "modificado": "2026-03-13T13:44:08.101164",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "0db705d75d4f7a38",
+    "tipo": "conceito",
+    "conteudo": "confiarem",
+    "criado": "2026-03-13T13:44:08.102094",
+    "modificado": "2026-03-13T13:44:08.102094",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "58a434bf35093fb1",
+    "tipo": "conceito",
+    "conteudo": "compreenderem",
+    "criado": "2026-03-13T13:44:08.102918",
+    "modificado": "2026-03-13T13:44:08.102918",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "ec2c8632c1754173",
+    "tipo": "conceito",
+    "conteudo": "usuários",
+    "criado": "2026-03-13T13:44:08.103840",
+    "modificado": "2026-03-13T13:44:08.103840",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "da46d9bf6bf72c18",
+    "tipo": "conceito",
+    "conteudo": "gerenciarem",
+    "criado": "2026-03-13T13:44:08.104658",
+    "modificado": "2026-03-13T13:44:08.104658",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "1aba5df38bc66f31",
+    "tipo": "conceito",
+    "conteudo": "resultados",
+    "criado": "2026-03-13T13:44:08.105600",
+    "modificado": "2026-03-13T13:44:08.105600",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "fdf35e94cf9eb029",
+    "tipo": "conceito",
+    "conteudo": "gerados",
+    "criado": "2026-03-13T13:44:08.106273",
+    "modificado": "2026-03-13T13:44:08.106273",
+    "conexoes": [
+      {
+        "para": "70b57f8370dd27e7",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+    ]
+  },
+  {
+    "id": "a380c2c06fa231f1",
+    "tipo": "conceito",
+    "conteudo": "criados",
+    "criado": "2026-03-13T13:44:08.207723",
+    "modificado": "2026-03-13T13:44:08.207723",
+    "conexoes": [
+      {
+        "para": "20a8e12e67641d07",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
+  },
+  {
+    "id": "7391eb9898927892",
+    "tipo": "conceito",
+    "conteudo": "compreendidos",
+    "criado": "2026-03-13T13:44:08.310150",
+    "modificado": "2026-03-13T13:44:08.310150",
+    "conexoes": [
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "afb32f5f31ad1c30",
+    "tipo": "conceito",
+    "conteudo": "solução",
+    "criado": "2026-03-13T13:44:08.311131",
+    "modificado": "2026-03-13T13:44:08.311131",
+    "conexoes": [
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "5694caad87ced854",
+    "tipo": "conceito",
+    "conteudo": "humanos",
+    "criado": "2026-03-13T13:44:08.314438",
+    "modificado": "2026-03-13T13:44:08.314438",
+    "conexoes": [
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "ada36748d8f3a328",
+    "tipo": "conceito",
+    "conteudo": "podem",
+    "criado": "2026-03-13T13:44:08.315234",
+    "modificado": "2026-03-13T13:44:08.315234",
+    "conexoes": [
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
+    ]
+  },
+  {
+    "id": "3ea52d1a682e866c",
+    "tipo": "conceito",
+    "conteudo": "explicável",
+    "criado": "2026-03-13T13:44:08.315625",
+    "modificado": "2026-03-13T13:44:08.315625",
+    "conexoes": [
+      {
+        "para": "e527f1b6389a964c",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "frequencia": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_explicável"
     ]
   }
 ]
