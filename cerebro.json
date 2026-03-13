@@ -3,10 +3,10 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 16,
+    "ciclos": 17,
     "estado": "aprendiz",
     "paginas_lidas": 0,
-    "caracteres_aprendidos": 185345
+    "caracteres_aprendidos": 186937
   },
   "conhecimento": {
     "dba5c6e325032ebc": {
@@ -9806,6 +9806,28 @@
       "criado": "2026-03-13T14:26:44.236459",
       "acessos": 1,
       "conexoes": []
+    },
+    "6ab1d04c7b4b949f": {
+      "conteudo": "So yeah, I ended up installing Winamp in Wine on my Linux setup just to see if it would still work, and it actually does. I am running Ubuntu Server 25.10 with KDE Plasma, made a dedicated Wine prefix for Winamp, installed it there, and it started up without much drama. Classic skin, playlist editor, media library, the whole old-school setup. It plays fine and honestly looks exactly like it should. The weird part is not that it works. The weird part is how instantly familiar it feels. The second I saw that layout again, it was like getting punched in the face by pure early-2000s nostalgia. Same buttons, same playlist window, same look, same whole vibe. And now I am sitting here on a modern Linux system using Winamp through Wine like some time traveler that missed the exit ramp back to 2004. It works, and I am not even going to pretend it is the most logical thing I have installed on Linux. But damn, I feel old as fox using this again. Still, there is something kind of beautiful about seeing Winamp alive and working on Linux in 2026.",
+      "tipo": "texto",
+      "fontes": [
+        "https://www.linux.org/whats-new/"
+      ],
+      "peso": 1.0,
+      "criado": "2026-03-13T14:27:20.591650",
+      "acessos": 1,
+      "conexoes": []
+    },
+    "62f1bd97f2f5f854": {
+      "conteudo": "TITULO: What's new | Linux.org\nCONTEUDO: So yeah, I ended up installing Winamp in Wine on my Linux setup just to see if it would still work, and it actually does. I am running Ubuntu Server 25.10 with KDE Plasma, made a dedicated Wine prefix for Winamp, installed it there, and it started up without much drama. Classic skin, playlist editor, media library, the whole old-school setup. It plays fine and honestly looks exactly like it should. The weird part is not that it works. The weird part is how instantly familiar it feels. The second...",
+      "tipo": "resumo",
+      "fontes": [
+        "https://www.linux.org/whats-new/"
+      ],
+      "peso": 3.0,
+      "criado": "2026-03-13T14:27:20.591841",
+      "acessos": 1,
+      "conexoes": []
     }
   },
   "paginas": {
@@ -9970,6 +9992,12 @@
       "texto_completo": "Python - Home Python - Overview Python - History Python - Features Python vs C++ Python - Hello World Program Python - Application Areas Python - Interpreter Python - Environment Setup Python - Virtual Environment Python - Basic Syntax Python - Variables Python - Private Variables Python - Data Types Python - Type Casting Python - Unicode System Python - Literals Python - Operators Python - Arithmetic Operators Python - Comparison Operators Python - Assignment Operators Python - Logical Operators Python - Bitwise Operators Python - Membership Operators Python - Identity Operators Python - Walrus Operator Python - Operator Precedence Python - Comments Python - User Input Python - Numbers Python - Booleans Python - Floating Points Python - Control Flow Python - Decision Making Python - If Statement Python - If else Python - Nested If Python - Conditional User Inputs Python - Match-Case Statement Python - Loops Python - for Loops Python - for-else Loops Python - While Loops Python - break Statement Python - continue Statement Python - pass Statement Python - Nested Loops Python Functions & Modules Python - Functions Python - Default Arguments Python - Keyword Arguments Python - Keyword-Only Arguments Python - Positional Arguments Python - Positional-Only Arguments Python - Arbitrary Arguments Python - Variables Scope Python - Function Annotations Python - Modules Python - Packing and Unpacking Python - Built in Functions Python Strings Python - Strings Python - Slicing Strings Python - Modify Strings Python - String Concatenation Python - String Formatting Python - Escape Characters Python - String Methods Python - String Exercises Python Lists Python - Lists Python - Access List Items Python - Change List Items Python - Add List Items Python - Remove List Items Python - Loop Lists Python - List Comprehension Python - Sort Lists Python - Copy Lists Python - Join Lists Python - List Methods Python - List Exercises Python Tuples Python - Tuples Python - Access Tuple Items Python - Update Tuples Python - Unpack Tuples Python - Loop Tuples Python - Join Tuples Python - Tuple Methods Python - Namedtuple Python - Tuple Exercises Python Sets Python - Sets Python - Access Set Items Python - Add Set Items Python - Remove Set Items Python - Loop Sets Python - Join Sets Python - Copy Sets Python - Set Operators Python - Set Methods Python - Set Exercises Python Dictionaries Python - Dictionaries Python - Access Dictionary Items Python - Change Dictionary Items Python - Add Dictionary Items Python - Remove Dictionary Items Python - Dictionary View Objects Python - Loop Dictionaries Python - Copy Dictionaries Python - Nested Dictionaries Python - Dictionary Methods Python - Dictionary Exercises Python Arrays Python - Arrays Python - Access Array Items Python - Add Array Items Python - Remove Array Items Python - Loop Arrays Python - Copy Arrays Python - Reverse Arrays Python - Sort Arrays Python - Join Arrays Python - Array Methods Python - Array Exercises Python File Handling Python - File Handling Python - Write to File Python - Read Files Python - Renaming and Deleting Files Python - Directories Python - File Methods Python - OS File/Directory Methods Python - OS Path Methods Object Oriented Programming Python - OOPs Concepts Python - Classes & Objects Python - Class Attributes Python - Class Methods Python - Static Methods Python - Constructors Python - Access Modifiers Python - Inheritance Python - Multiple Inheritance Python - Multilevel Inheritance Python - Polymorphism Python - Method Overriding Python - Method Overloading Python - Dynamic Binding Python - Dynamic Typing Python - Abstraction Python - Encapsulation Python - Interfaces Python - Packages Python - Inner Classes Python - Anonymous Class and Objects Python - Singleton Class Python - Wrapper Classes Python - Enums Python - Reflection Python - Data Classes Python Errors & Exceptions Python - Syntax Errors Python - Exceptions Python - try-except Block Python - try-finally Block Python - Raising Exceptions Python - Exception Chaining Python - Nested try Block Python - User-defined Exception Python - Logging Python - Assertions Python - Warnings Python - Built-in Exceptions Python - Debugger (PDB) Python Multithreading Python - Multithreading Python - Thread Life Cycle Python - Creating a Thread Python - Starting a Thread Python - Joining Threads Python - Naming Thread Python - Thread Scheduling Python - Thread Pools Python - Main Thread Python - Thread Priority Python - Daemon Threads Python - Synchronizing Threads Python Synchronization Python - Inter-thread Communication Python - Thread Deadlock Python - Interrupting a Thread Python Networking Python - Networking Python - Socket Programming Python - URL Processing Python - Generics Python Libraries NumPy Tutorial Pandas Tutorial SciPy Tutorial Matplotlib Tutorial Django Tutorial OpenCV Tutorial Python Miscellenous Python - Date & Time Python - Maths Python - Iterators Python - Generators Python - Generator Expressions Python - Lambda Expressions Python - Closures Python - Decorators Python - Recursion Python - Reg Expressions Python - PIP Python - Database Access Python - Weak References Python - Serialization Python - Templating Python - Output Formatting Python - Performance Measurement Python - Data Compression Python - CGI Programming Python - XML Processing Python - GUI Programming Python - Command-Line Arguments Python - Docstrings Python - JSON Python - Sending Email Python - Further Extensions Python - Tools/Utilities Python - Odds and Ends Python - GUIs Python Advanced Concepts Python - Abstract Base Classes Python - Custom Exceptions Python - Higher Order Functions Python - Object Internals Python - Memory Management Python - Metaclasses Python - Metaprogramming with Metaclasses Python - Mocking and Stubbing Python - Monkey Patching Python - Signal Handling Python - Type Hints Python - Automation Tutorial Python - Humanize Package Python - Context Managers Python - Coroutines Python - Descriptors Python - Diagnosing and Fixing Memory Leaks Python - Immutable Data Structures Python - Domain Specific Language (DSL) Python - Data Model Python Useful Resources Python - Questions & Answers Python - Interview Questions & Answers Python - Online Quiz Python - Quick Guide Python - Reference Python - Cheatsheet Python - Projects Python - Useful Resources Python - Discussion Python Compiler NumPy Compiler Matplotlib Compiler SciPy Compiler Selected Reading UPSC IAS Exams Notes Developer's Best Practices Questions and Answers Online Resume Builder HR Interview Questions Computer Glossary Who is Who Python Tutorial Python Introduction What is Python Python \"Hello, World!\" Python Compiler Python Characteristics Applications of Python Features of Python Python Database Handling Python Reference Python Practice Python Exercises Python Jobs Why to Learn Python Careers with Python Download Python Python Updates Python Audiences Python Prerequisites Python Questions & Answers Job Search PDF Version Quick Guide Resources Discussion Python Tutorial Today, Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more. This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer. This Python tutorial is based on the latest Python 3.13 version. What is Python? Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation. This Python tutorial gives a complete understanding of Python programming language, starting from basic concepts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language. Python \"Hello, World!\" To start with Python programming, the very basic program is to print \"Hello, World!\" You can use the print() function . Below is an example of Python code to print \"Hello, World!\" − # Python code to print \"Hello, World!\" print (\"Hello, World!\") Python Online Compiler Our Python programming tutorial provides various examples to explain different concepts. We have provided Online Python Compiler/Interpreter . You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment. Try to click the icon to run the following Python code to print conventional \"Hello, World!\". Below code box allows you to change the value of the code. Try to change the value inside print() and run it again to verify the result. # This is my first Python program. # This will print 'Hello, World!' as the output print (\"Hello, World!\"); Characteristics of Python Following are important characteristics of Python Programming It supports functional and structured programming methods as well as OOP It can be used as a scripting language or can be compiled to byte-code for building large applications. It provides very high-level dynamic data types and supports dynamic type checking. It supports automatic garbage collection. It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java. Applications of Python Python is a general purpose programming language known for its readability. It is w",
       "data_acesso": "2026-03-13T14:26:44.232570",
       "tamanho": 16930
+    },
+    "https://www.linux.org/whats-new/": {
+      "titulo": "What's new | Linux.org",
+      "texto_completo": "So yeah, I ended up installing Winamp in Wine on my Linux setup just to see if it would still work, and it actually does. I am running Ubuntu Server 25.10 with KDE Plasma, made a dedicated Wine prefix for Winamp, installed it there, and it started up without much drama. Classic skin, playlist editor, media library, the whole old-school setup. It plays fine and honestly looks exactly like it should. The weird part is not that it works. The weird part is how instantly familiar it feels. The second I saw that layout again, it was like getting punched in the face by pure early-2000s nostalgia. Same buttons, same playlist window, same look, same whole vibe. And now I am sitting here on a modern Linux system using Winamp through Wine like some time traveler that missed the exit ramp back to 2004. It works, and I am not even going to pretend it is the most logical thing I have installed on Linux. But damn, I feel old as fox using this again. Still, there is something kind of beautiful about seeing Winamp alive and working on Linux in 2026.",
+      "data_acesso": "2026-03-13T14:27:20.591414",
+      "tamanho": 1048
     }
   },
   "indices": {
@@ -10413,7 +10441,8 @@
         "1af3e9801063ed28",
         "6cb9dd3ec0aa8739",
         "59c1f7af031c6db5",
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "6ab1d04c7b4b949f"
       ],
       "resumo": [
         "869ef110cbcdc27e",
@@ -10442,7 +10471,8 @@
         "69480fe95ce24a31",
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "62f1bd97f2f5f854"
       ],
       "exemplo_numerico": [
         "3ba7175038ddccc0",
@@ -11119,6 +11149,10 @@
         "dd7e384a921fc225",
         "b850a0f81ab34e71",
         "73c30f0c4a60b045"
+      ],
+      "https://www.linux.org/whats-new/": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ]
     },
     "por_palavra": {
@@ -11172,7 +11206,9 @@
         "9d3eef28d73f90e5",
         "08b5b3a969983ea5",
         "4caa16206e5fd138",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "computer": [
         "76e1b1a09f317aa1"
@@ -11263,7 +11299,9 @@
         "0897ec52374a6727",
         "e6d382a3c8d852d4",
         "95e3a5b592935fe3",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "user": [
         "76e1b1a09f317aa1",
@@ -11275,7 +11313,8 @@
         "9d3eef28d73f90e5",
         "91e38248c22bb7fb",
         "08b5b3a969983ea5",
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "62f1bd97f2f5f854"
       ],
       "protecting": [
         "76e1b1a09f317aa1",
@@ -11320,7 +11359,9 @@
         "76e1b1a09f317aa1",
         "b8f86559bf96fa79",
         "50d89ae937544a7e",
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "take": [
         "76e1b1a09f317aa1",
@@ -11433,7 +11474,8 @@
         "69480fe95ce24a31",
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "62f1bd97f2f5f854"
       ],
       "cisa": [
         "869ef110cbcdc27e",
@@ -11467,7 +11509,8 @@
         "69480fe95ce24a31",
         "4caa16206e5fd138",
         "e6d382a3c8d852d4",
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "62f1bd97f2f5f854"
       ],
       "released": [
         "869ef110cbcdc27e"
@@ -11585,7 +11628,9 @@
         "869ef110cbcdc27e"
       ],
       "media": [
-        "869ef110cbcdc27e"
+        "869ef110cbcdc27e",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "awareness": [
         "fe0a23e029896722",
@@ -11689,12 +11734,15 @@
       ],
       "part": [
         "fe0a23e029896722",
-        "7a07f2ff806d1129"
+        "7a07f2ff806d1129",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "using": [
         "fe0a23e029896722",
         "cc6901ebb1f7f3e7",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "6ab1d04c7b4b949f"
       ],
       "federal": [
         "fe0a23e029896722"
@@ -11837,7 +11885,9 @@
         "581c8fb845bd6d65",
         "17ce6e361a1d01ee",
         "b8f86559bf96fa79",
-        "50d89ae937544a7e"
+        "50d89ae937544a7e",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "comparison": [
         "581c8fb845bd6d65",
@@ -12106,7 +12156,9 @@
         "242d8505c4a22160",
         "69480fe95ce24a31",
         "0897ec52374a6727",
-        "e6d382a3c8d852d4"
+        "e6d382a3c8d852d4",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "creating": [
         "b8f86559bf96fa79",
@@ -12181,7 +12233,9 @@
         "3ba7175038ddccc0",
         "e00a2380f9e7254a",
         "111b3fbd6b950047",
-        "66af99b6e8fa3152"
+        "66af99b6e8fa3152",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "libcontainer": [
         "3ba7175038ddccc0",
@@ -14004,7 +14058,9 @@
       "server": [
         "6fddd04117eaedbc",
         "d44db2d70aa038be",
-        "d21e1b2bed9eebaa"
+        "d21e1b2bed9eebaa",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "qual": [
         "6fddd04117eaedbc",
@@ -14651,7 +14707,9 @@
       ],
       "editor": [
         "4b178bdc59da544a",
-        "cb214497609573a8"
+        "cb214497609573a8",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "foco": [
         "4b178bdc59da544a",
@@ -14916,7 +14974,9 @@
         "59c1f7af031c6db5"
       ],
       "work": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "push": [
         "9d3eef28d73f90e5",
@@ -14942,7 +15002,9 @@
       "like": [
         "9d3eef28d73f90e5",
         "0c698dccfe6ccd1c",
-        "b850a0f81ab34e71"
+        "b850a0f81ab34e71",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "commits": [
         "9d3eef28d73f90e5",
@@ -15002,7 +15064,9 @@
         "9d3eef28d73f90e5"
       ],
       "should": [
-        "9d3eef28d73f90e5"
+        "9d3eef28d73f90e5",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "many": [
         "9d3eef28d73f90e5",
@@ -15567,7 +15631,9 @@
         "0c698dccfe6ccd1c"
       ],
       "works": [
-        "0c698dccfe6ccd1c"
+        "0c698dccfe6ccd1c",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "build": [
         "0c698dccfe6ccd1c",
@@ -15979,7 +16045,9 @@
         "4caa16206e5fd138"
       ],
       "library": [
-        "cc6901ebb1f7f3e7"
+        "cc6901ebb1f7f3e7",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "objects": [
         "cc6901ebb1f7f3e7",
@@ -16250,7 +16318,9 @@
         "dd7e384a921fc225"
       ],
       "without": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "development": [
         "dd7e384a921fc225",
@@ -16279,7 +16349,8 @@
         "dd7e384a921fc225"
       ],
       "again": [
-        "dd7e384a921fc225"
+        "dd7e384a921fc225",
+        "6ab1d04c7b4b949f"
       ],
       "verify": [
         "dd7e384a921fc225"
@@ -16331,7 +16402,9 @@
         "73c30f0c4a60b045"
       ],
       "setup": [
-        "73c30f0c4a60b045"
+        "73c30f0c4a60b045",
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ],
       "type": [
         "73c30f0c4a60b045"
@@ -16353,12 +16426,135 @@
       ],
       "operator": [
         "73c30f0c4a60b045"
+      ],
+      "winamp": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "same": [
+        "6ab1d04c7b4b949f"
+      ],
+      "wine": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "still": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "installed": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "playlist": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "whole": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "weird": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "yeah": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "ended": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "installing": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "just": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "would": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "actually": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "does": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "running": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "ubuntu": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "plasma": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "dedicated": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "prefix": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "much": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "drama": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "classic": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "skin": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "school": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "plays": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "fine": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "honestly": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "looks": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "exactly": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
+      ],
+      "instantly": [
+        "6ab1d04c7b4b949f",
+        "62f1bd97f2f5f854"
       ]
     }
   },
   "estatisticas": {
-    "paginas_baixadas": 27,
-    "paginas_falhas": 49,
-    "total_caracteres": 170271
+    "paginas_baixadas": 28,
+    "paginas_falhas": 52,
+    "total_caracteres": 171319
   }
 }
