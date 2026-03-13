@@ -2714,5 +2714,232 @@
       "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
       "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
     ]
+  },
+  {
+    "id": "a328be4bf8171fed",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: algoritmos geneticos otimizacao\n\nEvolucao: ## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 13 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:37.150039",
+    "modificado": "2026-03-13T14:01:37.815109",
+    "conexoes": [
+      {
+        "para": "a44e005043138df2",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "algoritmos geneticos otimizacao",
+      "fase": "coleta",
+      "fontes_count": 23,
+      "queries": [
+        "algoritmos geneticos otimizacao",
+        "algoritmos geneticos otimizacao fundamentos",
+        "algoritmos geneticos otimizacao aplicacoes",
+        "algoritmos geneticos otimizacao algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: algoritmos geneticos otimizacao",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:37.814626",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:37.814776",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:37.814896",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Estrutural: algoritmos geneticos otimizacao\n\nConceitos mapeados: 0\nBase empirica: 23 observacoes\nRede inicial: 264 cone...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:37.815007",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: algoritmos geneticos otimizacao\n\nEvolucao: ## Analise Relacional (v2): algoritmos geneticos otimizacao\n\nDensidade: 11.5 conexoes/celula\nClusters identificados:\n\n\nFontes: 13 ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:37.815095",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://pt.m.wikipedia.org/wiki/Algoritmo_genético",
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://www.datageeks.com.br/algoritmos-geneticos/",
+      "https://www.inf.ufsc.br/~mauro.roisenberg/ine5377/Cursos-ICA/CE-intro_apost.pdf",
+      "https://www.dm.ufscar.br/~sadao/download/?file=article/algoritmos-geneticos.pdf",
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://github.com/gabrielzinCoelho/genetic-algorithm-optimizer",
+      "https://www.significados.com.br/algoritmo/",
+      "https://pt.wikipedia.org/wiki/Algoritmo",
+      "https://www.tecmundo.com.br/programacao/2082-o-que-e-algoritmo-.htm",
+      "https://faculdade.grancursosonline.com.br/blog/algoritmo-o-que-e/",
+      "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo"
+    ]
+  },
+  {
+    "id": "605f0d6417a2cef2",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: machine learning nao supervisionado\n\nEvolucao: ## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: ......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 15 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:37.816678",
+    "modificado": "2026-03-13T14:01:38.282454",
+    "conexoes": [
+      {
+        "para": "c16da903dda2e3b2",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "fase": "coleta",
+      "fontes_count": 30,
+      "queries": [
+        "machine learning nao supervisionado",
+        "machine learning nao supervisionado fundamentos",
+        "machine learning nao supervisionado aplicacoes",
+        "machine learning nao supervisionado algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: machine learning nao supervisionado",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:38.282195",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: 147 conexoes\n\nTermos chave: ",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:38.282305",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 4.9 conexoes/celula\nClusters identificados:\n\n\nFontes: 15 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:38.282354",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: machine learning nao supervisionado\n\nEvolucao: ## Analise Estrutural: machine learning nao supervisionado\n\nConceitos mapeados: 0\nBase empirica: 30 observacoes\nRede inicial: ...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:38.282402",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: machine learning nao supervisionado\n\nEvolucao: ## Analise Relacional (v2): machine learning nao supervisionado\n\nDensidade: 4.9 conexoes/celula\nClusters identificados:\n\n\nFont...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:38.282447",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389",
+      "https://www.zhihu.com/question/1900776580537619430",
+      "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "https://www.zhihu.com/question/1933486708491530514",
+      "https://zhidao.baidu.com/question/341255177978476405.html",
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "https://www.hashtagtreinamentos.com/area-de-dados",
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/",
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf"
+    ]
+  },
+  {
+    "id": "93ccc4789c171a12",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese Consolidada v5: inteligencia artificial generativa\n\nEvolucao: ## Sintese Consolidada v3: inteligencia artificial generativa\n\nEvolucao: ## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 5......\n\nConsolidado em 5 iteracoes. Qualidade: 0.80. Base: 10 fontes, 0 conexoes ativas.",
+    "criado": "2026-03-13T14:01:52.524089",
+    "modificado": "2026-03-13T14:01:53.172379",
+    "conexoes": [
+      {
+        "para": "19daa73e6816b963",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 5,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "fase": "coleta",
+      "fontes_count": 20,
+      "queries": [
+        "inteligencia artificial generativa",
+        "inteligencia artificial generativa fundamentos",
+        "inteligencia artificial generativa aplicacoes",
+        "inteligencia artificial generativa algoritmos"
+      ]
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Analise turbo: inteligencia artificial generativa",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T14:01:53.171853",
+        "razao": "ref_v1"
+      },
+      {
+        "conteudo": "## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 532 conexoes\n\nTermos chave: referir, conversas, conhecer, intelectuais, fa...",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:53.172099",
+        "razao": "ref_v2"
+      },
+      {
+        "conteudo": "## Analise Relacional (v2): inteligencia artificial generativa\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n- outros: referir, cognitiva, usado\n\nFontes: 10 referencias",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T14:01:53.172205",
+        "razao": "ref_v3"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v3: inteligencia artificial generativa\n\nEvolucao: ## Analise Estrutural: inteligencia artificial generativa\n\nConceitos mapeados: 10\nBase empirica: 20 observacoes\nRede inicial: 5...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:53.172289",
+        "razao": "ref_v4"
+      },
+      {
+        "conteudo": "## Sintese Consolidada v4: inteligencia artificial generativa\n\nEvolucao: ## Analise Relacional (v2): inteligencia artificial generativa\n\nDensidade: 10.4 conexoes/celula\nClusters identificados:\n- outro...",
+        "energia": 0.8,
+        "timestamp": "2026-03-13T14:01:53.172370",
+        "razao": "ref_v5"
+      }
+    ],
+    "profundidade": 5,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "https://www.significados.com.br/inteligencia/",
+      "https://www.dicio.com.br/inteligencia/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://openai.com/pt-BR/",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
+    ]
   }
 ]
