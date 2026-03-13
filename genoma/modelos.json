@@ -321,5 +321,24 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "9b55f1684317de40",
+    "tipo": "modelo",
+    "conteudo": "Modelo de 'transformers arquitetura': transformers, arquitetura, prontos, entrar, encoder. Base: 3 obs, 16 conceitos.",
+    "criado": "2026-03-13T13:47:37.645200",
+    "modificado": "2026-03-13T13:47:37.645200",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura",
+      "arquivo": "transformers_arquitetura.json",
+      "conceitos_count": 8
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
