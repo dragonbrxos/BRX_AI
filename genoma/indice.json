@@ -375,17 +375,40 @@
       "9e82d1f5a3db0e8d",
       "469f1fa7ddca3b3d",
       "9fe9bf2d99666320"
+    ],
+    "etica inteligencia artificial": [
+      "f75e2443edf44de0",
+      "2713e278564d3c6b",
+      "31b925914cb91d04",
+      "da4393ed17a4d4d3",
+      "dc98859f029b1f01",
+      "9ce200a290dad2b7",
+      "2233bef0b19be171",
+      "7a25bcb67cf8f0cb",
+      "7a96a744bdb6ddac",
+      "8b64c7360013bd1e",
+      "885a4fc7c9ce391a",
+      "3f2b2abf285a3904",
+      "2bfb1216f2a0c228",
+      "89b38f0009b9b806",
+      "9d822914104707fa",
+      "182641f129fb8b48",
+      "b97764e8e2df6ec1",
+      "3674412644905f58",
+      "dc6fe012a4dff509",
+      "83221fd03e703cda",
+      "2645d88fe212315f"
     ]
   },
   "estatisticas": {
-    "ciclos": 17,
-    "nascimentos": 340,
+    "ciclos": 18,
+    "nascimentos": 361,
     "mortes": 0,
-    "refinamentos": 63,
-    "pesquisas_realizadas": 17,
+    "refinamentos": 66,
+    "pesquisas_realizadas": 18,
     "arquivos_gerados": 7
   },
-  "topico_atual": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+  "topico_atual": "etica inteligencia artificial",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -403,7 +426,8 @@
     "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao algoritmos implementacao",
     "processamento linguagem natural",
     "processamento linguagem natural algoritmos implementacao",
-    "processamento linguagem natural algoritmos implementacao fundamentos teoricos"
+    "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+    "etica inteligencia artificial"
   ],
-  "timestamp": "2026-03-13T13:46:46.123317"
+  "timestamp": "2026-03-13T13:47:11.938006"
 }
