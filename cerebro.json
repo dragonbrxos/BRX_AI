@@ -3,7 +3,7 @@
     "nome": "CEREBRO",
     "versao": "1.0",
     "nascimento": "2026-03-13T14:07:12.096912",
-    "ciclos": 22,
+    "ciclos": 23,
     "estado": "aprendiz",
     "paginas_lidas": 0,
     "caracteres_aprendidos": 208705
@@ -16964,7 +16964,7 @@
   },
   "estatisticas": {
     "paginas_baixadas": 30,
-    "paginas_falhas": 80,
+    "paginas_falhas": 85,
     "total_caracteres": 191948
   }
 }
