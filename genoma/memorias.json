@@ -2441,5 +2441,191 @@
     "fontes": [
       "https://labdata.fia.com.br/inteligencia-artificial-explicavel-xai-podemos-confiar-nas-decisoes-dos-algoritmos/"
     ]
+  },
+  {
+    "id": "56035d301939d665",
+    "tipo": "memoria",
+    "conteudo": "21 de jul. de 2025 · Descubra o que é IA explicável, por que ela é essencial, como aplicar transparência e pedir explicações para decisões de algoritmos. Guia prático para 2025.",
+    "criado": "2026-03-13T13:45:01.859314",
+    "modificado": "2026-03-13T13:45:01.859314",
+    "conexoes": [
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fddd494ddcfd2853",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8e4b815136a1f3ef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fd32900b19bfe730",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fb7d5af28da054ea",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "5befcafa9b362377",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "fonte": "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/",
+      "indice": 0
+    },
+    "origem": "387ba028ce2b5ba3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://treinamentosaf.com.br/ia-explicavel-como-entender-as-decisoes-dos-algoritmos-guia-pratico-2025/"
+    ]
+  },
+  {
+    "id": "eab3d9908b578b08",
+    "tipo": "memoria",
+    "conteudo": "Em um mundo cada vez mais orientado por decisões de IA, a confiança só pode ser conquistada pela transparência. É aqui que a IA Explicável, ou Explainable AI (XAI), se torna crucial, ajudando a traduzir …",
+    "criado": "2026-03-13T13:45:01.962221",
+    "modificado": "2026-03-13T13:45:01.962221",
+    "conexoes": [
+      {
+        "para": "b4f160cd2adc34d3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "34d836fb8cb4868a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "45552b3b328ef8b0",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1e072d93e75830d6",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "95877163a42915fc",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fd32900b19bfe730",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "fonte": "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/",
+      "indice": 0
+    },
+    "origem": "387ba028ce2b5ba3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://itforum.com.br/colunas/ia-explicavel-tornando-os-algoritmos-transparentes/"
+    ]
+  },
+  {
+    "id": "211c70239dccbf08",
+    "tipo": "memoria",
+    "conteudo": "A inteligência artificial explicável (XAI) é um conjunto de processos e métodos que permite aos usuários humanos entenderem e confiarem nos resultados e produção criados por algoritmos de aprendizado …",
+    "criado": "2026-03-13T13:45:02.066981",
+    "modificado": "2026-03-13T13:45:02.066981",
+    "conexoes": [
+      {
+        "para": "68c6a396729a9bf3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0db705d75d4f7a38",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "a380c2c06fa231f1",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1aba5df38bc66f31",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "ec2c8632c1754173",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel algoritmos implementacao algoritmos implementacao",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/explainable-ai",
+      "indice": 0
+    },
+    "origem": "387ba028ce2b5ba3",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/explainable-ai"
+    ]
   }
 ]
