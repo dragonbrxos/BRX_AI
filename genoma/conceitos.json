@@ -1296,6 +1296,26 @@
         "para": "ae28c2f148aa8f3c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -1314,7 +1334,8 @@
       "https://www.dicio.com.br/visao/",
       "https://www.dicio.com.br/processamento/",
       "https://informatecdigital.com/pt/o-que-significa-processamento/",
-      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento"
+      "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -1573,6 +1594,26 @@
         "para": "17fc8513f1fbf950",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -1589,7 +1630,8 @@
       "https://www.dicio.com.br/etica/",
       "https://www.dicio.com.br/aprendizado/",
       "https://www.dicio.com.br/visao/",
-      "https://www.dicio.com.br/processamento/"
+      "https://www.dicio.com.br/processamento/",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -1903,6 +1945,21 @@
         "para": "ae28c2f148aa8f3c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -1921,7 +1978,8 @@
       "https://www.dicio.com.br/visao/",
       "https://www.dicio.com.br/processamento/",
       "https://www.infopedia.pt/dicionarios/lingua-portuguesa/processamento",
-      "https://www.sinonimos.com.br/processamento/"
+      "https://www.sinonimos.com.br/processamento/",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -2150,6 +2208,21 @@
         "para": "17fc8513f1fbf950",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -2166,7 +2239,8 @@
       "https://www.dicio.com.br/etica/",
       "https://www.dicio.com.br/aprendizado/",
       "https://www.dicio.com.br/visao/",
-      "https://www.dicio.com.br/processamento/"
+      "https://www.dicio.com.br/processamento/",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -3278,6 +3352,21 @@
         "para": "19a92d697fe1b0c6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -4078,6 +4167,11 @@
         "para": "7f26298a473361e5",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -4278,6 +4372,21 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -4298,7 +4407,8 @@
       "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
       "https://flammadesign.com.br/glossario/o-que-e-redes-neurais-profundas-e-suas-aplicacoes/",
       "https://debom.cbpf.br/teach/crb_aula01.pdf",
-      "https://www.ibm.com/br-pt/think/topics/neural-networks"
+      "https://www.ibm.com/br-pt/think/topics/neural-networks",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
     ]
   },
   {
@@ -4788,6 +4898,21 @@
         "para": "eb720108c9c802d5",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -5086,6 +5211,181 @@
         "para": "6a9a38dffd7ba597",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -5121,7 +5421,13 @@
       "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
       "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
       "https://www.ibm.com/br-pt/think/topics/neural-networks",
-      "https://matheusfacure.github.io/2017/09/12/rnn/"
+      "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "https://www.significados.com.br/inteligencia/",
+      "https://pt.wikipedia.org/wiki/Inteligência",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://openai.com/pt-BR/",
+      "https://www.dicio.com.br/inteligencia/",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -5395,6 +5701,106 @@
         "para": "6a9a38dffd7ba597",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -5426,7 +5832,9 @@
       "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
       "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
       "https://www.ibm.com/br-pt/think/topics/neural-networks",
-      "https://matheusfacure.github.io/2017/09/12/rnn/"
+      "https://matheusfacure.github.io/2017/09/12/rnn/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -5759,6 +6167,11 @@
         "para": "0a0aa3d0d2bf2dd3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -5913,6 +6326,11 @@
       },
       {
         "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -6131,6 +6549,11 @@
         "para": "3a279dee9f19f721",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -6239,6 +6662,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -6486,6 +6914,21 @@
         "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -6613,6 +7056,86 @@
         "para": "e98097238c2dbac6",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0c6b67d117ceca91",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -6662,6 +7185,21 @@
       },
       {
         "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
         "tipo": "relacionado",
         "forca": 0.3
       }
@@ -6716,6 +7254,21 @@
         "para": "dd7c1c1bf07a3cae",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -6749,6 +7302,11 @@
         "para": "ea6b1f1f6860e443",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -6791,6 +7349,31 @@
         "para": "45563e1240a0a790",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -6820,6 +7403,21 @@
         "para": "686f7b397f227d0a",
         "tipo": "menciona",
         "forca": 0.4
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -6987,6 +7585,46 @@
         "para": "4cc386c50bc3cfb6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7003,7 +7641,8 @@
       "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
       "https://pt.wikipedia.org/wiki/Sistema_multiagente",
       "https://www.dicio.com.br/sistema/",
-      "https://www.academia.edu/62176715/Fundamentos_de_redes_neurais_profundas"
+      "https://www.academia.edu/62176715/Fundamentos_de_redes_neurais_profundas",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -7037,6 +7676,11 @@
         "para": "a487d7ee22e69288",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7084,6 +7728,11 @@
         "para": "a487d7ee22e69288",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7131,6 +7780,11 @@
         "para": "a487d7ee22e69288",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7558,6 +8212,21 @@
         "para": "6a9a38dffd7ba597",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7617,6 +8286,11 @@
         "para": "78a639f0dc1312a5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7699,6 +8373,16 @@
         "para": "808ac14b5020e830",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -7758,6 +8442,36 @@
       },
       {
         "para": "c9cd003a5d9db30f",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9c932178da988098",
         "tipo": "relacionado",
         "forca": 0.3
       }
@@ -8356,6 +9070,26 @@
         "para": "3a279dee9f19f721",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -8373,7 +9107,8 @@
       "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/",
       "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
-      "https://prp.unicamp.br/inscricao-congresso/resumos/2023P22060A38854O568.pdf"
+      "https://prp.unicamp.br/inscricao-congresso/resumos/2023P22060A38854O568.pdf",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
     ]
   },
   {
@@ -8477,6 +9212,11 @@
         "para": "fb93b7422bc1a072",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -8499,7 +9239,8 @@
       "https://conceitos.tech/inteligencia-artificial/deep-learning/redes-neurais-profundas/",
       "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
       "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
-      "https://aws.amazon.com/pt/what-is/reinforcement-learning/"
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
     ]
   },
   {
@@ -8608,6 +9349,41 @@
         "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -8626,7 +9402,8 @@
       "https://www.alura.com.br/artigos/etica-e-inteligencia-artificial",
       "https://www.datageeks.com.br/algoritmos-geneticos/",
       "https://pt.wikipedia.org/wiki/Algoritmo",
-      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço"
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "https://www.significados.com.br/inteligencia/"
     ]
   },
   {
@@ -9003,6 +9780,41 @@
         "para": "3a279dee9f19f721",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -9019,7 +9831,8 @@
       "https://www.datacamp.com/pt/blog/what-is-computer-vision",
       "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
       "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
-      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/"
+      "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
+      "https://pt.wikipedia.org/wiki/Inteligência"
     ]
   },
   {
@@ -9114,6 +9927,21 @@
       },
       {
         "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -9305,6 +10133,41 @@
         "para": "cc9bbed95a920259",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -9318,7 +10181,8 @@
     "profundidade": 0,
     "fontes": [
       "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
-      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm"
+      "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -9464,6 +10328,41 @@
         "para": "35ff8375abf5be1d",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -9477,7 +10376,8 @@
     "profundidade": 0,
     "fontes": [
       "https://brasilescola.uol.com.br/oscincosentidos/visao.htm",
-      "https://www.alura.com.br/artigos/multiagentes-de-ia"
+      "https://www.alura.com.br/artigos/multiagentes-de-ia",
+      "https://www.significados.com.br/inteligencia/"
     ]
   },
   {
@@ -10354,6 +11254,16 @@
         "para": "0cb750703da4dc05",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -10370,7 +11280,8 @@
       "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=pt-br",
       "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
       "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl",
-      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em"
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
     ]
   },
   {
@@ -10741,6 +11652,11 @@
         "para": "ef5c9c399d84f13f",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -10992,6 +11908,51 @@
       },
       {
         "para": "658db43e8e39f0d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b072644f4cb2c1c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "32836a0d5e78be6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3422fdba313b3f8e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "474350b04be611d9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -11257,6 +12218,101 @@
         "para": "ef5c9c399d84f13f",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "7edcf11773957d17",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "99f6e9f0697c6f76",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "924eb04a993f556f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c91d59c54c3cd1b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b072644f4cb2c1c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "67dfad3c815dfb50",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1d4f834fa6c563a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "32836a0d5e78be6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "03d19ec9df04e38d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0fc1e471d2bb259b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86f95023a0726615",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3422fdba313b3f8e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39f94140cc14bcfa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f4421c59dcafbc00",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e30e2d3244efa41e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "474350b04be611d9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -11985,6 +13041,26 @@
         "para": "5653a561b04f51ba",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -12008,7 +13084,8 @@
       "https://www.ibm.com/br-pt/think/topics/data-processing",
       "https://www.hostragons.com/pt/blog/redes-neurais-redes-neurais-de-aprendizagem-profunda/",
       "https://debom.cbpf.br/teach/crb_aula01.pdf",
-      "https://didatica.tech/introducao-a-aprendizado-por-reforco/"
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
     ]
   },
   {
@@ -12229,6 +13306,36 @@
         "para": "7ea2f7e7f217f25b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -12245,7 +13352,8 @@
       "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
       "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
       "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
-      "https://www.alura.com.br/artigos/rede-de-computadores"
+      "https://www.alura.com.br/artigos/rede-de-computadores",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -12829,6 +13937,26 @@
         "para": "522f524327f86fcb",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -12842,7 +13970,9 @@
     "profundidade": 0,
     "fontes": [
       "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
-      "https://www.dicio.com.br/visao/"
+      "https://www.dicio.com.br/visao/",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -12996,6 +14126,31 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -13013,7 +14168,9 @@
       "https://www.estrategiaconcursos.com.br/curso/download/?aula=3295322",
       "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
       "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
-      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html"
+      "https://www.scielo.br/j/tcam/a/DcLsnWLxJSQBwQrfm3sh6Cp/?format=html",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -13092,6 +14249,11 @@
         "para": "fb93b7422bc1a072",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -14480,6 +15642,11 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -15218,6 +16385,26 @@
         "para": "3d06ec57aeb5f7cc",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -15503,6 +16690,11 @@
         "para": "9ec3edd321e9d193",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -15516,7 +16708,8 @@
     "profundidade": 0,
     "fontes": [
       "https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=pt-BR",
-      "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/"
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
     ]
   },
   {
@@ -15836,6 +17029,11 @@
         "para": "6231c013fb7dbab4",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -16196,6 +17394,11 @@
       },
       {
         "para": "19a92d697fe1b0c6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64808609cefea728",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -17330,6 +18533,126 @@
         "para": "7aada6a169fb7fe8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -17366,7 +18689,9 @@
       "https://prp.unicamp.br/inscricao-congresso/resumos/2023P22060A38854O568.pdf",
       "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
       "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
-      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/"
+      "https://mariofilho.com/como-prever-series-temporais-com-redes-neurais-em-python/",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://pt.wikipedia.org/wiki/Inteligência"
     ]
   },
   {
@@ -17561,6 +18886,26 @@
         "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -17575,7 +18920,8 @@
     "fontes": [
       "https://pt.linkedin.com/pulse/desafios-e-limites-dos-sistemas-multiagentes-tainah-corrêa-kzvgf",
       "https://pt.wikipedia.org/wiki/Algoritmo",
-      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
     ]
   },
   {
@@ -17787,6 +19133,26 @@
         "para": "841531682a4f64e3",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2d1565ef9d04a909",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -17801,7 +19167,9 @@
     "fontes": [
       "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
       "https://www.ibm.com/br-pt/think/topics/explainable-ai",
-      "https://pt.wikipedia.org/wiki/Ética"
+      "https://pt.wikipedia.org/wiki/Ética",
+      "https://www.significados.com.br/inteligencia/",
+      "https://pt.wikipedia.org/wiki/Inteligência_artificial_generativa"
     ]
   },
   {
@@ -18050,6 +19418,21 @@
         "para": "af6ea9a3b4833976",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -18130,6 +19513,21 @@
         "para": "e7d650af3cbe0365",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -18142,7 +19540,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel"
+      "https://www.alura.com.br/artigos/xai-inteligencia-artificial-explicavel",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -18558,6 +19957,21 @@
       },
       {
         "para": "eb720108c9c802d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -19393,6 +20807,121 @@
         "para": "87ecd1dba5091ae2",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -20142,6 +21671,21 @@
         "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -20273,6 +21817,11 @@
       },
       {
         "para": "59edfb3c0f4a9f0a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -21638,6 +23187,11 @@
         "para": "fbe51eeaa9a00540",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -22279,6 +23833,21 @@
         "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -22567,6 +24136,46 @@
         "para": "6a38093724ed3e1a",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -22754,6 +24363,11 @@
         "para": "8888dfdd54b3f720",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -22991,6 +24605,21 @@
         "para": "960f8e7e8695db71",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -23008,7 +24637,8 @@
       "https://www.dicio.com.br/visao/",
       "https://www.dicio.com.br/processamento/",
       "https://www.dicio.com.br/etica/",
-      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial"
+      "https://pt.m.wikipedia.org/wiki/Rede_neural_artificial",
+      "https://www.dicio.com.br/inteligencia/"
     ]
   },
   {
@@ -23361,6 +24991,11 @@
         "para": "d94e15e73ce06933",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -23533,6 +25168,41 @@
         "para": "61dbf09883b460e5",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -23546,7 +25216,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.unesco.org/pt/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -24801,6 +26472,21 @@
         "para": "dd7c1c1bf07a3cae",
         "tipo": "menciona",
         "forca": 0.5
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -24813,7 +26499,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -24872,6 +26559,16 @@
         "para": "bf3b54f3565b83c6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -28425,6 +30122,11 @@
         "para": "47c43599cfd1330c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -30490,6 +32192,31 @@
         "para": "da42ff26b1c63df2",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -30503,7 +32230,10 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -30815,6 +32545,11 @@
         "para": "7bba193f705c4eef",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -30868,6 +32603,21 @@
         "para": "7bba193f705c4eef",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -30882,7 +32632,9 @@
     "profundidade": 0,
     "fontes": [
       "https://estudante.ifpb.edu.br/media/cursos/362/disciplina/PNL.pdf",
-      "https://aws.amazon.com/pt/what-is/reinforcement-learning/"
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -31645,6 +33397,71 @@
         "para": "7ea2f7e7f217f25b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -31673,7 +33490,10 @@
       "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/",
       "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
       "https://www.hostragons.com/pt/blog/redes-neurais-redes-neurais-de-aprendizagem-profunda/",
-      "https://debom.cbpf.br/teach/crb_aula01.pdf"
+      "https://debom.cbpf.br/teach/crb_aula01.pdf",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
     ]
   },
   {
@@ -32123,6 +33943,11 @@
         "para": "858cfc24665e05d8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -32263,6 +34088,26 @@
       },
       {
         "para": "82c8441fdfea3aac",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -32701,6 +34546,21 @@
       },
       {
         "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -33960,6 +35820,26 @@
         "para": "a810ad3ef1bb9596",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e2d16933e597e597",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "492f84fdc878c2b7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2275288b86298579",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e41a0446c4dfc12",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34007,6 +35887,26 @@
         "para": "d36824ad8095ceb8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "c91d59c54c3cd1b8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "67dfad3c815dfb50",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0fc1e471d2bb259b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f4421c59dcafbc00",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34052,6 +35952,26 @@
       },
       {
         "para": "e31422d60080237b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7edcf11773957d17",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1d4f834fa6c563a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86f95023a0726615",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e30e2d3244efa41e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -34146,6 +36066,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34223,6 +36148,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34300,6 +36230,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34477,6 +36412,21 @@
         "para": "eb720108c9c802d5",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34572,6 +36522,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34644,6 +36599,11 @@
         "para": "e3644575fab36c3b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34721,6 +36681,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34813,6 +36778,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -34890,6 +36860,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35027,6 +37002,31 @@
         "para": "960f8e7e8695db71",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35102,6 +37102,11 @@
         "para": "f787a9e0688f281e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35174,6 +37179,11 @@
         "para": "f787a9e0688f281e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35436,6 +37446,26 @@
         "para": "7ea2f7e7f217f25b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35491,6 +37521,11 @@
         "para": "f787a9e0688f281e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35543,6 +37578,11 @@
         "para": "f787a9e0688f281e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2c1a9c2ff7b43c67",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35625,6 +37665,11 @@
         "para": "f971f57b72d3ccac",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35697,6 +37742,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35794,6 +37844,11 @@
         "para": "8fb7458423595cae",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35863,6 +37918,11 @@
         "para": "e3644575fab36c3b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -35955,6 +38015,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36032,6 +38097,11 @@
         "para": "f971f57b72d3ccac",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36094,6 +38164,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36176,6 +38251,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36253,6 +38333,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36330,6 +38415,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36407,6 +38497,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36484,6 +38579,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36596,6 +38696,11 @@
         "para": "fbe51eeaa9a00540",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36654,6 +38759,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "d2e7919b5706039e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36736,6 +38846,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36808,6 +38923,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36900,6 +39020,11 @@
         "para": "78f8f338511719b4",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -36983,6 +39108,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37140,6 +39270,11 @@
         "para": "0fd77ac4e97aade6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37213,6 +39348,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37285,6 +39425,11 @@
         "para": "86c42e152199a36b",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "2af53194e185d766",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37362,6 +39507,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37439,6 +39589,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37701,6 +39856,51 @@
         "para": "3d06ec57aeb5f7cc",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37720,7 +39920,10 @@
       "https://www.docusign.com/pt-br/blog/o-que-e-algoritmo",
       "https://www.avast.com/pt-br/c-what-is-computer-network",
       "https://www.alura.com.br/artigos/deep-learning",
-      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning"
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -37774,6 +39977,11 @@
         "para": "f971f57b72d3ccac",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37826,6 +40034,11 @@
         "para": "fdc71bbb9f63cc0e",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37888,6 +40101,11 @@
         "para": "b9ab5b777be323c5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -37960,6 +40178,11 @@
         "para": "cd488dbf093af5c2",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38027,6 +40250,11 @@
         "para": "8ba10fb36e02347a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38105,6 +40333,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38177,6 +40410,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38254,6 +40492,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38336,6 +40579,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38433,6 +40681,11 @@
         "para": "913c34d7feb0b0ea",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38476,6 +40729,11 @@
         "para": "f51f4c5d0b97c9e1",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "374f561333c69404",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38548,6 +40806,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38620,6 +40883,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38737,6 +41005,11 @@
         "para": "e357d60d5fdce173",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38895,6 +41168,31 @@
         "para": "84f0cc0a99c0fc34",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -38909,7 +41207,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.hashtagtreinamentos.com/area-de-dados",
-      "https://www.forummodel.com.br/casting-de-modelos/"
+      "https://www.forummodel.com.br/casting-de-modelos/",
+      "https://pt.wikipedia.org/wiki/Inteligência"
     ]
   },
   {
@@ -38968,6 +41267,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39035,6 +41339,11 @@
         "para": "e4423566418f74f6",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39082,6 +41391,11 @@
         "para": "b9ab5b777be323c5",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39144,6 +41458,11 @@
         "para": "ef3ef771cbd1dddd",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "8c660dfb7342a6d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39201,6 +41520,11 @@
         "para": "f971f57b72d3ccac",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39258,6 +41582,11 @@
         "para": "f971f57b72d3ccac",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "e071075bb85d2f20",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39340,6 +41669,11 @@
         "para": "733ebc763e225089",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39436,6 +41770,16 @@
       },
       {
         "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1e0dc22e7cf595cb",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -39571,6 +41915,11 @@
         "para": "4cc386c50bc3cfb6",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39654,6 +42003,11 @@
         "para": "04cbe6f799ad79e8",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39726,6 +42080,11 @@
         "para": "d6b2eda8d959b772",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "bb46a2678fd17312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39768,6 +42127,11 @@
         "para": "5c8ec97b38b227f7",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "89599c0bd2d71c19",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -39840,6 +42204,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -40132,6 +42501,16 @@
         "para": "c1574e50db20372b",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -40210,6 +42589,11 @@
         "para": "d16a4f6ff613616a",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -40282,6 +42666,11 @@
         "para": "c00a77dcd8b9590d",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "64808609cefea728",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -42106,6 +44495,21 @@
         "para": "fbe51eeaa9a00540",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -42120,7 +44524,8 @@
     "profundidade": 0,
     "fontes": [
       "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
-      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf"
+      "https://portal.coren-sp.gov.br/wp-content/uploads/2026/03/Proposta_523541.pdf",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -43635,6 +46040,11 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -44008,6 +46418,21 @@
       },
       {
         "para": "e6aecde70ee5cc45",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -45438,6 +47863,26 @@
         "para": "7093d027f8734698",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -45454,7 +47899,8 @@
       "https://www.polimetro.com/pt/tipos-de-sistemas-de-informação/",
       "https://www.todamateria.com.br/visao/",
       "https://sites.icmc.usp.br/andre/research/genetic/",
-      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais"
+      "https://www.alura.com.br/artigos/arquiteturas-de-redes-neurais",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -46349,6 +48795,36 @@
         "para": "e0d81ac70e9e36a5",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -46362,7 +48838,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://uspdigital.usp.br/pt/"
+      "https://uspdigital.usp.br/pt/",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -47019,6 +49496,21 @@
       },
       {
         "para": "6a38093724ed3e1a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -49514,6 +52006,21 @@
         "para": "f7e9dc51b34374c2",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -49527,7 +52034,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/"
+      "https://oftalmoaltodepinheiros.med.br/o-que-e-visao/",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -51073,6 +53581,21 @@
         "para": "7aada6a169fb7fe8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -52452,6 +54975,31 @@
       },
       {
         "para": "960f8e7e8695db71",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eda132f7a9fdc4b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aab35d1a768bcc8b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da07b9f719af43ea",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -55154,6 +57702,21 @@
         "para": "5653a561b04f51ba",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -55257,6 +57820,21 @@
         "para": "39574a83c876fcaf",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -55271,7 +57849,8 @@
     "profundidade": 0,
     "fontes": [
       "https://techtunes.com.br/glossario/o-que-e-processamento-entenda-o-conceito/",
-      "https://www.gaap.deqm.puc-rio.br/en/"
+      "https://www.gaap.deqm.puc-rio.br/en/",
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
     ]
   },
   {
@@ -55925,6 +58504,11 @@
         "para": "2b75cfb3877459ad",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56022,6 +58606,16 @@
         "para": "47c43599cfd1330c",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56093,6 +58687,11 @@
       },
       {
         "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56217,6 +58816,11 @@
         "para": "e132c7144e5c6e01",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56320,6 +58924,11 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56400,6 +59009,11 @@
       },
       {
         "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56487,6 +59101,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56611,6 +59230,21 @@
         "para": "b273c9af1adfaf55",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56713,6 +59347,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -56852,6 +59491,11 @@
         "para": "84f0cc0a99c0fc34",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -56938,6 +59582,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57030,6 +59679,11 @@
       },
       {
         "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57139,6 +59793,31 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -57154,7 +59833,8 @@
     "fontes": [
       "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
       "https://prp.unicamp.br/inscricao-congresso/resumos/2024P23792A40210O568.pdf",
-      "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/"
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/redes-neurais/o-que-sao-redes-neurais-profundas-dnns-e-quando-utiliza-las/",
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
     ]
   },
   {
@@ -57226,6 +59906,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57395,6 +60080,26 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57475,6 +60180,11 @@
         "para": "b273c9af1adfaf55",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57537,6 +60247,11 @@
         "para": "2b75cfb3877459ad",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57587,6 +60302,11 @@
       },
       {
         "para": "2b75cfb3877459ad",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "deae265468e598d5",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57691,6 +60411,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -57766,6 +60501,11 @@
       },
       {
         "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -57898,6 +60638,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58063,6 +60808,11 @@
         "para": "84f0cc0a99c0fc34",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58139,6 +60889,11 @@
       },
       {
         "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58226,6 +60981,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58325,6 +61085,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58422,6 +61197,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58497,6 +61287,11 @@
       },
       {
         "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -58596,6 +61391,11 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58693,6 +61493,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58780,6 +61595,11 @@
         "para": "d264fc66bc362add",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58852,6 +61672,26 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -58865,7 +61705,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263"
+      "https://www.toolify.ai/pt/ai-news-pt/algoritmos-genticos-uma-viso-detalhada-e-aplicaes-prticas-3337263",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -58927,6 +61768,11 @@
       },
       {
         "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -59026,6 +61872,11 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59098,6 +61949,11 @@
         "para": "e132c7144e5c6e01",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59163,6 +62019,11 @@
       },
       {
         "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -59262,6 +62123,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59359,6 +62235,11 @@
         "para": "eae2dfff9b975bf9",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59436,6 +62317,11 @@
         "para": "b273c9af1adfaf55",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59501,6 +62387,11 @@
       },
       {
         "para": "8648b9b5aa453c9f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -59570,6 +62461,61 @@
         "para": "7093d027f8734698",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59583,7 +62529,9 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://sites.icmc.usp.br/andre/research/genetic/"
+      "https://sites.icmc.usp.br/andre/research/genetic/",
+      "https://www.significados.com.br/inteligencia/",
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   },
   {
@@ -59737,6 +62685,26 @@
         "para": "8648b9b5aa453c9f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "227e4e1875d2f02d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59807,6 +62775,11 @@
         "para": "7093d027f8734698",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59867,6 +62840,11 @@
       },
       {
         "para": "7093d027f8734698",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "902ff8f099159312",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -59941,6 +62919,11 @@
         "para": "b273c9af1adfaf55",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -59996,6 +62979,11 @@
       },
       {
         "para": "e132c7144e5c6e01",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7e870f609474e36f",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -60090,6 +63078,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -60150,6 +63153,11 @@
       },
       {
         "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -60227,6 +63235,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -60364,6 +63377,36 @@
       },
       {
         "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -60529,6 +63572,21 @@
         "para": "d6b83b004952e49f",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -60622,6 +63680,21 @@
         "para": "0681b08b38c0e275",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "d4bd77b844807fb4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e0d591211a4d7602",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9de5b72dcdd70ce6",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -60707,6 +63780,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -60806,6 +63884,21 @@
         "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -60901,6 +63994,21 @@
       },
       {
         "para": "49cb7a31f25c8f33",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61000,6 +64108,21 @@
         "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61097,6 +64220,21 @@
         "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61152,6 +64290,11 @@
       },
       {
         "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61331,6 +64474,21 @@
         "para": "640428ce53d7a603",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61382,6 +64540,11 @@
       },
       {
         "para": "47c43599cfd1330c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bcfac56c7c994bae",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61486,6 +64649,21 @@
         "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61551,6 +64729,11 @@
       },
       {
         "para": "b273c9af1adfaf55",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a7f6bf6090f2bb92",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61633,6 +64816,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61747,6 +64935,21 @@
         "para": "6a9a38dffd7ba597",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61828,6 +65031,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -61912,6 +65120,21 @@
         "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -61992,6 +65215,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -62086,6 +65314,21 @@
         "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62166,6 +65409,11 @@
       },
       {
         "para": "eae2dfff9b975bf9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "159cb74668a72f5e",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -62260,6 +65508,21 @@
         "para": "1e4a635a0cb8d509",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62352,6 +65615,21 @@
         "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62430,6 +65708,21 @@
         "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62495,6 +65788,11 @@
       },
       {
         "para": "d264fc66bc362add",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a470bc2977c26630",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -62579,6 +65877,21 @@
         "para": "49cb7a31f25c8f33",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "3ad50635667d1c09",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "381793ff235cbbaf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39bbfa4aad6b4a96",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62656,6 +65969,21 @@
         "para": "82c8441fdfea3aac",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "f69f00ac0cfd0057",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ce953026776668b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60a2b57a71e88d2b",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -62731,6 +66059,21 @@
       },
       {
         "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -62823,6 +66166,21 @@
       },
       {
         "para": "1e4a635a0cb8d509",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "22d8e267cd643334",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4ba86bcd9ffc9d54",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93a71aa0099bd15c",
         "tipo": "menciona",
         "forca": 0.6
       }
@@ -71470,6 +74828,51 @@
         "para": "46224e9368ca141d",
         "tipo": "relacionado",
         "forca": 0.3
+      },
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -71483,7 +74886,8 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://files.cercomp.ufg.br/weby/up/873/o/RedesNeuraisProfundas.pdf"
+      "https://files.cercomp.ufg.br/weby/up/873/o/RedesNeuraisProfundas.pdf",
+      "https://pt.wikipedia.org/wiki/Inteligência"
     ]
   },
   {
@@ -75000,6 +78404,41 @@
         "para": "858cfc24665e05d8",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
       }
     ],
     "energia": 1.0,
@@ -75014,7 +78453,8 @@
     "profundidade": 0,
     "fontes": [
       "https://www.alura.com.br/artigos/deep-learning",
-      "https://brainly.com.br/tarefa/55731941"
+      "https://brainly.com.br/tarefa/55731941",
+      "https://openai.com/pt-BR/"
     ]
   },
   {
@@ -79815,6 +83255,41 @@
         "para": "625641a5acf5fb02",
         "tipo": "menciona",
         "forca": 0.6
+      },
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
       }
     ],
     "energia": 1.0,
@@ -79828,7 +83303,10 @@
     "historico": [],
     "profundidade": 0,
     "fontes": [
-      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final"
+      "https://pt.scribd.com/document/1010860677/Rbca-14743-Final",
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
     ]
   },
   {
@@ -82331,6 +85809,2241 @@
     "profundidade": 0,
     "fontes": [
       "https://repositorio.pucgoias.edu.br/jspui/handle/123456789/2990"
+    ]
+  },
+  {
+    "id": "3425c446eef57687",
+    "tipo": "conceito",
+    "conteudo": "nossa",
+    "criado": "2026-03-13T14:01:52.559142",
+    "modificado": "2026-03-13T14:01:52.559142",
+    "conexoes": [
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "78e4cff08a39ba2e",
+    "tipo": "conceito",
+    "conteudo": "referir",
+    "criado": "2026-03-13T14:01:52.559318",
+    "modificado": "2026-03-13T14:01:52.559318",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "931eb073f9eed8ba",
+    "tipo": "conceito",
+    "conteudo": "áudio",
+    "criado": "2026-03-13T14:01:52.559448",
+    "modificado": "2026-03-13T14:01:52.559448",
+    "conexoes": [
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f6eb4b8796f61dc",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "1f8eed0596b545a6",
+    "tipo": "conceito",
+    "conteudo": "capaz",
+    "criado": "2026-03-13T14:01:52.576415",
+    "modificado": "2026-03-13T14:01:52.576415",
+    "conexoes": [
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "d7353832f317494b",
+    "tipo": "conceito",
+    "conteudo": "conversas",
+    "criado": "2026-03-13T14:01:52.590902",
+    "modificado": "2026-03-13T14:01:52.590902",
+    "conexoes": [
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fe69bff58e585c55",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "40d5a991b1d268e2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "5d99136937d4f1d2",
+    "tipo": "conceito",
+    "conteudo": "conteúdos",
+    "criado": "2026-03-13T14:01:52.594005",
+    "modificado": "2026-03-13T14:01:52.594005",
+    "conexoes": [
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0c6b67d117ceca91",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "44b4776446b8f379",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa",
+      "https://aws.amazon.com/pt/what-is/generative-ai/",
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "5db0bf211324b324",
+    "tipo": "conceito",
+    "conteudo": "resolver",
+    "criado": "2026-03-13T14:01:52.609433",
+    "modificado": "2026-03-13T14:01:52.609433",
+    "conexoes": [
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "feee3f95ed32c5a3",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "e5a2fd14b793064a",
+    "tipo": "conceito",
+    "conteudo": "cognitiva",
+    "criado": "2026-03-13T14:01:52.609584",
+    "modificado": "2026-03-13T14:01:52.609584",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "fbb4ba1c1f3e96f0",
+    "tipo": "conceito",
+    "conteudo": "todas",
+    "criado": "2026-03-13T14:01:52.623751",
+    "modificado": "2026-03-13T14:01:52.623751",
+    "conexoes": [
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "f42faeaf56dd2a81",
+    "tipo": "conceito",
+    "conteudo": "usado",
+    "criado": "2026-03-13T14:01:52.630904",
+    "modificado": "2026-03-13T14:01:52.630904",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "9f33ebcb58bb4e0d",
+    "tipo": "conceito",
+    "conteudo": "músicas",
+    "criado": "2026-03-13T14:01:52.634837",
+    "modificado": "2026-03-13T14:01:52.634837",
+    "conexoes": [
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f84a5cb83595cd02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "40d5a991b1d268e2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "8bb5216712e6a53b",
+    "tipo": "conceito",
+    "conteudo": "intelectuais",
+    "criado": "2026-03-13T14:01:52.644543",
+    "modificado": "2026-03-13T14:01:52.644543",
+    "conexoes": [
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "44b4776446b8f379",
+    "tipo": "conceito",
+    "conteudo": "código",
+    "criado": "2026-03-13T14:01:52.653976",
+    "modificado": "2026-03-13T14:01:52.653976",
+    "conexoes": [
+      {
+        "para": "f83a3c90cdd95f4b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "931eb073f9eed8ba",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "19296e6943a9242c",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "3742f76d774adce6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f6eb4b8796f61dc",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/generative-ai"
+    ]
+  },
+  {
+    "id": "e4b0c4aa3cfe3691",
+    "tipo": "conceito",
+    "conteudo": "ferramenta",
+    "criado": "2026-03-13T14:01:52.654110",
+    "modificado": "2026-03-13T14:01:52.654110",
+    "conexoes": [
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9c932178da988098",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "232a6dd2297f5aa9",
+    "tipo": "conceito",
+    "conteudo": "fator",
+    "criado": "2026-03-13T14:01:52.661233",
+    "modificado": "2026-03-13T14:01:52.661233",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "dc015cd4813c6c96",
+    "tipo": "conceito",
+    "conteudo": "textos",
+    "criado": "2026-03-13T14:01:52.661435",
+    "modificado": "2026-03-13T14:01:52.661435",
+    "conexoes": [
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0c6b67d117ceca91",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
+    ]
+  },
+  {
+    "id": "c5a54d81cddd356d",
+    "tipo": "conceito",
+    "conteudo": "indivíduo",
+    "criado": "2026-03-13T14:01:52.667511",
+    "modificado": "2026-03-13T14:01:52.667511",
+    "conexoes": [
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "0a7fa4edee226ce4",
+    "tipo": "conceito",
+    "conteudo": "acreditamos",
+    "criado": "2026-03-13T14:01:52.670164",
+    "modificado": "2026-03-13T14:01:52.670164",
+    "conexoes": [
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9aa9c60f41278a44",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "daa1bd4e194a4796",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ff4d689618612d76",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "082a4f1f03003cfe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "5c9c1ca15f4305b0",
+    "tipo": "conceito",
+    "conteudo": "empresas",
+    "criado": "2026-03-13T14:01:52.672433",
+    "modificado": "2026-03-13T14:01:52.672433",
+    "conexoes": [
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9c932178da988098",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "b8e0558335615ffe",
+    "tipo": "conceito",
+    "conteudo": "faculdade",
+    "criado": "2026-03-13T14:01:52.698738",
+    "modificado": "2026-03-13T14:01:52.698738",
+    "conexoes": [
+      {
+        "para": "e8292a17ce5747d3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fbb4ba1c1f3e96f0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8bb5216712e6a53b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c5a54d81cddd356d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0976fe99b0ac0c0f",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dcb10670457c48bb",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f11a51c9ee39771d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "295f175a2f8f0326",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "8ae5f3fb4bab411f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/inteligencia/",
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "4cab5c800cec6896",
+    "tipo": "conceito",
+    "conteudo": "adotar",
+    "criado": "2026-03-13T14:01:52.707798",
+    "modificado": "2026-03-13T14:01:52.707798",
+    "conexoes": [
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "7618ad64a30d28d8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c70280677e5a93bd",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9c932178da988098",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "0c6b67d117ceca91",
+    "tipo": "conceito",
+    "conteudo": "áudios",
+    "criado": "2026-03-13T14:01:52.707890",
+    "modificado": "2026-03-13T14:01:52.707890",
+    "conexoes": [
+      {
+        "para": "6a6b10346e89e684",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d99136937d4f1d2",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "dc015cd4813c6c96",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa"
+    ]
+  },
+  {
+    "id": "c2ae9b09847a1299",
+    "tipo": "conceito",
+    "conteudo": "discurso",
+    "criado": "2026-03-13T14:01:52.746176",
+    "modificado": "2026-03-13T14:01:52.746176",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "50b800949d364709",
+    "tipo": "conceito",
+    "conteudo": "histórias",
+    "criado": "2026-03-13T14:01:52.750103",
+    "modificado": "2026-03-13T14:01:52.750103",
+    "conexoes": [
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0509e742e3fad9e8",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "e6c0903824ac82ab",
+    "tipo": "conceito",
+    "conteudo": "comum",
+    "criado": "2026-03-13T14:01:52.754867",
+    "modificado": "2026-03-13T14:01:52.754867",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "97c40e564401f186",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "09302c88f7d02c29",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "0509e742e3fad9e8",
+    "tipo": "conceito",
+    "conteudo": "ideias",
+    "criado": "2026-03-13T14:01:52.757445",
+    "modificado": "2026-03-13T14:01:52.757445",
+    "conexoes": [
+      {
+        "para": "1147694ebd7a3e06",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d7353832f317494b",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "9f33ebcb58bb4e0d",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50b800949d364709",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "78a639f0dc1312a5",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "ea6b1f1f6860e443",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/generative-ai/"
+    ]
+  },
+  {
+    "id": "09302c88f7d02c29",
+    "tipo": "conceito",
+    "conteudo": "distintos",
+    "criado": "2026-03-13T14:01:52.765625",
+    "modificado": "2026-03-13T14:01:52.765625",
+    "conexoes": [
+      {
+        "para": "78d440d0d729ddaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78e4cff08a39ba2e",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e5a2fd14b793064a",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "f42faeaf56dd2a81",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "232a6dd2297f5aa9",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "c2ae9b09847a1299",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e6c0903824ac82ab",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "fa016e7848ed1ce6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1a40836bcc56f81",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Inteligência"
+    ]
+  },
+  {
+    "id": "9c932178da988098",
+    "tipo": "conceito",
+    "conteudo": "dúvida",
+    "criado": "2026-03-13T14:01:52.877335",
+    "modificado": "2026-03-13T14:01:52.877335",
+    "conexoes": [
+      {
+        "para": "a9514160e3e2568a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4b0c4aa3cfe3691",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5c9c1ca15f4305b0",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "4cab5c800cec6896",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "relacionado",
+        "forca": 0.3
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.terra.com.br/byte/ia-preditiva-e-generativa-entenda-as-diferencas-e-quando-as-empresas-podem-usar-cada-uma-delas,59efae361c5b7a3443961541b77ab8c6z9b9gvfc.html"
+    ]
+  },
+  {
+    "id": "295f175a2f8f0326",
+    "tipo": "conceito",
+    "conteudo": "conhecer",
+    "criado": "2026-03-13T14:01:52.905596",
+    "modificado": "2026-03-13T14:01:52.905596",
+    "conexoes": [
+      {
+        "para": "82ef5a82a1df00e0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b8e0558335615ffe",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "50c4d8d772f72ee5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "51930e7ccb1c77c8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/inteligencia/"
+    ]
+  },
+  {
+    "id": "082a4f1f03003cfe",
+    "tipo": "conceito",
+    "conteudo": "resultará",
+    "criado": "2026-03-13T14:01:52.931978",
+    "modificado": "2026-03-13T14:01:52.931978",
+    "conexoes": [
+      {
+        "para": "fdacdacbca0d6cf7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3425c446eef57687",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "1f8eed0596b545a6",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "5db0bf211324b324",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "0a7fa4edee226ce4",
+        "tipo": "relacionado",
+        "forca": 0.3
+      },
+      {
+        "para": "949d8eaa23fb70b4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa823fed6791c4d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://openai.com/pt-BR/"
+    ]
+  },
+  {
+    "id": "11bf3ea3c408353f",
+    "tipo": "conceito",
+    "conteudo": "quatro",
+    "criado": "2026-03-13T14:01:52.975814",
+    "modificado": "2026-03-13T14:01:52.975814",
+    "conexoes": [
+      {
+        "para": "a9492771c3ac98ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "41302c46b8a2a861",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "da3e0cd95389788c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial generativa",
+      "frequencia": 1,
+      "origem": "inteligencia artificial generativa fundamentos"
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://maestrovirtuale.com/inteligencia-definicao-caracteristicas-teorias-como-e-medida-tipos/"
     ]
   }
 ]
