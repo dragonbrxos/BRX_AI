@@ -3619,5 +3619,191 @@
     "fontes": [
       "https://www.toolify.ai/pt/ai-news-pt/entenda-os-transformers-guia-completo-e-visualizao-detalhada-3569118"
     ]
+  },
+  {
+    "id": "dd7c1c1bf07a3cae",
+    "tipo": "memoria",
+    "conteudo": "A resposta reside em uma arquitetura inovadora chamada Transformers. Neste artigo, exploraremos a história, a arquitetura, as aplicações práticas, os desafios e as comparações com outros modelos, …",
+    "criado": "2026-03-13T13:48:03.895847",
+    "modificado": "2026-03-13T13:48:03.895847",
+    "conexoes": [
+      {
+        "para": "f00a3c9ab1185c69",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d5acbc19a7a496fa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9f6eb4b8796f61dc",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4a87751943f68d02",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "1775ff88501257da",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "fonte": "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/",
+      "indice": 0
+    },
+    "origem": "71c41cdd98570fc6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://conceitos.tech/inteligencia-artificial/ia-generativa/transformers-para-ia-generativa/"
+    ]
+  },
+  {
+    "id": "d379c382b99a19a5",
+    "tipo": "memoria",
+    "conteudo": "9 de out. de 2024 · A arquitetura Transformers redefiniu o estado da arte em processamento de linguagem natural e abriu portas para aplicações impressionantes em Inteligência Artificial.",
+    "criado": "2026-03-13T13:48:04.002970",
+    "modificado": "2026-03-13T13:48:04.002970",
+    "conexoes": [
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "fd05e4882159779e",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "41970c03341fccca",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "fonte": "https://www.alura.com.br/artigos/transformers",
+      "indice": 0
+    },
+    "origem": "71c41cdd98570fc6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.alura.com.br/artigos/transformers"
+    ]
+  },
+  {
+    "id": "61dbf09883b460e5",
+    "tipo": "memoria",
+    "conteudo": "Nesta seção, veremos a arquitetura geral do modelo Transformer. Não se preocupe se você não entender alguns dos conceitos; há seções detalhadas posteriormente cobrindo cada um dos …",
+    "criado": "2026-03-13T13:48:04.110235",
+    "modificado": "2026-03-13T13:48:04.110235",
+    "conexoes": [
+      {
+        "para": "6ea7fb3a82e27c01",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "e5f3beef6333836f",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "91c9912423ca9d63",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "78e3c2b1651ef309",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d481696bccfa7aba",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "7a96a744bdb6ddac",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "aa2c072092225d3a",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d378b3e1a357ddcb",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "transformers arquitetura aplicacoes praticas",
+      "fonte": "https://huggingface.co/learn/llm-course/pt/chapter1/4",
+      "indice": 0
+    },
+    "origem": "71c41cdd98570fc6",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://huggingface.co/learn/llm-course/pt/chapter1/4"
+    ]
   }
 ]
