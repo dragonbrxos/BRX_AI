@@ -78521,5 +78521,4575 @@
     "fontes": [
       "https://transformers.hasbro.com/en-us/bios/skyzmqof"
     ]
+  },
+  {
+    "id": "181f1744323ded8a",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:06:30.413611",
+    "modificado": "2026-03-13T14:06:30.413611",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "d480487bb6d629c8",
+    "tipo": "memoria",
+    "conteudo": "3 dias atrás · O Machine Learning não só está mudando a maneira como processamos dados, mas também está impactando diversas áreas, …",
+    "criado": "2026-03-13T14:06:30.419634",
+    "modificado": "2026-03-13T14:06:30.419634",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "66dcaeed9aae3500",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e2c48dc6217ab10e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "880dde78817ec886",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e51a2064ba5ea306",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1c0a2aa252234f32",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://prezi.com/p/leeb_dtytl8_/introducao-ao-machine-learning/"
+    ]
+  },
+  {
+    "id": "42e1e93dd140901b",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:06:30.425916",
+    "modificado": "2026-03-13T14:06:30.425916",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "db0ca62e46a5994f",
+    "tipo": "memoria",
+    "conteudo": "🎲 Temos uma vaga para Líder de Dados Se você é uma pessoa que busca excelência técnica, gosta de trabalhar em equipe e tem autonomia …",
+    "criado": "2026-03-13T14:06:30.426050",
+    "modificado": "2026-03-13T14:06:30.426050",
+    "conexoes": [
+      {
+        "para": "80eca338132e57cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4de7a072de368a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5ca6c4279c85af5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1a9268d929859381",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "58ad2edd5b99d43a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f20fa63263026d2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d9371bd16f48c133",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d6b2eda8d959b772",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f52971a09bc69c8f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04cbe6f799ad79e8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.linkedin.com/posts/granter_temos-uma-vaga-para-líder-de-dados-se-activity-7415409347574575104-vAAH"
+    ]
+  },
+  {
+    "id": "c45d443102238a8f",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:06:30.426164",
+    "modificado": "2026-03-13T14:06:30.426164",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "b13af692370b4274",
+    "tipo": "memoria",
+    "conteudo": "Pipelines de dados; Engenharia de atributos (feature engineering) Inteligência Artificial e Ciência de Dados: Fundamentos de IA …",
+    "criado": "2026-03-13T14:06:30.426341",
+    "modificado": "2026-03-13T14:06:30.426341",
+    "conexoes": [
+      {
+        "para": "e4b46a7245ea6163",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "300ecdcaea29c247",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c867e91fdb6439ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29302c4a4ab4056f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2c6af2e16b33816c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "72aa34c5f762902a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd4d66d839bafa42",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "93ee3856349f33a4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e3644575fab36c3b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://cursosrateio.com/produto/mp-se-analista-do-ministerio-publico-tecnologia-da-informacao-desenvolvimento-pacotaco-pacote-teorico-passo-estrategico-2025-pos-edital/"
+    ]
+  },
+  {
+    "id": "6d5d397d9954c96e",
+    "tipo": "memoria",
+    "conteudo": "Baixar SalvarSalvar Template Simac 2025 Nao Identificado para ler mais tarde Compartilhar 0%0% acharam este documento útil, undefined …",
+    "criado": "2026-03-13T14:06:30.426473",
+    "modificado": "2026-03-13T14:06:30.426473",
+    "conexoes": [
+      {
+        "para": "40d1a9effc985fdf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "78a41eb404258db3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "021acf4b34f56737",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00de45459a93372c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cf10ae61c4e5c95a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1dfb331049d92d9e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "39f96b9ed93615b3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0e2a7f1d7dbf3308",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3f87ff7da1428963",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cd488dbf093af5c2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010456222/Template-Simac-2025-Nao-Identificado"
+    ]
+  },
+  {
+    "id": "aa5605082a0355bd",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:06:30.430099",
+    "modificado": "2026-03-13T14:06:30.430099",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "02ff7c22e5726cd6",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:06:30.430338",
+    "modificado": "2026-03-13T14:06:30.430338",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "42dcf26eed85b673",
+    "tipo": "memoria",
+    "conteudo": "2 dias atrás · Entre as habilidades mais exigidas estão Python ou R, estatística avançada, machine learning, modelagem preditiva e …",
+    "criado": "2026-03-13T14:06:30.488895",
+    "modificado": "2026-03-13T14:06:30.488895",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db400185796f5c59",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "21585953a1d808e4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c9cd003a5d9db30f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d2e4b37aae256bbb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e89483d3253a1089",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a69927985dfb6f57",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7b4f5c481aeadc78",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1ff7cb6ad6ef234a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7cb04a383bb07708",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "907e4867546c63ea",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f971f57b72d3ccac",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado fundamentos",
+      "fonte": "https://www.hashtagtreinamentos.com/area-de-dados",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.hashtagtreinamentos.com/area-de-dados"
+    ]
+  },
+  {
+    "id": "fec9051e41a51194",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:06:30.498122",
+    "modificado": "2026-03-13T14:06:30.498122",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "cd7274cd2d75cbd0",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:06:30.569059",
+    "modificado": "2026-03-13T14:06:30.569059",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "994c5b39ef0cbdc5",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:06:30.569601",
+    "modificado": "2026-03-13T14:06:30.569601",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "5aeb370dd11fc7bd",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:06:30.588824",
+    "modificado": "2026-03-13T14:06:30.588824",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "ddf398476eec9d3d",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:06:30.622268",
+    "modificado": "2026-03-13T14:06:30.622268",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado aplicacoes",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "9430d2c61513d534",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:06:30.622494",
+    "modificado": "2026-03-13T14:06:30.622494",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "2c8793c81418bd67",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:06:30.691127",
+    "modificado": "2026-03-13T14:06:30.691127",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "85af8f82acd2b6d7",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:06:30.704778",
+    "modificado": "2026-03-13T14:06:30.704778",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "ca5cdb988bb2a0d7",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:06:30.748417",
+    "modificado": "2026-03-13T14:06:30.748417",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "d5e8b57feb463b68",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:06:30.760147",
+    "modificado": "2026-03-13T14:06:30.760147",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "e51ca04504a31d04",
+    "tipo": "memoria",
+    "conteudo": "12 de nov. de 2025 · Valve今天凌晨突然发布了自己的三款新硬件：Steam Controller手柄、Steam Machine主机和Steam Frame头显。 有趣的是， …",
+    "criado": "2026-03-13T14:06:30.769353",
+    "modificado": "2026-03-13T14:06:30.769353",
+    "conexoes": [
+      {
+        "para": "c805e907aa5e472c",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1972140495577806389",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1972140495577806389"
+    ]
+  },
+  {
+    "id": "c4bf551ff7151127",
+    "tipo": "memoria",
+    "conteudo": "12 de jun. de 2024 · 在英语中，\"MC\"这个缩写词通常代表\"Machine\"，即“机器”。这个缩写广泛应用于制造、工业和日常交流中，用来简洁地表示机器这个概 …",
+    "criado": "2026-03-13T14:06:30.809617",
+    "modificado": "2026-03-13T14:06:30.809617",
+    "conexoes": [
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/1958613391891775268.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/1958613391891775268.html"
+    ]
+  },
+  {
+    "id": "17a1d1a226c60187",
+    "tipo": "memoria",
+    "conteudo": "15 de set. de 2025 · 《MACHINE CHILD》虽然是一个全年龄游戏带也带有一点色气的元素，大枪苇人说自己是想要在游戏中融入类似《美少女梦工厂》和90年 …",
+    "criado": "2026-03-13T14:06:30.834202",
+    "modificado": "2026-03-13T14:06:30.834202",
+    "conexoes": [
+      {
+        "para": "0dbc08e4d3428fda",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1933486708491530514",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1933486708491530514"
+    ]
+  },
+  {
+    "id": "d4c228c943f71900",
+    "tipo": "memoria",
+    "conteudo": "Machine Unlearning 是一个新兴的研究方向，关注数据保护和模型运行细节，适合对隐私安全感兴趣的人士探索。",
+    "criado": "2026-03-13T14:06:30.854984",
+    "modificado": "2026-03-13T14:06:30.854984",
+    "conexoes": [
+      {
+        "para": "805475c3fc7fe9fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.zhihu.com/question/1900776580537619430",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.zhihu.com/question/1900776580537619430"
+    ]
+  },
+  {
+    "id": "21a93a02c56a4e37",
+    "tipo": "memoria",
+    "conteudo": "11 de dez. de 2025 · matlab安装statics and machine learning toolbox安装方法在MATLAB中安装Statistics and Machine Learning Toolbox的步骤 …",
+    "criado": "2026-03-13T14:06:30.855104",
+    "modificado": "2026-03-13T14:06:30.855104",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://zhidao.baidu.com/question/341255177978476405.html",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://zhidao.baidu.com/question/341255177978476405.html"
+    ]
+  },
+  {
+    "id": "4f026fdbfe68d158",
+    "tipo": "memoria",
+    "conteudo": "11 de mai. de 2025 · Outro estudo nessa mesma linha de pensamento pesquisou a influência dos sistemas de ensino superior: “ Higher …",
+    "criado": "2026-03-13T14:06:30.855417",
+    "modificado": "2026-03-13T14:06:30.855417",
+    "conexoes": [
+      {
+        "para": "b71ad60821d97199",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "35a3981c72e4d8fa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5979fe669699c740",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "962cd01e0f693d8d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8fddb00e31f4bf00",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ae2324174e3f5390",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6e01df33597a193c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "984f93997002b18d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f27e2179d86cb73",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c00a77dcd8b9590d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d16a4f6ff613616a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://revistaft.com.br/metodo-exd-e-a-ciencia-de-dados-uma-abordagem-sobre-educacao-e-desenvolvimento/"
+    ]
+  },
+  {
+    "id": "1f623262e6d21892",
+    "tipo": "memoria",
+    "conteudo": "No machine learning, o algoritmo passa a construir representações internas a partir dos dados fornecidos, permitindo adaptação a …",
+    "criado": "2026-03-13T14:06:30.865837",
+    "modificado": "2026-03-13T14:06:30.865837",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8018228e0f56024b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "570edd12713fa549",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "166e980673b16fe9",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf377698bf067fbd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f950c9ce68e12b6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "af3633f2fb64a93c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "933ad991b15b3386",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6231c013fb7dbab4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "20a8e0622097caaa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1010132504/Inteligencia-Artificial-Nos-Negocios"
+    ]
+  },
+  {
+    "id": "b8e25e9e32c6de26",
+    "tipo": "memoria",
+    "conteudo": "Em aplicações odontológicas, segmentar regiões suspeitas pode reduzir interferências de estruturas não relevantes e contribuir para a …",
+    "criado": "2026-03-13T14:06:30.874843",
+    "modificado": "2026-03-13T14:06:30.874843",
+    "conexoes": [
+      {
+        "para": "565d4af7298af0f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "62ff339aec28f24e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8888dfdd54b3f720",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d8f1bbed69cfb5f0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26384f277ac60310",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "09843a523930571a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4e64eeb9946134a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef3ef771cbd1dddd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7104463272c3cc5b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e4423566418f74f6",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://repositorio.ufc.br/bitstream/riufc/84919/1/2026_tcc_vcsantos.pdf"
+    ]
+  },
+  {
+    "id": "9096ec2a50f3fca5",
+    "tipo": "memoria",
+    "conteudo": "- Outros tipos de aprendizado: por reforço (reinforcement learning), não supervisionado, bayesianno e por explicações (explanation …",
+    "criado": "2026-03-13T14:06:30.886424",
+    "modificado": "2026-03-13T14:06:30.886424",
+    "conexoes": [
+      {
+        "para": "80ca533e566d47d5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c08ac848ff75f6aa",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bf3b54f3565b83c6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5c8ec97b38b227f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5befcafa9b362377",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b9ab5b777be323c5",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.scribd.com/document/1011010549/Sistemas-Inteligentes-Baseados-Em"
+    ]
+  },
+  {
+    "id": "fc50cd7247bb08a0",
+    "tipo": "memoria",
+    "conteudo": "13 de mar. de 2025 · as bibliotecas. O investimento em aprendizado profundo e técnicas avançadas de machine learning …",
+    "criado": "2026-03-13T14:06:30.900535",
+    "modificado": "2026-03-13T14:06:30.900535",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eaff3864ab741fb3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d3c6419ed5105179",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f51f4c5d0b97c9e1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdc71bbb9f63cc0e",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "machine learning nao supervisionado",
+      "subtopico": "machine learning nao supervisionado algoritmos",
+      "fonte": "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.passeidireto.com/arquivo/164531306/editpad-1741755973833"
+    ]
+  },
+  {
+    "id": "bc89f78b5029ceec",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:06:31.120919",
+    "modificado": "2026-03-13T14:06:31.120919",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "3a3f4b95d65e13f4",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:06:31.139258",
+    "modificado": "2026-03-13T14:06:31.139258",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "a39158214ab92b2c",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:06:31.143467",
+    "modificado": "2026-03-13T14:06:31.143467",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "dfc46cb40a32b105",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:06:31.143650",
+    "modificado": "2026-03-13T14:06:31.143650",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "f30eeee4bb224839",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:06:31.143975",
+    "modificado": "2026-03-13T14:06:31.143975",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "cc7aeea081212ab4",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:06:31.144078",
+    "modificado": "2026-03-13T14:06:31.144078",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "b93618999724f714",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:06:31.144209",
+    "modificado": "2026-03-13T14:06:31.144209",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "c554c816b693421b",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:06:31.144349",
+    "modificado": "2026-03-13T14:06:31.144349",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "d2ac79f54bc373f2",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:06:31.306645",
+    "modificado": "2026-03-13T14:06:31.306645",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "a129cc7823751bed",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:06:31.439511",
+    "modificado": "2026-03-13T14:06:31.439511",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT fundamentos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "623b83745d3a8972",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:06:31.463590",
+    "modificado": "2026-03-13T14:06:31.463590",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "432e364096a905c0",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:06:31.463955",
+    "modificado": "2026-03-13T14:06:31.463955",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "13c2135138cd5cbe",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:06:31.491460",
+    "modificado": "2026-03-13T14:06:31.491460",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "f3e5a65eea0b65b5",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:06:31.507187",
+    "modificado": "2026-03-13T14:06:31.507187",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "bb36c52e80e31492",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:06:31.569429",
+    "modificado": "2026-03-13T14:06:31.569429",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT aplicacoes",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "2f36351d6403f7b7",
+    "tipo": "memoria",
+    "conteudo": "Oferecemos uma variedade de categorias de modelos para atender às necessidades de nossos clientes.",
+    "criado": "2026-03-13T14:06:31.572570",
+    "modificado": "2026-03-13T14:06:31.572570",
+    "conexoes": [
+      {
+        "para": "6f7f4bac1a279b0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea4062c718592b7d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ea1b5328532e5bc8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "aa02e8f34b630f41",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eb7f8d7981f63d84",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7637fb036b049b67",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1cc1fa8ad5f45ef8",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos/"
+    ]
+  },
+  {
+    "id": "49149c9d11f64073",
+    "tipo": "memoria",
+    "conteudo": "Descubra qual é a melhor agência de modelos de São Paulo e saiba como identificar profissionalismo, ética e oportunidades reais.",
+    "criado": "2026-03-13T14:06:31.643027",
+    "modificado": "2026-03-13T14:06:31.643027",
+    "conexoes": [
+      {
+        "para": "e4ec0d391ab55fb8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6dc94286b3c1a228",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3ac312ffd21b51f5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "660e0be793cf1092",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fee17b090abfb49b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33f82850ff816ad5",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7fce5c8564c7b053",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/"
+    ]
+  },
+  {
+    "id": "c43bc74b57a2621f",
+    "tipo": "memoria",
+    "conteudo": "Os modelos são chamados para se apresentar diante de uma banca avaliadora, que analisa aspectos físicos e habilidades pessoais para …",
+    "criado": "2026-03-13T14:06:31.725226",
+    "modificado": "2026-03-13T14:06:31.725226",
+    "conexoes": [
+      {
+        "para": "708dfaa46a7f65f7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c390c2d349901fc2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a3925062c02b652d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b27c237cc0c7fed2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f0de2c3e6e155f2b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5d3b4baf78051dec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2a4d1b22122eea1f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6d7de85e3b3b75ca",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6a393346f756aff4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cba4ebd18857cb89",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/casting-de-modelos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/casting-de-modelos/"
+    ]
+  },
+  {
+    "id": "09b00af9b3648fc2",
+    "tipo": "memoria",
+    "conteudo": "Descubra as melhores agências de modelos em Campinas! Veja como se cadastrar e participar de seleções.",
+    "criado": "2026-03-13T14:06:31.768805",
+    "modificado": "2026-03-13T14:06:31.768805",
+    "conexoes": [
+      {
+        "para": "36f0a681acd265d4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7a5a75a9176216fc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "290f9832831446d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7067dbd730119802",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "75b5f4237f789924",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "701b5226aa181025",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cfe497bb75edc4b2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/agencia-de-modelos-campinas/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/agencia-de-modelos-campinas/"
+    ]
+  },
+  {
+    "id": "6b291f2084ba76a9",
+    "tipo": "memoria",
+    "conteudo": "Descubra modelos famosos que marcaram a história da moda! Conheça nomes e grandes campanhas.",
+    "criado": "2026-03-13T14:06:31.836445",
+    "modificado": "2026-03-13T14:06:31.836445",
+    "conexoes": [
+      {
+        "para": "f0d7cacb28e4d8d6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "feee345920c11668",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "048bb9feb8d07be4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f42d45b2919603d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "73a8466088a2b16a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "e93f8b8a0aae37dd",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f3f28595c725d21e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "60f0da49f4cdc032",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3c30f3db5e29ffad",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "modelos transformers GPT",
+      "subtopico": "modelos transformers GPT algoritmos",
+      "fonte": "https://www.forummodel.com.br/modelos-famosos/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.forummodel.com.br/modelos-famosos/"
+    ]
+  },
+  {
+    "id": "955eaddb6082dd37",
+    "tipo": "memoria",
+    "conteudo": "O que é aprendizado por reforço? O aprendizado por reforço (RL) é um tipo de processo de aprendizado de máquina no qual agentes …",
+    "criado": "2026-03-13T14:06:32.006998",
+    "modificado": "2026-03-13T14:06:32.006998",
+    "conexoes": [
+      {
+        "para": "8466b4ec62a5c77f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "eef3e924cb6b36bc",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.ibm.com/br-pt/think/topics/reinforcement-learning",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ibm.com/br-pt/think/topics/reinforcement-learning"
+    ]
+  },
+  {
+    "id": "f45eab528ac92ef1",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:06:32.019466",
+    "modificado": "2026-03-13T14:06:32.019466",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "da1edceac6e86e42",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:06:32.019621",
+    "modificado": "2026-03-13T14:06:32.019621",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "6cceccc5794c3e27",
+    "tipo": "memoria",
+    "conteudo": "A forma típica de enquadrar um cenário de aprendizado por reforço (RL): um agente executa ações em um ambiente, que são interpretadas …",
+    "criado": "2026-03-13T14:06:32.019770",
+    "modificado": "2026-03-13T14:06:32.019770",
+    "conexoes": [
+      {
+        "para": "2279c98560196138",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b5fa3de3e13b280f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "33d4c72374a61c9f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0559a05187307aba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6758d4f0cb6e1ea1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7284d66d269796ee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "29e3946fa92239ef",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3e3384158aa13301",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem_por_reforço"
+    ]
+  },
+  {
+    "id": "744740f2ba8272b3",
+    "tipo": "memoria",
+    "conteudo": "A Aprendizagem Por Reforço é o treinamento de modelos de aprendizado de máquina para tomar uma sequência de decisões. O agente aprende …",
+    "criado": "2026-03-13T14:06:32.019883",
+    "modificado": "2026-03-13T14:06:32.019883",
+    "conexoes": [
+      {
+        "para": "2c16de24167d00c7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5f3c94133b046028",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bd6a3007e46daa6d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "1269eabec374e3f2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.deeplearningbook.com.br/o-que-e-aprendizagem-por-reforco/"
+    ]
+  },
+  {
+    "id": "ac13a60915ff9d84",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:06:32.020019",
+    "modificado": "2026-03-13T14:06:32.020019",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "89c61e439f9062bb",
+    "tipo": "memoria",
+    "conteudo": "O aprendizado por reforço (RL) é uma técnica de aprendizado de máquina (ML) que treina o software para tomar decisões para alcançar …",
+    "criado": "2026-03-13T14:06:32.020135",
+    "modificado": "2026-03-13T14:06:32.020135",
+    "conexoes": [
+      {
+        "para": "6616c2a852a03deb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8c3b01acdbff98e2",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f49370fcf9709c39",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb93b7422bc1a072",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5b5541aec58922ab",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8878312778ae2f5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://aws.amazon.com/pt/what-is/reinforcement-learning/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://aws.amazon.com/pt/what-is/reinforcement-learning/"
+    ]
+  },
+  {
+    "id": "c48fe6f0a4517fec",
+    "tipo": "memoria",
+    "conteudo": "Os métodos de aprendizado por reforço também se diferenciam bastante de outras técnicas de machine learning no que tange os dados. …",
+    "criado": "2026-03-13T14:06:32.020252",
+    "modificado": "2026-03-13T14:06:32.020252",
+    "conexoes": [
+      {
+        "para": "e5a71b67f9aa10d8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "14b4ed081b964356",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d36bc0234722a8ce",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "985063d62cdb68fb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "04fb4cb9e302f1ba",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "0f61ee26199e5d0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ef5c9c399d84f13f",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "00a266e733caaa21",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f787a9e0688f281e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "86c42e152199a36b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco",
+      "fonte": "https://didatica.tech/introducao-a-aprendizado-por-reforco/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://didatica.tech/introducao-a-aprendizado-por-reforco/"
+    ]
+  },
+  {
+    "id": "cda707f02b8e5fc1",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:06:32.177569",
+    "modificado": "2026-03-13T14:06:32.177569",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "dfbc360fc91c7f6f",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:06:32.369504",
+    "modificado": "2026-03-13T14:06:32.369504",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco fundamentos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "5074617af2a04cb0",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:06:32.393049",
+    "modificado": "2026-03-13T14:06:32.393049",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "856378fc43565b6c",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:06:32.406177",
+    "modificado": "2026-03-13T14:06:32.406177",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "f5690c53bdf94ea5",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:06:32.423139",
+    "modificado": "2026-03-13T14:06:32.423139",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "f47f2e3671869c3f",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:06:32.433360",
+    "modificado": "2026-03-13T14:06:32.433360",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "f793b84b9d15c983",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:06:32.449015",
+    "modificado": "2026-03-13T14:06:32.449015",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco aplicacoes",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
+  },
+  {
+    "id": "3cf2845d64900902",
+    "tipo": "memoria",
+    "conteudo": "Significado de Aprendizado no Dicio, Dicionário Online de Português. O que é aprendizado: s.m. Ação, processo, efeito ou consequência de …",
+    "criado": "2026-03-13T14:06:32.462889",
+    "modificado": "2026-03-13T14:06:32.462889",
+    "conexoes": [
+      {
+        "para": "2adde769ed727704",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "615588092259ca35",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "279540b6711bd135",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "42b4801b2ce1a550",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c2a6a8914906fa07",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "db2bd843c47ec7f1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c4e534623baa9ccf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "ba1a73797c6dc6d1",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.dicio.com.br/aprendizado/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.dicio.com.br/aprendizado/"
+    ]
+  },
+  {
+    "id": "543d32408e371c8f",
+    "tipo": "memoria",
+    "conteudo": "Diferente do aprendizado espontâneo que ocorre fora da escola, ela acontece de maneira sistemática e intencional. O aluno deixa de …",
+    "criado": "2026-03-13T14:06:32.572799",
+    "modificado": "2026-03-13T14:06:32.572799",
+    "conexoes": [
+      {
+        "para": "b2c078590c5ce93d",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "85d5707c721f9ba0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "05dd7f701992e11b",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8bc8ee8cac48edfe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "d47aa9b49bdef8a8",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9c7d88c09435ed0c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2cd73a256545e410",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "64788fafda8b6a63",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a5186c3a74e8fed6",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b399bab254883056",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://www.significados.com.br/aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.significados.com.br/aprendizagem/"
+    ]
+  },
+  {
+    "id": "a6852a7e36baa81d",
+    "tipo": "memoria",
+    "conteudo": "O ser humano nasce potencialmente inclinado a aprender, necessitando de estímulos externos e internos (motivação, necessidade) para o …",
+    "criado": "2026-03-13T14:06:32.719162",
+    "modificado": "2026-03-13T14:06:32.719162",
+    "conexoes": [
+      {
+        "para": "6fe3365478e6f61c",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "cbcc98bb68774e75",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "4e60622cb8b32e46",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9e45e8474b274128",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bab9604c1c953bb0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fb4cbf7aec0633c4",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9b0b1f492a1259cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b6c438241853dcec",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3a233dcb7ed2a084",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "26d09f534420d7cf",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "30047f67fc8ec82b",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://pt.wikipedia.org/wiki/Aprendizagem",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://pt.wikipedia.org/wiki/Aprendizagem"
+    ]
+  },
+  {
+    "id": "00eb237d35d57886",
+    "tipo": "memoria",
+    "conteudo": "3 de out. de 2024 · Para concluir, você até pode usar os dois termos como sinônimo, mas “aprendizado” serve melhor em situações que …",
+    "criado": "2026-03-13T14:06:32.732384",
+    "modificado": "2026-03-13T14:06:32.732384",
+    "conexoes": [
+      {
+        "para": "cb3790d7a60ee18a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "182641f129fb8b48",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "25f17370ad24ce95",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "c1fb7c00025c71cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "3146c73dc5f5e519",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "2f8933071be412d7",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "6f84a8434192ef87",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b4caaa9713d73ad1",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "f6d359a5a1b8823e",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b389c9a24ce1f0cc",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5350c0f7791b8115",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8846d9d6c3758134",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://guiadoestudante.abril.com.br/coluna/duvidas-portugues/aprendizado-ou-aprendizagem-qual-o-certo/"
+    ]
+  },
+  {
+    "id": "45add0dd4097c767",
+    "tipo": "memoria",
+    "conteudo": "31 de jan. de 2025 · Nesse contexto, o professor orienta, facilita e avalia o aprendizado, enquanto o aluno participa ativamente, construindo seu …",
+    "criado": "2026-03-13T14:06:32.736310",
+    "modificado": "2026-03-13T14:06:32.736310",
+    "conexoes": [
+      {
+        "para": "38c8ade3af0bb5db",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a1cf28b5466954fe",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "bb9502a6ed8ddf88",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "5271ab93381c9c66",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "a487d7ee22e69288",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "352e463257b086a3",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "9bbd4a3786f030d0",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "fdec98c911254452",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "282fac8ae0116e5a",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "8403646393aaa703",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "b69d2586899a32cb",
+        "tipo": "menciona",
+        "forca": 0.6
+      },
+      {
+        "para": "7158dadd7cf03834",
+        "tipo": "menciona",
+        "forca": 0.6
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "aprendizado por reforco",
+      "subtopico": "aprendizado por reforco algoritmos",
+      "fonte": "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/",
+      "indice": 0
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://educacional.com.br/praticas-pedagogicas/processo-de-aprendizagem/"
+    ]
   }
 ]
