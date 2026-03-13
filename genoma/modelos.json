@@ -619,5 +619,25 @@
     "historico": [],
     "profundidade": 0,
     "fontes": []
+  },
+  {
+    "id": "f21fb60c0879bdb5",
+    "tipo": "modelo",
+    "conteudo": "Analise completa de 'inteligencia artificial explicavel'. Estrutura conceitual com 2 nos e 201 conexoes. Nucleo: entenderem, produção.",
+    "criado": "2026-03-13T14:03:53.914311",
+    "modificado": "2026-03-13T14:03:53.914311",
+    "conexoes": [],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "inteligencia artificial explicavel",
+      "arquivo": "inteligencia_artificial_explic_modelo.json",
+      "conceitos_count": 2,
+      "clusters": 1
+    },
+    "origem": null,
+    "historico": [],
+    "profundidade": 0,
+    "fontes": []
   }
 ]
