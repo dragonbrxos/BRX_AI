@@ -1,36 +1,74 @@
 {
-  "query": "etica em IA",
-  "resultados": [
-    {
-      "titulo": "Ética: o que é, o que significa e a melhor definição - Significados",
-      "corpo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
-      "url": "https://www.significados.com.br/etica/",
-      "timestamp": 1773419618.3474529
-    },
-    {
-      "titulo": "O que é Ética (significado e definição) - Dicio",
-      "corpo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
-      "url": "https://www.dicio.com.br/etica/",
-      "timestamp": 1773419618.3474634
-    },
-    {
-      "titulo": "O que é ética? - Brasil Escola",
-      "corpo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
-      "url": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
-      "timestamp": 1773419618.347467
-    },
-    {
-      "titulo": "Ética – Wikipédia, a enciclopédia livre",
-      "corpo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
-      "url": "https://pt.wikipedia.org/wiki/Ética",
-      "timestamp": 1773419618.347469
-    },
-    {
-      "titulo": "Ética - Toda Matéria",
-      "corpo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
-      "url": "https://www.todamateria.com.br/etica/",
-      "timestamp": 1773419618.3474715
-    }
-  ],
-  "timestamp": "2026-03-13T13:33:38.348005"
+  "etica em ia": {
+    "resultados": [
+      {
+        "titulo": "Ética: o que é, o que significa e a melhor definição - Significados",
+        "corpo": "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam...",
+        "url": "https://www.significados.com.br/etica/",
+        "timestamp": 1773419618.3474529
+      },
+      {
+        "titulo": "O que é Ética (significado e definição) - Dicio",
+        "corpo": "Significado de Ética no Dicio, Dicionário Online de Português. O que é ética: s.f. Reunião das normas de juízo de valor presentes em uma pessoa, sociedade ou grupo social: a ética parlamentar o …",
+        "url": "https://www.dicio.com.br/etica/",
+        "timestamp": 1773419618.3474634
+      },
+      {
+        "titulo": "O que é ética? - Brasil Escola",
+        "corpo": "1 de dez. de 2025 · PORFíRIO, Francisco. \"O que é ética?\"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm. Acesso em 08 de …",
+        "url": "https://brasilescola.uol.com.br/o-que-e/o-que-e-sociologia/o-que-e-etica.htm",
+        "timestamp": 1773419618.347467
+      },
+      {
+        "titulo": "Ética – Wikipédia, a enciclopédia livre",
+        "corpo": "Ilustração do dilema do bonde, um dilema ético. Ética (do grego antigo: ethos \"caráter\", \"costume\") é o conjunto de padrões e valores morais de um grupo ou indivíduo. [1][2] Contudo, em Filosofia, a ética, …",
+        "url": "https://pt.wikipedia.org/wiki/Ética",
+        "timestamp": 1773419618.347469
+      },
+      {
+        "titulo": "Ética - Toda Matéria",
+        "corpo": "A ética ou filosofia moral é uma área de conhecimento que tem como objeto de investigação as ações humanas e seus princípios orientadores. Toda cultura e toda sociedade estabelece-se baseada em …",
+        "url": "https://www.todamateria.com.br/etica/",
+        "timestamp": 1773419618.3474715
+      }
+    ],
+    "timestamp": 1773419618.347476,
+    "usos": 0
+  },
+  "{ultimo} aplicacoes praticas": {
+    "resultados": [
+      {
+        "titulo": "Aplicações Práticas: Guia Completo de Usos Diários",
+        "corpo": "8 de jan. de 2026 · Descubra aplicações práticas com exemplos reais, dicas rápidas e passos simples para aplicar conhecimentos no dia a dia, com foco em resultados.",
+        "url": "https://psicopedagogia.com.br/blog/aplicacoes-praticas",
+        "timestamp": 1773419635.290529
+      },
+      {
+        "titulo": "5 aplicações práticas da Inteligência Artificial para acelerar sua ...",
+        "corpo": "2 dias atrás · 5 aplicações práticas da Inteligência Artificial para acelerar sua carreira em tecnologia Durante a primeira mentoria do programa DIO Campus Expert – Turma 15, tivemos um debate muito …",
+        "url": "https://www.dio.me/articles/5-aplicacoes-praticas-da-inteligencia-artificial-para-acelerar-sua-carreira-em-tecnologia-9ba12dd05487",
+        "timestamp": 1773419635.2905343
+      },
+      {
+        "titulo": "Inteligência Artificial no Cotidiano: Exemplos Práticos e Aplicações ...",
+        "corpo": "Este artigo aborda de maneira detalhada o que é a IA, sua evolução histórica, e suas aplicações práticas atualmente. Discutiremos também os possíveis futuros desta tecnologia, suas tendências e …",
+        "url": "https://leep.com.br/inteligencia-artificial-no-cotidiano-exemplos-praticos-e-aplicacoes-futuras/",
+        "timestamp": 1773419635.2905366
+      },
+      {
+        "titulo": "Aplicações Práticas: Como Utilizar na Vida Cotidiana e nos Negócios",
+        "corpo": "21 de dez. de 2025 · Este artigo apresenta diversas aplicações práticas que podem transformar o seu dia a dia e impulsionar o sucesso nos negócios, além de fornecer dicas, exemplos e referências …",
+        "url": "https://mdbf.com.br/blog/aplicacoes-praticas",
+        "timestamp": 1773419635.2905385
+      },
+      {
+        "titulo": "Análise de Mercado e Aplicações Práticas - Prezi",
+        "corpo": "3 dias atrás · A aplicação dessas análises, considerando as atividades anteriores, permite identificar oportunidades e riscos, além de fundamentar estratégias sólidas. A análise técnica é uma …",
+        "url": "https://prezi.com/p/voxd9biduppx/analise-de-mercado-e-aplicacoes-praticas/",
+        "timestamp": 1773419635.2905402
+      }
+    ],
+    "timestamp": 1773419635.2905476,
+    "usos": 0
+  }
 }
