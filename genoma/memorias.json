@@ -3061,5 +3061,191 @@
     "fontes": [
       "https://fluency.io/br/blog/aprenda-processamento-de-linguagem-natural-com-python-guia-completo-e-pratico/"
     ]
+  },
+  {
+    "id": "1434ed51d033f3e3",
+    "tipo": "memoria",
+    "conteudo": "Prolog ¶e a linguagem ideal para o processamento de linguagem natural [2]. Usando um recurso embutido no compilador, conhecido como nota»c~ao Dcg, podemos escrever gram¶aticas que …",
+    "criado": "2026-03-13T13:46:45.811692",
+    "modificado": "2026-03-13T13:46:45.811692",
+    "conexoes": [
+      {
+        "para": "80ffb4502f7f1613",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "385da76e0e3df0ef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "f75f53f432b83267",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "4d6bc0ff7bbda4a7",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "6f2d951d4652e3a5",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "fonte": "https://www.ime.usp.br/~slago/IA-pln.pdf",
+      "indice": 0
+    },
+    "origem": "23e2b5fe3a52f698",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://www.ime.usp.br/~slago/IA-pln.pdf"
+    ]
+  },
+  {
+    "id": "bffca00f90c5e40f",
+    "tipo": "memoria",
+    "conteudo": "20 de nov. de 2024 · Este livro aborda conhecimentos, técnicas e aplicações de PLN em português que são relevantes atualmente ou historicamente. Afinal, para chegar até aqui, um longo caminho de …",
+    "criado": "2026-03-13T13:46:45.914964",
+    "modificado": "2026-03-13T13:46:45.914964",
+    "conexoes": [
+      {
+        "para": "07977ed9f0f5cfa3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "48eb8bd73e962dca",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "657f3634be0b1c50",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "0208384a624404a3",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d6845e5036221dec",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "d8f1bbed69cfb5f0",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "c12b03e8c7d3dfee",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "bcb996969a353780",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "fonte": "https://brasileiraspln.com/livro-pln/3a-edicao/",
+      "indice": 0
+    },
+    "origem": "23e2b5fe3a52f698",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://brasileiraspln.com/livro-pln/3a-edicao/"
+    ]
+  },
+  {
+    "id": "c1a996f73d3b1272",
+    "tipo": "memoria",
+    "conteudo": "Vamos explorar as ideias básicas que sustentam o Processamento de Linguagem Natural e como elas se conectam com outras áreas do conhecimento. Conheceremos a fascinante jornada do PLN, desde …",
+    "criado": "2026-03-13T13:46:46.018481",
+    "modificado": "2026-03-13T13:46:46.018481",
+    "conexoes": [
+      {
+        "para": "3243dff24fb24ead",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "985063d62cdb68fb",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "08d9bcdaa5a16eef",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e4cc1ebd7cd21a4",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "148a86cd9428ba67",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "85797948f177ca15",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "9e82d1f5a3db0e8d",
+        "tipo": "menciona",
+        "forca": 0.5
+      },
+      {
+        "para": "8874fa4ccc449868",
+        "tipo": "menciona",
+        "forca": 0.5
+      }
+    ],
+    "energia": 1.0,
+    "geracao": 0,
+    "meta": {
+      "topico": "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
+      "fonte": "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf",
+      "indice": 0
+    },
+    "origem": "23e2b5fe3a52f698",
+    "historico": [],
+    "profundidade": 0,
+    "fontes": [
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Processamento-de-Linguagem-Natural-PLN.pdf"
+    ]
   }
 ]
