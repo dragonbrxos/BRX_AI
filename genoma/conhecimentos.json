@@ -390,5 +390,53 @@
       "https://www.toolify.ai/pt/ai-news-pt/aprendizado-autosupervisionado-rumo-inteligncia-humana-1021701",
       "https://scisimple.com/pt/articles/2025-07-11-enfrentando-desafios-na-aprendizagem-auto-supervisionada--aky5xyl"
     ]
+  },
+  {
+    "id": "a1ed2b36b3de357d",
+    "tipo": "conhecimento",
+    "conteudo": "## Sintese v3: aprendizado por reforco profundo\nConsolidado apos 3 iteracoes. Fontes: 3. Qualidade: 0.66",
+    "criado": "2026-03-13T13:42:47.819559",
+    "modificado": "2026-03-13T13:42:48.131595",
+    "conexoes": [
+      {
+        "para": "4adaaf7d3322810d",
+        "tipo": "implementa",
+        "forca": 0.5
+      }
+    ],
+    "energia": 0.8,
+    "geracao": 3,
+    "meta": {
+      "topico": "aprendizado por reforco profundo",
+      "fase": "coleta",
+      "fontes_count": 3
+    },
+    "origem": null,
+    "historico": [
+      {
+        "conteudo": "Exploracao: aprendizado por reforco profundo",
+        "energia": 1.0,
+        "timestamp": "2026-03-13T13:42:48.131075",
+        "razao": "refinamento_v1"
+      },
+      {
+        "conteudo": "## Estrutura: aprendizado por reforco profundo\nConceitos: avançado, capacidades, poder, reforço, decisão, combina\nBase: 3 observacoes.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:42:48.131360",
+        "razao": "refinamento_v2"
+      },
+      {
+        "conteudo": "## Analise: aprendizado por reforco profundo\nRede: 21 conexoes. Conceitos-chave: avançado, capacidades, poder.",
+        "energia": 0.6599999999999999,
+        "timestamp": "2026-03-13T13:42:48.131561",
+        "razao": "refinamento_v3"
+      }
+    ],
+    "profundidade": 3,
+    "fontes": [
+      "https://www.ultralytics.com/pt/glossary/deep-reinforcement-learning",
+      "https://conceitos.tech/tutoriais/inteligencia-artificial/agentes-inteligentes/o-que-e-aprendizado-por-reforco-profundo-deep-reinforcement-learning/",
+      "https://ia-labs.com.br/wp-content/uploads/2025/05/Aprendizado-Profundo-Deep-Learning-Guia-didatico.pdf"
+    ]
   }
 ]
