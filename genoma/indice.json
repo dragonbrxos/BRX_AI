@@ -421,17 +421,31 @@
       "e8a4f53f86b6b32e",
       "b1ca0478586db19a",
       "9b55f1684317de40"
+    ],
+    "transformers arquitetura aplicacoes praticas": [
+      "71c41cdd98570fc6",
+      "dd7c1c1bf07a3cae",
+      "d5acbc19a7a496fa",
+      "9f6eb4b8796f61dc",
+      "c08ac848ff75f6aa",
+      "1775ff88501257da",
+      "d379c382b99a19a5",
+      "fd05e4882159779e",
+      "41970c03341fccca",
+      "61dbf09883b460e5",
+      "f709b45043078dc4",
+      "c53efe8aec3a142c"
     ]
   },
   "estatisticas": {
-    "ciclos": 19,
-    "nascimentos": 382,
+    "ciclos": 20,
+    "nascimentos": 394,
     "mortes": 0,
-    "refinamentos": 69,
-    "pesquisas_realizadas": 19,
+    "refinamentos": 72,
+    "pesquisas_realizadas": 20,
     "arquivos_gerados": 7
   },
-  "topico_atual": "transformers arquitetura",
+  "topico_atual": "transformers arquitetura aplicacoes praticas",
   "historico_topicos": [
     "etica em IA",
     "{ultimo} aplicacoes praticas",
@@ -451,7 +465,8 @@
     "processamento linguagem natural algoritmos implementacao",
     "processamento linguagem natural algoritmos implementacao fundamentos teoricos",
     "etica inteligencia artificial",
-    "transformers arquitetura"
+    "transformers arquitetura",
+    "transformers arquitetura aplicacoes praticas"
   ],
-  "timestamp": "2026-03-13T13:47:37.645287"
+  "timestamp": "2026-03-13T13:48:04.215559"
 }
