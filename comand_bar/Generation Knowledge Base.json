@@ -1,0 +1,209 @@
+{
+  "knowledge_base": {
+    "engine": "Roblox",
+    "language": "Lua",
+    "purpose": "Gerar scripts automaticamente a partir de estruturas classificadas"
+  },
+
+  "systems": {
+
+    "interactive_station": {
+
+      "description": "Objeto interativo no mundo que executa ações quando o jogador interage",
+
+      "components": [
+        "Model",
+        "Parts",
+        "SurfaceGui",
+        "ProximityPrompt"
+      ],
+
+      "logic_patterns": {
+        "interaction": "ProximityPrompt.Triggered",
+        "animation_loop": "RunService.Heartbeat",
+        "workspace_management": "remover duplicatas antes de criar"
+      },
+
+      "code_examples": {
+
+        "create_part": "local p = Instance.new('Part'); p.Size = Vector3.new(4,1,4); p.Anchored = true; p.Parent = workspace",
+
+        "create_prompt": "local prompt = Instance.new('ProximityPrompt'); prompt.ActionText='COMPRAR'; prompt.Parent = part",
+
+        "interaction_logic": "prompt.Triggered:Connect(function(player) print(player.Name..' interagiu') end)"
+      },
+
+      "assembly_logic": [
+        "criar Model",
+        "criar base da estação com Parts",
+        "adicionar SurfaceGui para interface",
+        "adicionar ProximityPrompt para interação",
+        "conectar lógica de compra"
+      ],
+
+      "possible_variations": [
+        "Egg machine",
+        "Loot box",
+        "Pet machine",
+        "Upgrade station",
+        "Shop terminal"
+      ]
+    },
+
+    "npc_character": {
+
+      "description": "Modelo humanoide gerado por código com proporções padronizadas",
+
+      "components": [
+        "Model",
+        "Humanoid",
+        "Head",
+        "Torso",
+        "Arms",
+        "Legs"
+      ],
+
+      "body_structure": {
+        "proportions": "balanced humanoid proportions",
+        "materials": "SmoothPlastic",
+        "colors": "default NPC colors"
+      },
+
+      "code_examples": {
+
+        "create_model": "local npc = Instance.new('Model'); npc.Name = 'NPC'",
+
+        "create_humanoid": "local hum = Instance.new('Humanoid'); hum.Parent = npc",
+
+        "create_part": "local head = Instance.new('Part'); head.Name='Head'; head.Size=Vector3.new(2,1,1); head.Parent=npc"
+      },
+
+      "assembly_logic": [
+        "criar Model",
+        "criar Humanoid",
+        "criar partes do corpo",
+        "conectar partes com Weld",
+        "definir cores padrão"
+      ],
+
+      "behavior_systems": [
+        "idle",
+        "dialog",
+        "enemy AI",
+        "quest giver",
+        "shop NPC"
+      ],
+
+      "possible_variations": [
+        "Civilian NPC",
+        "Guard NPC",
+        "Enemy NPC",
+        "Boss NPC",
+        "Quest NPC"
+      ]
+    },
+
+    "weapon_system": {
+
+      "description": "Sistema procedural de arma com efeitos visuais e habilidades",
+
+      "components": [
+        "Tool",
+        "Handle",
+        "Blade",
+        "Guard",
+        "Energy core"
+      ],
+
+      "visual_systems": [
+        "particles",
+        "lights",
+        "trails",
+        "neon effects"
+      ],
+
+      "procedural_features": [
+        "runic symbols",
+        "surface gui textures",
+        "energy layers"
+      ],
+
+      "code_examples": {
+
+        "create_tool": "local tool = Instance.new('Tool'); tool.Name='Sword'",
+
+        "create_handle": "local handle = Instance.new('Part'); handle.Name='Handle'; handle.Parent=tool",
+
+        "create_particle": "local p = Instance.new('ParticleEmitter'); p.Parent = handle"
+      },
+
+      "assembly_logic": [
+        "criar Tool",
+        "criar Handle",
+        "criar lâmina",
+        "adicionar partículas e luz",
+        "adicionar sistema de dano"
+      ],
+
+      "combat_system": {
+
+        "damage_types": [
+          "melee",
+          "energy",
+          "area damage",
+          "beam"
+        ],
+
+        "skill_system": {
+          "skills_per_weapon": 5
+        }
+      },
+
+      "possible_variations": [
+        "Energy sword",
+        "Magic staff",
+        "Battle axe",
+        "Dagger",
+        "Laser blade"
+      ]
+    }
+
+  },
+
+  "generation_rules": {
+
+    "model_creation": [
+      "usar Instance.new para criar objetos",
+      "usar Parts para formar estruturas",
+      "usar Weld ou Motor6D para conectar"
+    ],
+
+    "effects": [
+      "usar Neon para energia",
+      "usar ParticleEmitter para efeitos",
+      "usar Trail para armas"
+    ],
+
+    "interaction": [
+      "usar ProximityPrompt para interação",
+      "usar RemoteEvents para multiplayer"
+    ]
+  },
+
+  "generation_capability": {
+
+    "description": "Combinando sistemas e regras é possível gerar scripts infinitos",
+
+    "examples": [
+
+      "interactive_station + pet_system = pet machine",
+
+      "npc_character + enemy_ai = enemy npc",
+
+      "weapon_system + energy_effects = magic sword",
+
+      "weapon_system + projectile = magic staff"
+    ]
+
+  }
+}
