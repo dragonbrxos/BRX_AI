@@ -22,68 +22,42 @@ class BRXCore:
 
     def load_brain(self):
         """Carrega os dados do cérebro a partir dos arquivos JSON."""
-        # Carregar meta.json
         meta_path = os.path.join(self.brain_dir, 'meta.json')
         if os.path.exists(meta_path):
             with open(meta_path, 'r') as f:
-                try:
-                    self.meta = json.load(f)
-                except json.JSONDecodeError:
-                    self.meta = self.init_meta()
-        else:
-            self.meta = self.init_meta()
+                try: self.meta = json.load(f)
+                except: self.meta = self.init_meta()
+        else: self.meta = self.init_meta()
 
-        # Carregar index/words.json
         index_path = os.path.join(self.brain_dir, 'index', 'words.json')
         if os.path.exists(index_path):
             with open(index_path, 'r') as f:
-                try:
-                    self.index = json.load(f)
-                except json.JSONDecodeError:
-                    self.index = {}
+                try: self.index = json.load(f)
+                except: self.index = {}
 
-        # Carregar knowledge/*.json
         knowledge_dir = os.path.join(self.brain_dir, 'knowledge')
         if os.path.exists(knowledge_dir):
             for filename in os.listdir(knowledge_dir):
                 if filename.endswith('.json'):
                     with open(os.path.join(knowledge_dir, filename), 'r') as f:
-                        try:
-                            self.knowledge.update(json.load(f))
-                        except json.JSONDecodeError:
-                            pass
+                        try: self.knowledge.update(json.load(f))
+                        except: pass
 
-        # Carregar reasoning/*.json
-        reasoning_dir = os.path.join(self.brain_dir, 'reasoning')
-        if os.path.exists(reasoning_dir):
-            for filename in os.listdir(reasoning_dir):
-                if filename.endswith('.json'):
-                    with open(os.path.join(reasoning_dir, filename), 'r') as f:
-                        try:
-                            self.reasoning[filename[:-5]] = json.load(f)
-                        except json.JSONDecodeError:
-                            pass
-
-        # Carregar visited.json
         visited_path = os.path.join(self.brain_dir, 'visited.json')
         if os.path.exists(visited_path):
             with open(visited_path, 'r') as f:
-                try:
-                    self.visited = json.load(f)
-                except json.JSONDecodeError:
-                    self.visited = []
+                try: self.visited = json.load(f)
+                except: self.visited = []
 
     def init_meta(self):
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "3.1",
+            "versao": "3.2",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
             "estado": "ativo",
             "total_blocos": 0,
-            "total_fatos": 0,
-            "total_paginas": 0,
             "ultimo_ciclo": datetime.now().isoformat()
         }
         self.save_json(os.path.join(self.brain_dir, 'meta.json'), meta)
@@ -95,134 +69,108 @@ class BRXCore:
         with open(path, 'w') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
-    def analyze_chars(self, text):
-        """Analisa a frequência e presença de cada caractere/letra."""
-        return collections.Counter(text.lower())
-
-    def preprocess_input(self, text):
-        """Limpa e extrai palavras-chave e análise de caracteres."""
-        text_clean = text.lower()
-        words = re.findall(r'\w+', text_clean)
-        char_analysis = self.analyze_chars(text_clean)
-        return words, char_analysis
-
-    def search_web(self, query):
-        """Realiza uma pesquisa no DuckDuckGo sem usar API."""
-        headers = {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+    def atomize(self, text):
+        """
+        MOTOR DE DECOMPOSIÇÃO ATÔMICA:
+        Quebra o texto em letras individuais e analisa sua frequência e posição.
+        Isso permite que o BRX 'entenda' a estrutura de cada palavra.
+        """
+        text = text.lower()
+        # 1. Frequência de Letras (DNA do Texto)
+        char_freq = collections.Counter(text)
+        # 2. Sequência de Letras (Padrões de Ordem)
+        char_sequence = [c for c in text if c.isalnum()]
+        return {
+            "freq": dict(char_freq),
+            "seq": char_sequence,
+            "len": len(text)
         }
-        url = f"https://html.duckduckgo.com/html/?q={query}"
-        try:
-            response = requests.get(url, headers=headers, timeout=10)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, 'html.parser')
-                results = []
-                for result in soup.find_all('div', class_='result__body')[:3]:
-                    title_elem = result.find('a', class_='result__a')
-                    snippet_elem = result.find('a', class_='result__snippet')
-                    if title_elem and snippet_elem:
-                        results.append(f"{title_elem.text}: {snippet_elem.text}")
-                return "\n".join(results) if results else "Nenhum resultado encontrado na web."
-            return "Erro ao acessar a web."
-        except Exception as e:
-            return f"Erro na pesquisa web: {e}"
 
-    def anonymize(self, text):
-        """Remove possíveis dados pessoais."""
-        text = re.sub(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '[EMAIL]', text)
-        text = re.sub(r'\b\d{2,3}[-.\s]??\d{4,5}[-.\s]??\d{4}\b', '[TELEFONE]', text)
-        return text
-
-    def sync_to_github(self):
-        """Sincroniza novos conhecimentos com o repositório GitHub."""
-        try:
-            if not os.path.exists('.git'):
-                return "Erro: Não é um repositório Git."
-            
-            subprocess.run(["git", "add", "brain/"], check=True)
-            status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
-            if status:
-                subprocess.run(["git", "commit", "-m", f"BRX Programador: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
-                subprocess.run(["git", "push", "origin", "main"], check=True)
-                return "Sincronização concluída com sucesso!"
-            return "Nenhuma mudança para sincronizar."
-        except Exception as e:
-            return f"Erro na sincronização: {e}"
+    def calculate_dna_similarity(self, dna1, dna2):
+        """Compara a assinatura de DNA (letras) entre dois textos."""
+        score = 0
+        f1, f2 = dna1['freq'], dna2['freq']
+        
+        # Comparar frequência de cada letra
+        all_chars = set(f1.keys()) | set(f2.keys())
+        for char in all_chars:
+            if char in f1 and char in f2:
+                # Quanto mais próxima a frequência da letra, maior o score
+                diff = abs(f1[char] - f2[char])
+                score += max(0, 1 - (diff / 5))
+        
+        # Bônus por comprimento similar
+        len_diff = abs(dna1['len'] - dna2['len'])
+        score += max(0, 2 - (len_diff / 10))
+        
+        return score
 
     def get_response(self, user_input):
-        """Gera uma resposta e aprende com a interação."""
-        words, char_analysis = self.preprocess_input(user_input)
+        """Gera uma resposta baseada na análise atômica de letras e caracteres."""
+        user_dna = self.atomize(user_input)
         
-        if not words and not char_analysis:
+        if user_dna['len'] == 0:
             return "Olá! Eu sou o BRX. Estou pronto para analisar cada letra do que você disser."
 
-        # 1. Buscar no Cérebro JSON Local (Foco em Programação)
+        # 1. Busca no Cérebro JSON Local via Análise Atômica
         scored_blocks = []
         for block_id, block in self.knowledge.items():
-            score = 0
-            block_text = block.get('texto', '').lower()
-            block_words = set(block.get('palavras', []))
+            block_text = block.get('texto', '')
+            # Se o bloco não tiver DNA pré-calculado, calcula agora
+            block_dna = block.get('dna')
+            if not block_dna:
+                block_dna = self.atomize(block_text)
             
-            # Peso maior para palavras-chave de programação
+            # Comparação Atômica (Letra por Letra)
+            dna_score = self.calculate_dna_similarity(user_dna, block_dna)
+            
+            # Bônus por palavras-chave (Macro)
+            words = re.findall(r'\w+', user_input.lower())
             for word in words:
-                if word in block_words: score += 15
-                elif word in block_text: score += 8
-            
-            # Análise de caracteres (Micro-inteligência)
-            block_char_analysis = self.analyze_chars(block_text)
-            for char, count in char_analysis.items():
-                if char in block_char_analysis:
-                    diff = abs(count - block_char_analysis[char])
-                    score += max(0, 1 - (diff / 10)) 
+                if word in block.get('palavras', []):
+                    dna_score += 10
 
-            if score > 0:
-                scored_blocks.append((score, block))
+            if dna_score > 0:
+                scored_blocks.append((dna_score, block))
 
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
-        # 2. Decidir se usa Pesquisa Web
+        # 2. Pesquisa Web (se necessário)
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 20):
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 15):
             web_result = self.search_web(user_input)
 
-        # 3. Auto-Treinamento
+        # 3. Auto-Treinamento (Aprender com a Web)
         if self.auto_train_enabled and web_result and "Erro" not in web_result:
             new_id = str(uuid.uuid4())
-            clean_text = self.anonymize(web_result)
             self.add_knowledge(
                 block_id=new_id,
-                text=clean_text,
-                category="programming_learned",
-                keywords=words[:5],
-                title=f"Lógica Aprendida: {user_input[:20]}...",
-                topic="programação",
-                source="duckduckgo"
+                text=web_result,
+                category="learned",
+                keywords=re.findall(r'\w+', user_input.lower())[:5],
+                title=f"Aprendizado Atômico: {user_input[:20]}...",
+                topic="auto-treinamento"
             )
 
         if scored_blocks or web_result:
-            thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres e padrões de código]"
+            # Exibir análise de letras no pensamento
+            top_chars = sorted(user_dna['freq'].items(), key=lambda x: x[1], reverse=True)[:3]
+            char_info = ", ".join([f"'{c}':{n}" for c, n in top_chars])
+            thought_process = f"[BRX Analisando Letras: {user_dna['len']} caracteres | Top: {char_info}]"
             
             if web_result:
-                response = f"{thought_process}\n(Informação da Web):\n{web_result}"
+                response = f"{thought_process}\n(Web):\n{web_result}"
             else:
                 best_block = scored_blocks[0][1]
                 response = f"{thought_process}\n(Cérebro Local - {best_block.get('titulo')}):\n{best_block.get('texto')}"
             
-            # Registrar visita
-            self.visited.append({
-                "timestamp": datetime.now().isoformat(),
-                "input": self.anonymize(user_input),
-                "web_search": bool(web_result),
-                "block_id": scored_blocks[0][1].get('id') if scored_blocks else None
-            })
-            self.save_json(os.path.join(self.brain_dir, 'visited.json'), self.visited)
-            
             return response
         else:
-            return "Interessante... Analisei cada letra da sua mensagem, mas ainda não tenho um padrão correspondente no meu cérebro JSON nem na web. Posso aprender isso?"
+            return "Interessante... Analisei cada letra da sua mensagem, mas ainda não encontrei um padrão correspondente. Posso aprender isso?"
 
     def add_knowledge(self, block_id, text, category, keywords, title="", topic="", source=""):
-        """Adiciona conhecimento e atualiza índices."""
+        """Adiciona conhecimento com DNA atômico pré-calculado."""
+        dna = self.atomize(text)
         new_block = {
             "id": block_id,
             "texto": text,
@@ -231,7 +179,7 @@ class BRXCore:
             "titulo": title,
             "topico": topic,
             "palavras": [k.lower() for k in keywords],
-            "char_map": dict(self.analyze_chars(text))
+            "dna": dna
         }
         
         cat_path = os.path.join(self.brain_dir, 'knowledge', f"{category}.json")
@@ -244,18 +192,35 @@ class BRXCore:
         cat_data[block_id] = new_block
         self.save_json(cat_path, cat_data)
         self.knowledge[block_id] = new_block
-
-        for word in keywords:
-            word = word.lower()
-            if word not in self.index: self.index[word] = []
-            if block_id not in self.index[word]: self.index[word].append(block_id)
-        
-        self.save_json(os.path.join(self.brain_dir, 'index', 'words.json'), self.index)
         
         self.meta['total_blocos'] = len(self.knowledge)
         self.meta['ultimo_ciclo'] = datetime.now().isoformat()
         self.save_json(os.path.join(self.brain_dir, 'meta.json'), self.meta)
 
+    def search_web(self, query):
+        headers = {"User-Agent": "Mozilla/5.0"}
+        url = f"https://html.duckduckgo.com/html/?q={query}"
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                results = []
+                for result in soup.find_all('div', class_='result__body')[:2]:
+                    title = result.find('a', class_='result__a').text
+                    snippet = result.find('a', class_='result__snippet').text
+                    results.append(f"{title}: {snippet}")
+                return "\n".join(results) if results else "Sem resultados."
+            return "Erro web."
+        except: return "Erro na pesquisa."
+
+    def sync_to_github(self):
+        try:
+            subprocess.run(["git", "add", "brain/"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Atômico: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "push", "origin", "main"], check=True)
+            return "Sincronizado!"
+        except: return "Erro sync."
+
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("Teste"))
+    print(brx.get_response("Teste de letras"))

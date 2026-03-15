@@ -9,7 +9,7 @@ def print_header(web_status, train_status):
     status_web = "WEB: ON" if web_status else "WEB: OFF"
     status_train = "TREINO: ON" if train_status else "TREINO: OFF"
     print("=" * 70)
-    print(" " * 25 + "BRX AI v3.0 - COLABORATIVO")
+    print(" " * 20 + "BRX AI v3.2 - MOTOR ATÔMICO (LETRAS)")
     print("=" * 70)
     print(f"Status: {status_web} | {status_train} | 'web' 'treino' 'sync' 'sair'")
     print("-" * 70)
@@ -56,7 +56,7 @@ def main():
             if not user_input:
                 continue
 
-            # Obter resposta do BRX
+            # Obter resposta do BRX (com análise atômica)
             response = brx.get_response(user_input)
             
             print(f"\nBRX: {response}")
