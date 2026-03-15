@@ -1,0 +1,1082 @@
+{
+  "web_ui_000_93b33b16": {
+    "id": "web_ui_000_93b33b16",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 0: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 0",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext0"
+    ]
+  },
+  "web_ui_001_d2609508": {
+    "id": "web_ui_001_d2609508",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 1: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 1",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext1"
+    ]
+  },
+  "web_ui_002_560c4e97": {
+    "id": "web_ui_002_560c4e97",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 2: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 2",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext2"
+    ]
+  },
+  "web_ui_003_62814648": {
+    "id": "web_ui_003_62814648",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 3: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 3",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext3"
+    ]
+  },
+  "web_ui_004_ddd2e8be": {
+    "id": "web_ui_004_ddd2e8be",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 4: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 4",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext4"
+    ]
+  },
+  "web_ui_005_290af786": {
+    "id": "web_ui_005_290af786",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 5: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 5",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext5"
+    ]
+  },
+  "web_ui_006_e7c4bc90": {
+    "id": "web_ui_006_e7c4bc90",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 6: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 6",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext6"
+    ]
+  },
+  "web_ui_007_cdfd3e6c": {
+    "id": "web_ui_007_cdfd3e6c",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 7: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 7",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext7"
+    ]
+  },
+  "web_ui_008_29e5d7a2": {
+    "id": "web_ui_008_29e5d7a2",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 8: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 8",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext8"
+    ]
+  },
+  "web_ui_009_2ed68906": {
+    "id": "web_ui_009_2ed68906",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 9: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 9",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext9"
+    ]
+  },
+  "web_ui_010_428c1363": {
+    "id": "web_ui_010_428c1363",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 10: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 10",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext10"
+    ]
+  },
+  "web_ui_011_841776af": {
+    "id": "web_ui_011_841776af",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 11: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 11",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext11"
+    ]
+  },
+  "web_ui_012_5fcb0da4": {
+    "id": "web_ui_012_5fcb0da4",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 12: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 12",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext12"
+    ]
+  },
+  "web_ui_013_fb972d28": {
+    "id": "web_ui_013_fb972d28",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 13: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 13",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext13"
+    ]
+  },
+  "web_ui_014_85612a42": {
+    "id": "web_ui_014_85612a42",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 14: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 14",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext14"
+    ]
+  },
+  "web_ui_015_df9be71f": {
+    "id": "web_ui_015_df9be71f",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 15: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 15",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext15"
+    ]
+  },
+  "web_ui_016_0548d111": {
+    "id": "web_ui_016_0548d111",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 16: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 16",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext16"
+    ]
+  },
+  "web_ui_017_21d0494a": {
+    "id": "web_ui_017_21d0494a",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 17: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 17",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext17"
+    ]
+  },
+  "web_ui_018_d6b4a1cb": {
+    "id": "web_ui_018_d6b4a1cb",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 18: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 18",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext18"
+    ]
+  },
+  "web_ui_019_da3a190b": {
+    "id": "web_ui_019_da3a190b",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 19: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 19",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext19"
+    ]
+  },
+  "web_ui_020_c5128d12": {
+    "id": "web_ui_020_c5128d12",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 20: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 20",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext20"
+    ]
+  },
+  "web_ui_021_1d0e52bc": {
+    "id": "web_ui_021_1d0e52bc",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 21: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 21",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext21"
+    ]
+  },
+  "web_ui_022_324adfa9": {
+    "id": "web_ui_022_324adfa9",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 22: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 22",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext22"
+    ]
+  },
+  "web_ui_023_177759cc": {
+    "id": "web_ui_023_177759cc",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 23: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 23",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext23"
+    ]
+  },
+  "web_ui_024_2896e8d1": {
+    "id": "web_ui_024_2896e8d1",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 24: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 24",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext24"
+    ]
+  },
+  "web_ui_025_301ef117": {
+    "id": "web_ui_025_301ef117",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 25: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 25",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext25"
+    ]
+  },
+  "web_ui_026_ab9fb5b3": {
+    "id": "web_ui_026_ab9fb5b3",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 26: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 26",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext26"
+    ]
+  },
+  "web_ui_027_1688f2bc": {
+    "id": "web_ui_027_1688f2bc",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 27: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 27",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext27"
+    ]
+  },
+  "web_ui_028_71b9c7cb": {
+    "id": "web_ui_028_71b9c7cb",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 28: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 28",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext28"
+    ]
+  },
+  "web_ui_029_11b7078d": {
+    "id": "web_ui_029_11b7078d",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 29: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 29",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext29"
+    ]
+  },
+  "web_ui_030_c6763dcb": {
+    "id": "web_ui_030_c6763dcb",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 30: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 30",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext30"
+    ]
+  },
+  "web_ui_031_5d70dd29": {
+    "id": "web_ui_031_5d70dd29",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 31: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 31",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext31"
+    ]
+  },
+  "web_ui_032_38e0d521": {
+    "id": "web_ui_032_38e0d521",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 32: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 32",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext32"
+    ]
+  },
+  "web_ui_033_06a0106d": {
+    "id": "web_ui_033_06a0106d",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 33: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 33",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext33"
+    ]
+  },
+  "web_ui_034_0f6d623d": {
+    "id": "web_ui_034_0f6d623d",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 34: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 34",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext34"
+    ]
+  },
+  "web_ui_035_12c93b1b": {
+    "id": "web_ui_035_12c93b1b",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 35: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 35",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext35"
+    ]
+  },
+  "web_ui_036_940947d5": {
+    "id": "web_ui_036_940947d5",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 36: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 36",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext36"
+    ]
+  },
+  "web_ui_037_e3b00ea8": {
+    "id": "web_ui_037_e3b00ea8",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 37: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 37",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext37"
+    ]
+  },
+  "web_ui_038_89186213": {
+    "id": "web_ui_038_89186213",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 38: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 38",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext38"
+    ]
+  },
+  "web_ui_039_c61b031b": {
+    "id": "web_ui_039_c61b031b",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 39: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 39",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext39"
+    ]
+  },
+  "web_ui_040_17921d08": {
+    "id": "web_ui_040_17921d08",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 40: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 40",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext40"
+    ]
+  },
+  "web_ui_041_7dc9793b": {
+    "id": "web_ui_041_7dc9793b",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 41: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 41",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext41"
+    ]
+  },
+  "web_ui_042_2b5d71cd": {
+    "id": "web_ui_042_2b5d71cd",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 42: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 42",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext42"
+    ]
+  },
+  "web_ui_043_1b0cb159": {
+    "id": "web_ui_043_1b0cb159",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 43: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 43",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext43"
+    ]
+  },
+  "web_ui_044_91a69fc3": {
+    "id": "web_ui_044_91a69fc3",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 44: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 44",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext44"
+    ]
+  },
+  "web_ui_045_f65b4e71": {
+    "id": "web_ui_045_f65b4e71",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 45: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 45",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext45"
+    ]
+  },
+  "web_ui_046_bd960406": {
+    "id": "web_ui_046_bd960406",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 46: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 46",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext46"
+    ]
+  },
+  "web_ui_047_a779d7ce": {
+    "id": "web_ui_047_a779d7ce",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 47: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 47",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext47"
+    ]
+  },
+  "web_ui_048_5f32aea5": {
+    "id": "web_ui_048_5f32aea5",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 48: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 48",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext48"
+    ]
+  },
+  "web_ui_049_87c19966": {
+    "id": "web_ui_049_87c19966",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 49: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 49",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext49"
+    ]
+  },
+  "web_ui_050_49cf4ec1": {
+    "id": "web_ui_050_49cf4ec1",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 50: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 50",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext50"
+    ]
+  },
+  "web_ui_051_56febcaf": {
+    "id": "web_ui_051_56febcaf",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 51: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 51",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext51"
+    ]
+  },
+  "web_ui_052_478d769c": {
+    "id": "web_ui_052_478d769c",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 52: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 52",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext52"
+    ]
+  },
+  "web_ui_053_fdbcc146": {
+    "id": "web_ui_053_fdbcc146",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 53: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 53",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext53"
+    ]
+  },
+  "web_ui_054_288e04c3": {
+    "id": "web_ui_054_288e04c3",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 54: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 54",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext54"
+    ]
+  },
+  "web_ui_055_0e2da245": {
+    "id": "web_ui_055_0e2da245",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 55: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 55",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext55"
+    ]
+  },
+  "web_ui_056_3594dd18": {
+    "id": "web_ui_056_3594dd18",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 56: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 56",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext56"
+    ]
+  },
+  "web_ui_057_ade40b46": {
+    "id": "web_ui_057_ade40b46",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 57: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 57",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext57"
+    ]
+  },
+  "web_ui_058_c7ceb74d": {
+    "id": "web_ui_058_c7ceb74d",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 58: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 58",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext58"
+    ]
+  },
+  "web_ui_059_37330f11": {
+    "id": "web_ui_059_37330f11",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 59: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 59",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext59"
+    ]
+  },
+  "web_ui_060_d183fe04": {
+    "id": "web_ui_060_d183fe04",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 60: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 60",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext60"
+    ]
+  },
+  "web_ui_061_a956ddf2": {
+    "id": "web_ui_061_a956ddf2",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 61: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 61",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext61"
+    ]
+  },
+  "web_ui_062_3cc87b9a": {
+    "id": "web_ui_062_3cc87b9a",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 62: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 62",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext62"
+    ]
+  },
+  "web_ui_063_181b6fd3": {
+    "id": "web_ui_063_181b6fd3",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 63: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 63",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext63"
+    ]
+  },
+  "web_ui_064_5ee5bfb5": {
+    "id": "web_ui_064_5ee5bfb5",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 64: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 64",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext64"
+    ]
+  },
+  "web_ui_065_ac5b5993": {
+    "id": "web_ui_065_ac5b5993",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 65: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 65",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext65"
+    ]
+  },
+  "web_ui_066_1bd2df2b": {
+    "id": "web_ui_066_1bd2df2b",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 66: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 66",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext66"
+    ]
+  },
+  "web_ui_067_11f35fbd": {
+    "id": "web_ui_067_11f35fbd",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 67: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 67",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext67"
+    ]
+  },
+  "web_ui_068_a8d6200a": {
+    "id": "web_ui_068_a8d6200a",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 68: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 68",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext68"
+    ]
+  },
+  "web_ui_069_e4e1b373": {
+    "id": "web_ui_069_e4e1b373",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 69: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 69",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext69"
+    ]
+  },
+  "web_ui_070_5b4ce7dc": {
+    "id": "web_ui_070_5b4ce7dc",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 70: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 70",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext70"
+    ]
+  },
+  "web_ui_071_9b0c13d9": {
+    "id": "web_ui_071_9b0c13d9",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 71: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 71",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext71"
+    ]
+  },
+  "web_ui_072_a79e3100": {
+    "id": "web_ui_072_a79e3100",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 72: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 72",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext72"
+    ]
+  },
+  "web_ui_073_e47ac20b": {
+    "id": "web_ui_073_e47ac20b",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 73: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 73",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext73"
+    ]
+  },
+  "web_ui_074_a2fd67be": {
+    "id": "web_ui_074_a2fd67be",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 74: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 74",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext74"
+    ]
+  },
+  "web_ui_075_ea360e64": {
+    "id": "web_ui_075_ea360e64",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 75: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 75",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext75"
+    ]
+  },
+  "web_ui_076_55af4cf1": {
+    "id": "web_ui_076_55af4cf1",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 76: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 76",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext76"
+    ]
+  },
+  "web_ui_077_73cb1d82": {
+    "id": "web_ui_077_73cb1d82",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 77: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 77",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext77"
+    ]
+  },
+  "web_ui_078_fd31026c": {
+    "id": "web_ui_078_fd31026c",
+    "texto": ".container { display: flex; justify-content: center; align-items: center; gap: 20px; }\n.grid { display: grid; grid-template-columns: repeat(3, 1fr); }\n\n// Referência 78: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "Modern CSS Layout - 78",
+    "topico": "css flexbox grid",
+    "palavras": [
+      "css",
+      "flexbox",
+      "grid",
+      "layout",
+      "ext78"
+    ]
+  },
+  "web_ui_079_d1007e23": {
+    "id": "web_ui_079_d1007e23",
+    "texto": "<header><nav><ul><li>Home</li></ul></nav></header>\n<main><article>Conteúdo principal</article></main>\n\n// Referência 79: Padrões de projeto e arquitetura para web_ui.",
+    "categoria": "programming",
+    "titulo": "HTML5 Semantic Tags - 79",
+    "topico": "html semantic",
+    "palavras": [
+      "html",
+      "semantic",
+      "seo",
+      "ext79"
+    ]
+  }
+}

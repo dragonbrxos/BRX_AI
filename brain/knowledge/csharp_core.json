@@ -1,15 +1,1082 @@
 {
-  "csharp_unity_jump": {
-    "id": "csharp_unity_jump",
-    "texto": "Sistema de Pulo no Unity (C#):\nusing UnityEngine;\npublic class PlayerJump : MonoBehaviour {\n  public float jumpForce = 5f;\n  private Rigidbody2D rb;\n  void Start() { rb = GetComponent<Rigidbody2D>(); }\n  void Update() {\n    if (Input.GetKeyDown(KeyCode.Space)) {\n      rb.velocity = Vector2.up * jumpForce;\n    }\n  }\n}",
+  "csharp_000_f3b6f249": {
+    "id": "csharp_000_f3b6f249",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 0: Padrões de projeto e arquitetura para csharp.",
     "categoria": "programming",
-    "titulo": "Pulo Unity (C#)",
-    "topico": "csharp unity",
-    "palavras": ["csharp", "unity", "pulo", "jump", "rigidbody"],
-    "dna": {
-      "freq": {"c": 1, "s": 1, "h": 1, "a": 1, "r": 1, "p": 1, "u": 1, "n": 1, "i": 1, "t": 1, "y": 1},
-      "seq": ["c", "s", "h", "a", "r", "p", "u", "n", "i", "t", "y", "p", "u", "l", "o"],
-      "len": 15
-    }
+    "titulo": "Unity Character Controller - 0",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext0"
+    ]
+  },
+  "csharp_001_299b81eb": {
+    "id": "csharp_001_299b81eb",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 1: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 1",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext1"
+    ]
+  },
+  "csharp_002_542c9864": {
+    "id": "csharp_002_542c9864",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 2: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 2",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext2"
+    ]
+  },
+  "csharp_003_d00ac4ed": {
+    "id": "csharp_003_d00ac4ed",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 3: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 3",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext3"
+    ]
+  },
+  "csharp_004_b88fc9b8": {
+    "id": "csharp_004_b88fc9b8",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 4: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 4",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext4"
+    ]
+  },
+  "csharp_005_373e1dff": {
+    "id": "csharp_005_373e1dff",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 5: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 5",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext5"
+    ]
+  },
+  "csharp_006_8d980afd": {
+    "id": "csharp_006_8d980afd",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 6: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 6",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext6"
+    ]
+  },
+  "csharp_007_d99dcfa1": {
+    "id": "csharp_007_d99dcfa1",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 7: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 7",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext7"
+    ]
+  },
+  "csharp_008_6c8a8a87": {
+    "id": "csharp_008_6c8a8a87",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 8: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 8",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext8"
+    ]
+  },
+  "csharp_009_cacbac7b": {
+    "id": "csharp_009_cacbac7b",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 9: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 9",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext9"
+    ]
+  },
+  "csharp_010_f5f0ce2e": {
+    "id": "csharp_010_f5f0ce2e",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 10: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 10",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext10"
+    ]
+  },
+  "csharp_011_697393f2": {
+    "id": "csharp_011_697393f2",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 11: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 11",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext11"
+    ]
+  },
+  "csharp_012_b8da7f8a": {
+    "id": "csharp_012_b8da7f8a",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 12: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 12",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext12"
+    ]
+  },
+  "csharp_013_86215694": {
+    "id": "csharp_013_86215694",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 13: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 13",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext13"
+    ]
+  },
+  "csharp_014_72a1b2c3": {
+    "id": "csharp_014_72a1b2c3",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 14: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 14",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext14"
+    ]
+  },
+  "csharp_015_9bd7e026": {
+    "id": "csharp_015_9bd7e026",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 15: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 15",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext15"
+    ]
+  },
+  "csharp_016_ace9b617": {
+    "id": "csharp_016_ace9b617",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 16: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 16",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext16"
+    ]
+  },
+  "csharp_017_c8672ed2": {
+    "id": "csharp_017_c8672ed2",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 17: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 17",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext17"
+    ]
+  },
+  "csharp_018_33e69f1b": {
+    "id": "csharp_018_33e69f1b",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 18: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 18",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext18"
+    ]
+  },
+  "csharp_019_1fbda1cf": {
+    "id": "csharp_019_1fbda1cf",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 19: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 19",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext19"
+    ]
+  },
+  "csharp_020_5fe14094": {
+    "id": "csharp_020_5fe14094",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 20: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 20",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext20"
+    ]
+  },
+  "csharp_021_db01a15a": {
+    "id": "csharp_021_db01a15a",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 21: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 21",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext21"
+    ]
+  },
+  "csharp_022_d5bbd5ee": {
+    "id": "csharp_022_d5bbd5ee",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 22: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 22",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext22"
+    ]
+  },
+  "csharp_023_a2fd7dda": {
+    "id": "csharp_023_a2fd7dda",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 23: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 23",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext23"
+    ]
+  },
+  "csharp_024_f055f019": {
+    "id": "csharp_024_f055f019",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 24: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 24",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext24"
+    ]
+  },
+  "csharp_025_8808596e": {
+    "id": "csharp_025_8808596e",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 25: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 25",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext25"
+    ]
+  },
+  "csharp_026_28a087e1": {
+    "id": "csharp_026_28a087e1",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 26: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 26",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext26"
+    ]
+  },
+  "csharp_027_dc25e993": {
+    "id": "csharp_027_dc25e993",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 27: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 27",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext27"
+    ]
+  },
+  "csharp_028_a4b3bf2c": {
+    "id": "csharp_028_a4b3bf2c",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 28: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 28",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext28"
+    ]
+  },
+  "csharp_029_29aa6327": {
+    "id": "csharp_029_29aa6327",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 29: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 29",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext29"
+    ]
+  },
+  "csharp_030_1d720c3e": {
+    "id": "csharp_030_1d720c3e",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 30: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 30",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext30"
+    ]
+  },
+  "csharp_031_8ef772e5": {
+    "id": "csharp_031_8ef772e5",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 31: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 31",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext31"
+    ]
+  },
+  "csharp_032_1ef0b00b": {
+    "id": "csharp_032_1ef0b00b",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 32: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 32",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext32"
+    ]
+  },
+  "csharp_033_48bb29f7": {
+    "id": "csharp_033_48bb29f7",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 33: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 33",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext33"
+    ]
+  },
+  "csharp_034_5c50188c": {
+    "id": "csharp_034_5c50188c",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 34: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 34",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext34"
+    ]
+  },
+  "csharp_035_b61b5831": {
+    "id": "csharp_035_b61b5831",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 35: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 35",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext35"
+    ]
+  },
+  "csharp_036_d42002bf": {
+    "id": "csharp_036_d42002bf",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 36: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 36",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext36"
+    ]
+  },
+  "csharp_037_352e1fb3": {
+    "id": "csharp_037_352e1fb3",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 37: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 37",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext37"
+    ]
+  },
+  "csharp_038_a080ea81": {
+    "id": "csharp_038_a080ea81",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 38: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 38",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext38"
+    ]
+  },
+  "csharp_039_07b7fbf4": {
+    "id": "csharp_039_07b7fbf4",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 39: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 39",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext39"
+    ]
+  },
+  "csharp_040_4355aae0": {
+    "id": "csharp_040_4355aae0",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 40: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 40",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext40"
+    ]
+  },
+  "csharp_041_482342fc": {
+    "id": "csharp_041_482342fc",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 41: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 41",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext41"
+    ]
+  },
+  "csharp_042_0ba2bd30": {
+    "id": "csharp_042_0ba2bd30",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 42: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 42",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext42"
+    ]
+  },
+  "csharp_043_e1f7daf8": {
+    "id": "csharp_043_e1f7daf8",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 43: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 43",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext43"
+    ]
+  },
+  "csharp_044_c6b1b587": {
+    "id": "csharp_044_c6b1b587",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 44: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 44",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext44"
+    ]
+  },
+  "csharp_045_11cd3771": {
+    "id": "csharp_045_11cd3771",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 45: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 45",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext45"
+    ]
+  },
+  "csharp_046_8f64a051": {
+    "id": "csharp_046_8f64a051",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 46: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 46",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext46"
+    ]
+  },
+  "csharp_047_33963968": {
+    "id": "csharp_047_33963968",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 47: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 47",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext47"
+    ]
+  },
+  "csharp_048_e7e2351e": {
+    "id": "csharp_048_e7e2351e",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 48: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 48",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext48"
+    ]
+  },
+  "csharp_049_cb3673e8": {
+    "id": "csharp_049_cb3673e8",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 49: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 49",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext49"
+    ]
+  },
+  "csharp_050_1e0991d9": {
+    "id": "csharp_050_1e0991d9",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 50: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 50",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext50"
+    ]
+  },
+  "csharp_051_0366e04c": {
+    "id": "csharp_051_0366e04c",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 51: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 51",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext51"
+    ]
+  },
+  "csharp_052_47cda768": {
+    "id": "csharp_052_47cda768",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 52: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 52",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext52"
+    ]
+  },
+  "csharp_053_c38aa725": {
+    "id": "csharp_053_c38aa725",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 53: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 53",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext53"
+    ]
+  },
+  "csharp_054_ad93e10e": {
+    "id": "csharp_054_ad93e10e",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 54: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 54",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext54"
+    ]
+  },
+  "csharp_055_e28df1fb": {
+    "id": "csharp_055_e28df1fb",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 55: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 55",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext55"
+    ]
+  },
+  "csharp_056_c949c600": {
+    "id": "csharp_056_c949c600",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 56: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 56",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext56"
+    ]
+  },
+  "csharp_057_5dfc3af8": {
+    "id": "csharp_057_5dfc3af8",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 57: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 57",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext57"
+    ]
+  },
+  "csharp_058_c2886e06": {
+    "id": "csharp_058_c2886e06",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 58: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 58",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext58"
+    ]
+  },
+  "csharp_059_7ecee441": {
+    "id": "csharp_059_7ecee441",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 59: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 59",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext59"
+    ]
+  },
+  "csharp_060_cfd4626d": {
+    "id": "csharp_060_cfd4626d",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 60: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 60",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext60"
+    ]
+  },
+  "csharp_061_d053e181": {
+    "id": "csharp_061_d053e181",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 61: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 61",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext61"
+    ]
+  },
+  "csharp_062_e321d893": {
+    "id": "csharp_062_e321d893",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 62: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 62",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext62"
+    ]
+  },
+  "csharp_063_25909db5": {
+    "id": "csharp_063_25909db5",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 63: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 63",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext63"
+    ]
+  },
+  "csharp_064_8d260d05": {
+    "id": "csharp_064_8d260d05",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 64: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 64",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext64"
+    ]
+  },
+  "csharp_065_be58c13f": {
+    "id": "csharp_065_be58c13f",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 65: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 65",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext65"
+    ]
+  },
+  "csharp_066_96cdda12": {
+    "id": "csharp_066_96cdda12",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 66: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 66",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext66"
+    ]
+  },
+  "csharp_067_bf3553f7": {
+    "id": "csharp_067_bf3553f7",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 67: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 67",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext67"
+    ]
+  },
+  "csharp_068_da515552": {
+    "id": "csharp_068_da515552",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 68: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 68",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext68"
+    ]
+  },
+  "csharp_069_a0545dab": {
+    "id": "csharp_069_a0545dab",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 69: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 69",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext69"
+    ]
+  },
+  "csharp_070_1d1554d0": {
+    "id": "csharp_070_1d1554d0",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 70: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 70",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext70"
+    ]
+  },
+  "csharp_071_f7535370": {
+    "id": "csharp_071_f7535370",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 71: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 71",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext71"
+    ]
+  },
+  "csharp_072_1f23d84f": {
+    "id": "csharp_072_1f23d84f",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 72: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 72",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext72"
+    ]
+  },
+  "csharp_073_f4db358c": {
+    "id": "csharp_073_f4db358c",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 73: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 73",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext73"
+    ]
+  },
+  "csharp_074_7e23352b": {
+    "id": "csharp_074_7e23352b",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 74: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 74",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext74"
+    ]
+  },
+  "csharp_075_28dab799": {
+    "id": "csharp_075_28dab799",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 75: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 75",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext75"
+    ]
+  },
+  "csharp_076_e66a4c09": {
+    "id": "csharp_076_e66a4c09",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 76: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 76",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext76"
+    ]
+  },
+  "csharp_077_f0c55096": {
+    "id": "csharp_077_f0c55096",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 77: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 77",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext77"
+    ]
+  },
+  "csharp_078_6a437839": {
+    "id": "csharp_078_6a437839",
+    "texto": "public class PlayerMove : MonoBehaviour { ... }\n\n// Referência 78: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "Unity Character Controller - 78",
+    "topico": "csharp unity game",
+    "palavras": [
+      "unity",
+      "csharp",
+      "game",
+      "movement",
+      "ext78"
+    ]
+  },
+  "csharp_079_09e92a7c": {
+    "id": "csharp_079_09e92a7c",
+    "texto": "[ApiController] public class UserController : ControllerBase { ... }\n\n// Referência 79: Padrões de projeto e arquitetura para csharp.",
+    "categoria": "programming",
+    "titulo": "ASP.NET Core Controller - 79",
+    "topico": "csharp aspnet web",
+    "palavras": [
+      "aspnet",
+      "api",
+      "dotnet",
+      "ext79"
+    ]
   }
 }

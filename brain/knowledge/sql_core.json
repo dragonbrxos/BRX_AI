@@ -1,0 +1,1122 @@
+{
+  "sql_000_6d1fc9a7": {
+    "id": "sql_000_6d1fc9a7",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 0: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 0",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext0"
+    ]
+  },
+  "sql_001_59f3a6ed": {
+    "id": "sql_001_59f3a6ed",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 1: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 1",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext1"
+    ]
+  },
+  "sql_002_093c761c": {
+    "id": "sql_002_093c761c",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 2: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 2",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext2"
+    ]
+  },
+  "sql_003_5c25fd55": {
+    "id": "sql_003_5c25fd55",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 3: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 3",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext3"
+    ]
+  },
+  "sql_004_83d8d382": {
+    "id": "sql_004_83d8d382",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 4: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 4",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext4"
+    ]
+  },
+  "sql_005_57c6d189": {
+    "id": "sql_005_57c6d189",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 5: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 5",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext5"
+    ]
+  },
+  "sql_006_33318890": {
+    "id": "sql_006_33318890",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 6: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 6",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext6"
+    ]
+  },
+  "sql_007_a46e083f": {
+    "id": "sql_007_a46e083f",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 7: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 7",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext7"
+    ]
+  },
+  "sql_008_3b799267": {
+    "id": "sql_008_3b799267",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 8: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 8",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext8"
+    ]
+  },
+  "sql_009_f82efd40": {
+    "id": "sql_009_f82efd40",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 9: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 9",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext9"
+    ]
+  },
+  "sql_010_a8540f78": {
+    "id": "sql_010_a8540f78",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 10: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 10",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext10"
+    ]
+  },
+  "sql_011_7f7d85c9": {
+    "id": "sql_011_7f7d85c9",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 11: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 11",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext11"
+    ]
+  },
+  "sql_012_043fc7e5": {
+    "id": "sql_012_043fc7e5",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 12: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 12",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext12"
+    ]
+  },
+  "sql_013_ff19ac08": {
+    "id": "sql_013_ff19ac08",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 13: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 13",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext13"
+    ]
+  },
+  "sql_014_1933eb92": {
+    "id": "sql_014_1933eb92",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 14: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 14",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext14"
+    ]
+  },
+  "sql_015_9b7e930a": {
+    "id": "sql_015_9b7e930a",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 15: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 15",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext15"
+    ]
+  },
+  "sql_016_949c947e": {
+    "id": "sql_016_949c947e",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 16: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 16",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext16"
+    ]
+  },
+  "sql_017_89ce788e": {
+    "id": "sql_017_89ce788e",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 17: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 17",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext17"
+    ]
+  },
+  "sql_018_12659136": {
+    "id": "sql_018_12659136",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 18: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 18",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext18"
+    ]
+  },
+  "sql_019_df0292b5": {
+    "id": "sql_019_df0292b5",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 19: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 19",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext19"
+    ]
+  },
+  "sql_020_325ddc48": {
+    "id": "sql_020_325ddc48",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 20: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 20",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext20"
+    ]
+  },
+  "sql_021_57274f6b": {
+    "id": "sql_021_57274f6b",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 21: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 21",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext21"
+    ]
+  },
+  "sql_022_3c837efc": {
+    "id": "sql_022_3c837efc",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 22: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 22",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext22"
+    ]
+  },
+  "sql_023_ab75d610": {
+    "id": "sql_023_ab75d610",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 23: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 23",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext23"
+    ]
+  },
+  "sql_024_1af7f7b1": {
+    "id": "sql_024_1af7f7b1",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 24: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 24",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext24"
+    ]
+  },
+  "sql_025_29c49b3d": {
+    "id": "sql_025_29c49b3d",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 25: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 25",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext25"
+    ]
+  },
+  "sql_026_4038c16c": {
+    "id": "sql_026_4038c16c",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 26: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 26",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext26"
+    ]
+  },
+  "sql_027_bca1bd71": {
+    "id": "sql_027_bca1bd71",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 27: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 27",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext27"
+    ]
+  },
+  "sql_028_e259899a": {
+    "id": "sql_028_e259899a",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 28: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 28",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext28"
+    ]
+  },
+  "sql_029_9736749b": {
+    "id": "sql_029_9736749b",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 29: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 29",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext29"
+    ]
+  },
+  "sql_030_cdb2350d": {
+    "id": "sql_030_cdb2350d",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 30: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 30",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext30"
+    ]
+  },
+  "sql_031_49b33623": {
+    "id": "sql_031_49b33623",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 31: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 31",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext31"
+    ]
+  },
+  "sql_032_ec104b4e": {
+    "id": "sql_032_ec104b4e",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 32: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 32",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext32"
+    ]
+  },
+  "sql_033_6d78a0a0": {
+    "id": "sql_033_6d78a0a0",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 33: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 33",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext33"
+    ]
+  },
+  "sql_034_11660d4f": {
+    "id": "sql_034_11660d4f",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 34: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 34",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext34"
+    ]
+  },
+  "sql_035_77cea7dc": {
+    "id": "sql_035_77cea7dc",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 35: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 35",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext35"
+    ]
+  },
+  "sql_036_7d24245c": {
+    "id": "sql_036_7d24245c",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 36: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 36",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext36"
+    ]
+  },
+  "sql_037_d4d871c2": {
+    "id": "sql_037_d4d871c2",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 37: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 37",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext37"
+    ]
+  },
+  "sql_038_9c3ce330": {
+    "id": "sql_038_9c3ce330",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 38: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 38",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext38"
+    ]
+  },
+  "sql_039_51db68d3": {
+    "id": "sql_039_51db68d3",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 39: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 39",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext39"
+    ]
+  },
+  "sql_040_318154f5": {
+    "id": "sql_040_318154f5",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 40: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 40",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext40"
+    ]
+  },
+  "sql_041_6e2f49e4": {
+    "id": "sql_041_6e2f49e4",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 41: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 41",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext41"
+    ]
+  },
+  "sql_042_b5b59255": {
+    "id": "sql_042_b5b59255",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 42: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 42",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext42"
+    ]
+  },
+  "sql_043_1d675f2a": {
+    "id": "sql_043_1d675f2a",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 43: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 43",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext43"
+    ]
+  },
+  "sql_044_ebaee2e6": {
+    "id": "sql_044_ebaee2e6",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 44: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 44",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext44"
+    ]
+  },
+  "sql_045_fba4b121": {
+    "id": "sql_045_fba4b121",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 45: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 45",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext45"
+    ]
+  },
+  "sql_046_80aed96b": {
+    "id": "sql_046_80aed96b",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 46: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 46",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext46"
+    ]
+  },
+  "sql_047_4299c90c": {
+    "id": "sql_047_4299c90c",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 47: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 47",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext47"
+    ]
+  },
+  "sql_048_12329c5c": {
+    "id": "sql_048_12329c5c",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 48: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 48",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext48"
+    ]
+  },
+  "sql_049_cd25c943": {
+    "id": "sql_049_cd25c943",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 49: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 49",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext49"
+    ]
+  },
+  "sql_050_d2a816c5": {
+    "id": "sql_050_d2a816c5",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 50: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 50",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext50"
+    ]
+  },
+  "sql_051_dd75821d": {
+    "id": "sql_051_dd75821d",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 51: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 51",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext51"
+    ]
+  },
+  "sql_052_2d1a9e97": {
+    "id": "sql_052_2d1a9e97",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 52: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 52",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext52"
+    ]
+  },
+  "sql_053_9b78cc54": {
+    "id": "sql_053_9b78cc54",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 53: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 53",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext53"
+    ]
+  },
+  "sql_054_44b3f0c9": {
+    "id": "sql_054_44b3f0c9",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 54: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 54",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext54"
+    ]
+  },
+  "sql_055_bac321db": {
+    "id": "sql_055_bac321db",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 55: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 55",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext55"
+    ]
+  },
+  "sql_056_9f9d6463": {
+    "id": "sql_056_9f9d6463",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 56: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 56",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext56"
+    ]
+  },
+  "sql_057_6bbf308e": {
+    "id": "sql_057_6bbf308e",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 57: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 57",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext57"
+    ]
+  },
+  "sql_058_ef281c84": {
+    "id": "sql_058_ef281c84",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 58: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 58",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext58"
+    ]
+  },
+  "sql_059_7f7180f1": {
+    "id": "sql_059_7f7180f1",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 59: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 59",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext59"
+    ]
+  },
+  "sql_060_7a350d26": {
+    "id": "sql_060_7a350d26",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 60: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 60",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext60"
+    ]
+  },
+  "sql_061_4dc8b43a": {
+    "id": "sql_061_4dc8b43a",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 61: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 61",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext61"
+    ]
+  },
+  "sql_062_a6985e97": {
+    "id": "sql_062_a6985e97",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 62: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 62",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext62"
+    ]
+  },
+  "sql_063_d200077f": {
+    "id": "sql_063_d200077f",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 63: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 63",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext63"
+    ]
+  },
+  "sql_064_b3ee6839": {
+    "id": "sql_064_b3ee6839",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 64: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 64",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext64"
+    ]
+  },
+  "sql_065_8ecf78e1": {
+    "id": "sql_065_8ecf78e1",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 65: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 65",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext65"
+    ]
+  },
+  "sql_066_a9c9ca3b": {
+    "id": "sql_066_a9c9ca3b",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 66: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 66",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext66"
+    ]
+  },
+  "sql_067_9a270701": {
+    "id": "sql_067_9a270701",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 67: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 67",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext67"
+    ]
+  },
+  "sql_068_2b958e8f": {
+    "id": "sql_068_2b958e8f",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 68: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 68",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext68"
+    ]
+  },
+  "sql_069_8c33cdc6": {
+    "id": "sql_069_8c33cdc6",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 69: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 69",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext69"
+    ]
+  },
+  "sql_070_8abd7044": {
+    "id": "sql_070_8abd7044",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 70: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 70",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext70"
+    ]
+  },
+  "sql_071_295a09c4": {
+    "id": "sql_071_295a09c4",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 71: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 71",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext71"
+    ]
+  },
+  "sql_072_a2055578": {
+    "id": "sql_072_a2055578",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 72: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 72",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext72"
+    ]
+  },
+  "sql_073_8407eef6": {
+    "id": "sql_073_8407eef6",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 73: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 73",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext73"
+    ]
+  },
+  "sql_074_54aa67a6": {
+    "id": "sql_074_54aa67a6",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 74: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 74",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext74"
+    ]
+  },
+  "sql_075_e5c9eb9b": {
+    "id": "sql_075_e5c9eb9b",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 75: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 75",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext75"
+    ]
+  },
+  "sql_076_a4cf1354": {
+    "id": "sql_076_a4cf1354",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 76: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 76",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext76"
+    ]
+  },
+  "sql_077_8f0f3d23": {
+    "id": "sql_077_8f0f3d23",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 77: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 77",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext77"
+    ]
+  },
+  "sql_078_1ba90123": {
+    "id": "sql_078_1ba90123",
+    "texto": "SELECT u.name, o.total FROM users u LEFT JOIN orders o ON u.id = o.user_id WHERE o.status = 'paid';\n\n// Referência 78: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Complex Joins - 78",
+    "topico": "sql database query",
+    "palavras": [
+      "sql",
+      "join",
+      "select",
+      "database",
+      "ext78"
+    ]
+  },
+  "sql_079_4d24bcdd": {
+    "id": "sql_079_4d24bcdd",
+    "texto": "BEGIN TRANSACTION;\nUPDATE accounts SET balance = balance - 100 WHERE id = 1;\nUPDATE accounts SET balance = balance + 100 WHERE id = 2;\nCOMMIT;\n\n// Referência 79: Padrões de projeto e arquitetura para sql.",
+    "categoria": "programming",
+    "titulo": "SQL Transactions - 79",
+    "topico": "sql transaction acid",
+    "palavras": [
+      "sql",
+      "transaction",
+      "commit",
+      "rollback",
+      "ext79"
+    ]
+  }
+}

@@ -1,32 +1,1502 @@
 {
-  "py_syntax_001": {
-    "id": "py_syntax_001",
-    "texto": "Em Python, a indentação é obrigatória e define blocos de código. Exemplo: if 5 > 2: print('Cinco é maior que dois!'). O uso de 4 espaços é o padrão recomendado pela PEP 8.",
+  "py_core_000_84b4436a": {
+    "id": "py_core_000_84b4436a",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 0: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "Sintaxe e Indentação Python",
-    "topico": "python syntax indentation",
-    "palavras": ["python", "indentação", "sintaxe", "if", "bloco"],
-    "char_map": {}
+    "titulo": "FastAPI Backend - Ref 0",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py0"
+    ]
   },
-  "py_vars_001": {
-    "id": "py_vars_001",
-    "texto": "Variáveis em Python são criadas no momento da atribuição. Exemplo: x = 5; y = 'Olá'. Não é necessário declarar o tipo explicitamente (tipagem dinâmica).",
+  "py_core_001_fff8fd87": {
+    "id": "py_core_001_fff8fd87",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 1: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "Variáveis em Python",
-    "topico": "python variables assignment",
-    "palavras": ["python", "variáveis", "atribuição", "dinâmica"],
-    "char_map": {}
+    "titulo": "Pandas Data Analysis - Ref 1",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py1"
+    ]
   },
-  "py_loops_001": {
-    "id": "py_loops_001",
-    "texto": "Loops em Python: 'for x in range(6): print(x)' executa de 0 a 5. 'while x < 5:' executa enquanto a condição for verdadeira.",
+  "py_core_002_5999e633": {
+    "id": "py_core_002_5999e633",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 2: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "Estruturas de Repetição Python",
-    "topico": "python loops for while",
-    "palavras": ["python", "for", "while", "loop", "range"],
-    "char_map": {}
+    "titulo": "FastAPI Backend - Ref 2",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py2"
+    ]
+  },
+  "py_core_003_941cc307": {
+    "id": "py_core_003_941cc307",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 3: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 3",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py3"
+    ]
+  },
+  "py_core_004_92e1bf43": {
+    "id": "py_core_004_92e1bf43",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 4: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 4",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py4"
+    ]
+  },
+  "py_core_005_fff1a087": {
+    "id": "py_core_005_fff1a087",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 5: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 5",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py5"
+    ]
+  },
+  "py_core_006_f4a205a9": {
+    "id": "py_core_006_f4a205a9",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 6: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 6",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py6"
+    ]
+  },
+  "py_core_007_2a254594": {
+    "id": "py_core_007_2a254594",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 7: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 7",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py7"
+    ]
+  },
+  "py_core_008_6d1d4d4b": {
+    "id": "py_core_008_6d1d4d4b",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 8: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 8",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py8"
+    ]
+  },
+  "py_core_009_e8a0ca54": {
+    "id": "py_core_009_e8a0ca54",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 9: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 9",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py9"
+    ]
+  },
+  "py_core_010_1fe00701": {
+    "id": "py_core_010_1fe00701",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 10: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 10",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py10"
+    ]
+  },
+  "py_core_011_e90739f0": {
+    "id": "py_core_011_e90739f0",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 11: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 11",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py11"
+    ]
+  },
+  "py_core_012_6de94fff": {
+    "id": "py_core_012_6de94fff",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 12: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 12",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py12"
+    ]
+  },
+  "py_core_013_d13a796d": {
+    "id": "py_core_013_d13a796d",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 13: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 13",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py13"
+    ]
+  },
+  "py_core_014_d3a761ed": {
+    "id": "py_core_014_d3a761ed",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 14: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 14",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py14"
+    ]
+  },
+  "py_core_015_5c671bd6": {
+    "id": "py_core_015_5c671bd6",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 15: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 15",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py15"
+    ]
+  },
+  "py_core_016_bd623456": {
+    "id": "py_core_016_bd623456",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 16: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 16",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py16"
+    ]
+  },
+  "py_core_017_0f7f1b3e": {
+    "id": "py_core_017_0f7f1b3e",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 17: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 17",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py17"
+    ]
+  },
+  "py_core_018_9ee3fc52": {
+    "id": "py_core_018_9ee3fc52",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 18: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 18",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py18"
+    ]
+  },
+  "py_core_019_dede1a1f": {
+    "id": "py_core_019_dede1a1f",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 19: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 19",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py19"
+    ]
+  },
+  "py_core_020_86604d1a": {
+    "id": "py_core_020_86604d1a",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 20: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 20",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py20"
+    ]
+  },
+  "py_core_021_ee2cac42": {
+    "id": "py_core_021_ee2cac42",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 21: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 21",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py21"
+    ]
+  },
+  "py_core_022_54e82780": {
+    "id": "py_core_022_54e82780",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 22: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 22",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py22"
+    ]
+  },
+  "py_core_023_9551f752": {
+    "id": "py_core_023_9551f752",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 23: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 23",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py23"
+    ]
+  },
+  "py_core_024_cb49f853": {
+    "id": "py_core_024_cb49f853",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 24: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 24",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py24"
+    ]
+  },
+  "py_core_025_82e4a49b": {
+    "id": "py_core_025_82e4a49b",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 25: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 25",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py25"
+    ]
+  },
+  "py_core_026_3c2051ed": {
+    "id": "py_core_026_3c2051ed",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 26: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 26",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py26"
+    ]
+  },
+  "py_core_027_7b2c11d9": {
+    "id": "py_core_027_7b2c11d9",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 27: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 27",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py27"
+    ]
+  },
+  "py_core_028_a416fd3d": {
+    "id": "py_core_028_a416fd3d",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 28: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 28",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py28"
+    ]
+  },
+  "py_core_029_448b0bb0": {
+    "id": "py_core_029_448b0bb0",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 29: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 29",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py29"
+    ]
+  },
+  "py_core_030_4d63727e": {
+    "id": "py_core_030_4d63727e",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 30: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 30",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py30"
+    ]
+  },
+  "py_core_031_bb38c8e5": {
+    "id": "py_core_031_bb38c8e5",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 31: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 31",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py31"
+    ]
+  },
+  "py_core_032_b28114c3": {
+    "id": "py_core_032_b28114c3",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 32: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 32",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py32"
+    ]
+  },
+  "py_core_033_200a2bd1": {
+    "id": "py_core_033_200a2bd1",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 33: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 33",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py33"
+    ]
+  },
+  "py_core_034_5951c59b": {
+    "id": "py_core_034_5951c59b",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 34: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 34",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py34"
+    ]
+  },
+  "py_core_035_a507e5b1": {
+    "id": "py_core_035_a507e5b1",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 35: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 35",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py35"
+    ]
+  },
+  "py_core_036_832ee2b3": {
+    "id": "py_core_036_832ee2b3",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 36: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 36",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py36"
+    ]
+  },
+  "py_core_037_10ef894d": {
+    "id": "py_core_037_10ef894d",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 37: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 37",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py37"
+    ]
+  },
+  "py_core_038_d8a5643a": {
+    "id": "py_core_038_d8a5643a",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 38: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 38",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py38"
+    ]
+  },
+  "py_core_039_4ccf7340": {
+    "id": "py_core_039_4ccf7340",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 39: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 39",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py39"
+    ]
+  },
+  "py_core_040_e90a929b": {
+    "id": "py_core_040_e90a929b",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 40: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 40",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py40"
+    ]
+  },
+  "py_core_041_ee65f8c7": {
+    "id": "py_core_041_ee65f8c7",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 41: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 41",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py41"
+    ]
+  },
+  "py_core_042_515e5447": {
+    "id": "py_core_042_515e5447",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 42: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 42",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py42"
+    ]
+  },
+  "py_core_043_efac097c": {
+    "id": "py_core_043_efac097c",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 43: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 43",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py43"
+    ]
+  },
+  "py_core_044_97827c76": {
+    "id": "py_core_044_97827c76",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 44: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 44",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py44"
+    ]
+  },
+  "py_core_045_165894cf": {
+    "id": "py_core_045_165894cf",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 45: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 45",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py45"
+    ]
+  },
+  "py_core_046_e295c75a": {
+    "id": "py_core_046_e295c75a",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 46: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 46",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py46"
+    ]
+  },
+  "py_core_047_b0d09e4c": {
+    "id": "py_core_047_b0d09e4c",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 47: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 47",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py47"
+    ]
+  },
+  "py_core_048_2041db65": {
+    "id": "py_core_048_2041db65",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 48: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 48",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py48"
+    ]
+  },
+  "py_core_049_946a28f0": {
+    "id": "py_core_049_946a28f0",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 49: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 49",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py49"
+    ]
+  },
+  "py_core_050_24a039a4": {
+    "id": "py_core_050_24a039a4",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 50: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 50",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py50"
+    ]
+  },
+  "py_core_051_66f65029": {
+    "id": "py_core_051_66f65029",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 51: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 51",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py51"
+    ]
+  },
+  "py_core_052_1b8b6a5e": {
+    "id": "py_core_052_1b8b6a5e",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 52: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 52",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py52"
+    ]
+  },
+  "py_core_053_c377c9ea": {
+    "id": "py_core_053_c377c9ea",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 53: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 53",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py53"
+    ]
+  },
+  "py_core_054_a9661b73": {
+    "id": "py_core_054_a9661b73",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 54: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 54",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py54"
+    ]
+  },
+  "py_core_055_5e0f92c9": {
+    "id": "py_core_055_5e0f92c9",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 55: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 55",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py55"
+    ]
+  },
+  "py_core_056_291c82c2": {
+    "id": "py_core_056_291c82c2",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 56: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 56",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py56"
+    ]
+  },
+  "py_core_057_0ad3ef4e": {
+    "id": "py_core_057_0ad3ef4e",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 57: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 57",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py57"
+    ]
+  },
+  "py_core_058_14857e63": {
+    "id": "py_core_058_14857e63",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 58: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 58",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py58"
+    ]
+  },
+  "py_core_059_cbccf9a5": {
+    "id": "py_core_059_cbccf9a5",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 59: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 59",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py59"
+    ]
+  },
+  "py_core_060_415eb96b": {
+    "id": "py_core_060_415eb96b",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 60: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 60",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py60"
+    ]
+  },
+  "py_core_061_879b85c9": {
+    "id": "py_core_061_879b85c9",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 61: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 61",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py61"
+    ]
+  },
+  "py_core_062_21ba05f1": {
+    "id": "py_core_062_21ba05f1",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 62: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 62",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py62"
+    ]
+  },
+  "py_core_063_579de391": {
+    "id": "py_core_063_579de391",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 63: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 63",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py63"
+    ]
+  },
+  "py_core_064_f83ac792": {
+    "id": "py_core_064_f83ac792",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 64: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 64",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py64"
+    ]
+  },
+  "py_core_065_fca41b64": {
+    "id": "py_core_065_fca41b64",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 65: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 65",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py65"
+    ]
+  },
+  "py_core_066_abd333cc": {
+    "id": "py_core_066_abd333cc",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 66: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 66",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py66"
+    ]
+  },
+  "py_core_067_ed1e1c41": {
+    "id": "py_core_067_ed1e1c41",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 67: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 67",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py67"
+    ]
+  },
+  "py_core_068_477b4bf5": {
+    "id": "py_core_068_477b4bf5",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 68: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 68",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py68"
+    ]
+  },
+  "py_core_069_be28079f": {
+    "id": "py_core_069_be28079f",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 69: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 69",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py69"
+    ]
+  },
+  "py_core_070_12be6c52": {
+    "id": "py_core_070_12be6c52",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 70: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 70",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py70"
+    ]
+  },
+  "py_core_071_1bc5e9fd": {
+    "id": "py_core_071_1bc5e9fd",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 71: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 71",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py71"
+    ]
+  },
+  "py_core_072_c5685956": {
+    "id": "py_core_072_c5685956",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 72: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 72",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py72"
+    ]
+  },
+  "py_core_073_dee5ab97": {
+    "id": "py_core_073_dee5ab97",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 73: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 73",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py73"
+    ]
+  },
+  "py_core_074_b4af30dc": {
+    "id": "py_core_074_b4af30dc",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 74: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 74",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py74"
+    ]
+  },
+  "py_core_075_da30454a": {
+    "id": "py_core_075_da30454a",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 75: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 75",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py75"
+    ]
+  },
+  "py_core_076_ab06354d": {
+    "id": "py_core_076_ab06354d",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 76: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 76",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py76"
+    ]
+  },
+  "py_core_077_3810ee00": {
+    "id": "py_core_077_3810ee00",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 77: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 77",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py77"
+    ]
+  },
+  "py_core_078_f331b5e2": {
+    "id": "py_core_078_f331b5e2",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 78: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 78",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py78"
+    ]
+  },
+  "py_core_079_91f90282": {
+    "id": "py_core_079_91f90282",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 79: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 79",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py79"
+    ]
+  },
+  "py_core_080_1cbdefc0": {
+    "id": "py_core_080_1cbdefc0",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 80: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 80",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py80"
+    ]
+  },
+  "py_core_081_98c8fb90": {
+    "id": "py_core_081_98c8fb90",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 81: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 81",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py81"
+    ]
+  },
+  "py_core_082_259c18cb": {
+    "id": "py_core_082_259c18cb",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 82: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 82",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py82"
+    ]
+  },
+  "py_core_083_fcc29e71": {
+    "id": "py_core_083_fcc29e71",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 83: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 83",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py83"
+    ]
+  },
+  "py_core_084_dddeaea7": {
+    "id": "py_core_084_dddeaea7",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 84: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 84",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py84"
+    ]
+  },
+  "py_core_085_fb13a337": {
+    "id": "py_core_085_fb13a337",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 85: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 85",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py85"
+    ]
+  },
+  "py_core_086_5604afc0": {
+    "id": "py_core_086_5604afc0",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 86: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 86",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py86"
+    ]
+  },
+  "py_core_087_cec6dcbc": {
+    "id": "py_core_087_cec6dcbc",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 87: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 87",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py87"
+    ]
+  },
+  "py_core_088_4cf756ab": {
+    "id": "py_core_088_4cf756ab",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 88: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 88",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py88"
+    ]
+  },
+  "py_core_089_596c8fe6": {
+    "id": "py_core_089_596c8fe6",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 89: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 89",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py89"
+    ]
+  },
+  "py_core_090_14bf6f5e": {
+    "id": "py_core_090_14bf6f5e",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 90: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 90",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py90"
+    ]
+  },
+  "py_core_091_4e3e0648": {
+    "id": "py_core_091_4e3e0648",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 91: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 91",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py91"
+    ]
+  },
+  "py_core_092_2c842bb5": {
+    "id": "py_core_092_2c842bb5",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 92: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 92",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py92"
+    ]
+  },
+  "py_core_093_8ba5e87f": {
+    "id": "py_core_093_8ba5e87f",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 93: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 93",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py93"
+    ]
+  },
+  "py_core_094_356d9f89": {
+    "id": "py_core_094_356d9f89",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 94: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 94",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py94"
+    ]
+  },
+  "py_core_095_00260abb": {
+    "id": "py_core_095_00260abb",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 95: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 95",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py95"
+    ]
+  },
+  "py_core_096_d33367af": {
+    "id": "py_core_096_d33367af",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 96: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 96",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py96"
+    ]
+  },
+  "py_core_097_73d3384e": {
+    "id": "py_core_097_73d3384e",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 97: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 97",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py97"
+    ]
+  },
+  "py_core_098_a2fc5f16": {
+    "id": "py_core_098_a2fc5f16",
+    "texto": "from fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom typing import List, Optional\n\napp = FastAPI()\n\nclass Item(BaseModel):\n    id: int\n    name: str\n    description: Optional[str] = None\n    price: float\n\nitems_db = []\n\n@app.get(\"/items/\", response_model=List[Item])\nasync def read_items():\n    return items_db\n\n@app.post(\"/items/\", response_model=Item)\nasync def create_item(item: Item):\n    items_db.append(item)\n    return item\n\n@app.get(\"/items/{item_id}\")\nasync def read_item(item_id: int):\n    for item in items_db:\n        if item.id == item_id:\n            return item\n    raise HTTPException(status_code=404, detail=\"Item não encontrado\")\n\n# Documentação extra 98: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "FastAPI Backend - Ref 98",
+    "topico": "python fastapi web",
+    "palavras": [
+      "fastapi",
+      "api",
+      "rest",
+      "backend",
+      "json",
+      "py98"
+    ]
+  },
+  "py_core_099_43ed2b62": {
+    "id": "py_core_099_43ed2b62",
+    "texto": "import pandas as pd\nimport numpy as np\n\n# Criando um DataFrame de exemplo\ndata = {\n    'Nome': ['Ana', 'Beto', 'Caio', 'Duda'],\n    'Idade': [23, 34, 45, 28],\n    'Salario': [5000, 7000, 12000, 6500],\n    'Departamento': ['TI', 'RH', 'TI', 'Marketing']\n}\n\ndf = pd.DataFrame(data)\n\n# Análise básica\nprint(\"Média de Idade:\", df['Idade'].mean())\nprint(\"Salário total por departamento:\\n\", df.groupby('Departamento')['Salario'].sum())\n\n# Filtragem\nti_high_salary = df[(df['Departamento'] == 'TI') & (df['Salario'] > 6000)]\nprint(\"TI com salário > 6000:\\n\", ti_high_salary)\n\n# Exportação\n# df.to_csv('relatorio.csv', index=False)\n\n# Documentação extra 99: Padrões de codificação Pythonic e boas práticas para escalabilidade.",
+    "categoria": "programming",
+    "titulo": "Pandas Data Analysis - Ref 99",
+    "topico": "python pandas data",
+    "palavras": [
+      "pandas",
+      "dataframe",
+      "csv",
+      "analysis",
+      "statistics",
+      "py99"
+    ]
   }
 }

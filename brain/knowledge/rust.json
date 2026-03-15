@@ -1,32 +1,1042 @@
 {
-  "rust_syntax_001": {
-    "id": "rust_syntax_001",
-    "texto": "Rust é uma linguagem focada em segurança de memória. 'fn main() { println!(\"Hello World!\"); }' é o ponto de entrada. 'println!' é uma macro.",
+  "rust_000_dff6b8c1": {
+    "id": "rust_000_dff6b8c1",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 0: Padrões de projeto e arquitetura para rust.",
     "categoria": "programming",
-    "fonte": "rust-by-example",
-    "titulo": "Sintaxe Rust",
-    "topico": "rust syntax main println",
-    "palavras": ["rust", "fn", "main", "println", "macro"],
-    "char_map": {}
+    "titulo": "Rust Ownership & Borrowing - 0",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext0"
+    ]
   },
-  "rust_vars_001": {
-    "id": "rust_vars_001",
-    "texto": "Em Rust, variáveis são imutáveis por padrão. 'let x = 5;' não pode ser alterado. Use 'let mut x = 5;' para permitir mudanças.",
+  "rust_001_03226cb2": {
+    "id": "rust_001_03226cb2",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 1: Padrões de projeto e arquitetura para rust.",
     "categoria": "programming",
-    "fonte": "rust-by-example",
-    "titulo": "Variáveis em Rust",
-    "topico": "rust variables mutability",
-    "palavras": ["rust", "let", "mut", "imutável", "variáveis"],
-    "char_map": {}
+    "titulo": "Rust Cargo Package - 1",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext1"
+    ]
   },
-  "rust_ownership_001": {
-    "id": "rust_ownership_001",
-    "texto": "Ownership é o conceito central de Rust para gerenciar memória sem garbage collector. Cada valor tem um dono único.",
+  "rust_002_d130304e": {
+    "id": "rust_002_d130304e",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 2: Padrões de projeto e arquitetura para rust.",
     "categoria": "programming",
-    "fonte": "rust-by-example",
-    "titulo": "Rust Ownership",
-    "topico": "rust memory ownership",
-    "palavras": ["rust", "ownership", "memória", "segurança"],
-    "char_map": {}
+    "titulo": "Rust Ownership & Borrowing - 2",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext2"
+    ]
+  },
+  "rust_003_29e5ca8a": {
+    "id": "rust_003_29e5ca8a",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 3: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 3",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext3"
+    ]
+  },
+  "rust_004_bbc7ebcb": {
+    "id": "rust_004_bbc7ebcb",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 4: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 4",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext4"
+    ]
+  },
+  "rust_005_a8051080": {
+    "id": "rust_005_a8051080",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 5: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 5",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext5"
+    ]
+  },
+  "rust_006_af99671f": {
+    "id": "rust_006_af99671f",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 6: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 6",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext6"
+    ]
+  },
+  "rust_007_c8acb5c5": {
+    "id": "rust_007_c8acb5c5",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 7: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 7",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext7"
+    ]
+  },
+  "rust_008_d3343b3f": {
+    "id": "rust_008_d3343b3f",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 8: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 8",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext8"
+    ]
+  },
+  "rust_009_3b48bcb2": {
+    "id": "rust_009_3b48bcb2",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 9: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 9",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext9"
+    ]
+  },
+  "rust_010_4091682a": {
+    "id": "rust_010_4091682a",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 10: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 10",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext10"
+    ]
+  },
+  "rust_011_d7745644": {
+    "id": "rust_011_d7745644",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 11: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 11",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext11"
+    ]
+  },
+  "rust_012_a64a2ca5": {
+    "id": "rust_012_a64a2ca5",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 12: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 12",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext12"
+    ]
+  },
+  "rust_013_272c4563": {
+    "id": "rust_013_272c4563",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 13: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 13",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext13"
+    ]
+  },
+  "rust_014_5742f458": {
+    "id": "rust_014_5742f458",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 14: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 14",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext14"
+    ]
+  },
+  "rust_015_7cf5fd90": {
+    "id": "rust_015_7cf5fd90",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 15: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 15",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext15"
+    ]
+  },
+  "rust_016_909e5b1e": {
+    "id": "rust_016_909e5b1e",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 16: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 16",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext16"
+    ]
+  },
+  "rust_017_3b93d861": {
+    "id": "rust_017_3b93d861",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 17: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 17",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext17"
+    ]
+  },
+  "rust_018_07c55abd": {
+    "id": "rust_018_07c55abd",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 18: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 18",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext18"
+    ]
+  },
+  "rust_019_8b05dfff": {
+    "id": "rust_019_8b05dfff",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 19: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 19",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext19"
+    ]
+  },
+  "rust_020_3de4cde5": {
+    "id": "rust_020_3de4cde5",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 20: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 20",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext20"
+    ]
+  },
+  "rust_021_5e3ba683": {
+    "id": "rust_021_5e3ba683",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 21: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 21",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext21"
+    ]
+  },
+  "rust_022_54721c90": {
+    "id": "rust_022_54721c90",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 22: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 22",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext22"
+    ]
+  },
+  "rust_023_d903be8e": {
+    "id": "rust_023_d903be8e",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 23: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 23",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext23"
+    ]
+  },
+  "rust_024_d7befb91": {
+    "id": "rust_024_d7befb91",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 24: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 24",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext24"
+    ]
+  },
+  "rust_025_7483d6ad": {
+    "id": "rust_025_7483d6ad",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 25: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 25",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext25"
+    ]
+  },
+  "rust_026_be48b966": {
+    "id": "rust_026_be48b966",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 26: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 26",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext26"
+    ]
+  },
+  "rust_027_fd36f50e": {
+    "id": "rust_027_fd36f50e",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 27: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 27",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext27"
+    ]
+  },
+  "rust_028_c75d01c2": {
+    "id": "rust_028_c75d01c2",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 28: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 28",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext28"
+    ]
+  },
+  "rust_029_a8c0a8e2": {
+    "id": "rust_029_a8c0a8e2",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 29: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 29",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext29"
+    ]
+  },
+  "rust_030_7bb7f49a": {
+    "id": "rust_030_7bb7f49a",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 30: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 30",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext30"
+    ]
+  },
+  "rust_031_9c01c68e": {
+    "id": "rust_031_9c01c68e",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 31: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 31",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext31"
+    ]
+  },
+  "rust_032_c2653897": {
+    "id": "rust_032_c2653897",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 32: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 32",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext32"
+    ]
+  },
+  "rust_033_bb104747": {
+    "id": "rust_033_bb104747",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 33: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 33",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext33"
+    ]
+  },
+  "rust_034_cbdcdd90": {
+    "id": "rust_034_cbdcdd90",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 34: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 34",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext34"
+    ]
+  },
+  "rust_035_3763101d": {
+    "id": "rust_035_3763101d",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 35: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 35",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext35"
+    ]
+  },
+  "rust_036_08d8f816": {
+    "id": "rust_036_08d8f816",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 36: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 36",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext36"
+    ]
+  },
+  "rust_037_8550e9c3": {
+    "id": "rust_037_8550e9c3",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 37: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 37",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext37"
+    ]
+  },
+  "rust_038_274ad8db": {
+    "id": "rust_038_274ad8db",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 38: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 38",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext38"
+    ]
+  },
+  "rust_039_056661a5": {
+    "id": "rust_039_056661a5",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 39: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 39",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext39"
+    ]
+  },
+  "rust_040_61742a83": {
+    "id": "rust_040_61742a83",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 40: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 40",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext40"
+    ]
+  },
+  "rust_041_e23c4e2e": {
+    "id": "rust_041_e23c4e2e",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 41: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 41",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext41"
+    ]
+  },
+  "rust_042_5a6969a1": {
+    "id": "rust_042_5a6969a1",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 42: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 42",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext42"
+    ]
+  },
+  "rust_043_f255a90f": {
+    "id": "rust_043_f255a90f",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 43: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 43",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext43"
+    ]
+  },
+  "rust_044_ed62ab9d": {
+    "id": "rust_044_ed62ab9d",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 44: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 44",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext44"
+    ]
+  },
+  "rust_045_c6834361": {
+    "id": "rust_045_c6834361",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 45: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 45",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext45"
+    ]
+  },
+  "rust_046_aa978123": {
+    "id": "rust_046_aa978123",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 46: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 46",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext46"
+    ]
+  },
+  "rust_047_7d0d7b57": {
+    "id": "rust_047_7d0d7b57",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 47: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 47",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext47"
+    ]
+  },
+  "rust_048_f45df7fd": {
+    "id": "rust_048_f45df7fd",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 48: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 48",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext48"
+    ]
+  },
+  "rust_049_8e55f3b7": {
+    "id": "rust_049_8e55f3b7",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 49: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 49",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext49"
+    ]
+  },
+  "rust_050_d5dc9be2": {
+    "id": "rust_050_d5dc9be2",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 50: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 50",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext50"
+    ]
+  },
+  "rust_051_2fcbc0b2": {
+    "id": "rust_051_2fcbc0b2",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 51: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 51",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext51"
+    ]
+  },
+  "rust_052_e4b14540": {
+    "id": "rust_052_e4b14540",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 52: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 52",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext52"
+    ]
+  },
+  "rust_053_c481ee7c": {
+    "id": "rust_053_c481ee7c",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 53: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 53",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext53"
+    ]
+  },
+  "rust_054_914b2f22": {
+    "id": "rust_054_914b2f22",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 54: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 54",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext54"
+    ]
+  },
+  "rust_055_0746356f": {
+    "id": "rust_055_0746356f",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 55: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 55",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext55"
+    ]
+  },
+  "rust_056_0b312f8f": {
+    "id": "rust_056_0b312f8f",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 56: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 56",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext56"
+    ]
+  },
+  "rust_057_95e42470": {
+    "id": "rust_057_95e42470",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 57: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 57",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext57"
+    ]
+  },
+  "rust_058_94d4c241": {
+    "id": "rust_058_94d4c241",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 58: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 58",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext58"
+    ]
+  },
+  "rust_059_6baeca82": {
+    "id": "rust_059_6baeca82",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 59: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 59",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext59"
+    ]
+  },
+  "rust_060_0d0d3e98": {
+    "id": "rust_060_0d0d3e98",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 60: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 60",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext60"
+    ]
+  },
+  "rust_061_3ad00e76": {
+    "id": "rust_061_3ad00e76",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 61: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 61",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext61"
+    ]
+  },
+  "rust_062_bcfe421b": {
+    "id": "rust_062_bcfe421b",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 62: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 62",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext62"
+    ]
+  },
+  "rust_063_20b5c5c7": {
+    "id": "rust_063_20b5c5c7",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 63: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 63",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext63"
+    ]
+  },
+  "rust_064_05c410bf": {
+    "id": "rust_064_05c410bf",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 64: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 64",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext64"
+    ]
+  },
+  "rust_065_6df76da8": {
+    "id": "rust_065_6df76da8",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 65: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 65",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext65"
+    ]
+  },
+  "rust_066_84af1214": {
+    "id": "rust_066_84af1214",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 66: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 66",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext66"
+    ]
+  },
+  "rust_067_2e3561e4": {
+    "id": "rust_067_2e3561e4",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 67: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 67",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext67"
+    ]
+  },
+  "rust_068_380353ae": {
+    "id": "rust_068_380353ae",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 68: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 68",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext68"
+    ]
+  },
+  "rust_069_ad6ad9d8": {
+    "id": "rust_069_ad6ad9d8",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 69: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 69",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext69"
+    ]
+  },
+  "rust_070_a039b540": {
+    "id": "rust_070_a039b540",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 70: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 70",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext70"
+    ]
+  },
+  "rust_071_8b65bd9b": {
+    "id": "rust_071_8b65bd9b",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 71: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 71",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext71"
+    ]
+  },
+  "rust_072_6e77c5c4": {
+    "id": "rust_072_6e77c5c4",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 72: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 72",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext72"
+    ]
+  },
+  "rust_073_6b87add9": {
+    "id": "rust_073_6b87add9",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 73: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 73",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext73"
+    ]
+  },
+  "rust_074_91caf805": {
+    "id": "rust_074_91caf805",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 74: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 74",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext74"
+    ]
+  },
+  "rust_075_11551da4": {
+    "id": "rust_075_11551da4",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 75: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 75",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext75"
+    ]
+  },
+  "rust_076_8c03ef2a": {
+    "id": "rust_076_8c03ef2a",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 76: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 76",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext76"
+    ]
+  },
+  "rust_077_d5f3c40f": {
+    "id": "rust_077_d5f3c40f",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 77: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 77",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext77"
+    ]
+  },
+  "rust_078_cf259caf": {
+    "id": "rust_078_cf259caf",
+    "texto": "fn main() { let s1 = String::from('hello'); let len = calculate_length(&s1); }\n\n// Referência 78: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Ownership & Borrowing - 78",
+    "topico": "rust core safety",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memory",
+      "ext78"
+    ]
+  },
+  "rust_079_d0c08585": {
+    "id": "rust_079_d0c08585",
+    "texto": "[package]\\nname = 'brx-rust'\\nversion = '0.1.0'\n\n// Referência 79: Padrões de projeto e arquitetura para rust.",
+    "categoria": "programming",
+    "titulo": "Rust Cargo Package - 79",
+    "topico": "rust cargo build",
+    "palavras": [
+      "rust",
+      "cargo",
+      "toml",
+      "ext79"
+    ]
   }
 }

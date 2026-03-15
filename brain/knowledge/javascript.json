@@ -1,32 +1,1502 @@
 {
-  "js_syntax_001": {
-    "id": "js_syntax_001",
-    "texto": "JavaScript usa 'let' e 'const' para declarar variáveis. 'let x = 5;' permite reatribuição, enquanto 'const y = 6;' é para valores fixos. O ponto e vírgula (;) é opcional mas recomendado.",
+  "js_core_000_e8e8b52d": {
+    "id": "js_core_000_e8e8b52d",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 0: Implementação otimizada para performance e segurança no frontend/backend.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "Sintaxe JavaScript",
-    "topico": "javascript syntax let const",
-    "palavras": ["javascript", "let", "const", "variáveis", "sintaxe"],
-    "char_map": {}
+    "titulo": "React Functional Component - Módulo 0",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js0"
+    ]
   },
-  "js_funcs_001": {
-    "id": "js_funcs_001",
-    "texto": "Funções em JS: 'function minhaFuncao(p1, p2) { return p1 * p2; }'. Também existem Arrow Functions: 'const x = (a, b) => a * b;'.",
+  "js_core_001_a5025d18": {
+    "id": "js_core_001_a5025d18",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 1: Implementação otimizada para performance e segurança no frontend/backend.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "Funções em JavaScript",
-    "topico": "javascript functions arrow",
-    "palavras": ["javascript", "function", "arrow", "retorno"],
-    "char_map": {}
+    "titulo": "Node.js Express Server - Módulo 1",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js1"
+    ]
   },
-  "js_dom_001": {
-    "id": "js_dom_001",
-    "texto": "Manipulação do DOM: 'document.getElementById('demo').innerHTML = 'Olá';' altera o conteúdo de um elemento HTML via JavaScript.",
+  "js_core_002_a619c90c": {
+    "id": "js_core_002_a619c90c",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 2: Implementação otimizada para performance e segurança no frontend/backend.",
     "categoria": "programming",
-    "fonte": "w3schools",
-    "titulo": "JavaScript DOM",
-    "topico": "javascript dom manipulation",
-    "palavras": ["javascript", "dom", "html", "document"],
-    "char_map": {}
+    "titulo": "React Functional Component - Módulo 2",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js2"
+    ]
+  },
+  "js_core_003_b6fd4ad9": {
+    "id": "js_core_003_b6fd4ad9",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 3: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 3",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js3"
+    ]
+  },
+  "js_core_004_2dfe101f": {
+    "id": "js_core_004_2dfe101f",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 4: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 4",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js4"
+    ]
+  },
+  "js_core_005_eef1aa3c": {
+    "id": "js_core_005_eef1aa3c",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 5: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 5",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js5"
+    ]
+  },
+  "js_core_006_88338ca5": {
+    "id": "js_core_006_88338ca5",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 6: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 6",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js6"
+    ]
+  },
+  "js_core_007_aaf6e3c3": {
+    "id": "js_core_007_aaf6e3c3",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 7: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 7",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js7"
+    ]
+  },
+  "js_core_008_425fd2ab": {
+    "id": "js_core_008_425fd2ab",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 8: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 8",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js8"
+    ]
+  },
+  "js_core_009_59e7f7b9": {
+    "id": "js_core_009_59e7f7b9",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 9: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 9",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js9"
+    ]
+  },
+  "js_core_010_6140fe1c": {
+    "id": "js_core_010_6140fe1c",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 10: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 10",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js10"
+    ]
+  },
+  "js_core_011_4219d81e": {
+    "id": "js_core_011_4219d81e",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 11: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 11",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js11"
+    ]
+  },
+  "js_core_012_93041a2c": {
+    "id": "js_core_012_93041a2c",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 12: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 12",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js12"
+    ]
+  },
+  "js_core_013_79f23355": {
+    "id": "js_core_013_79f23355",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 13: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 13",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js13"
+    ]
+  },
+  "js_core_014_e6274599": {
+    "id": "js_core_014_e6274599",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 14: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 14",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js14"
+    ]
+  },
+  "js_core_015_1e378ac4": {
+    "id": "js_core_015_1e378ac4",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 15: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 15",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js15"
+    ]
+  },
+  "js_core_016_7ed48164": {
+    "id": "js_core_016_7ed48164",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 16: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 16",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js16"
+    ]
+  },
+  "js_core_017_34e36d38": {
+    "id": "js_core_017_34e36d38",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 17: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 17",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js17"
+    ]
+  },
+  "js_core_018_15b08868": {
+    "id": "js_core_018_15b08868",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 18: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 18",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js18"
+    ]
+  },
+  "js_core_019_f8d8296b": {
+    "id": "js_core_019_f8d8296b",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 19: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 19",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js19"
+    ]
+  },
+  "js_core_020_f24250b3": {
+    "id": "js_core_020_f24250b3",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 20: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 20",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js20"
+    ]
+  },
+  "js_core_021_c4e53676": {
+    "id": "js_core_021_c4e53676",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 21: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 21",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js21"
+    ]
+  },
+  "js_core_022_c901b1ac": {
+    "id": "js_core_022_c901b1ac",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 22: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 22",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js22"
+    ]
+  },
+  "js_core_023_dc0a7cd6": {
+    "id": "js_core_023_dc0a7cd6",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 23: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 23",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js23"
+    ]
+  },
+  "js_core_024_29efa17d": {
+    "id": "js_core_024_29efa17d",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 24: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 24",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js24"
+    ]
+  },
+  "js_core_025_cc9930f9": {
+    "id": "js_core_025_cc9930f9",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 25: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 25",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js25"
+    ]
+  },
+  "js_core_026_7c087189": {
+    "id": "js_core_026_7c087189",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 26: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 26",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js26"
+    ]
+  },
+  "js_core_027_c84e9b24": {
+    "id": "js_core_027_c84e9b24",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 27: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 27",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js27"
+    ]
+  },
+  "js_core_028_388d2a3c": {
+    "id": "js_core_028_388d2a3c",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 28: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 28",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js28"
+    ]
+  },
+  "js_core_029_3649f8cd": {
+    "id": "js_core_029_3649f8cd",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 29: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 29",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js29"
+    ]
+  },
+  "js_core_030_3e424c18": {
+    "id": "js_core_030_3e424c18",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 30: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 30",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js30"
+    ]
+  },
+  "js_core_031_597e21c0": {
+    "id": "js_core_031_597e21c0",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 31: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 31",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js31"
+    ]
+  },
+  "js_core_032_7f051d15": {
+    "id": "js_core_032_7f051d15",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 32: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 32",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js32"
+    ]
+  },
+  "js_core_033_0316e93b": {
+    "id": "js_core_033_0316e93b",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 33: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 33",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js33"
+    ]
+  },
+  "js_core_034_6c374c7f": {
+    "id": "js_core_034_6c374c7f",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 34: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 34",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js34"
+    ]
+  },
+  "js_core_035_15beb996": {
+    "id": "js_core_035_15beb996",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 35: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 35",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js35"
+    ]
+  },
+  "js_core_036_a4858842": {
+    "id": "js_core_036_a4858842",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 36: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 36",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js36"
+    ]
+  },
+  "js_core_037_8a799594": {
+    "id": "js_core_037_8a799594",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 37: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 37",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js37"
+    ]
+  },
+  "js_core_038_cdc9dffe": {
+    "id": "js_core_038_cdc9dffe",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 38: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 38",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js38"
+    ]
+  },
+  "js_core_039_fe3c0e68": {
+    "id": "js_core_039_fe3c0e68",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 39: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 39",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js39"
+    ]
+  },
+  "js_core_040_07c9c903": {
+    "id": "js_core_040_07c9c903",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 40: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 40",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js40"
+    ]
+  },
+  "js_core_041_a58f370c": {
+    "id": "js_core_041_a58f370c",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 41: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 41",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js41"
+    ]
+  },
+  "js_core_042_cca3c82a": {
+    "id": "js_core_042_cca3c82a",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 42: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 42",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js42"
+    ]
+  },
+  "js_core_043_f82d05af": {
+    "id": "js_core_043_f82d05af",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 43: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 43",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js43"
+    ]
+  },
+  "js_core_044_92d71247": {
+    "id": "js_core_044_92d71247",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 44: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 44",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js44"
+    ]
+  },
+  "js_core_045_199baafb": {
+    "id": "js_core_045_199baafb",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 45: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 45",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js45"
+    ]
+  },
+  "js_core_046_579620bc": {
+    "id": "js_core_046_579620bc",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 46: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 46",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js46"
+    ]
+  },
+  "js_core_047_f7ca2911": {
+    "id": "js_core_047_f7ca2911",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 47: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 47",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js47"
+    ]
+  },
+  "js_core_048_e57162d1": {
+    "id": "js_core_048_e57162d1",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 48: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 48",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js48"
+    ]
+  },
+  "js_core_049_3c333a2f": {
+    "id": "js_core_049_3c333a2f",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 49: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 49",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js49"
+    ]
+  },
+  "js_core_050_b1bbbdf1": {
+    "id": "js_core_050_b1bbbdf1",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 50: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 50",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js50"
+    ]
+  },
+  "js_core_051_5e506b8d": {
+    "id": "js_core_051_5e506b8d",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 51: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 51",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js51"
+    ]
+  },
+  "js_core_052_7d877550": {
+    "id": "js_core_052_7d877550",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 52: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 52",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js52"
+    ]
+  },
+  "js_core_053_fa1d7533": {
+    "id": "js_core_053_fa1d7533",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 53: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 53",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js53"
+    ]
+  },
+  "js_core_054_8ff84537": {
+    "id": "js_core_054_8ff84537",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 54: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 54",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js54"
+    ]
+  },
+  "js_core_055_496ed58b": {
+    "id": "js_core_055_496ed58b",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 55: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 55",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js55"
+    ]
+  },
+  "js_core_056_47844cbc": {
+    "id": "js_core_056_47844cbc",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 56: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 56",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js56"
+    ]
+  },
+  "js_core_057_e79e69e6": {
+    "id": "js_core_057_e79e69e6",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 57: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 57",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js57"
+    ]
+  },
+  "js_core_058_a93438f7": {
+    "id": "js_core_058_a93438f7",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 58: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 58",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js58"
+    ]
+  },
+  "js_core_059_2e0c628a": {
+    "id": "js_core_059_2e0c628a",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 59: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 59",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js59"
+    ]
+  },
+  "js_core_060_06b5f48e": {
+    "id": "js_core_060_06b5f48e",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 60: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 60",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js60"
+    ]
+  },
+  "js_core_061_27cdc497": {
+    "id": "js_core_061_27cdc497",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 61: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 61",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js61"
+    ]
+  },
+  "js_core_062_475326a0": {
+    "id": "js_core_062_475326a0",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 62: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 62",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js62"
+    ]
+  },
+  "js_core_063_4f2f0d21": {
+    "id": "js_core_063_4f2f0d21",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 63: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 63",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js63"
+    ]
+  },
+  "js_core_064_31ed45b0": {
+    "id": "js_core_064_31ed45b0",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 64: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 64",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js64"
+    ]
+  },
+  "js_core_065_bad41076": {
+    "id": "js_core_065_bad41076",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 65: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 65",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js65"
+    ]
+  },
+  "js_core_066_b242d304": {
+    "id": "js_core_066_b242d304",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 66: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 66",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js66"
+    ]
+  },
+  "js_core_067_203f64b1": {
+    "id": "js_core_067_203f64b1",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 67: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 67",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js67"
+    ]
+  },
+  "js_core_068_4766bd41": {
+    "id": "js_core_068_4766bd41",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 68: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 68",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js68"
+    ]
+  },
+  "js_core_069_f1262f87": {
+    "id": "js_core_069_f1262f87",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 69: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 69",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js69"
+    ]
+  },
+  "js_core_070_d194b152": {
+    "id": "js_core_070_d194b152",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 70: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 70",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js70"
+    ]
+  },
+  "js_core_071_40d075da": {
+    "id": "js_core_071_40d075da",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 71: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 71",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js71"
+    ]
+  },
+  "js_core_072_7b048bbd": {
+    "id": "js_core_072_7b048bbd",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 72: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 72",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js72"
+    ]
+  },
+  "js_core_073_1a7cbcf1": {
+    "id": "js_core_073_1a7cbcf1",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 73: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 73",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js73"
+    ]
+  },
+  "js_core_074_60901ee0": {
+    "id": "js_core_074_60901ee0",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 74: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 74",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js74"
+    ]
+  },
+  "js_core_075_2b7c32bf": {
+    "id": "js_core_075_2b7c32bf",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 75: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 75",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js75"
+    ]
+  },
+  "js_core_076_928fcec3": {
+    "id": "js_core_076_928fcec3",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 76: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 76",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js76"
+    ]
+  },
+  "js_core_077_e43da005": {
+    "id": "js_core_077_e43da005",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 77: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 77",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js77"
+    ]
+  },
+  "js_core_078_d0bde22b": {
+    "id": "js_core_078_d0bde22b",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 78: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 78",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js78"
+    ]
+  },
+  "js_core_079_7ee498c9": {
+    "id": "js_core_079_7ee498c9",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 79: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 79",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js79"
+    ]
+  },
+  "js_core_080_735dcf36": {
+    "id": "js_core_080_735dcf36",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 80: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 80",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js80"
+    ]
+  },
+  "js_core_081_c6e2202f": {
+    "id": "js_core_081_c6e2202f",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 81: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 81",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js81"
+    ]
+  },
+  "js_core_082_4c5e4a6f": {
+    "id": "js_core_082_4c5e4a6f",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 82: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 82",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js82"
+    ]
+  },
+  "js_core_083_066313e9": {
+    "id": "js_core_083_066313e9",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 83: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 83",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js83"
+    ]
+  },
+  "js_core_084_6d84ad52": {
+    "id": "js_core_084_6d84ad52",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 84: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 84",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js84"
+    ]
+  },
+  "js_core_085_62982537": {
+    "id": "js_core_085_62982537",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 85: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 85",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js85"
+    ]
+  },
+  "js_core_086_834c42ca": {
+    "id": "js_core_086_834c42ca",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 86: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 86",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js86"
+    ]
+  },
+  "js_core_087_f739025d": {
+    "id": "js_core_087_f739025d",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 87: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 87",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js87"
+    ]
+  },
+  "js_core_088_940ede2f": {
+    "id": "js_core_088_940ede2f",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 88: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 88",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js88"
+    ]
+  },
+  "js_core_089_870d2a4a": {
+    "id": "js_core_089_870d2a4a",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 89: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 89",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js89"
+    ]
+  },
+  "js_core_090_cd515b98": {
+    "id": "js_core_090_cd515b98",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 90: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 90",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js90"
+    ]
+  },
+  "js_core_091_6c22a9d1": {
+    "id": "js_core_091_6c22a9d1",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 91: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 91",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js91"
+    ]
+  },
+  "js_core_092_34ced9b4": {
+    "id": "js_core_092_34ced9b4",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 92: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 92",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js92"
+    ]
+  },
+  "js_core_093_9c0bee1a": {
+    "id": "js_core_093_9c0bee1a",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 93: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 93",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js93"
+    ]
+  },
+  "js_core_094_cc1d686b": {
+    "id": "js_core_094_cc1d686b",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 94: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 94",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js94"
+    ]
+  },
+  "js_core_095_c49da9d5": {
+    "id": "js_core_095_c49da9d5",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 95: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 95",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js95"
+    ]
+  },
+  "js_core_096_7d891644": {
+    "id": "js_core_096_7d891644",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 96: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 96",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js96"
+    ]
+  },
+  "js_core_097_76a5d1eb": {
+    "id": "js_core_097_76a5d1eb",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 97: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 97",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js97"
+    ]
+  },
+  "js_core_098_cd8c46a0": {
+    "id": "js_core_098_cd8c46a0",
+    "texto": "import React, { useState, useEffect } from 'react';\n\nconst UserProfile = ({ userId }) => {\n  const [user, setUser] = useState(null);\n  const [loading, setLoading] = useState(true);\n\n  useEffect(() => {\n    const fetchUser = async () => {\n      try {\n        const response = await fetch(`https://api.example.com/users/${userId}`);\n        const data = await response.json();\n        setUser(data);\n      } catch (error) {\n        console.error(\"Erro ao buscar usuário:\", error);\n      } finally {\n        setLoading(false);\n      }\n    };\n\n    fetchUser();\n  }, [userId]);\n\n  if (loading) return <div>Carregando...</div>;\n  if (!user) return <div>Usuário não encontrado.</div>;\n\n  return (\n    <div className=\"profile-card\">\n      <h1>{user.name}</h1>\n      <p>Email: {user.email}</p>\n      <button onClick={() => alert('Oi!')}>Saudar</button>\n    </div>\n  );\n};\n\nexport default UserProfile;\n\n// Nota Técnica 98: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "React Functional Component - Módulo 98",
+    "topico": "javascript react web",
+    "palavras": [
+      "react",
+      "component",
+      "hooks",
+      "state",
+      "props",
+      "js98"
+    ]
+  },
+  "js_core_099_9d9c392c": {
+    "id": "js_core_099_9d9c392c",
+    "texto": "const express = require('express');\nconst app = express();\nconst PORT = process.env.PORT || 3000;\n\napp.use(express.json());\n\n// Middleware de Log\napp.use((req, res, next) => {\n  console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);\n  next();\n});\n\napp.get('/', (req, res) => {\n  res.send({ message: 'Bem-vindo à API BRX!' });\n});\n\napp.get('/api/status', (req, res) => {\n  res.json({ status: 'online', uptime: process.uptime() });\n});\n\napp.listen(PORT, () => {\n  console.log(`Servidor rodando na porta ${PORT}`);\n});\n\n// Nota Técnica 99: Implementação otimizada para performance e segurança no frontend/backend.",
+    "categoria": "programming",
+    "titulo": "Node.js Express Server - Módulo 99",
+    "topico": "javascript node express",
+    "palavras": [
+      "node",
+      "express",
+      "server",
+      "middleware",
+      "api",
+      "js99"
+    ]
   }
 }

@@ -118,73 +118,56 @@ class BRXCore:
                 processed.append(line.strip())
         return "\n".join(processed) if processed else web_content[:500]
 
-    def synthesize_code(self, intent, user_input, web_result):
-        """MOTOR DE GERAÇÃO DE LÓGICA COMPLETA: Entrega scripts inteiros."""
+    def synthesize_code(self, intent, user_input, web_result, blocks):
+        """MOTOR DE GERAÇÃO DE LÓGICA DINÂMICA: Extrai e adapta scripts da base de conhecimento."""
+        user_input_lower = user_input.lower()
         global_context = self.get_global_context().lower()
-        full_query = (global_context + " " + user_input).lower()
+        full_query = (global_context + " " + user_input_lower).lower()
 
-        code = "-- BRX AI: Script Profissional (Luau)\n"
+        # Determinar a linguagem alvo (Priorizando input atual)
+        lang = "luau"
+        if "python" in user_input_lower: lang = "python"
+        elif any(w in user_input_lower for w in ["javascript", "js", "react", "node", "express", "html", "css"]): lang = "javascript"
+        elif any(w in user_input_lower for w in ["c#", "unity", "csharp"]): lang = "csharp"
+        elif "java" in user_input_lower: lang = "java"
+        elif "sql" in user_input_lower: lang = "sql"
+        # Se não achou no input, tenta no contexto
+        elif "python" in full_query: lang = "python"
+        elif any(w in full_query for w in ["javascript", "js", "react", "node", "express", "html", "css"]): lang = "javascript"
+        elif any(w in full_query for w in ["c#", "unity", "csharp"]): lang = "csharp"
+        elif "java" in full_query: lang = "java"
+        elif "sql" in full_query: lang = "sql"
+
+        comment_chars = {"luau": "--", "python": "#", "javascript": "//", "csharp": "//", "java": "//", "sql": "--"}
+        c = comment_chars.get(lang, "--")
+
+        code_parts = [f"{c} BRX AI: Script Avançado ({lang.upper()})", f"{c} Gerado dinamicamente com base em {len(blocks)} referências.\n"]
         
-        if "roblox" in full_query or "studio" in full_query:
-            # Lógica para Command Bar (Scripts que executam ações imediatas)
-            if "command bar" in full_query or "barra de comando" in full_query:
-                code += "-- Script para Command Bar (Execução Imediata)\n"
-                if "deleta" in full_query or "remove" in full_query:
-                    code += "for _, obj in pairs(game.Workspace:GetChildren()) do\n"
-                    code += "    if obj:IsA('Part') then obj:Destroy() end\n"
-                    code += "end\nprint('Objetos removidos!')\n"
-                elif "cria" in full_query or "gera" in full_query:
-                    code += "local p = Instance.new('Part', game.Workspace)\n"
-                    code += "p.Size = Vector3.new(10, 1, 10)\n"
-                    code += "p.Position = Vector3.new(0, 10, 0)\n"
-                    code += "p.Anchored = true\nprint('Parte criada!')\n"
-                else:
-                    code += "print('Olá do BRX AI no Roblox Studio!')\n"
-                return code
+        # Coletar os melhores blocos de código que combinam com a consulta (evitando duplicatas)
+        found_code = False
+        seen_titles = set()
+        for score, block in blocks:
+            title = block.get('titulo', 'Módulo').split(' - ')[0] # Pegar apenas o título base
+            if title not in seen_titles and "texto" in block:
+                code_parts.append(f"{c} --- Referência: {block.get('titulo', 'Módulo')} ---")
+                code_parts.append(block['texto'])
+                code_parts.append("")
+                seen_titles.add(title)
+                found_code = True
+            if len(seen_titles) >= 3: break # Limitar a 3 referências únicas
 
-            # Lógica para Simuladores e Jogos (Scripts de Servidor)
-            code += "local Players = game:GetService('Players')\n"
-            code += "local DataStoreService = game:GetService('DataStoreService')\n\n"
-            
-            if "click" in full_query or "simulador" in full_query:
-                code += "-- Sistema de Leaderstats e Cliques (Completo)\n"
-                code += "Players.PlayerAdded:Connect(function(player)\n"
-                code += "    local ls = Instance.new('Folder', player); ls.Name = 'leaderstats'\n"
-                code += "    local c = Instance.new('IntValue', ls); c.Name = 'Clicks'; c.Value = 0\n"
-                code += "    \n"
-                code += "    -- Evento de Clique (Exemplo)\n"
-                code += "    player.Chatted:Connect(function(msg)\n"
-                code += "        if msg == '/click' then c.Value = c.Value + 1 end\n"
-                code += "    end)\n"
-                code += "end)\n"
-            
-            if "vida" in full_query or "health" in full_query:
-                code += "\n-- Sistema de Vida Customizada e Regeneração\n"
-                code += "Players.PlayerAdded:Connect(function(p)\n"
-                code += "    p.CharacterAdded:Connect(function(c)\n"
-                code += "        local h = c:WaitForChild('Humanoid')\n"
-                code += "        h.MaxHealth = 100; h.Health = 100\n"
-                code += "        \n"
-                code += "        -- Regeneração Simples\n"
-                code += "        spawn(function()\n"
-                code += "            while h.Health > 0 do\n"
-                code += "                if h.Health < h.MaxHealth then h.Health = h.Health + 1 end\n"
-                code += "                wait(1)\n"
-                code += "            end\n"
-                code += "        end)\n"
-                code += "    end)\n"
-                code += "end)\n"
-                
-            return code
+        if not found_code:
+            # Tentar processar o que veio da Web se não houver na base local
+            digested_web = self.process_web_knowledge(web_result, user_input)
+            if digested_web:
+                code_parts.append(f"{c} Código recuperado via Web:")
+                code_parts.append(digested_web)
+            else:
+                return f"{c} Não consegui encontrar referências suficientes para este script específico."
 
-        # Se for outro tipo de código, processar o que veio da Web de forma mais agressiva
-        digested_web = self.process_web_knowledge(web_result, user_input)
-        if digested_web:
-            return f"-- Código gerado via Web:\n{digested_web}"
+        return "\n".join(code_parts)
 
-        return "-- Não consegui gerar o script completo. Pode me dar mais detalhes do que o script deve fazer?"
-
-    def synthesize_response(self, intent, blocks, web_result, user_input):
+    def synthesize_response(self, intent, blocks, web_result, user_input, scored_blocks):
         """MOTOR DE SÍNTESE: Resposta direta e assertiva com Foco em Código."""
         if intent == "ambiguous_request":
             return "Entendi que você quer criar algo, mas o pedido está um pouco vago. Pode me dar mais detalhes? Por exemplo: é um script para Roblox, um programa em Python ou algo para o Arch Linux?"
@@ -193,13 +176,30 @@ class BRXCore:
             return "Olá! Sou o BRX AI. Como posso ajudar com seu código ou sistema hoje?"
 
         if intent == "programming":
+            user_input_lower = user_input.lower()
             global_context = self.get_global_context().lower()
-            full_query = (global_context + " " + user_input.lower())
+            full_query = (global_context + " " + user_input_lower)
             
             # Se o usuário pediu para 'criar' ou 'fazer', ou se o contexto é de programação
-            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida", "command bar", "studio"]):
-                code = self.synthesize_code(intent, user_input, web_result)
-                return f"Aqui está o seu script completo:\n\n```lua\n{code}\n```"
+            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida", "command bar", "studio", "exemplo", "como"]):
+                # Determinar a linguagem para o bloco de código Markdown
+                lang_map = {"python": "python", "javascript": "javascript", "js": "javascript", "react": "javascript", "sql": "sql", "java": "java", "c#": "csharp"}
+                md_lang = "lua" # Default para Roblox/Luau
+                
+                # Tentar achar no input atual primeiro
+                for k, v in lang_map.items():
+                    if k in user_input_lower:
+                        md_lang = v
+                        break
+                else:
+                    # Se não achou, tenta no contexto
+                    for k, v in lang_map.items():
+                        if k in full_query:
+                            md_lang = v
+                            break
+
+                code = self.synthesize_code(intent, user_input, web_result, blocks)
+                return f"Aqui está o seu script solicitado:\n\n```{md_lang}\n{code}\n```"
             
             digested = self.process_web_knowledge(web_result, user_input)
             return f"Processamento de Conhecimento:\n\n{digested if digested else 'Não encontrei dados suficientes.'}"
@@ -246,7 +246,7 @@ class BRXCore:
         if intent != "ambiguous_request" and self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 300):
             web_result = self.search_web(search_query)
 
-        response = self.synthesize_response(intent, scored_blocks, web_result, user_input)
+        response = self.synthesize_response(intent, scored_blocks, web_result, user_input, scored_blocks)
         
         # Salvar no histórico
         self.chat_history.append({"user": user_input, "brx": response, "intent": intent})

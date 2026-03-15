@@ -1,28 +1,1122 @@
 {
-  "roblox_bladex_engine": {
-    "id": "roblox_bladex_engine",
-    "texto": "BladeX Combat Engine (Roblox Luau):\nUm motor de combate avançado que utiliza serviços como TweenService, UserInputService e RunService para criar sistemas de AutoFarm, KillAura e AutoSkill.\n\nExemplo de Estrutura de Dados de Armas:\nlocal WEAPONS_DATA = {\n  Soul_Reaper_Blade = {\n    Name = 'Soul Reaper Blade',\n    Rarity = 'Mythic',\n    BaseDamage = 460,\n    SwingSpeed = 1.6,\n    Special = 'Lifesteal + Instakill <20% HP'\n  }\n}\n\nExemplo de Lógica de Inimigos:\nlocal ENEMY_TYPES = {\n  Boss = { HP = '>2000', Strategy = 'Parries precisas, evitar AOE' }\n}",
+  "roblox_engines_000_6bb876df": {
+    "id": "roblox_engines_000_6bb876df",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 0: Padrões de projeto e arquitetura para roblox_engines.",
     "categoria": "programming",
-    "titulo": "BladeX Combat Engine",
-    "topico": "roblox combat engine",
-    "palavras": ["roblox", "bladex", "combat", "engine", "luau", "script", "farm", "aura"],
-    "dna": {
-      "freq": {"b": 1, "l": 1, "a": 1, "d": 1, "e": 1, "x": 1, "c": 1, "o": 1, "m": 1, "t": 1},
-      "seq": ["b", "l", "a", "d", "e", "x", "c", "o", "m", "b", "a", "t"],
-      "len": 12
-    }
+    "titulo": "Roblox Engine Physics - 0",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext0"
+    ]
   },
-  "roblox_service_setup": {
-    "id": "roblox_service_setup",
-    "texto": "Configuração de Serviços Roblox:\nlocal Players = game:GetService('Players')\nlocal RunService = game:GetService('RunService')\nlocal TweenService = game:GetService('TweenService')\nlocal HttpService = game:GetService('HttpService')\nlocal UserInputService = game:GetService('UserInputService')",
+  "roblox_engines_001_3ea8688a": {
+    "id": "roblox_engines_001_3ea8688a",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 1: Padrões de projeto e arquitetura para roblox_engines.",
     "categoria": "programming",
-    "titulo": "Roblox Services",
-    "topico": "roblox luau",
-    "palavras": ["roblox", "service", "getservice", "players", "runservice"],
-    "dna": {
-      "freq": {"r": 1, "o": 1, "b": 1, "l": 1, "x": 1, "s": 1, "e": 1, "v": 1, "i": 1, "c": 1},
-      "seq": ["r", "o", "b", "l", "o", "x", "s", "e", "r", "v", "i", "c", "e"],
-      "len": 13
-    }
+    "titulo": "Roblox Task Scheduler - 1",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext1"
+    ]
+  },
+  "roblox_engines_002_e1874ac6": {
+    "id": "roblox_engines_002_e1874ac6",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 2: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 2",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext2"
+    ]
+  },
+  "roblox_engines_003_1d53f55a": {
+    "id": "roblox_engines_003_1d53f55a",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 3: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 3",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext3"
+    ]
+  },
+  "roblox_engines_004_8d28be20": {
+    "id": "roblox_engines_004_8d28be20",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 4: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 4",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext4"
+    ]
+  },
+  "roblox_engines_005_0eda499e": {
+    "id": "roblox_engines_005_0eda499e",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 5: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 5",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext5"
+    ]
+  },
+  "roblox_engines_006_9165fc2b": {
+    "id": "roblox_engines_006_9165fc2b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 6: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 6",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext6"
+    ]
+  },
+  "roblox_engines_007_83e78a0a": {
+    "id": "roblox_engines_007_83e78a0a",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 7: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 7",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext7"
+    ]
+  },
+  "roblox_engines_008_31fcc6c7": {
+    "id": "roblox_engines_008_31fcc6c7",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 8: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 8",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext8"
+    ]
+  },
+  "roblox_engines_009_09ee88cd": {
+    "id": "roblox_engines_009_09ee88cd",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 9: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 9",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext9"
+    ]
+  },
+  "roblox_engines_010_d008b08b": {
+    "id": "roblox_engines_010_d008b08b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 10: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 10",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext10"
+    ]
+  },
+  "roblox_engines_011_ce6b8440": {
+    "id": "roblox_engines_011_ce6b8440",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 11: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 11",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext11"
+    ]
+  },
+  "roblox_engines_012_58a20bf4": {
+    "id": "roblox_engines_012_58a20bf4",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 12: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 12",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext12"
+    ]
+  },
+  "roblox_engines_013_41b72e40": {
+    "id": "roblox_engines_013_41b72e40",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 13: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 13",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext13"
+    ]
+  },
+  "roblox_engines_014_70db9270": {
+    "id": "roblox_engines_014_70db9270",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 14: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 14",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext14"
+    ]
+  },
+  "roblox_engines_015_80217449": {
+    "id": "roblox_engines_015_80217449",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 15: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 15",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext15"
+    ]
+  },
+  "roblox_engines_016_16409516": {
+    "id": "roblox_engines_016_16409516",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 16: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 16",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext16"
+    ]
+  },
+  "roblox_engines_017_878e186b": {
+    "id": "roblox_engines_017_878e186b",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 17: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 17",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext17"
+    ]
+  },
+  "roblox_engines_018_501e64e4": {
+    "id": "roblox_engines_018_501e64e4",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 18: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 18",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext18"
+    ]
+  },
+  "roblox_engines_019_f13443e4": {
+    "id": "roblox_engines_019_f13443e4",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 19: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 19",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext19"
+    ]
+  },
+  "roblox_engines_020_281be49a": {
+    "id": "roblox_engines_020_281be49a",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 20: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 20",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext20"
+    ]
+  },
+  "roblox_engines_021_e5098065": {
+    "id": "roblox_engines_021_e5098065",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 21: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 21",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext21"
+    ]
+  },
+  "roblox_engines_022_e92b7c4b": {
+    "id": "roblox_engines_022_e92b7c4b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 22: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 22",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext22"
+    ]
+  },
+  "roblox_engines_023_62be0e28": {
+    "id": "roblox_engines_023_62be0e28",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 23: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 23",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext23"
+    ]
+  },
+  "roblox_engines_024_139174d3": {
+    "id": "roblox_engines_024_139174d3",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 24: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 24",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext24"
+    ]
+  },
+  "roblox_engines_025_c4e8e281": {
+    "id": "roblox_engines_025_c4e8e281",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 25: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 25",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext25"
+    ]
+  },
+  "roblox_engines_026_4b1c009e": {
+    "id": "roblox_engines_026_4b1c009e",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 26: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 26",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext26"
+    ]
+  },
+  "roblox_engines_027_01fec051": {
+    "id": "roblox_engines_027_01fec051",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 27: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 27",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext27"
+    ]
+  },
+  "roblox_engines_028_08bab6c7": {
+    "id": "roblox_engines_028_08bab6c7",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 28: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 28",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext28"
+    ]
+  },
+  "roblox_engines_029_c59a1022": {
+    "id": "roblox_engines_029_c59a1022",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 29: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 29",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext29"
+    ]
+  },
+  "roblox_engines_030_a52f77b4": {
+    "id": "roblox_engines_030_a52f77b4",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 30: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 30",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext30"
+    ]
+  },
+  "roblox_engines_031_e657be40": {
+    "id": "roblox_engines_031_e657be40",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 31: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 31",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext31"
+    ]
+  },
+  "roblox_engines_032_f406eab6": {
+    "id": "roblox_engines_032_f406eab6",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 32: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 32",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext32"
+    ]
+  },
+  "roblox_engines_033_fd7f7290": {
+    "id": "roblox_engines_033_fd7f7290",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 33: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 33",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext33"
+    ]
+  },
+  "roblox_engines_034_578bfbd1": {
+    "id": "roblox_engines_034_578bfbd1",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 34: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 34",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext34"
+    ]
+  },
+  "roblox_engines_035_32be3e01": {
+    "id": "roblox_engines_035_32be3e01",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 35: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 35",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext35"
+    ]
+  },
+  "roblox_engines_036_7e99d67b": {
+    "id": "roblox_engines_036_7e99d67b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 36: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 36",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext36"
+    ]
+  },
+  "roblox_engines_037_65da3022": {
+    "id": "roblox_engines_037_65da3022",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 37: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 37",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext37"
+    ]
+  },
+  "roblox_engines_038_00855c7d": {
+    "id": "roblox_engines_038_00855c7d",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 38: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 38",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext38"
+    ]
+  },
+  "roblox_engines_039_5baf165a": {
+    "id": "roblox_engines_039_5baf165a",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 39: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 39",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext39"
+    ]
+  },
+  "roblox_engines_040_9bcbf9e4": {
+    "id": "roblox_engines_040_9bcbf9e4",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 40: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 40",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext40"
+    ]
+  },
+  "roblox_engines_041_cacd3b79": {
+    "id": "roblox_engines_041_cacd3b79",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 41: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 41",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext41"
+    ]
+  },
+  "roblox_engines_042_6c9fbbb3": {
+    "id": "roblox_engines_042_6c9fbbb3",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 42: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 42",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext42"
+    ]
+  },
+  "roblox_engines_043_3f291c50": {
+    "id": "roblox_engines_043_3f291c50",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 43: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 43",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext43"
+    ]
+  },
+  "roblox_engines_044_8b55d910": {
+    "id": "roblox_engines_044_8b55d910",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 44: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 44",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext44"
+    ]
+  },
+  "roblox_engines_045_a2ab2e02": {
+    "id": "roblox_engines_045_a2ab2e02",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 45: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 45",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext45"
+    ]
+  },
+  "roblox_engines_046_11d02a36": {
+    "id": "roblox_engines_046_11d02a36",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 46: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 46",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext46"
+    ]
+  },
+  "roblox_engines_047_8d566451": {
+    "id": "roblox_engines_047_8d566451",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 47: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 47",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext47"
+    ]
+  },
+  "roblox_engines_048_1724154a": {
+    "id": "roblox_engines_048_1724154a",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 48: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 48",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext48"
+    ]
+  },
+  "roblox_engines_049_5740d957": {
+    "id": "roblox_engines_049_5740d957",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 49: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 49",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext49"
+    ]
+  },
+  "roblox_engines_050_db901ef0": {
+    "id": "roblox_engines_050_db901ef0",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 50: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 50",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext50"
+    ]
+  },
+  "roblox_engines_051_2de94dbb": {
+    "id": "roblox_engines_051_2de94dbb",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 51: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 51",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext51"
+    ]
+  },
+  "roblox_engines_052_2728655f": {
+    "id": "roblox_engines_052_2728655f",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 52: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 52",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext52"
+    ]
+  },
+  "roblox_engines_053_ebc63fc2": {
+    "id": "roblox_engines_053_ebc63fc2",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 53: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 53",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext53"
+    ]
+  },
+  "roblox_engines_054_57702ffd": {
+    "id": "roblox_engines_054_57702ffd",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 54: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 54",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext54"
+    ]
+  },
+  "roblox_engines_055_27dd6fe5": {
+    "id": "roblox_engines_055_27dd6fe5",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 55: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 55",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext55"
+    ]
+  },
+  "roblox_engines_056_84f8f394": {
+    "id": "roblox_engines_056_84f8f394",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 56: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 56",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext56"
+    ]
+  },
+  "roblox_engines_057_c96ad077": {
+    "id": "roblox_engines_057_c96ad077",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 57: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 57",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext57"
+    ]
+  },
+  "roblox_engines_058_c2a50e55": {
+    "id": "roblox_engines_058_c2a50e55",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 58: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 58",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext58"
+    ]
+  },
+  "roblox_engines_059_4f0da58d": {
+    "id": "roblox_engines_059_4f0da58d",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 59: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 59",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext59"
+    ]
+  },
+  "roblox_engines_060_76e4619b": {
+    "id": "roblox_engines_060_76e4619b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 60: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 60",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext60"
+    ]
+  },
+  "roblox_engines_061_261df9f6": {
+    "id": "roblox_engines_061_261df9f6",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 61: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 61",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext61"
+    ]
+  },
+  "roblox_engines_062_3eaab320": {
+    "id": "roblox_engines_062_3eaab320",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 62: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 62",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext62"
+    ]
+  },
+  "roblox_engines_063_154f9813": {
+    "id": "roblox_engines_063_154f9813",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 63: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 63",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext63"
+    ]
+  },
+  "roblox_engines_064_7defcb3d": {
+    "id": "roblox_engines_064_7defcb3d",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 64: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 64",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext64"
+    ]
+  },
+  "roblox_engines_065_6430deb8": {
+    "id": "roblox_engines_065_6430deb8",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 65: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 65",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext65"
+    ]
+  },
+  "roblox_engines_066_b8aef10c": {
+    "id": "roblox_engines_066_b8aef10c",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 66: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 66",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext66"
+    ]
+  },
+  "roblox_engines_067_58953e09": {
+    "id": "roblox_engines_067_58953e09",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 67: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 67",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext67"
+    ]
+  },
+  "roblox_engines_068_bc150e11": {
+    "id": "roblox_engines_068_bc150e11",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 68: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 68",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext68"
+    ]
+  },
+  "roblox_engines_069_36a3d657": {
+    "id": "roblox_engines_069_36a3d657",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 69: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 69",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext69"
+    ]
+  },
+  "roblox_engines_070_4cf5a81d": {
+    "id": "roblox_engines_070_4cf5a81d",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 70: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 70",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext70"
+    ]
+  },
+  "roblox_engines_071_340637b6": {
+    "id": "roblox_engines_071_340637b6",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 71: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 71",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext71"
+    ]
+  },
+  "roblox_engines_072_917eb71d": {
+    "id": "roblox_engines_072_917eb71d",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 72: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 72",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext72"
+    ]
+  },
+  "roblox_engines_073_894532e8": {
+    "id": "roblox_engines_073_894532e8",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 73: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 73",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext73"
+    ]
+  },
+  "roblox_engines_074_068ee426": {
+    "id": "roblox_engines_074_068ee426",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 74: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 74",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext74"
+    ]
+  },
+  "roblox_engines_075_33ca382a": {
+    "id": "roblox_engines_075_33ca382a",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 75: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 75",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext75"
+    ]
+  },
+  "roblox_engines_076_881b237b": {
+    "id": "roblox_engines_076_881b237b",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 76: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 76",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext76"
+    ]
+  },
+  "roblox_engines_077_b9e6b62d": {
+    "id": "roblox_engines_077_b9e6b62d",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 77: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 77",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext77"
+    ]
+  },
+  "roblox_engines_078_ff1dc4cd": {
+    "id": "roblox_engines_078_ff1dc4cd",
+    "texto": "-- Configuração de Física no Roblox\nworkspace.Gravity = 196.2\nworkspace.FallenPartsDestroyHeight = -500\n\n// Referência 78: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Engine Physics - 78",
+    "topico": "roblox physics engine",
+    "palavras": [
+      "roblox",
+      "physics",
+      "engine",
+      "collision",
+      "ext78"
+    ]
+  },
+  "roblox_engines_079_1c6e63c2": {
+    "id": "roblox_engines_079_1c6e63c2",
+    "texto": "task.wait(1)\ntask.spawn(function() print('Executando em paralelo') end)\ntask.defer(function() print('Executando no próximo frame') end)\n\n// Referência 79: Padrões de projeto e arquitetura para roblox_engines.",
+    "categoria": "programming",
+    "titulo": "Roblox Task Scheduler - 79",
+    "topico": "roblox engine tasks",
+    "palavras": [
+      "task",
+      "wait",
+      "spawn",
+      "defer",
+      "ext79"
+    ]
   }
 }

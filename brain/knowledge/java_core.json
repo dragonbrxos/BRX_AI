@@ -1,28 +1,1082 @@
 {
-  "java_hello_world": {
-    "id": "java_hello_world",
-    "texto": "Classe Java 'Olá Mundo':\npublic class Main {\n  public static void main(String[] args) {\n    System.out.println('Olá Mundo!');\n  }\n}",
+  "java_000_b525b459": {
+    "id": "java_000_b525b459",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 0: Padrões de projeto e arquitetura para java.",
     "categoria": "programming",
-    "titulo": "Olá Mundo (Java)",
-    "topico": "java core",
-    "palavras": ["java", "classe", "main", "system", "print"],
-    "dna": {
-      "freq": {"j": 1, "a": 2, "v": 1, "c": 1, "l": 1, "s": 1, "e": 1, "m": 1, "i": 1, "n": 1},
-      "seq": ["j", "a", "v", "a", "c", "l", "a", "s", "s", "e", "m", "a", "i", "n"],
-      "len": 14
-    }
+    "titulo": "Spring Boot REST API - 0",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext0"
+    ]
   },
-  "java_loop_for": {
-    "id": "java_loop_for",
-    "texto": "Loop For em Java:\nfor (int i = 0; i < 10; i++) {\n  System.out.println('Contagem: ' + i);\n}",
+  "java_001_cdf226dc": {
+    "id": "java_001_cdf226dc",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 1: Padrões de projeto e arquitetura para java.",
     "categoria": "programming",
-    "titulo": "Loop For (Java)",
-    "topico": "java core",
-    "palavras": ["java", "loop", "for", "int", "print"],
-    "dna": {
-      "freq": {"j": 1, "a": 1, "v": 1, "l": 1, "o": 2, "p": 1, "f": 1, "r": 1},
-      "seq": ["j", "a", "v", "a", "l", "o", "o", "p", "f", "o", "r"],
-      "len": 11
-    }
+    "titulo": "Java Streams API - 1",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext1"
+    ]
+  },
+  "java_002_7d88de0a": {
+    "id": "java_002_7d88de0a",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 2: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 2",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext2"
+    ]
+  },
+  "java_003_3c2642cf": {
+    "id": "java_003_3c2642cf",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 3: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 3",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext3"
+    ]
+  },
+  "java_004_e6a782ce": {
+    "id": "java_004_e6a782ce",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 4: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 4",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext4"
+    ]
+  },
+  "java_005_2f667b02": {
+    "id": "java_005_2f667b02",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 5: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 5",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext5"
+    ]
+  },
+  "java_006_309084e3": {
+    "id": "java_006_309084e3",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 6: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 6",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext6"
+    ]
+  },
+  "java_007_2667a955": {
+    "id": "java_007_2667a955",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 7: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 7",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext7"
+    ]
+  },
+  "java_008_95870f3a": {
+    "id": "java_008_95870f3a",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 8: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 8",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext8"
+    ]
+  },
+  "java_009_13c091cd": {
+    "id": "java_009_13c091cd",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 9: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 9",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext9"
+    ]
+  },
+  "java_010_50cd320c": {
+    "id": "java_010_50cd320c",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 10: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 10",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext10"
+    ]
+  },
+  "java_011_1ddaf1e5": {
+    "id": "java_011_1ddaf1e5",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 11: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 11",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext11"
+    ]
+  },
+  "java_012_492bea1a": {
+    "id": "java_012_492bea1a",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 12: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 12",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext12"
+    ]
+  },
+  "java_013_8dbb3b79": {
+    "id": "java_013_8dbb3b79",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 13: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 13",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext13"
+    ]
+  },
+  "java_014_7e919de4": {
+    "id": "java_014_7e919de4",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 14: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 14",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext14"
+    ]
+  },
+  "java_015_b4db9b2a": {
+    "id": "java_015_b4db9b2a",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 15: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 15",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext15"
+    ]
+  },
+  "java_016_495fa10a": {
+    "id": "java_016_495fa10a",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 16: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 16",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext16"
+    ]
+  },
+  "java_017_cc80ec92": {
+    "id": "java_017_cc80ec92",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 17: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 17",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext17"
+    ]
+  },
+  "java_018_095fa75b": {
+    "id": "java_018_095fa75b",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 18: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 18",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext18"
+    ]
+  },
+  "java_019_5d89f058": {
+    "id": "java_019_5d89f058",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 19: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 19",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext19"
+    ]
+  },
+  "java_020_0c85d9c6": {
+    "id": "java_020_0c85d9c6",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 20: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 20",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext20"
+    ]
+  },
+  "java_021_1ceca1cb": {
+    "id": "java_021_1ceca1cb",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 21: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 21",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext21"
+    ]
+  },
+  "java_022_03448a7a": {
+    "id": "java_022_03448a7a",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 22: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 22",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext22"
+    ]
+  },
+  "java_023_043a95b0": {
+    "id": "java_023_043a95b0",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 23: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 23",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext23"
+    ]
+  },
+  "java_024_d57a858d": {
+    "id": "java_024_d57a858d",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 24: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 24",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext24"
+    ]
+  },
+  "java_025_53f6462a": {
+    "id": "java_025_53f6462a",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 25: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 25",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext25"
+    ]
+  },
+  "java_026_ecfb7dff": {
+    "id": "java_026_ecfb7dff",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 26: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 26",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext26"
+    ]
+  },
+  "java_027_e29fbff9": {
+    "id": "java_027_e29fbff9",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 27: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 27",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext27"
+    ]
+  },
+  "java_028_b8f58ae4": {
+    "id": "java_028_b8f58ae4",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 28: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 28",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext28"
+    ]
+  },
+  "java_029_a7af3f71": {
+    "id": "java_029_a7af3f71",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 29: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 29",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext29"
+    ]
+  },
+  "java_030_f9dade75": {
+    "id": "java_030_f9dade75",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 30: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 30",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext30"
+    ]
+  },
+  "java_031_1c15f915": {
+    "id": "java_031_1c15f915",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 31: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 31",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext31"
+    ]
+  },
+  "java_032_b6a572d9": {
+    "id": "java_032_b6a572d9",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 32: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 32",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext32"
+    ]
+  },
+  "java_033_09779768": {
+    "id": "java_033_09779768",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 33: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 33",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext33"
+    ]
+  },
+  "java_034_d46500ad": {
+    "id": "java_034_d46500ad",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 34: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 34",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext34"
+    ]
+  },
+  "java_035_dcb124bc": {
+    "id": "java_035_dcb124bc",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 35: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 35",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext35"
+    ]
+  },
+  "java_036_291895ff": {
+    "id": "java_036_291895ff",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 36: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 36",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext36"
+    ]
+  },
+  "java_037_e1e25d38": {
+    "id": "java_037_e1e25d38",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 37: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 37",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext37"
+    ]
+  },
+  "java_038_821c37db": {
+    "id": "java_038_821c37db",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 38: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 38",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext38"
+    ]
+  },
+  "java_039_12787add": {
+    "id": "java_039_12787add",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 39: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 39",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext39"
+    ]
+  },
+  "java_040_7ac3af67": {
+    "id": "java_040_7ac3af67",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 40: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 40",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext40"
+    ]
+  },
+  "java_041_48a91c8c": {
+    "id": "java_041_48a91c8c",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 41: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 41",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext41"
+    ]
+  },
+  "java_042_4b4fbdf1": {
+    "id": "java_042_4b4fbdf1",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 42: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 42",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext42"
+    ]
+  },
+  "java_043_09d8f118": {
+    "id": "java_043_09d8f118",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 43: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 43",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext43"
+    ]
+  },
+  "java_044_f30f14ba": {
+    "id": "java_044_f30f14ba",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 44: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 44",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext44"
+    ]
+  },
+  "java_045_fd395cff": {
+    "id": "java_045_fd395cff",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 45: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 45",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext45"
+    ]
+  },
+  "java_046_bb800477": {
+    "id": "java_046_bb800477",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 46: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 46",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext46"
+    ]
+  },
+  "java_047_4b54567a": {
+    "id": "java_047_4b54567a",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 47: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 47",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext47"
+    ]
+  },
+  "java_048_339caf11": {
+    "id": "java_048_339caf11",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 48: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 48",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext48"
+    ]
+  },
+  "java_049_d819377b": {
+    "id": "java_049_d819377b",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 49: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 49",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext49"
+    ]
+  },
+  "java_050_2ff6219b": {
+    "id": "java_050_2ff6219b",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 50: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 50",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext50"
+    ]
+  },
+  "java_051_e118036a": {
+    "id": "java_051_e118036a",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 51: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 51",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext51"
+    ]
+  },
+  "java_052_88361f91": {
+    "id": "java_052_88361f91",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 52: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 52",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext52"
+    ]
+  },
+  "java_053_7f7e2f08": {
+    "id": "java_053_7f7e2f08",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 53: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 53",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext53"
+    ]
+  },
+  "java_054_65e308b4": {
+    "id": "java_054_65e308b4",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 54: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 54",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext54"
+    ]
+  },
+  "java_055_ae3c4a64": {
+    "id": "java_055_ae3c4a64",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 55: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 55",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext55"
+    ]
+  },
+  "java_056_504714f8": {
+    "id": "java_056_504714f8",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 56: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 56",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext56"
+    ]
+  },
+  "java_057_58ae1c80": {
+    "id": "java_057_58ae1c80",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 57: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 57",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext57"
+    ]
+  },
+  "java_058_da780649": {
+    "id": "java_058_da780649",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 58: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 58",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext58"
+    ]
+  },
+  "java_059_ce492583": {
+    "id": "java_059_ce492583",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 59: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 59",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext59"
+    ]
+  },
+  "java_060_fc91d162": {
+    "id": "java_060_fc91d162",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 60: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 60",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext60"
+    ]
+  },
+  "java_061_a9c5c3b4": {
+    "id": "java_061_a9c5c3b4",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 61: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 61",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext61"
+    ]
+  },
+  "java_062_7786dcfd": {
+    "id": "java_062_7786dcfd",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 62: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 62",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext62"
+    ]
+  },
+  "java_063_2787bd8a": {
+    "id": "java_063_2787bd8a",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 63: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 63",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext63"
+    ]
+  },
+  "java_064_8e2d809b": {
+    "id": "java_064_8e2d809b",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 64: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 64",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext64"
+    ]
+  },
+  "java_065_7f58f592": {
+    "id": "java_065_7f58f592",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 65: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 65",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext65"
+    ]
+  },
+  "java_066_5ad42b01": {
+    "id": "java_066_5ad42b01",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 66: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 66",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext66"
+    ]
+  },
+  "java_067_951231f5": {
+    "id": "java_067_951231f5",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 67: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 67",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext67"
+    ]
+  },
+  "java_068_474fe045": {
+    "id": "java_068_474fe045",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 68: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 68",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext68"
+    ]
+  },
+  "java_069_bb439631": {
+    "id": "java_069_bb439631",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 69: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 69",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext69"
+    ]
+  },
+  "java_070_eaf57bea": {
+    "id": "java_070_eaf57bea",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 70: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 70",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext70"
+    ]
+  },
+  "java_071_c917ebc8": {
+    "id": "java_071_c917ebc8",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 71: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 71",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext71"
+    ]
+  },
+  "java_072_80cd53bc": {
+    "id": "java_072_80cd53bc",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 72: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 72",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext72"
+    ]
+  },
+  "java_073_8e6b2a48": {
+    "id": "java_073_8e6b2a48",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 73: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 73",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext73"
+    ]
+  },
+  "java_074_19f8d5a2": {
+    "id": "java_074_19f8d5a2",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 74: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 74",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext74"
+    ]
+  },
+  "java_075_3a931664": {
+    "id": "java_075_3a931664",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 75: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 75",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext75"
+    ]
+  },
+  "java_076_65557c3b": {
+    "id": "java_076_65557c3b",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 76: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 76",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext76"
+    ]
+  },
+  "java_077_8a5e984d": {
+    "id": "java_077_8a5e984d",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 77: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 77",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext77"
+    ]
+  },
+  "java_078_17c388ce": {
+    "id": "java_078_17c388ce",
+    "texto": "@RestController public class AppController { ... }\n\n// Referência 78: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Spring Boot REST API - 78",
+    "topico": "java spring backend",
+    "palavras": [
+      "spring",
+      "java",
+      "api",
+      "rest",
+      "ext78"
+    ]
+  },
+  "java_079_edb784af": {
+    "id": "java_079_edb784af",
+    "texto": "list.stream().filter(x -> x > 10).collect(Collectors.toList());\n\n// Referência 79: Padrões de projeto e arquitetura para java.",
+    "categoria": "programming",
+    "titulo": "Java Streams API - 79",
+    "topico": "java core streams",
+    "palavras": [
+      "java",
+      "streams",
+      "lambda",
+      "ext79"
+    ]
   }
 }
