@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=BRX AI
+Comment=Inteligência Atômica Nativa para Arch Linux
+Exec=brx-gui
+Icon=brx-icon
+Terminal=false
+Categories=Utility;Development;AI;
+Keywords=AI;Arch;Linux;Atomic;
+StartupNotify=true
+EOF
