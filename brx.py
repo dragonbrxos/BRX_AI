@@ -15,6 +15,7 @@ class BRXCore:
         self.meta = {}
         self.knowledge = {}
         self.chat_history = [] # Memória de Longo Prazo
+        self.search_cache = {} # Cache de busca para evitar repetições
         self.web_search_enabled = True
         self.auto_train_enabled = True
         self.system_access_enabled = False
@@ -108,15 +109,46 @@ class BRXCore:
         return "general"
 
     def process_web_knowledge(self, web_content, user_query):
-        """PROCESSADOR DE CONHECIMENTO: Digeir e traduz dados da Web."""
-        if not web_content or "Erro" in web_content:
+        """PROCESSADOR DE CONHECIMENTO AVANÇADO: Extrai e limpa dados da Web."""
+        if not web_content or any(err in web_content for err in ["Erro", "Sem resultados"]):
             return None
+        
+        user_query_lower = user_query.lower()
         lines = web_content.split('\n')
         processed = []
+        
+        # Palavras-chave de alta relevância baseadas na query
+        query_keywords = [w for w in re.findall(r'\w+', user_query_lower) if len(w) > 3]
+        
         for line in lines:
-            if any(w in line.lower() for w in ["function", "local", "print", "if", "then", "end", "loop", "while", "instance.new", "getservice"]):
-                processed.append(line.strip())
-        return "\n".join(processed) if processed else web_content[:500]
+            line_strip = line.strip()
+            if not line_strip or len(line_strip) < 10: continue
+            
+            line_lower = line_strip.lower()
+            
+            # 1. Prioridade: Código (Luau, Python, JS, etc.)
+            code_markers = ["function", "local ", "print(", "if ", "then", "end", "while", "for ", "import ", "def ", "class ", "const ", "let ", "var ", "async ", "await ", "Instance.new", "GetService", "require("]
+            is_code = any(marker in line_strip for marker in code_markers)
+            
+            # 2. Prioridade: Relevância com a Query
+            is_relevant = any(kw in line_lower for kw in query_keywords)
+            
+            # 3. Prioridade: Explicações Técnicas
+            tech_markers = ["exemplo", "tutorial", "como", "usar", "parâmetro", "método", "propriedade", "evento", "configuração"]
+            is_tech = any(marker in line_lower for marker in tech_markers)
+            
+            if is_code:
+                processed.append(line_strip)
+            elif is_relevant or is_tech:
+                # Limpeza básica de snippets de busca
+                clean_line = re.sub(r'\s+', ' ', line_strip)
+                processed.append(clean_line)
+        
+        if not processed:
+            return web_content[:800] # Fallback para os primeiros 800 caracteres
+            
+        # Unir e limitar para não estourar contexto, priorizando as partes mais ricas
+        return "\n".join(processed[:30]) # Retorna as 30 melhores linhas processadas
 
     def synthesize_code(self, intent, user_input, web_result, blocks):
         """MOTOR DE GERAÇÃO DE LÓGICA DINÂMICA: Extrai e adapta scripts da base de conhecimento."""
@@ -181,7 +213,7 @@ class BRXCore:
             full_query = (global_context + " " + user_input_lower)
             
             # Se o usuário pediu para 'criar' ou 'fazer', ou se o contexto é de programação
-            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida", "command bar", "studio", "exemplo", "como"]):
+            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida", "command bar", "studio", "exemplo", "como", "novidade", "recente"]):
                 # Determinar a linguagem para o bloco de código Markdown
                 lang_map = {"python": "python", "javascript": "javascript", "js": "javascript", "react": "javascript", "sql": "sql", "java": "java", "c#": "csharp"}
                 md_lang = "lua" # Default para Roblox/Luau
@@ -199,10 +231,18 @@ class BRXCore:
                             break
 
                 code = self.synthesize_code(intent, user_input, web_result, blocks)
-                return f"Aqui está o seu script solicitado:\n\n```{md_lang}\n{code}\n```"
+                
+                # Adicionar informações da web se houver
+                web_info = ""
+                if web_result and "novidade" in full_query:
+                    digested = self.process_web_knowledge(web_result, user_input)
+                    if digested:
+                        web_info = f"\n\n**Informações da Web (Pesquisa em Tempo Real):**\n{digested}\n"
+
+                return f"Aqui está o seu script solicitado:{web_info}\n\n```{md_lang}\n{code}\n```"
             
             digested = self.process_web_knowledge(web_result, user_input)
-            return f"Processamento de Conhecimento:\n\n{digested if digested else 'Não encontrei dados suficientes.'}"
+            return f"**Resultados da Pesquisa Inteligente:**\n\n{digested if digested else 'Não encontrei dados suficientes na Web ou na base local.'}"
 
         if intent == "promocodes":
             return "Entendi que você busca códigos de resgate. No momento, não tenho uma lista ativa, mas posso pesquisar os mais recentes!"
@@ -244,7 +284,12 @@ class BRXCore:
         web_result = ""
         # Só pesquisa na web se não for um pedido ambíguo que precisa de pergunta
         if intent != "ambiguous_request" and self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 300):
-            web_result = self.search_web(search_query)
+            # Verificar cache primeiro
+            if search_query in self.search_cache:
+                web_result = self.search_cache[search_query]
+            else:
+                web_result = self.search_web(search_query)
+                self.search_cache[search_query] = web_result # Salvar no cache
 
         response = self.synthesize_response(intent, scored_blocks, web_result, user_input, scored_blocks)
         
@@ -256,25 +301,42 @@ class BRXCore:
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
-        """MOTOR DE PESQUISA WEB."""
-        headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
-        url = f"https://html.duckduckgo.com/html/?q={query}"
-        try:
-            response = requests.get(url, headers=headers, timeout=10)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, 'html.parser')
-                results = []
-                for result in soup.find_all('div', class_='result__body')[:3]:
-                    title_elem = result.find('a', class_='result__a')
-                    snippet_elem = result.find('a', class_='result__snippet')
-                    if title_elem and snippet_elem:
-                        title = title_elem.text.strip()
-                        snippet = snippet_elem.text.strip()
-                        results.append(f"--- {title} ---\n{snippet}")
-                return "\n\n".join(results) if results else "Sem resultados técnicos."
-            return "Erro ao acessar a Web."
-        except Exception as e:
-            return f"Erro na pesquisa Web: {str(e)}"
+        """MOTOR DE PESQUISA WEB MULTIVERSAL (v2.0)."""
+        headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+        
+        # Estratégia de múltiplas queries para maior cobertura
+        queries = [query]
+        if "roblox" in query.lower() and "script" not in query.lower():
+            queries.append(f"{query} roblox studio script luau")
+        elif "python" in query.lower():
+            queries.append(f"{query} python code example")
+            
+        all_results = []
+        seen_snippets = set()
+        
+        for q in queries[:2]: # Limita a 2 queries para performance
+            url = f"https://html.duckduckgo.com/html/?q={q.replace(' ', '+')}"
+            try:
+                response = requests.get(url, headers=headers, timeout=8)
+                if response.status_code == 200:
+                    soup = BeautifulSoup(response.text, 'html.parser')
+                    for result in soup.find_all('div', class_='result__body')[:5]:
+                        title_elem = result.find('a', class_='result__a')
+                        snippet_elem = result.find('a', class_='result__snippet')
+                        if title_elem and snippet_elem:
+                            title = title_elem.text.strip()
+                            snippet = snippet_elem.text.strip()
+                            
+                            # Evitar duplicatas e snippets muito curtos
+                            if snippet not in seen_snippets and len(snippet) > 20:
+                                all_results.append(f"--- {title} ---\n{snippet}")
+                                seen_snippets.add(snippet)
+            except: continue
+            
+        if not all_results:
+            return "Sem resultados técnicos na Web."
+            
+        return "\n\n".join(all_results[:8]) # Retorna até 8 resultados únicos
 
     def sync_to_github(self):
         """Sincronização resiliente."""
