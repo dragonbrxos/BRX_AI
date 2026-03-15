@@ -37,12 +37,18 @@ class BRXCore:
                         try: self.knowledge.update(json.load(f))
                         except: pass
 
+    def add_knowledge(self, key, data):
+        """Adiciona novo conhecimento ao cérebro e salva no arquivo de treinamento."""
+        self.knowledge[key] = data
+        training_path = os.path.join(self.brain_dir, 'knowledge', 'training.json')
+        self.save_json(training_path, self.knowledge)
+
     def init_meta(self):
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.2",
-            "edicao": "Combat Edition",
+            "versao": "6.3",
+            "edicao": "Fix & Code Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -74,31 +80,47 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 4.5 - (diff / 0.7)) # Peso aumentado para precisão máxima
+                score += max(0, 5.0 - (diff / 0.6)) # Peso aumentado para precisão máxima
         return score
 
     def think(self, user_input):
-        """MOTOR DE PENSAMENTO: Analisa a intenção do usuário."""
+        """MOTOR DE PENSAMENTO: Analisa a intenção do usuário com maior precisão."""
         user_input = user_input.lower()
-        intent = "general"
         
+        # Saudações
+        if any(w in user_input for w in ["oi", "olá", "opa", "bom dia", "boa tarde", "boa noite"]):
+            return "greeting"
+        
+        # Arch Linux
         if any(w in user_input for w in ["pacman", "yay", "aur", "instalar", "atualizar", "remover", "arch"]):
-            intent = "arch_linux"
-        elif any(w in user_input for w in ["systemctl", "serviço", "status", "start", "stop"]):
-            intent = "systemd"
-        elif any(c in user_input for c in "+-*/=" ) or "quanto" in user_input:
-            intent = "math"
-        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "bladex", "combat"]):
-            intent = "programming"
+            return "arch_linux"
+        
+        # Systemd
+        if any(w in user_input for w in ["systemctl", "serviço", "status", "start", "stop"]):
+            return "systemd"
+        
+        # Matemática
+        if any(c in user_input for c in "+-*/=") or "quanto" in user_input:
+            return "math"
+        
+        # Programação (Prioridade Alta)
+        if any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "bladex", "combat", "lua"]):
+            return "programming"
             
-        return intent
+        return "general"
 
-    def synthesize_response(self, intent, blocks, web_result):
+    def synthesize_response(self, intent, blocks, web_result, user_input):
         """MOTOR DE SÍNTESE: Monta a resposta final de forma assertiva."""
+        if intent == "greeting":
+            return "Olá! Sou o BRX AI, seu assistente nativo do Arch Linux. Como posso ajudar com seu sistema ou código hoje?"
+
         if not blocks and not web_result:
             return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica. Posso pesquisar na Web agora?"
 
         if web_result:
+            # Se for programação, tentar formatar melhor o código
+            if intent == "programming":
+                return f"Encontrei esta lógica de programação via Pesquisa Web:\n\n{web_result}\n\nPosso ajudar a adaptar esse código para o seu projeto?"
             return f"Encontrei esta informação técnica via Pesquisa Web:\n\n{web_result}"
 
         best_block = blocks[0][1]
@@ -109,7 +131,7 @@ class BRXCore:
         elif intent == "systemd":
             return f"Gerenciamento de Sistema: {text}"
         elif intent == "programming":
-            return f"Lógica de Programação e Motores de Combate:\n\n{text}"
+            return f"Lógica de Programação:\n\n{text}"
             
         return text
 
@@ -117,10 +139,10 @@ class BRXCore:
         """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
         user_dna = self.atomize(user_input)
         if user_dna['len'] == 0:
-            return "BRX Combat Edition pronto. Como posso ajudar com seu script hoje?"
+            return "BRX pronto. Como posso ajudar hoje?"
 
         intent = self.think(user_input)
-        needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado"])
+        needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado", "cria", "faz", "gera"])
         
         scored_blocks = []
         for block_id, block in self.knowledge.items():
@@ -129,10 +151,10 @@ class BRXCore:
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 50
+                dna_score += 60
                 for word in block.get('palavras', []):
                     if word in user_input.lower():
-                        dna_score += 80
+                        dna_score += 100
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -140,13 +162,16 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 150):
+        # Priorizar pesquisa web se for detectada necessidade de informação recente ou se o conhecimento local for fraco
+        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 180):
             query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
+            if intent == "programming":
+                query = f"exemplo de código {user_input}"
             web_result = self.search_web(query)
 
-        response = self.synthesize_response(intent, scored_blocks, web_result)
+        response = self.synthesize_response(intent, scored_blocks, web_result, user_input)
         
-        thought_info = f"[BRX v6.2 | Intenção '{intent}' | {user_dna['len']} chars | Combat Mode]"
+        thought_info = f"[BRX v6.3 | Intenção '{intent}' | {user_dna['len']} chars | Code Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -185,12 +210,14 @@ class BRXCore:
             return "Erro: Sem conexão com a internet para sincronizar."
         
         try:
+            # Garantir que é um repositório git
             if not os.path.exists(".git"):
-                return "Erro: Diretório não é um repositório Git."
+                subprocess.run(["git", "init"], check=True)
+                subprocess.run(["git", "remote", "add", "origin", "https://github.com/dragonbrxos/BRX_AI.git"], check=True)
 
-            subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.2: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
-            subprocess.run(["git", "push", "origin", "main"], check=True)
+            subprocess.run(["git", "add", "."], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.3: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except subprocess.CalledProcessError as e:
             return f"Erro no Git: {e}"
@@ -199,4 +226,4 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("O que é o BladeX Combat Engine?"))
+    print(brx.get_response("cria um codigo lua"))

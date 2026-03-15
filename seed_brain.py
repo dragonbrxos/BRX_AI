@@ -2,42 +2,49 @@ from brx import BRXCore
 import uuid
 
 def seed():
+    print("[+] Populando cérebro inicial do BRX AI...")
     brx = BRXCore()
     
     # Adicionar conhecimento sobre o próprio BRX
     brx.add_knowledge(
-        block_id=str(uuid.uuid4()),
-        text="O BRX é um modelo de IA extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza arquivos JSON para armazenar seu conhecimento, o que o torna eficiente e fácil de manter em notebooks e sistemas com recursos limitados.",
-        category="general",
-        keywords=["brx", "ia", "modelo", "leve", "arch", "linux", "json", "notebook"],
-        title="O que é o BRX?",
-        topic="introdução ao brx",
-        source="documentação oficial"
+        key=str(uuid.uuid4()),
+        data={
+            "id": str(uuid.uuid4()),
+            "texto": "O BRX é um modelo de IA extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza arquivos JSON para armazenar seu conhecimento, o que o torna eficiente e fácil de manter em notebooks e sistemas com recursos limitados.",
+            "categoria": "general",
+            "palavras": ["brx", "ia", "modelo", "leve", "arch", "linux", "json", "notebook"],
+            "titulo": "O que é o BRX?",
+            "topico": "introdução ao brx"
+        }
     )
 
     # Adicionar conhecimento sobre Arch Linux
     brx.add_knowledge(
-        block_id=str(uuid.uuid4()),
-        text="Arch Linux é uma distribuição Linux leve e flexível que segue o princípio KISS (Keep It Simple, Stupid). É conhecida por seu sistema de gerenciamento de pacotes pacman e pelo Arch User Repository (AUR).",
-        category="tech",
-        keywords=["arch", "linux", "kiss", "pacman", "aur", "distribuição"],
-        title="Sobre o Arch Linux",
-        topic="sistemas operacionais",
-        source="arch wiki"
+        key=str(uuid.uuid4()),
+        data={
+            "id": str(uuid.uuid4()),
+            "texto": "Arch Linux é uma distribuição Linux leve e flexível que segue o princípio KISS (Keep It Simple, Stupid). É conhecida por seu sistema de gerenciamento de pacotes pacman e pelo Arch User Repository (AUR).",
+            "categoria": "arch_linux",
+            "palavras": ["arch", "linux", "kiss", "pacman", "aur", "distribuição"],
+            "titulo": "Sobre o Arch Linux",
+            "topico": "sistemas operacionais"
+        }
     )
 
-    # Adicionar conhecimento sobre Python
+    # Adicionar conhecimento sobre Programação Lua
     brx.add_knowledge(
-        block_id=str(uuid.uuid4()),
-        text="Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É amplamente utilizada em ciência de dados, inteligência artificial e automação devido à sua sintaxe clara e vasta biblioteca padrão.",
-        category="code",
-        keywords=["python", "programação", "linguagem", "ia", "automação"],
-        title="Linguagem Python",
-        topic="programação",
-        source="python.org"
+        key=str(uuid.uuid4()),
+        data={
+            "id": str(uuid.uuid4()),
+            "texto": "Exemplo de código Lua:\n\nprint('Olá Mundo!')\n\n-- Variáveis e Funções\nlocal nome = 'BRX'\nfunction saudar(n)\n  print('Olá ' .. n)\nend\nsaudar(nome)",
+            "categoria": "programming",
+            "palavras": ["lua", "código", "script", "programar"],
+            "titulo": "Linguagem Lua",
+            "topico": "programação"
+        }
     )
 
-    print("Cérebro inicial do BRX populado com sucesso!")
+    print("[OK] Cérebro inicial populado com sucesso!")
 
 if __name__ == "__main__":
     seed()

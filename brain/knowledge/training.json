@@ -1,4 +1,1202 @@
 {
+  "8f878f4f-84e9-4bda-87b6-392630262971": {
+    "id": "8f878f4f-84e9-4bda-87b6-392630262971",
+    "texto": "O BRX é um modelo de IA extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza arquivos JSON para armazenar seu conhecimento, o que o torna eficiente e fácil de manter em notebooks e sistemas com recursos limitados.",
+    "categoria": "general",
+    "fonte": "documentação oficial",
+    "titulo": "O que é o BRX?",
+    "topico": "introdução ao brx",
+    "palavras": [
+      "brx",
+      "ia",
+      "modelo",
+      "leve",
+      "arch",
+      "linux",
+      "json",
+      "notebook"
+    ]
+  },
+  "77c2828c-c4de-42d2-8ae4-20729e6a98f4": {
+    "id": "77c2828c-c4de-42d2-8ae4-20729e6a98f4",
+    "texto": "O BRX é um modelo de IA extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza arquivos JSON para armazenar seu conhecimento, o que o torna eficiente e fácil de manter em notebooks e sistemas com recursos limitados.",
+    "categoria": "general",
+    "fonte": "documentação oficial",
+    "titulo": "O que é o BRX?",
+    "topico": "introdução ao brx",
+    "palavras": [
+      "brx",
+      "ia",
+      "modelo",
+      "leve",
+      "arch",
+      "linux",
+      "json",
+      "notebook"
+    ],
+    "char_map": {
+      "o": 20,
+      " ": 39,
+      "b": 2,
+      "r": 15,
+      "x": 3,
+      "é": 1,
+      "u": 7,
+      "m": 12,
+      "d": 6,
+      "e": 29,
+      "l": 7,
+      "i": 13,
+      "a": 20,
+      "t": 13,
+      "n": 13,
+      "v": 3,
+      ",": 2,
+      "p": 3,
+      "j": 2,
+      "c": 7,
+      "h": 2,
+      ".": 2,
+      "z": 2,
+      "q": 2,
+      "s": 10,
+      "f": 2,
+      "á": 1,
+      "k": 1
+    }
+  },
+  "32745dd4-3753-4005-8f8d-8b585e5ed876": {
+    "id": "32745dd4-3753-4005-8f8d-8b585e5ed876",
+    "texto": "Arch Linux é uma distribuição Linux leve e flexível que segue o princípio KISS (Keep It Simple, Stupid). É conhecida por seu sistema de gerenciamento de pacotes pacman e pelo Arch User Repository (AUR).",
+    "categoria": "tech",
+    "fonte": "arch wiki",
+    "titulo": "Sobre o Arch Linux",
+    "topico": "sistemas operacionais",
+    "palavras": [
+      "arch",
+      "linux",
+      "kiss",
+      "pacman",
+      "aur",
+      "distribuição"
+    ]
+  },
+  "fa357d66-24b6-4ef2-af2f-0770151259e3": {
+    "id": "fa357d66-24b6-4ef2-af2f-0770151259e3",
+    "texto": "Arch Linux é uma distribuição Linux leve e flexível que segue o princípio KISS (Keep It Simple, Stupid). É conhecida por seu sistema de gerenciamento de pacotes pacman e pelo Arch User Repository (AUR).",
+    "categoria": "tech",
+    "fonte": "arch wiki",
+    "titulo": "Sobre o Arch Linux",
+    "topico": "sistemas operacionais",
+    "palavras": [
+      "arch",
+      "linux",
+      "kiss",
+      "pacman",
+      "aur",
+      "distribuição"
+    ],
+    "char_map": {
+      "a": 10,
+      "r": 10,
+      "c": 8,
+      "h": 3,
+      " ": 33,
+      "l": 7,
+      "i": 15,
+      "n": 7,
+      "u": 10,
+      "x": 3,
+      "é": 2,
+      "m": 5,
+      "d": 5,
+      "s": 12,
+      "t": 7,
+      "b": 1,
+      "ç": 1,
+      "ã": 1,
+      "o": 10,
+      "e": 24,
+      "v": 2,
+      "f": 1,
+      "í": 2,
+      "q": 1,
+      "g": 2,
+      "p": 10,
+      "k": 2,
+      "(": 2,
+      ",": 1,
+      ")": 2,
+      ".": 2,
+      "y": 1
+    }
+  },
+  "9d3fcd52-c6a8-4a25-ae8d-fd11057e8166": {
+    "id": "9d3fcd52-c6a8-4a25-ae8d-fd11057e8166",
+    "texto": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É amplamente utilizada em ciência de dados, inteligência artificial e automação devido à sua sintaxe clara e vasta biblioteca padrão.",
+    "categoria": "code",
+    "fonte": "python.org",
+    "titulo": "Linguagem Python",
+    "topico": "programação",
+    "palavras": [
+      "python",
+      "programação",
+      "linguagem",
+      "ia",
+      "automação"
+    ]
+  },
+  "b1be53a7-602a-438f-9e7a-f4510c89be27": {
+    "id": "b1be53a7-602a-438f-9e7a-f4510c89be27",
+    "texto": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É amplamente utilizada em ciência de dados, inteligência artificial e automação devido à sua sintaxe clara e vasta biblioteca padrão.",
+    "categoria": "code",
+    "fonte": "python.org",
+    "titulo": "Linguagem Python",
+    "topico": "programação",
+    "palavras": [
+      "python",
+      "programação",
+      "linguagem",
+      "ia",
+      "automação"
+    ],
+    "char_map": {
+      "p": 7,
+      "y": 1,
+      "t": 13,
+      "h": 1,
+      "o": 12,
+      "n": 9,
+      " ": 33,
+      "é": 2,
+      "u": 5,
+      "m": 7,
+      "a": 27,
+      "l": 10,
+      "i": 17,
+      "g": 5,
+      "e": 19,
+      "d": 11,
+      "r": 9,
+      "ç": 2,
+      "ã": 3,
+      "í": 1,
+      "v": 3,
+      ",": 2,
+      "ó": 1,
+      "s": 5,
+      ".": 2,
+      "z": 1,
+      "c": 6,
+      "ê": 2,
+      "f": 1,
+      "à": 1,
+      "x": 1,
+      "b": 2
+    }
+  },
+  "py_syntax_001": {
+    "id": "py_syntax_001",
+    "texto": "Em Python, a indentação é obrigatória e define blocos de código. Exemplo: if 5 > 2: print('Cinco é maior que dois!'). O uso de 4 espaços é o padrão recomendado pela PEP 8.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Sintaxe e Indentação Python",
+    "topico": "python syntax indentation",
+    "palavras": [
+      "python",
+      "indentação",
+      "sintaxe",
+      "if",
+      "bloco"
+    ],
+    "char_map": {}
+  },
+  "py_vars_001": {
+    "id": "py_vars_001",
+    "texto": "Variáveis em Python são criadas no momento da atribuição. Exemplo: x = 5; y = 'Olá'. Não é necessário declarar o tipo explicitamente (tipagem dinâmica).",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Variáveis em Python",
+    "topico": "python variables assignment",
+    "palavras": [
+      "python",
+      "variáveis",
+      "atribuição",
+      "dinâmica"
+    ],
+    "char_map": {}
+  },
+  "py_loops_001": {
+    "id": "py_loops_001",
+    "texto": "Loops em Python: 'for x in range(6): print(x)' executa de 0 a 5. 'while x < 5:' executa enquanto a condição for verdadeira.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Estruturas de Repetição Python",
+    "topico": "python loops for while",
+    "palavras": [
+      "python",
+      "for",
+      "while",
+      "loop",
+      "range"
+    ],
+    "char_map": {}
+  },
+  "js_syntax_001": {
+    "id": "js_syntax_001",
+    "texto": "JavaScript usa 'let' e 'const' para declarar variáveis. 'let x = 5;' permite reatribuição, enquanto 'const y = 6;' é para valores fixos. O ponto e vírgula (;) é opcional mas recomendado.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Sintaxe JavaScript",
+    "topico": "javascript syntax let const",
+    "palavras": [
+      "javascript",
+      "let",
+      "const",
+      "variáveis",
+      "sintaxe"
+    ],
+    "char_map": {}
+  },
+  "js_funcs_001": {
+    "id": "js_funcs_001",
+    "texto": "Funções em JS: 'function minhaFuncao(p1, p2) { return p1 * p2; }'. Também existem Arrow Functions: 'const x = (a, b) => a * b;'.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Funções em JavaScript",
+    "topico": "javascript functions arrow",
+    "palavras": [
+      "javascript",
+      "function",
+      "arrow",
+      "retorno"
+    ],
+    "char_map": {}
+  },
+  "js_dom_001": {
+    "id": "js_dom_001",
+    "texto": "Manipulação do DOM: 'document.getElementById('demo').innerHTML = 'Olá';' altera o conteúdo de um elemento HTML via JavaScript.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "JavaScript DOM",
+    "topico": "javascript dom manipulation",
+    "palavras": [
+      "javascript",
+      "dom",
+      "html",
+      "document"
+    ],
+    "char_map": {}
+  },
+  "rust_syntax_001": {
+    "id": "rust_syntax_001",
+    "texto": "Rust é uma linguagem focada em segurança de memória. 'fn main() { println!(\"Hello World!\"); }' é o ponto de entrada. 'println!' é uma macro.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Sintaxe Rust",
+    "topico": "rust syntax main println",
+    "palavras": [
+      "rust",
+      "fn",
+      "main",
+      "println",
+      "macro"
+    ],
+    "char_map": {}
+  },
+  "rust_vars_001": {
+    "id": "rust_vars_001",
+    "texto": "Em Rust, variáveis são imutáveis por padrão. 'let x = 5;' não pode ser alterado. Use 'let mut x = 5;' para permitir mudanças.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Variáveis em Rust",
+    "topico": "rust variables mutability",
+    "palavras": [
+      "rust",
+      "let",
+      "mut",
+      "imutável",
+      "variáveis"
+    ],
+    "char_map": {}
+  },
+  "rust_ownership_001": {
+    "id": "rust_ownership_001",
+    "texto": "Ownership é o conceito central de Rust para gerenciar memória sem garbage collector. Cada valor tem um dono único.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Rust Ownership",
+    "topico": "rust memory ownership",
+    "palavras": [
+      "rust",
+      "ownership",
+      "memória",
+      "segurança"
+    ],
+    "char_map": {}
+  },
+  "alphabet_upper": {
+    "id": "alphabet_upper",
+    "texto": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "categoria": "atomic",
+    "titulo": "Alfabeto Maiúsculo",
+    "topico": "letras maiúsculas",
+    "palavras": [
+      "alfabeto",
+      "maiúsculas",
+      "letras",
+      "A-Z"
+    ],
+    "dna": {
+      "freq": {
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": 1,
+        "e": 1,
+        "f": 1,
+        "g": 1,
+        "h": 1,
+        "i": 1,
+        "j": 1,
+        "k": 1,
+        "l": 1,
+        "m": 1,
+        "n": 1,
+        "o": 1,
+        "p": 1,
+        "q": 1,
+        "r": 1,
+        "s": 1,
+        "t": 1,
+        "u": 1,
+        "v": 1,
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "seq": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ],
+      "len": 26
+    }
+  },
+  "alphabet_lower": {
+    "id": "alphabet_lower",
+    "texto": "abcdefghijklmnopqrstuvwxyz",
+    "categoria": "atomic",
+    "titulo": "Alfabeto Minúsculo",
+    "topico": "letras minúsculas",
+    "palavras": [
+      "alfabeto",
+      "minúsculas",
+      "letras",
+      "a-z"
+    ],
+    "dna": {
+      "freq": {
+        "a": 1,
+        "b": 1,
+        "c": 1,
+        "d": 1,
+        "e": 1,
+        "f": 1,
+        "g": 1,
+        "h": 1,
+        "i": 1,
+        "j": 1,
+        "k": 1,
+        "l": 1,
+        "m": 1,
+        "n": 1,
+        "o": 1,
+        "p": 1,
+        "q": 1,
+        "r": 1,
+        "s": 1,
+        "t": 1,
+        "u": 1,
+        "v": 1,
+        "w": 1,
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "seq": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ],
+      "len": 26
+    }
+  },
+  "numbers_standard": {
+    "id": "numbers_standard",
+    "texto": "0123456789",
+    "categoria": "atomic",
+    "titulo": "Números Padrão",
+    "topico": "algarismos numéricos",
+    "palavras": [
+      "números",
+      "algarismos",
+      "0-9",
+      "contagem"
+    ],
+    "dna": {
+      "freq": {
+        "0": 1,
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "seq": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "len": 10
+    }
+  },
+  "special_chars": {
+    "id": "special_chars",
+    "texto": "!@#$%^&*()-_=+[]{}|;:'\",.<>/?\\`~",
+    "categoria": "atomic",
+    "titulo": "Caracteres Especiais",
+    "topico": "símbolos e pontuação",
+    "palavras": [
+      "símbolos",
+      "especiais",
+      "pontuação",
+      "caracteres"
+    ],
+    "dna": {
+      "freq": {
+        "!": 1,
+        "@": 1,
+        "#": 1,
+        "$": 1,
+        "%": 1,
+        "^": 1,
+        "&": 1,
+        "*": 1,
+        "(": 1,
+        ")": 1,
+        "-": 1,
+        "_": 1,
+        "=": 1,
+        "+": 1,
+        "[": 1,
+        "]": 1,
+        "{": 1,
+        "}": 1,
+        "|": 1,
+        ";": 1,
+        ":": 1,
+        "'": 1,
+        "\"": 1,
+        ",": 1,
+        ".": 1,
+        "<": 1,
+        ">": 1,
+        "/": 1,
+        "?": 1,
+        "\\": 1,
+        "`": 1,
+        "~": 1
+      },
+      "seq": [],
+      "len": 32
+    }
+  },
+  "logic_and": {
+    "id": "logic_and",
+    "texto": "Operador AND (E): Retorna verdadeiro apenas se ambas as condições forem verdadeiras. Exemplo: (A == 1) AND (B == 1).",
+    "categoria": "logic",
+    "titulo": "Lógica AND",
+    "topico": "operadores lógicos",
+    "palavras": [
+      "and",
+      "e",
+      "lógica",
+      "condição"
+    ],
+    "dna": {
+      "freq": {
+        "a": 2,
+        "n": 1,
+        "d": 1,
+        "e": 1,
+        "l": 1,
+        "o": 1,
+        "g": 1,
+        "i": 1,
+        "c": 1
+      },
+      "seq": [
+        "a",
+        "n",
+        "d",
+        "e",
+        "l",
+        "o",
+        "g",
+        "i",
+        "c",
+        "a"
+      ],
+      "len": 10
+    }
+  },
+  "logic_or": {
+    "id": "logic_or",
+    "texto": "Operador OR (OU): Retorna verdadeiro se pelo menos uma das condições for verdadeira. Exemplo: (A == 1) OR (B == 0).",
+    "categoria": "logic",
+    "titulo": "Lógica OR",
+    "topico": "operadores lógicos",
+    "palavras": [
+      "or",
+      "ou",
+      "lógica",
+      "condição"
+    ],
+    "dna": {
+      "freq": {
+        "o": 2,
+        "r": 1,
+        "u": 1,
+        "l": 1,
+        "g": 1,
+        "i": 1,
+        "c": 1
+      },
+      "seq": [
+        "o",
+        "r",
+        "o",
+        "u",
+        "l",
+        "o",
+        "g",
+        "i",
+        "c",
+        "a"
+      ],
+      "len": 10
+    }
+  },
+  "logic_if_else": {
+    "id": "logic_if_else",
+    "texto": "Estrutura IF/ELSE: Se (IF) a condição for verdadeira, execute o bloco A. Senão (ELSE), execute o bloco B.",
+    "categoria": "logic",
+    "titulo": "Condicionais IF/ELSE",
+    "topico": "estruturas de controle",
+    "palavras": [
+      "if",
+      "else",
+      "se",
+      "senão",
+      "condicional"
+    ],
+    "dna": {
+      "freq": {
+        "i": 1,
+        "f": 1,
+        "e": 2,
+        "l": 1,
+        "s": 1,
+        "o": 1
+      },
+      "seq": [
+        "i",
+        "f",
+        "e",
+        "l",
+        "s",
+        "e"
+      ],
+      "len": 6
+    }
+  },
+  "math_addition": {
+    "id": "math_addition",
+    "texto": "Adição (+): Soma dois ou mais valores. Exemplo: 1 + 1 = 2.",
+    "categoria": "math",
+    "titulo": "Soma e Adição",
+    "topico": "aritmética básica",
+    "palavras": [
+      "soma",
+      "adição",
+      "mais",
+      "+"
+    ],
+    "dna": {
+      "freq": {
+        "s": 1,
+        "o": 1,
+        "m": 1,
+        "a": 1,
+        "d": 1,
+        "i": 1,
+        "c": 1
+      },
+      "seq": [
+        "s",
+        "o",
+        "m",
+        "a",
+        "a",
+        "d",
+        "i",
+        "c",
+        "a",
+        "o"
+      ],
+      "len": 10
+    }
+  },
+  "math_subtraction": {
+    "id": "math_subtraction",
+    "texto": "Subtração (-): Retira um valor de outro. Exemplo: 5 - 2 = 3.",
+    "categoria": "math",
+    "titulo": "Subtração e Menos",
+    "topico": "aritmética básica",
+    "palavras": [
+      "subtração",
+      "menos",
+      "-"
+    ],
+    "dna": {
+      "freq": {
+        "s": 1,
+        "u": 1,
+        "b": 1,
+        "t": 1,
+        "r": 1,
+        "a": 1,
+        "c": 1,
+        "o": 1
+      },
+      "seq": [
+        "s",
+        "u",
+        "b",
+        "t",
+        "r",
+        "a",
+        "c",
+        "a",
+        "o"
+      ],
+      "len": 9
+    }
+  },
+  "math_multiplication": {
+    "id": "math_multiplication",
+    "texto": "Multiplicação (*): Soma um valor repetidas vezes. Exemplo: 2 * 3 = 6.",
+    "categoria": "math",
+    "titulo": "Multiplicação e Vezes",
+    "topico": "aritmética básica",
+    "palavras": [
+      "multiplicação",
+      "vezes",
+      "*",
+      "x"
+    ],
+    "dna": {
+      "freq": {
+        "m": 1,
+        "u": 1,
+        "l": 1,
+        "t": 1,
+        "i": 1,
+        "p": 1,
+        "c": 1,
+        "a": 1,
+        "o": 1
+      },
+      "seq": [
+        "m",
+        "u",
+        "l",
+        "t",
+        "i",
+        "p",
+        "l",
+        "i",
+        "c",
+        "a",
+        "c",
+        "a",
+        "o"
+      ],
+      "len": 13
+    }
+  },
+  "arch_pacman_sync": {
+    "id": "arch_pacman_sync",
+    "texto": "Para atualizar o sistema no Arch Linux, use 'sudo pacman -Syu'. Este comando sincroniza os repositórios e atualiza todos os pacotes instalados.",
+    "categoria": "arch_linux",
+    "titulo": "Atualização do Sistema (Pacman)",
+    "topico": "gerenciamento de pacotes",
+    "palavras": [
+      "arch",
+      "pacman",
+      "atualizar",
+      "syu",
+      "sistema"
+    ],
+    "dna": {
+      "freq": {
+        "a": 3,
+        "r": 1,
+        "c": 1,
+        "h": 1,
+        "p": 1,
+        "m": 1,
+        "n": 1,
+        "s": 2,
+        "t": 1,
+        "u": 1,
+        "y": 1
+      },
+      "seq": [
+        "a",
+        "r",
+        "c",
+        "h",
+        "p",
+        "a",
+        "c",
+        "m",
+        "a",
+        "n",
+        "s",
+        "y",
+        "u"
+      ],
+      "len": 13
+    }
+  },
+  "arch_pacman_install": {
+    "id": "arch_pacman_install",
+    "texto": "Para instalar um novo pacote, use 'sudo pacman -S nome_do_pacote'. Para remover mantendo dependências, use 'sudo pacman -R nome_do_pacote'.",
+    "categoria": "arch_linux",
+    "titulo": "Instalação e Remoção (Pacman)",
+    "topico": "gerenciamento de pacotes",
+    "palavras": [
+      "arch",
+      "pacman",
+      "instalar",
+      "remover",
+      "pacote"
+    ],
+    "dna": {
+      "freq": {
+        "a": 3,
+        "r": 1,
+        "c": 1,
+        "h": 1,
+        "p": 1,
+        "m": 1,
+        "n": 1,
+        "i": 1,
+        "s": 1
+      },
+      "seq": [
+        "a",
+        "r",
+        "c",
+        "h",
+        "p",
+        "a",
+        "c",
+        "m",
+        "a",
+        "n",
+        "i",
+        "n",
+        "s",
+        "t",
+        "a",
+        "l",
+        "l"
+      ],
+      "len": 17
+    }
+  },
+  "arch_systemd_status": {
+    "id": "arch_systemd_status",
+    "texto": "O systemd gerencia serviços no Arch. Use 'systemctl status nome_do_servico' para verificar o estado, e 'systemctl start/stop' para iniciar ou parar.",
+    "categoria": "arch_linux",
+    "titulo": "Gerenciamento de Serviços (Systemd)",
+    "topico": "administração do sistema",
+    "palavras": [
+      "arch",
+      "systemd",
+      "systemctl",
+      "serviço",
+      "status"
+    ],
+    "dna": {
+      "freq": {
+        "a": 1,
+        "r": 1,
+        "c": 1,
+        "h": 1,
+        "s": 3,
+        "y": 1,
+        "t": 2,
+        "e": 1,
+        "m": 1,
+        "d": 1,
+        "l": 1
+      },
+      "seq": [
+        "a",
+        "r",
+        "c",
+        "h",
+        "s",
+        "y",
+        "s",
+        "t",
+        "e",
+        "m",
+        "d",
+        "s",
+        "t",
+        "a",
+        "t",
+        "u",
+        "s"
+      ],
+      "len": 17
+    }
+  },
+  "arch_aur_yay": {
+    "id": "arch_aur_yay",
+    "texto": "O AUR (Arch User Repository) contém pacotes da comunidade. O 'yay' é um ajudante popular para instalar pacotes do AUR facilmente.",
+    "categoria": "arch_linux",
+    "titulo": "AUR e Yay",
+    "topico": "repositórios comunitários",
+    "palavras": [
+      "arch",
+      "aur",
+      "yay",
+      "comunidade",
+      "ajudante"
+    ],
+    "dna": {
+      "freq": {
+        "a": 2,
+        "r": 1,
+        "c": 1,
+        "h": 1,
+        "u": 1,
+        "y": 1
+      },
+      "seq": [
+        "a",
+        "r",
+        "c",
+        "h",
+        "a",
+        "u",
+        "r",
+        "y",
+        "a",
+        "y"
+      ],
+      "len": 10
+    }
+  },
+  "roblox_health_script": {
+    "id": "roblox_health_script",
+    "texto": "Script de Vida no Roblox (Luau):\nlocal part = script.Parent\npart.Touched:Connect(function(hit)\n  local character = hit.Parent\n  local humanoid = character:FindFirstChild('Humanoid')\n  if humanoid then\n    humanoid.Health = 100\n  end\nend)",
+    "categoria": "programming",
+    "titulo": "Script de Vida (Roblox)",
+    "topico": "roblox luau",
+    "palavras": [
+      "roblox",
+      "luau",
+      "vida",
+      "health",
+      "touched"
+    ],
+    "dna": {
+      "freq": {
+        "r": 1,
+        "o": 1,
+        "b": 1,
+        "l": 1,
+        "x": 1,
+        "u": 1,
+        "a": 1,
+        "v": 1,
+        "i": 1,
+        "d": 1
+      },
+      "seq": [
+        "r",
+        "o",
+        "b",
+        "l",
+        "o",
+        "x",
+        "l",
+        "u",
+        "a",
+        "u",
+        "v",
+        "i",
+        "d",
+        "a"
+      ],
+      "len": 14
+    }
+  },
+  "roblox_remote_event": {
+    "id": "roblox_remote_event",
+    "texto": "RemoteEvent no Roblox:\n-- Servidor\ngame.ReplicatedStorage.RemoteEvent.OnServerEvent:Connect(function(player)\n  print(player.Name .. ' disparou o evento!')\nend)\n-- Cliente\ngame.ReplicatedStorage.RemoteEvent:FireServer()",
+    "categoria": "programming",
+    "titulo": "RemoteEvent (Roblox)",
+    "topico": "roblox luau",
+    "palavras": [
+      "roblox",
+      "remote",
+      "event",
+      "server",
+      "client"
+    ],
+    "dna": {
+      "freq": {
+        "r": 2,
+        "o": 1,
+        "b": 1,
+        "l": 1,
+        "x": 1,
+        "e": 2,
+        "m": 1,
+        "t": 1,
+        "v": 1,
+        "n": 1
+      },
+      "seq": [
+        "r",
+        "o",
+        "b",
+        "l",
+        "o",
+        "x",
+        "r",
+        "e",
+        "m",
+        "o",
+        "t",
+        "e",
+        "e",
+        "v",
+        "e",
+        "n",
+        "t"
+      ],
+      "len": 17
+    }
+  },
+  "java_hello_world": {
+    "id": "java_hello_world",
+    "texto": "Classe Java 'Olá Mundo':\npublic class Main {\n  public static void main(String[] args) {\n    System.out.println('Olá Mundo!');\n  }\n}",
+    "categoria": "programming",
+    "titulo": "Olá Mundo (Java)",
+    "topico": "java core",
+    "palavras": [
+      "java",
+      "classe",
+      "main",
+      "system",
+      "print"
+    ],
+    "dna": {
+      "freq": {
+        "j": 1,
+        "a": 2,
+        "v": 1,
+        "c": 1,
+        "l": 1,
+        "s": 1,
+        "e": 1,
+        "m": 1,
+        "i": 1,
+        "n": 1
+      },
+      "seq": [
+        "j",
+        "a",
+        "v",
+        "a",
+        "c",
+        "l",
+        "a",
+        "s",
+        "s",
+        "e",
+        "m",
+        "a",
+        "i",
+        "n"
+      ],
+      "len": 14
+    }
+  },
+  "java_loop_for": {
+    "id": "java_loop_for",
+    "texto": "Loop For em Java:\nfor (int i = 0; i < 10; i++) {\n  System.out.println('Contagem: ' + i);\n}",
+    "categoria": "programming",
+    "titulo": "Loop For (Java)",
+    "topico": "java core",
+    "palavras": [
+      "java",
+      "loop",
+      "for",
+      "int",
+      "print"
+    ],
+    "dna": {
+      "freq": {
+        "j": 1,
+        "a": 1,
+        "v": 1,
+        "l": 1,
+        "o": 2,
+        "p": 1,
+        "f": 1,
+        "r": 1
+      },
+      "seq": [
+        "j",
+        "a",
+        "v",
+        "a",
+        "l",
+        "o",
+        "o",
+        "p",
+        "f",
+        "o",
+        "r"
+      ],
+      "len": 11
+    }
+  },
+  "csharp_unity_jump": {
+    "id": "csharp_unity_jump",
+    "texto": "Sistema de Pulo no Unity (C#):\nusing UnityEngine;\npublic class PlayerJump : MonoBehaviour {\n  public float jumpForce = 5f;\n  private Rigidbody2D rb;\n  void Start() { rb = GetComponent<Rigidbody2D>(); }\n  void Update() {\n    if (Input.GetKeyDown(KeyCode.Space)) {\n      rb.velocity = Vector2.up * jumpForce;\n    }\n  }\n}",
+    "categoria": "programming",
+    "titulo": "Pulo Unity (C#)",
+    "topico": "csharp unity",
+    "palavras": [
+      "csharp",
+      "unity",
+      "pulo",
+      "jump",
+      "rigidbody"
+    ],
+    "dna": {
+      "freq": {
+        "c": 1,
+        "s": 1,
+        "h": 1,
+        "a": 1,
+        "r": 1,
+        "p": 1,
+        "u": 1,
+        "n": 1,
+        "i": 1,
+        "t": 1,
+        "y": 1
+      },
+      "seq": [
+        "c",
+        "s",
+        "h",
+        "a",
+        "r",
+        "p",
+        "u",
+        "n",
+        "i",
+        "t",
+        "y",
+        "p",
+        "u",
+        "l",
+        "o"
+      ],
+      "len": 15
+    }
+  },
   "test_sync_id": {
     "id": "test_sync_id",
     "texto": "Conhecimento de teste gerado em 2026-03-15 12:55",
@@ -8,5 +1206,140 @@
       "sync",
       "github"
     ]
+  },
+  "roblox_bladex_engine": {
+    "id": "roblox_bladex_engine",
+    "texto": "BladeX Combat Engine (Roblox Luau):\nUm motor de combate avançado que utiliza serviços como TweenService, UserInputService e RunService para criar sistemas de AutoFarm, KillAura e AutoSkill.\n\nExemplo de Estrutura de Dados de Armas:\nlocal WEAPONS_DATA = {\n  Soul_Reaper_Blade = {\n    Name = 'Soul Reaper Blade',\n    Rarity = 'Mythic',\n    BaseDamage = 460,\n    SwingSpeed = 1.6,\n    Special = 'Lifesteal + Instakill <20% HP'\n  }\n}\n\nExemplo de Lógica de Inimigos:\nlocal ENEMY_TYPES = {\n  Boss = { HP = '>2000', Strategy = 'Parries precisas, evitar AOE' }\n}",
+    "categoria": "programming",
+    "titulo": "BladeX Combat Engine",
+    "topico": "roblox combat engine",
+    "palavras": [
+      "roblox",
+      "bladex",
+      "combat",
+      "engine",
+      "luau",
+      "script",
+      "farm",
+      "aura"
+    ],
+    "dna": {
+      "freq": {
+        "b": 1,
+        "l": 1,
+        "a": 1,
+        "d": 1,
+        "e": 1,
+        "x": 1,
+        "c": 1,
+        "o": 1,
+        "m": 1,
+        "t": 1
+      },
+      "seq": [
+        "b",
+        "l",
+        "a",
+        "d",
+        "e",
+        "x",
+        "c",
+        "o",
+        "m",
+        "b",
+        "a",
+        "t"
+      ],
+      "len": 12
+    }
+  },
+  "roblox_service_setup": {
+    "id": "roblox_service_setup",
+    "texto": "Configuração de Serviços Roblox:\nlocal Players = game:GetService('Players')\nlocal RunService = game:GetService('RunService')\nlocal TweenService = game:GetService('TweenService')\nlocal HttpService = game:GetService('HttpService')\nlocal UserInputService = game:GetService('UserInputService')",
+    "categoria": "programming",
+    "titulo": "Roblox Services",
+    "topico": "roblox luau",
+    "palavras": [
+      "roblox",
+      "service",
+      "getservice",
+      "players",
+      "runservice"
+    ],
+    "dna": {
+      "freq": {
+        "r": 1,
+        "o": 1,
+        "b": 1,
+        "l": 1,
+        "x": 1,
+        "s": 1,
+        "e": 1,
+        "v": 1,
+        "i": 1,
+        "c": 1
+      },
+      "seq": [
+        "r",
+        "o",
+        "b",
+        "l",
+        "o",
+        "x",
+        "s",
+        "e",
+        "r",
+        "v",
+        "i",
+        "c",
+        "e"
+      ],
+      "len": 13
+    }
+  },
+  "445f47f1-2782-4892-81c8-6211a88f152a": {
+    "id": "ad1f4fec-8005-4049-b6d3-f0aa88303ffa",
+    "texto": "O BRX é um modelo de IA extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza arquivos JSON para armazenar seu conhecimento, o que o torna eficiente e fácil de manter em notebooks e sistemas com recursos limitados.",
+    "categoria": "general",
+    "palavras": [
+      "brx",
+      "ia",
+      "modelo",
+      "leve",
+      "arch",
+      "linux",
+      "json",
+      "notebook"
+    ],
+    "titulo": "O que é o BRX?",
+    "topico": "introdução ao brx"
+  },
+  "5dd2d4f9-4a3e-45dd-b104-81192a0908f7": {
+    "id": "3ea72a0b-a3d2-4e35-9f34-07a975b09030",
+    "texto": "Arch Linux é uma distribuição Linux leve e flexível que segue o princípio KISS (Keep It Simple, Stupid). É conhecida por seu sistema de gerenciamento de pacotes pacman e pelo Arch User Repository (AUR).",
+    "categoria": "arch_linux",
+    "palavras": [
+      "arch",
+      "linux",
+      "kiss",
+      "pacman",
+      "aur",
+      "distribuição"
+    ],
+    "titulo": "Sobre o Arch Linux",
+    "topico": "sistemas operacionais"
+  },
+  "0da7de86-4d8b-48a8-8986-7f608b9caa37": {
+    "id": "77783611-de74-45a2-b7c5-1b56abdd52b5",
+    "texto": "Exemplo de código Lua:\n\nprint('Olá Mundo!')\n\n-- Variáveis e Funções\nlocal nome = 'BRX'\nfunction saudar(n)\n  print('Olá ' .. n)\nend\nsaudar(nome)",
+    "categoria": "programming",
+    "palavras": [
+      "lua",
+      "código",
+      "script",
+      "programar"
+    ],
+    "titulo": "Linguagem Lua",
+    "topico": "programação"
   }
 }
