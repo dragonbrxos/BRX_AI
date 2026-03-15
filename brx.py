@@ -47,8 +47,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.6.1",
-            "edicao": "Autonomous Processor Edition",
+            "versao": "6.7",
+            "edicao": "Interactive Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -85,11 +85,14 @@ class BRXCore:
         return " ".join([f"Usuário: {c['user']} BRX: {c['brx']}" for c in self.chat_history])
 
     def think(self, user_input):
-        """MOTOR DE PENSAMENTO: Desambiguação Semântica e Intenção."""
+        """MOTOR DE PENSAMENTO: Desambiguação e Detecção de Ambiguidade."""
         global_context = self.get_global_context().lower()
         full_input = (global_context + " " + user_input).lower()
         
-        # DESAMBIGUAÇÃO: 'Codes' (Resgate) vs 'Scripts' (Programação)
+        # Detecção de Ambiguidade (Se o pedido for muito curto ou vago)
+        if len(user_input.split()) < 3 and any(w in user_input.lower() for w in ["cria", "faz", "gera", "script", "código"]):
+            return "ambiguous_request"
+
         if any(w in full_input for w in ["lua", "script", "programar", "código lua", "faz", "cria", "gera", "simulador", "clicker"]):
             return "programming"
             
@@ -150,14 +153,22 @@ class BRXCore:
         return "-- Não consegui sintetizar o código exato. Pode detalhar mais?"
 
     def synthesize_response(self, intent, blocks, web_result, user_input):
-        """MOTOR DE SÍNTESE: Resposta direta e assertiva."""
+        """MOTOR DE SÍNTESE: Resposta direta e assertiva com Diálogo Ativo."""
+        if intent == "ambiguous_request":
+            return "Entendi que você quer criar algo, mas o pedido está um pouco vago. Pode me dar mais detalhes? Por exemplo: é um script para Roblox, um programa em Python ou algo para o Arch Linux?"
+
         if intent == "greeting":
             return "Olá! Sou o BRX AI. Como posso ajudar com seu código ou sistema hoje?"
 
         if intent == "programming":
-            # Se o usuário pediu para 'criar' ou 'fazer', ou se o contexto é de programação
             global_context = self.get_global_context().lower()
-            if any(w in (global_context + " " + user_input.lower()) for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida"]):
+            full_query = (global_context + " " + user_input).lower()
+            
+            # Se o usuário pediu para 'criar' ou 'fazer', mas não especificou o quê
+            if any(w in user_input.lower() for w in ["cria", "faz", "gera", "script", "código"]) and not any(w in full_query for w in ["roblox", "python", "lua", "java", "click", "vida"]):
+                return "Claro! Eu posso criar esse código para você. Mas antes, me diga: qual linguagem ou plataforma você quer usar? (Ex: Roblox Lua, Python, etc.)"
+
+            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida"]):
                 code = self.synthesize_code(intent, user_input, web_result)
                 return f"```lua\n{code}\n```"
             
@@ -174,11 +185,11 @@ class BRXCore:
         return best_block.get('texto', '')
 
     def get_response(self, user_input):
-        """Gera uma resposta completa com Pesquisa Multidimensional."""
+        """Gera uma resposta completa com Diálogo de Refinamento."""
         user_dna = self.atomize(user_input)
         intent = self.think(user_input)
         
-        # PESQUISA MULTIDIMENSIONAL: Cada palavra é uma chave
+        # PESQUISA MULTIDIMENSIONAL
         words = re.findall(r'\w+', user_input.lower())
         search_query = " ".join(words)
 
@@ -202,7 +213,8 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 300):
+        # Só pesquisa na web se não for um pedido ambíguo que precisa de pergunta
+        if intent != "ambiguous_request" and self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 300):
             web_result = self.search_web(search_query)
 
         response = self.synthesize_response(intent, scored_blocks, web_result, user_input)
@@ -211,7 +223,7 @@ class BRXCore:
         self.chat_history.append({"user": user_input, "brx": response, "intent": intent})
         if len(self.chat_history) > 50: self.chat_history.pop(0)
 
-        thought_info = f"[BRX v6.6.1 | Processador Autônomo | {len(self.chat_history)} msgs | Reasoning Mode]"
+        thought_info = f"[BRX v6.7 | Diálogo Ativo | {len(self.chat_history)} msgs | Reasoning Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -242,7 +254,7 @@ class BRXCore:
                 subprocess.run(["git", "init"], check=True)
                 subprocess.run(["git", "remote", "add", "origin", "https://github.com/dragonbrxos/BRX_AI.git"], check=True)
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.6.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.7: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except Exception as e:
@@ -250,8 +262,8 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("cria um codigo roblox"))
+    print(brx.get_response("cria um codigo"))
     print("-" * 20)
-    print(brx.get_response("para um simulador de click"))
+    print(brx.get_response("para roblox lua"))
     print("-" * 20)
-    print(brx.get_response("agora faz ele dar 100 de vida"))
+    print(brx.get_response("um simulador de click"))
