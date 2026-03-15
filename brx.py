@@ -1,8 +1,10 @@
 import json
 import os
 import re
-from datetime import datetime
 import collections
+import requests
+from datetime import datetime
+from bs4 import BeautifulSoup
 
 class BRXCore:
     def __init__(self, brain_dir='brain'):
@@ -12,6 +14,7 @@ class BRXCore:
         self.knowledge = {}
         self.reasoning = {}
         self.visited = []
+        self.web_search_enabled = False
         self.load_brain()
 
     def load_brain(self):
@@ -71,7 +74,7 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "2.0",
+            "versao": "2.1",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
             "estado": "ativo",
@@ -100,62 +103,81 @@ class BRXCore:
         char_analysis = self.analyze_chars(text_clean)
         return words, char_analysis
 
+    def search_web(self, query):
+        """Realiza uma pesquisa no DuckDuckGo sem usar API."""
+        headers = {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+        }
+        url = f"https://html.duckduckgo.com/html/?q={query}"
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                results = []
+                for result in soup.find_all('div', class_='result__body')[:3]:
+                    title = result.find('a', class_='result__a').text
+                    snippet = result.find('a', class_='result__snippet').text
+                    results.append(f"{title}: {snippet}")
+                return "\n".join(results) if results else "Nenhum resultado encontrado na web."
+            return "Erro ao acessar a web."
+        except Exception as e:
+            return f"Erro na pesquisa web: {e}"
+
     def get_response(self, user_input):
-        """Gera uma resposta baseada na análise de palavras e caracteres."""
+        """Gera uma resposta baseada na análise de palavras, caracteres e pesquisa web."""
         words, char_analysis = self.preprocess_input(user_input)
         
         if not words and not char_analysis:
             return "Olá! Eu sou o BRX. Estou pronto para analisar cada letra do que você disser."
 
-        # Motor de Inferência Granular
+        # 1. Buscar no Cérebro JSON Local
         scored_blocks = []
         for block_id, block in self.knowledge.items():
             score = 0
             block_text = block.get('texto', '').lower()
             block_words = set(block.get('palavras', []))
             
-            # 1. Pontuação por palavras (Macro)
             for word in words:
-                if word in block_words:
-                    score += 10  # Palavras exatas valem mais
-                elif word in block_text:
-                    score += 5   # Palavra contida no texto
+                if word in block_words: score += 10
+                elif word in block_text: score += 5
             
-            # 2. Pontuação por caracteres (Micro - A inteligência real do BRX)
             block_char_analysis = self.analyze_chars(block_text)
             for char, count in char_analysis.items():
                 if char in block_char_analysis:
-                    # Se o caractere existe no bloco, ganha pontos
-                    # Quanto mais próxima a frequência, maior a relevância
                     diff = abs(count - block_char_analysis[char])
                     score += max(0, 1 - (diff / 10)) 
 
             if score > 0:
                 scored_blocks.append((score, block))
 
-        # Ordenar por relevância
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
-        if scored_blocks:
-            best_block = scored_blocks[0][1]
+        # 2. Decidir se usa Pesquisa Web
+        web_result = ""
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 15):
+            web_result = self.search_web(user_input)
+
+        if scored_blocks or web_result:
+            thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres]"
             
-            # Simular "pensamento" baseado na análise
-            thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres e identifiquei padrões em '{best_block.get('titulo')}']"
-            
-            response = f"{thought_process}\n\n{best_block.get('texto')}"
+            if web_result:
+                response = f"{thought_process}\n(Informação da Web):\n{web_result}"
+            else:
+                best_block = scored_blocks[0][1]
+                response = f"{thought_process}\n(Cérebro Local - {best_block.get('titulo')}):\n{best_block.get('texto')}"
             
             # Registrar visita
             self.visited.append({
                 "timestamp": datetime.now().isoformat(),
                 "input": user_input,
-                "chars": dict(char_analysis),
-                "block_id": best_block.get('id')
+                "web_search": bool(web_result),
+                "block_id": scored_blocks[0][1].get('id') if scored_blocks else None
             })
             self.save_json(os.path.join(self.brain_dir, 'visited.json'), self.visited)
             
             return response
         else:
-            return "Interessante... Analisei cada letra da sua mensagem, mas ainda não tenho um padrão correspondente no meu cérebro JSON. Posso aprender isso?"
+            return "Interessante... Analisei cada letra da sua mensagem, mas ainda não tenho um padrão correspondente no meu cérebro JSON nem na web. Posso aprender isso?"
 
     def add_knowledge(self, block_id, text, category, keywords, title="", topic="", source=""):
         """Adiciona conhecimento e atualiza índices."""
@@ -181,7 +203,6 @@ class BRXCore:
         self.save_json(cat_path, cat_data)
         self.knowledge[block_id] = new_block
 
-        # Atualizar índice de palavras
         for word in keywords:
             word = word.lower()
             if word not in self.index: self.index[word] = []
@@ -189,11 +210,10 @@ class BRXCore:
         
         self.save_json(os.path.join(self.brain_dir, 'index', 'words.json'), self.index)
         
-        # Atualizar meta
         self.meta['total_blocos'] = len(self.knowledge)
         self.meta['ultimo_ciclo'] = datetime.now().isoformat()
         self.save_json(os.path.join(self.brain_dir, 'meta.json'), self.meta)
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("Teste de caracteres"))
+    print(brx.get_response("Teste"))
