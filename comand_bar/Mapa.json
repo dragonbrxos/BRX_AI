@@ -1,0 +1,230 @@
+{
+  "script_info": {
+    "name": "MegaWorld_V8_EnhancedEdition",
+    "type": "procedural_map_generator",
+    "engine": "Roblox",
+    "version": "V8",
+    "description": "Gerador procedural de mapa com múltiplos biomas, decoração dinâmica, barreiras de progresso e ambientação"
+  },
+
+  "services": {
+    "workspace": "Armazena o mapa gerado",
+    "lighting": "Controla iluminação, neblina e atmosfera"
+  },
+
+  "map_config": {
+    "zones_count": 6,
+    "zone_width": 450,
+    "zone_length": 550,
+    "mountain_height": 220
+  },
+
+  "biomes": [
+    {
+      "name": "Green_Valley",
+      "theme": "Forest",
+      "floor_color": "RGB(85,175,75)",
+      "path_color": "RGB(115,100,75)",
+      "rock_color": "RGB(100,100,100)",
+      "rebirth_requirement": 0
+    },
+    {
+      "name": "Golden_Desert",
+      "theme": "Desert",
+      "floor_color": "RGB(255,209,115)",
+      "path_color": "RGB(220,180,100)",
+      "rock_color": "RGB(160,120,80)",
+      "rebirth_requirement": 5
+    },
+    {
+      "name": "Crystal_Ice",
+      "theme": "Snow",
+      "floor_color": "RGB(200,245,255)",
+      "path_color": "RGB(170,220,240)",
+      "rock_color": "RGB(140,170,190)",
+      "rebirth_requirement": 15
+    },
+    {
+      "name": "Dark_Magma",
+      "theme": "Volcano",
+      "floor_color": "RGB(45,45,45)",
+      "path_color": "RGB(30,30,30)",
+      "rock_color": "RGB(20,20,20)",
+      "rebirth_requirement": 30
+    },
+    {
+      "name": "Cherry_Blossom",
+      "theme": "Sakura",
+      "floor_color": "RGB(255,200,220)",
+      "path_color": "RGB(230,180,200)",
+      "rock_color": "RGB(150,110,130)",
+      "rebirth_requirement": 50
+    },
+    {
+      "name": "Cyber_Neon",
+      "theme": "Cyber",
+      "floor_color": "RGB(15,15,25)",
+      "path_color": "RGB(30,30,50)",
+      "rock_color": "RGB(5,5,10)",
+      "rebirth_requirement": 100
+    }
+  ],
+
+  "map_structure": {
+    "container": {
+      "type": "Folder",
+      "parent": "Workspace",
+      "name": "MegaWorld_V8_EnhancedEdition"
+    },
+
+    "zones": {
+      "generation_logic": "loop_based",
+      "zone_creation": "each biome becomes one zone",
+      "zone_elements": [
+        "floor",
+        "path",
+        "mountain_walls",
+        "decorations",
+        "progression_barrier"
+      ]
+    }
+  },
+
+  "progression_system": {
+    "type": "rebirth_gate",
+    "barrier": {
+      "material": "ForceField",
+      "transparency": 0.35,
+      "color": "RGB(255,80,80)"
+    },
+    "ui_elements": [
+      "lock_icon",
+      "zone_name",
+      "rebirth_requirement_text",
+      "access_denied_label"
+    ],
+    "data_storage": {
+      "rebirth_requirement_value": "IntValue"
+    }
+  },
+
+  "environment_generation": {
+    "decorations": [
+      "trees",
+      "bushes",
+      "rocks",
+      "water",
+      "crystals",
+      "lava",
+      "cactus"
+    ],
+
+    "spawn_logic": {
+      "system": "random_distribution",
+      "random_roll": "1-12",
+      "spawn_rules": {
+        "1-4": "trees_or_cactus",
+        "5-6": "rocks",
+        "7-8": "bushes",
+        "9-10": "special_features"
+      }
+    }
+  },
+
+  "procedural_objects": {
+    "tree": {
+      "components": [
+        "trunk",
+        "bark_details",
+        "branches",
+        "sub_branches",
+        "leaf_layers",
+        "extra_leaves",
+        "optional_fruits",
+        "optional_glow"
+      ]
+    },
+
+    "bush": {
+      "layers": 4,
+      "material": "Grass"
+    },
+
+    "water_feature": {
+      "material": "Glass",
+      "transparency": 0.6,
+      "effects": ["ParticleEmitter"]
+    },
+
+    "cactus": {
+      "segments": "3-5",
+      "arms": "1-3"
+    },
+
+    "crystal": {
+      "material": "Neon",
+      "color": "Blue Crystal"
+    },
+
+    "lava_pool": {
+      "material": "Neon",
+      "effects": ["Fire"]
+    }
+  },
+
+  "geometry_factory": {
+    "functions": [
+      {
+        "name": "createPart",
+        "purpose": "Criar Part padronizada"
+      },
+      {
+        "name": "createWedge",
+        "purpose": "Criar WedgePart"
+      }
+    ]
+  },
+
+  "map_boundaries": {
+    "mountain_walls": {
+      "type": "procedural",
+      "height": "random_variation"
+    },
+
+    "anti_climb_barriers": {
+      "type": "invisible_wall",
+      "transparency": 1
+    },
+
+    "start_wall": "fechamento da primeira zona",
+    "end_wall": "fechamento da última zona"
+  },
+
+  "lighting_settings": {
+    "clock_time": 14.5,
+    "fog": {
+      "color": "RGB(170,200,255)",
+      "start": 300,
+      "end": 1500
+    },
+    "atmosphere": {
+      "density": 0.4,
+      "offset": 0.35,
+      "color": "RGB(180,210,255)",
+      "glare": 0.6
+    }
+  },
+
+  "special_objects": {
+    "abyss_floor": {
+      "size": [10000, 20, 10000],
+      "position": [0, -150, 0],
+      "material": "SmoothPlastic"
+    }
+  },
+
+  "debug_output": {
+    "success_banner": true,
+    "zone_list": true
+  }
+}
