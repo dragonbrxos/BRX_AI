@@ -3,6 +3,8 @@ import os
 import re
 import collections
 import requests
+import subprocess
+import uuid
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -15,6 +17,7 @@ class BRXCore:
         self.reasoning = {}
         self.visited = []
         self.web_search_enabled = False
+        self.auto_train_enabled = True
         self.load_brain()
 
     def load_brain(self):
@@ -74,7 +77,7 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "2.1",
+            "versao": "3.0",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
             "estado": "ativo",
@@ -115,16 +118,42 @@ class BRXCore:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 results = []
                 for result in soup.find_all('div', class_='result__body')[:3]:
-                    title = result.find('a', class_='result__a').text
-                    snippet = result.find('a', class_='result__snippet').text
-                    results.append(f"{title}: {snippet}")
+                    title_elem = result.find('a', class_='result__a')
+                    snippet_elem = result.find('a', class_='result__snippet')
+                    if title_elem and snippet_elem:
+                        results.append(f"{title_elem.text}: {snippet_elem.text}")
                 return "\n".join(results) if results else "Nenhum resultado encontrado na web."
             return "Erro ao acessar a web."
         except Exception as e:
             return f"Erro na pesquisa web: {e}"
 
+    def anonymize(self, text):
+        """Remove possíveis dados pessoais (emails, telefones, nomes próprios comuns)."""
+        # Regex simples para emails e telefones
+        text = re.sub(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '[EMAIL]', text)
+        text = re.sub(r'\b\d{2,3}[-.\s]??\d{4,5}[-.\s]??\d{4}\b', '[TELEFONE]', text)
+        return text
+
+    def sync_to_github(self):
+        """Sincroniza novos conhecimentos com o repositório GitHub."""
+        try:
+            # Verificar se estamos em um repositório git
+            if not os.path.exists('.git'):
+                return "Erro: Não é um repositório Git."
+            
+            subprocess.run(["git", "add", "brain/"], check=True)
+            # Commit apenas se houver mudanças
+            status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
+            if status:
+                subprocess.run(["git", "commit", "-m", f"BRX Auto-Treinamento: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+                subprocess.run(["git", "push", "origin", "main"], check=True)
+                return "Sincronização concluída com sucesso!"
+            return "Nenhuma mudança para sincronizar."
+        except Exception as e:
+            return f"Erro na sincronização: {e}"
+
     def get_response(self, user_input):
-        """Gera uma resposta baseada na análise de palavras, caracteres e pesquisa web."""
+        """Gera uma resposta e aprende com a interação."""
         words, char_analysis = self.preprocess_input(user_input)
         
         if not words and not char_analysis:
@@ -157,6 +186,20 @@ class BRXCore:
         if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 15):
             web_result = self.search_web(user_input)
 
+        # 3. Auto-Treinamento (Aprender com a Web ou com o Usuário)
+        if self.auto_train_enabled and web_result and "Erro" not in web_result:
+            new_id = str(uuid.uuid4())
+            clean_text = self.anonymize(web_result)
+            self.add_knowledge(
+                block_id=new_id,
+                text=clean_text,
+                category="training",
+                keywords=words[:5],
+                title=f"Aprendizado Web: {user_input[:20]}...",
+                topic="auto-treinamento",
+                source="duckduckgo"
+            )
+
         if scored_blocks or web_result:
             thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres]"
             
@@ -169,7 +212,7 @@ class BRXCore:
             # Registrar visita
             self.visited.append({
                 "timestamp": datetime.now().isoformat(),
-                "input": user_input,
+                "input": self.anonymize(user_input),
                 "web_search": bool(web_result),
                 "block_id": scored_blocks[0][1].get('id') if scored_blocks else None
             })

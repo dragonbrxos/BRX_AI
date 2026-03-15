@@ -1,30 +1,24 @@
-# BRX AI - Modelo de IA Leve para Arch Linux (v2.1)
+# BRX AI - Modelo de IA Colaborativo para Arch Linux (v3.0)
 
-O **BRX AI** é um modelo de inteligência artificial projetado para ser extremamente leve e eficiente, focado em rodar nativamente no **Arch Linux**. Ao contrário dos modelos tradicionais que utilizam arquivos de parâmetros gigantescos, o BRX utiliza uma estrutura modular baseada em **arquivos JSON** e processamento em **Python**.
+O **BRX AI** é um modelo de inteligência artificial revolucionário, projetado para ser extremamente leve, eficiente e **colaborativo**. Ele roda nativamente no **Arch Linux** e utiliza uma estrutura modular baseada em **arquivos JSON** e processamento em **Python**.
 
-## Novidades na Versão 2.1: Pesquisa Web Nativa
+## Novidades na Versão 3.0: Inteligência Coletiva
 
-Agora o BRX AI possui a capacidade de **pesquisar na web em tempo real** utilizando o motor DuckDuckGo, sem a necessidade de chaves de API pagas. Isso permite que a IA acesse informações atualizadas sempre que seu cérebro local não possuir a resposta.
+A versão 3.0 transforma o BRX em uma IA que aprende com a comunidade. Agora, o modelo possui:
+
+*   **Auto-Treinamento:** O BRX aprende com as pesquisas web e com as interações, gerando novos arquivos de conhecimento automaticamente.
+*   **Sincronização com GitHub:** Novos conhecimentos adquiridos podem ser enviados de volta para o repositório oficial, permitindo que todos os usuários se beneficiem do aprendizado coletivo.
+*   **Anonimização Nativa:** Um sistema de proteção que remove dados pessoais (emails, telefones) antes de qualquer sincronização, garantindo a privacidade.
+*   **Sem APIs ou Tokens:** Tudo funciona de forma nativa, utilizando lógica pura e ferramentas de sistema.
 
 ## Diferenciais do BRX
 
-*   **Análise Granular:** O BRX não analisa apenas palavras, mas cada **letra e caractere** individualmente, permitindo uma compreensão profunda e precisa do texto.
-*   **Pesquisa Web Ilimitada:** Função de busca integrada que pode ser ativada/desativada a qualquer momento.
-*   **Extremamente Leve:** Projetado para notebooks e sistemas com recursos limitados, ocupando apenas alguns megabytes.
-*   **Cérebro JSON:** Todo o conhecimento e raciocínio são armazenados em arquivos JSON legíveis e fáceis de manter.
-*   **Nativo para Arch Linux:** Desenvolvido com foco na simplicidade e eficiência do ecossistema Arch.
-
-## Estrutura do Cérebro
-
-O "cérebro" do BRX é dividido em módulos:
-- `brain/knowledge/`: Conhecimento categorizado (geral, código, ciência, tecnologia).
-- `brain/index/`: Índices de palavras para busca rápida.
-- `brain/reasoning/`: Fatos, conexões e lógica de pensamento.
-- `brain/meta.json`: Metadados e estado atual da IA.
+*   **Análise Granular:** Analisa cada **letra e caractere** individualmente para uma compreensão profunda.
+*   **Pesquisa Web Integrada:** Busca informações em tempo real via DuckDuckGo.
+*   **Extremamente Leve:** Ideal para notebooks e sistemas com recursos limitados.
+*   **Cérebro JSON:** Conhecimento transparente e editável.
 
 ## Instalação no Arch Linux
-
-### Método 1: Via Repositório (Recomendado)
 
 1.  Clone o repositório:
     ```bash
@@ -32,7 +26,7 @@ O "cérebro" do BRX é dividido em módulos:
     cd BRX_AI
     ```
 
-2.  Execute o script de instalação:
+2.  Instale as dependências e o sistema:
     ```bash
     chmod +x install.sh
     sudo ./install.sh
@@ -43,22 +37,12 @@ O "cérebro" do BRX é dividido em módulos:
     brx
     ```
 
-### Método 2: Via PKGBUILD (Padrão Arch)
+## Comandos do Chat
 
-1.  Clone o repositório e entre na pasta.
-2.  Gere o pacote e instale:
-    ```bash
-    makepkg -si
-    ```
-
-## Como Usar
-
-Após a instalação, basta digitar `brx` no seu terminal para iniciar uma conversa interativa com a IA. 
-
-*   **Comando `web`:** Dentro do chat, digite `web` para ativar ou desativar a pesquisa na internet em tempo real.
-*   **Comando `sair`:** Encerra a sessão do BRX.
-
-O BRX analisará cada caractere da sua entrada para fornecer a resposta mais precisa baseada em seu cérebro JSON ou na web.
+*   **`web`**: Ativa/Desativa a pesquisa na internet.
+*   **`treino`**: Ativa/Desativa o aprendizado automático.
+*   **`sync`**: Envia os novos conhecimentos aprendidos para o repositório GitHub (requer permissão de push).
+*   **`sair`**: Encerra o programa.
 
 ---
-Desenvolvido por **dragonbrxos** com o auxílio do **Manus AI**.
+Desenvolvido por **dragonbrxos** com o auxílio do **Manus AI**. Juntos, estamos construindo a inteligência do futuro, caractere por caractere.
