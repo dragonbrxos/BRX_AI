@@ -12,11 +12,13 @@ from bs4 import BeautifulSoup
 from behavior_analyzer import BehaviorAnalyzer
 from self_awareness import SelfAwareness
 from high_performance import HighPerformanceEngine
+from execution_profiles import ExecutionProfiles
 
 class BRXCoreTurbo:
-    """BRX AI v7.3 - Turbo Performance Edition: Otimizado para Velocidade, Hardware e Inteligência Agressiva."""
+    """BRX AI v7.4 - Unlimited Performance Edition: Otimizado para Velocidade, Hardware e Inteligência Agressiva, com perfis de execução e sem limites de tamanho de resposta.
+    """
     
-    def __init__(self, brain_dir='brain'):
+    def __init__(self, brain_dir=\'brain\'):
         self.brain_dir = brain_dir
         self.meta = {}
         self.knowledge = {}
@@ -30,6 +32,7 @@ class BRXCoreTurbo:
         self.behavior_analyzer = BehaviorAnalyzer()
         self.awareness = SelfAwareness()
         self.hp_engine = HighPerformanceEngine()
+        self.execution_profiles = ExecutionProfiles()
         
         # Perfil de Performance do Usuário
         self.user_profile = {
@@ -38,25 +41,26 @@ class BRXCoreTurbo:
             "total_interactions": 0,
             "preferred_languages": [],
             "dialogue_style": "neutral",
-            "avg_response_time": 0.0
+            "avg_response_time": 0.0,
+            "active_profile": self.execution_profiles.get_active_profile()[0]
         }
         
         self.load_brain()
 
     def load_brain(self):
         """Carrega os dados do cérebro com otimização de leitura."""
-        meta_path = os.path.join(self.brain_dir, 'meta.json')
+        meta_path = os.path.join(self.brain_dir, \'meta.json\')
         if os.path.exists(meta_path):
-            with open(meta_path, 'r') as f:
+            with open(meta_path, \'r\') as f:
                 try: self.meta = json.load(f)
                 except: self.meta = self.init_meta()
         else: self.meta = self.init_meta()
 
-        knowledge_dir = os.path.join(self.brain_dir, 'knowledge')
+        knowledge_dir = os.path.join(self.brain_dir, \'knowledge\')
         if os.path.exists(knowledge_dir):
             for filename in os.listdir(knowledge_dir):
-                if filename.endswith('.json'):
-                    with open(os.path.join(knowledge_dir, filename), 'r') as f:
+                if filename.endswith(\'.json\'):
+                    with open(os.path.join(knowledge_dir, filename), \'r\') as f:
                         try: self.knowledge.update(json.load(f))
                         except: pass
 
@@ -64,22 +68,23 @@ class BRXCoreTurbo:
         """Inicializa os metadados para a edição Turbo."""
         meta = {
             "nome": "BRX",
-            "versao": "7.3.0",
-            "edicao": "Turbo Performance Edition",
+            "versao": "7.4.0",
+            "edicao": "Unlimited Performance Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
-            "inteligencia_nivel": "extrema",
+            "inteligencia_nivel": "ilimitada",
             "velocidade_status": "maxima",
             "auto_otimizacao": True,
-            "multi_threading": True
+            "multi_threading": True,
+            "unlimited_code_size": True
         }
-        self.save_json(os.path.join(self.brain_dir, 'meta.json'), meta)
+        self.save_json(os.path.join(self.brain_dir, \'meta.json\'), meta)
         return meta
 
     def save_json(self, path, data):
         """Salva dados em JSON."""
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        with open(path, 'w') as f:
+        with open(path, \'w\') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
     def atomize(self, text):
@@ -91,7 +96,7 @@ class BRXCoreTurbo:
     def calculate_dna_similarity(self, dna1, dna2):
         """Compara assinatura de DNA com otimização matemática."""
         score = 0
-        f1, f2 = dna1['freq'], dna2['freq']
+        f1, f2 = dna1["freq"], dna2["freq"]
         all_chars = set(f1.keys()) | set(f2.keys())
         for char in all_chars:
             if char in f1 and char in f2:
@@ -121,16 +126,16 @@ class BRXCoreTurbo:
         }
 
     def process_web_knowledge_aggressively(self, web_results, user_query):
-        """PROCESSADOR AGRESSIVO: Extrai o máximo de informação técnica útil da web em paralelo."""
+        """PROCESSADOR AGRESSIVO: Extrai o máximo de informação técnica útil da web em paralelo, sem limites de tamanho."""
         if not web_results: return None
         
         processed = []
         user_query_lower = user_query.lower()
-        query_keywords = [w for w in re.findall(r'\w+', user_query_lower) if len(w) > 3]
+        query_keywords = [w for w in re.findall(r\'\\w+\', user_query_lower) if len(w) > 3]
         
         # Combinar todos os resultados da web
         full_content = "\n".join(web_results)
-        lines = full_content.split('\n')
+        lines = full_content.split(\'\n\')
         
         for line in lines:
             line_strip = line.strip()
@@ -152,17 +157,17 @@ class BRXCoreTurbo:
             if is_code:
                 processed.append(line_strip)
             elif is_relevant or is_tech:
-                clean_line = re.sub(r'\s+', ' ', line_strip)
+                clean_line = re.sub(r\'\\s+\', \' \', line_strip)
                 processed.append(clean_line)
         
         if not processed:
-            return full_content[:1200]
+            return full_content
         
-        # Retorna mais linhas para maior inteligência (até 50)
-        return "\n".join(processed[:50])
+        # Não há limite de linhas para profundidade máxima
+        return "\n".join(processed)
 
     def synthesize_code_turbo(self, analysis, user_input, web_results, blocks):
-        """SÍNTESE DE CÓDIGO TURBO: Cria código direto, rápido e completo."""
+        """SÍNTESE DE CÓDIGO TURBO: Cria código direto, rápido e completo, sem limites de tamanho."""
         lang = self.behavior_analyzer.detect_language_preference(user_input)
         lang = lang[0] if lang else "luau"
         
@@ -171,13 +176,14 @@ class BRXCoreTurbo:
         seen_titles = set()
         
         # Coletar blocos de código
+        knowledge_depth = self.execution_profiles.get_profile_setting("knowledge_search_depth")
         for score, block in blocks:
-            title = block.get('titulo', 'Módulo').split(' - ')[0]
+            title = block.get(\'titulo\', \'Módulo\').split(\' - \')[0]
             if title not in seen_titles and "texto" in block:
-                code_parts.append(block['texto'])
+                code_parts.append(block["texto"])
                 seen_titles.add(title)
                 found_code = True
-            if len(seen_titles) >= 5: break # Puxa mais referências
+            if len(seen_titles) >= knowledge_depth: break # Usa a profundidade do perfil
         
         if not found_code or len(code_parts) < 2:
             digested_web = self.process_web_knowledge_aggressively(web_results, user_input)
@@ -206,22 +212,27 @@ class BRXCoreTurbo:
         # Pesquisa na Web em Paralelo (Agressiva)
         web_results = []
         if self.web_search_enabled:
-            words = re.findall(r'\w+', user_input.lower())
+            words = re.findall(r\'\\w+\', user_input.lower())
             main_query = " ".join(words)
-            queries = [main_query, f"{main_query} code example", f"{main_query} documentation performance"]
+            
+            web_aggressiveness = self.execution_profiles.get_profile_setting("web_search_aggressiveness")
+            queries = [main_query]
+            if web_aggressiveness >= 2: queries.append(f"{main_query} code example")
+            if web_aggressiveness >= 3: queries.append(f"{main_query} documentation performance")
+            
             web_results, search_time = self.hp_engine.parallel_search(self.search_web_unit, queries)
         
         # Busca em base de conhecimento (DNA)
         scored_blocks = []
         user_dna = self.atomize(user_input)
         for block_id, block in self.knowledge.items():
-            block_text = block.get('texto', '')
-            block_dna = block.get('dna') or self.atomize(block_text)
+            block_text = block.get(\'texto\', \'\')
+            block_dna = block.get(\'dna\') or self.atomize(block_text)
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
-            if block.get('categoria') in analysis["request_categories"]:
+            if block.get(\'categoria\') in analysis["request_categories"]:
                 dna_score += 200 # Peso maior para categoria
-                for word in block.get('palavras', []):
+                for word in block.get(\'palavras\', []):
                     if word in user_input.lower():
                         dna_score += 250
             
@@ -247,7 +258,7 @@ class BRXCoreTurbo:
             if digested:
                 response = f"**Informação Técnica Turbo:**\n\n{digested}"
             elif scored_blocks:
-                response = scored_blocks[0][1].get('texto', 'Sem resposta disponível.')
+                response = scored_blocks[0][1].get(\'texto\', \'Sem resposta disponível.\')
             else:
                 response = "Analisei seu pedido com performance máxima, mas preciso de mais detalhes para uma resposta precisa."
 
@@ -265,21 +276,22 @@ class BRXCoreTurbo:
         
         # Info de Performance
         hp_stats = self.hp_engine.get_performance_stats()
-        thought_info = f"[BRX v7.3 | TURBO | {hp_stats} | {elapsed:.3f}s]"
+        thought_info = f"[BRX v7.4 | {self.execution_profiles.active_profile_name.upper()} | {hp_stats} | {elapsed:.3f}s]"
         
         return f"{thought_info}\n\n{response}"
 
     def search_web_unit(self, query):
-        """Unidade de pesquisa web para execução paralela."""
+        """Unidade de pesquisa web para execução paralela, sem limites de snippets."""
         headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"}
-        url = f"https://html.duckduckgo.com/html/?q={query.replace(' ', '+')}"
+        url = f"https://html.duckduckgo.com/html/?q={query.replace(\' \', \'+\')}"
         try:
             response = requests.get(url, headers=headers, timeout=5)
             if response.status_code == 200:
-                soup = BeautifulSoup(response.text, 'html.parser')
+                soup = BeautifulSoup(response.text, \'html.parser\')
                 results = []
-                for result in soup.find_all('div', class_='result__body')[:3]:
-                    snippet = result.find('a', class_='result__snippet')
+                max_snippets = self.execution_profiles.get_profile_setting("max_web_snippets")
+                for result in soup.find_all(\'div\', class_=\'result__body\')[:max_snippets]: # Limita pelo perfil
+                    snippet = result.find(\'a\', class_=\'result__snippet\')
                     if snippet: results.append(snippet.text.strip())
                 return "\n".join(results)
         except: return ""
@@ -289,7 +301,7 @@ class BRXCoreTurbo:
         """Sincronização Turbo com GitHub."""
         try:
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Turbo Performance v7.3: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Unlimited Performance v7.4: {datetime.now().strftime(\'%Y-%m-%d %H:%M\')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             return "Sincronizado com Performance Máxima!"
         except Exception as e:
@@ -298,3 +310,11 @@ class BRXCoreTurbo:
 if __name__ == "__main__":
     brx = BRXCoreTurbo()
     print(brx.get_response("cria um codigo roblox studio para command bar que deleta partes"))
+    print("\n" + "-" * 50 + "\n")
+    brx.execution_profiles.set_profile("lite")
+    print(f"Perfil alterado para: {brx.execution_profiles.get_active_profile()[0]}")
+    print(brx.get_response("me explica como funciona um loop for em python"))
+    print("\n" + "-" * 50 + "\n")
+    brx.execution_profiles.set_profile("ultra")
+    print(f"Perfil alterado para: {brx.execution_profiles.get_active_profile()[0]}")
+    print(brx.get_response("gere um sistema completo de inventário em python com banco de dados sqlite e interface gráfica tkinter"))
