@@ -1,0 +1,41 @@
+{
+  "math_addition": {
+    "id": "math_addition",
+    "texto": "Adição (+): Soma dois ou mais valores. Exemplo: 1 + 1 = 2.",
+    "categoria": "math",
+    "titulo": "Soma e Adição",
+    "topico": "aritmética básica",
+    "palavras": ["soma", "adição", "mais", "+"],
+    "dna": {
+      "freq": {"s": 1, "o": 1, "m": 1, "a": 1, "d": 1, "i": 1, "c": 1},
+      "seq": ["s", "o", "m", "a", "a", "d", "i", "c", "a", "o"],
+      "len": 10
+    }
+  },
+  "math_subtraction": {
+    "id": "math_subtraction",
+    "texto": "Subtração (-): Retira um valor de outro. Exemplo: 5 - 2 = 3.",
+    "categoria": "math",
+    "titulo": "Subtração e Menos",
+    "topico": "aritmética básica",
+    "palavras": ["subtração", "menos", "-"],
+    "dna": {
+      "freq": {"s": 1, "u": 1, "b": 1, "t": 1, "r": 1, "a": 1, "c": 1, "o": 1},
+      "seq": ["s", "u", "b", "t", "r", "a", "c", "a", "o"],
+      "len": 9
+    }
+  },
+  "math_multiplication": {
+    "id": "math_multiplication",
+    "texto": "Multiplicação (*): Soma um valor repetidas vezes. Exemplo: 2 * 3 = 6.",
+    "categoria": "math",
+    "titulo": "Multiplicação e Vezes",
+    "topico": "aritmética básica",
+    "palavras": ["multiplicação", "vezes", "*", "x"],
+    "dna": {
+      "freq": {"m": 1, "u": 1, "l": 1, "t": 1, "i": 1, "p": 1, "l": 1, "i": 1, "c": 1, "a": 1, "c": 1, "o": 1},
+      "seq": ["m", "u", "l", "t", "i", "p", "l", "i", "c", "a", "c", "a", "o"],
+      "len": 13
+    }
+  }
+}

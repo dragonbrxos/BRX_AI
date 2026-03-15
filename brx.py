@@ -12,10 +12,9 @@ class BRXCore:
     def __init__(self, brain_dir='brain'):
         self.brain_dir = brain_dir
         self.meta = {}
-        self.index = {}
         self.knowledge = {}
-        self.reasoning = {}
         self.visited = []
+        self.context = [] # Memória de Curto Prazo (Contexto)
         self.web_search_enabled = False
         self.auto_train_enabled = True
         self.load_brain()
@@ -47,7 +46,7 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "3.3",
+            "versao": "3.4",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
             "estado": "ativo",
@@ -64,12 +63,7 @@ class BRXCore:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
     def atomize(self, text):
-        """
-        MOTOR DE DECOMPOSIÇÃO ATÔMICA:
-        Analisa cada letra, número e caractere individualmente.
-        """
-        # Mantemos o case original para análise de maiúsculas/minúsculas se necessário,
-        # mas para a comparação de DNA padrão usamos lower().
+        """MOTOR DE DECOMPOSIÇÃO ATÔMICA: Analisa cada letra e caractere."""
         text_lower = text.lower()
         char_freq = collections.Counter(text_lower)
         char_sequence = [c for c in text_lower if c.isalnum()]
@@ -83,67 +77,60 @@ class BRXCore:
         """Compara a assinatura de DNA (letras e caracteres) entre dois textos."""
         score = 0
         f1, f2 = dna1['freq'], dna2['freq']
-        
         all_chars = set(f1.keys()) | set(f2.keys())
         for char in all_chars:
             if char in f1 and char in f2:
-                # Se o caractere existe em ambos, pontua baseado na proximidade da frequência
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 2 - (diff / 2)) # Aumentado o peso da letra individual
-        
+                score += max(0, 2 - (diff / 2))
         return score
 
     def get_response(self, user_input):
-        """Gera uma resposta baseada na análise atômica profunda."""
+        """Gera uma resposta baseada em análise atômica, contexto e raciocínio."""
+        # 1. Adicionar ao Contexto (Memória de Curto Prazo)
+        self.context.append({"role": "user", "content": user_input})
+        if len(self.context) > 10: self.context.pop(0) # Mantém as últimas 10 interações
+
+        # 2. Analisar Entrada Atômica
         user_dna = self.atomize(user_input)
-        
         if user_dna['len'] == 0:
             return "Olá! Eu sou o BRX. Estou pronto para analisar cada letra e número do que você disser."
 
-        # 1. Busca no Cérebro JSON Local (Análise Atômica de Letras e Caracteres)
+        # 3. Raciocínio Lógico e Busca no Cérebro
         scored_blocks = []
         for block_id, block in self.knowledge.items():
             block_text = block.get('texto', '')
-            block_dna = block.get('dna')
-            if not block_dna:
-                block_dna = self.atomize(block_text)
+            block_dna = block.get('dna') or self.atomize(block_text)
             
-            # Comparação Atômica (DNA de Caracteres)
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
-            # Bônus por palavras-chave
+            # Bônus por palavras-chave e contexto
             words = re.findall(r'\w+', user_input.lower())
             for word in words:
                 if word in block.get('palavras', []):
                     dna_score += 15
+            
+            # Verificar se o bloco se relaciona com o contexto anterior
+            if len(self.context) > 1:
+                prev_input = self.context[-2]["content"].lower()
+                for word in re.findall(r'\w+', prev_input):
+                    if word in block.get('palavras', []):
+                        dna_score += 5
 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
 
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
-        # 2. Pesquisa Web
+        # 4. Pesquisa Web
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 20):
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 25):
             web_result = self.search_web(user_input)
 
-        # 3. Auto-Treinamento
-        if self.auto_train_enabled and web_result and "Erro" not in web_result:
-            new_id = str(uuid.uuid4())
-            self.add_knowledge(
-                block_id=new_id,
-                text=web_result,
-                category="learned",
-                keywords=re.findall(r'\w+', user_input.lower())[:5],
-                title=f"Aprendizado Atômico: {user_input[:20]}...",
-                topic="auto-treinamento"
-            )
-
+        # 5. Gerar Resposta Final
         if scored_blocks or web_result:
-            # Informação de análise atômica
-            top_chars = sorted(user_dna['freq'].items(), key=lambda x: x[1], reverse=True)[:5]
+            top_chars = sorted(user_dna['freq'].items(), key=lambda x: x[1], reverse=True)[:3]
             char_info = ", ".join([f"'{c}':{n}" for c, n in top_chars])
-            thought_process = f"[BRX Atômico: {user_dna['len']} caracteres analisados | DNA: {char_info}]"
+            thought_process = f"[BRX Atômico: {user_dna['len']} chars | Contexto: {len(self.context)} | DNA: {char_info}]"
             
             if web_result:
                 response = f"{thought_process}\n(Web):\n{web_result}"
@@ -151,34 +138,26 @@ class BRXCore:
                 best_block = scored_blocks[0][1]
                 response = f"{thought_process}\n(Cérebro Local - {best_block.get('titulo')}):\n{best_block.get('texto')}"
             
+            self.context.append({"role": "brx", "content": response})
             return response
         else:
-            return "Analisei cada letra e caractere da sua mensagem, mas ainda não encontrei um padrão correspondente no meu cérebro atômico. Posso aprender isso?"
+            return "Analisei cada letra e o contexto da nossa conversa, mas ainda não encontrei um padrão correspondente. Posso aprender isso?"
 
     def add_knowledge(self, block_id, text, category, keywords, title="", topic="", source=""):
         dna = self.atomize(text)
         new_block = {
-            "id": block_id,
-            "texto": text,
-            "categoria": category,
-            "fonte": source,
-            "titulo": title,
-            "topico": topic,
-            "palavras": [k.lower() for k in keywords],
-            "dna": dna
+            "id": block_id, "texto": text, "categoria": category, "fonte": source,
+            "titulo": title, "topico": topic, "palavras": [k.lower() for k in keywords], "dna": dna
         }
-        
         cat_path = os.path.join(self.brain_dir, 'knowledge', f"{category}.json")
         cat_data = {}
         if os.path.exists(cat_path):
             with open(cat_path, 'r') as f:
                 try: cat_data = json.load(f)
                 except: pass
-        
         cat_data[block_id] = new_block
         self.save_json(cat_path, cat_data)
         self.knowledge[block_id] = new_block
-        
         self.meta['total_blocos'] = len(self.knowledge)
         self.meta['ultimo_ciclo'] = datetime.now().isoformat()
         self.save_json(os.path.join(self.brain_dir, 'meta.json'), self.meta)
@@ -202,11 +181,11 @@ class BRXCore:
     def sync_to_github(self):
         try:
             subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Atômico v3.3: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Base Completa v3.4: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             return "Sincronizado!"
         except: return "Erro sync."
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("ABC 123"))
+    print(brx.get_response("1 + 1"))

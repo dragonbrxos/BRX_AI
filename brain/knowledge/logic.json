@@ -1,0 +1,41 @@
+{
+  "logic_and": {
+    "id": "logic_and",
+    "texto": "Operador AND (E): Retorna verdadeiro apenas se ambas as condições forem verdadeiras. Exemplo: (A == 1) AND (B == 1).",
+    "categoria": "logic",
+    "titulo": "Lógica AND",
+    "topico": "operadores lógicos",
+    "palavras": ["and", "e", "lógica", "condição"],
+    "dna": {
+      "freq": {"a": 2, "n": 1, "d": 1, "e": 1, "l": 1, "o": 1, "g": 1, "i": 1, "c": 1},
+      "seq": ["a", "n", "d", "e", "l", "o", "g", "i", "c", "a"],
+      "len": 10
+    }
+  },
+  "logic_or": {
+    "id": "logic_or",
+    "texto": "Operador OR (OU): Retorna verdadeiro se pelo menos uma das condições for verdadeira. Exemplo: (A == 1) OR (B == 0).",
+    "categoria": "logic",
+    "titulo": "Lógica OR",
+    "topico": "operadores lógicos",
+    "palavras": ["or", "ou", "lógica", "condição"],
+    "dna": {
+      "freq": {"o": 2, "r": 1, "u": 1, "l": 1, "g": 1, "i": 1, "c": 1},
+      "seq": ["o", "r", "o", "u", "l", "o", "g", "i", "c", "a"],
+      "len": 10
+    }
+  },
+  "logic_if_else": {
+    "id": "logic_if_else",
+    "texto": "Estrutura IF/ELSE: Se (IF) a condição for verdadeira, execute o bloco A. Senão (ELSE), execute o bloco B.",
+    "categoria": "logic",
+    "titulo": "Condicionais IF/ELSE",
+    "topico": "estruturas de controle",
+    "palavras": ["if", "else", "se", "senão", "condicional"],
+    "dna": {
+      "freq": {"i": 1, "f": 1, "e": 2, "l": 1, "s": 1, "o": 1},
+      "seq": ["i", "f", "e", "l", "s", "e"],
+      "len": 6
+    }
+  }
+}
