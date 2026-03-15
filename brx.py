@@ -47,8 +47,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.7",
-            "edicao": "Interactive Edition",
+            "versao": "6.8",
+            "edicao": "Coder Pro Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -93,7 +93,7 @@ class BRXCore:
         if len(user_input.split()) < 3 and any(w in user_input.lower() for w in ["cria", "faz", "gera", "script", "código"]):
             return "ambiguous_request"
 
-        if any(w in full_input for w in ["lua", "script", "programar", "código lua", "faz", "cria", "gera", "simulador", "clicker"]):
+        if any(w in full_input for w in ["lua", "script", "programar", "código lua", "faz", "cria", "gera", "simulador", "clicker", "command bar", "roblox studio"]):
             return "programming"
             
         if any(w in user_input.lower() for w in ["promocode", "resgate", "ganhar", "recompensa", "codes"]):
@@ -114,46 +114,78 @@ class BRXCore:
         lines = web_content.split('\n')
         processed = []
         for line in lines:
-            if any(w in line.lower() for w in ["function", "local", "print", "if", "then", "end", "loop", "while"]):
+            if any(w in line.lower() for w in ["function", "local", "print", "if", "then", "end", "loop", "while", "instance.new", "getservice"]):
                 processed.append(line.strip())
         return "\n".join(processed) if processed else web_content[:500]
 
     def synthesize_code(self, intent, user_input, web_result):
-        """MOTOR DE SÍNTESE DIRETA: Entrega o código sem enrolação."""
+        """MOTOR DE GERAÇÃO DE LÓGICA COMPLETA: Entrega scripts inteiros."""
         global_context = self.get_global_context().lower()
         full_query = (global_context + " " + user_input).lower()
 
-        code = "-- BRX AI: Script Autônomo (Luau)\n"
+        code = "-- BRX AI: Script Profissional (Luau)\n"
         
-        if "roblox" in full_query:
+        if "roblox" in full_query or "studio" in full_query:
+            # Lógica para Command Bar (Scripts que executam ações imediatas)
+            if "command bar" in full_query or "barra de comando" in full_query:
+                code += "-- Script para Command Bar (Execução Imediata)\n"
+                if "deleta" in full_query or "remove" in full_query:
+                    code += "for _, obj in pairs(game.Workspace:GetChildren()) do\n"
+                    code += "    if obj:IsA('Part') then obj:Destroy() end\n"
+                    code += "end\nprint('Objetos removidos!')\n"
+                elif "cria" in full_query or "gera" in full_query:
+                    code += "local p = Instance.new('Part', game.Workspace)\n"
+                    code += "p.Size = Vector3.new(10, 1, 10)\n"
+                    code += "p.Position = Vector3.new(0, 10, 0)\n"
+                    code += "p.Anchored = true\nprint('Parte criada!')\n"
+                else:
+                    code += "print('Olá do BRX AI no Roblox Studio!')\n"
+                return code
+
+            # Lógica para Simuladores e Jogos (Scripts de Servidor)
             code += "local Players = game:GetService('Players')\n"
+            code += "local DataStoreService = game:GetService('DataStoreService')\n\n"
             
             if "click" in full_query or "simulador" in full_query:
-                code += "-- Sistema de Leaderstats e Cliques\n"
+                code += "-- Sistema de Leaderstats e Cliques (Completo)\n"
                 code += "Players.PlayerAdded:Connect(function(player)\n"
                 code += "    local ls = Instance.new('Folder', player); ls.Name = 'leaderstats'\n"
                 code += "    local c = Instance.new('IntValue', ls); c.Name = 'Clicks'; c.Value = 0\n"
+                code += "    \n"
+                code += "    -- Evento de Clique (Exemplo)\n"
+                code += "    player.Chatted:Connect(function(msg)\n"
+                code += "        if msg == '/click' then c.Value = c.Value + 1 end\n"
+                code += "    end)\n"
                 code += "end)\n"
             
             if "vida" in full_query or "health" in full_query:
-                code += "-- Sistema de Vida Customizada\n"
+                code += "\n-- Sistema de Vida Customizada e Regeneração\n"
                 code += "Players.PlayerAdded:Connect(function(p)\n"
                 code += "    p.CharacterAdded:Connect(function(c)\n"
                 code += "        local h = c:WaitForChild('Humanoid')\n"
                 code += "        h.MaxHealth = 100; h.Health = 100\n"
+                code += "        \n"
+                code += "        -- Regeneração Simples\n"
+                code += "        spawn(function()\n"
+                code += "            while h.Health > 0 do\n"
+                code += "                if h.Health < h.MaxHealth then h.Health = h.Health + 1 end\n"
+                code += "                wait(1)\n"
+                code += "            end\n"
+                code += "        end)\n"
                 code += "    end)\n"
                 code += "end)\n"
                 
             return code
 
+        # Se for outro tipo de código, processar o que veio da Web de forma mais agressiva
         digested_web = self.process_web_knowledge(web_result, user_input)
         if digested_web:
-            return f"-- Código processado via Web:\n{digested_web}"
+            return f"-- Código gerado via Web:\n{digested_web}"
 
-        return "-- Não consegui sintetizar o código exato. Pode detalhar mais?"
+        return "-- Não consegui gerar o script completo. Pode me dar mais detalhes do que o script deve fazer?"
 
     def synthesize_response(self, intent, blocks, web_result, user_input):
-        """MOTOR DE SÍNTESE: Resposta direta e assertiva com Diálogo Ativo."""
+        """MOTOR DE SÍNTESE: Resposta direta e assertiva com Foco em Código."""
         if intent == "ambiguous_request":
             return "Entendi que você quer criar algo, mas o pedido está um pouco vago. Pode me dar mais detalhes? Por exemplo: é um script para Roblox, um programa em Python ou algo para o Arch Linux?"
 
@@ -162,15 +194,12 @@ class BRXCore:
 
         if intent == "programming":
             global_context = self.get_global_context().lower()
-            full_query = (global_context + " " + user_input).lower()
+            full_query = (global_context + " " + user_input.lower())
             
-            # Se o usuário pediu para 'criar' ou 'fazer', mas não especificou o quê
-            if any(w in user_input.lower() for w in ["cria", "faz", "gera", "script", "código"]) and not any(w in full_query for w in ["roblox", "python", "lua", "java", "click", "vida"]):
-                return "Claro! Eu posso criar esse código para você. Mas antes, me diga: qual linguagem ou plataforma você quer usar? (Ex: Roblox Lua, Python, etc.)"
-
-            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida"]):
+            # Se o usuário pediu para 'criar' ou 'fazer', ou se o contexto é de programação
+            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida", "command bar", "studio"]):
                 code = self.synthesize_code(intent, user_input, web_result)
-                return f"```lua\n{code}\n```"
+                return f"Aqui está o seu script completo:\n\n```lua\n{code}\n```"
             
             digested = self.process_web_knowledge(web_result, user_input)
             return f"Processamento de Conhecimento:\n\n{digested if digested else 'Não encontrei dados suficientes.'}"
@@ -185,7 +214,7 @@ class BRXCore:
         return best_block.get('texto', '')
 
     def get_response(self, user_input):
-        """Gera uma resposta completa com Diálogo de Refinamento."""
+        """Gera uma resposta completa com Foco em Soluções Prontas."""
         user_dna = self.atomize(user_input)
         intent = self.think(user_input)
         
@@ -223,7 +252,7 @@ class BRXCore:
         self.chat_history.append({"user": user_input, "brx": response, "intent": intent})
         if len(self.chat_history) > 50: self.chat_history.pop(0)
 
-        thought_info = f"[BRX v6.7 | Diálogo Ativo | {len(self.chat_history)} msgs | Reasoning Mode]"
+        thought_info = f"[BRX v6.8 | Coder Pro | {len(self.chat_history)} msgs | Reasoning Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -254,7 +283,7 @@ class BRXCore:
                 subprocess.run(["git", "init"], check=True)
                 subprocess.run(["git", "remote", "add", "origin", "https://github.com/dragonbrxos/BRX_AI.git"], check=True)
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.7: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.8: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except Exception as e:
@@ -262,8 +291,6 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("cria um codigo"))
+    print(brx.get_response("cria um codigo roblox studio para command bar"))
     print("-" * 20)
-    print(brx.get_response("para roblox lua"))
-    print("-" * 20)
-    print(brx.get_response("um simulador de click"))
+    print(brx.get_response("que deleta todas as partes do mapa"))
