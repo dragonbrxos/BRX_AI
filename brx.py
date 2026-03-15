@@ -5,6 +5,7 @@ import collections
 import requests
 import subprocess
 import uuid
+import random
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -13,8 +14,7 @@ class BRXCore:
         self.brain_dir = brain_dir
         self.meta = {}
         self.knowledge = {}
-        self.visited = []
-        self.context = [] # Memória de Curto Prazo (Contexto)
+        self.context = []
         self.web_search_enabled = False
         self.auto_train_enabled = True
         self.load_brain()
@@ -36,20 +36,14 @@ class BRXCore:
                         try: self.knowledge.update(json.load(f))
                         except: pass
 
-        visited_path = os.path.join(self.brain_dir, 'visited.json')
-        if os.path.exists(visited_path):
-            with open(visited_path, 'r') as f:
-                try: self.visited = json.load(f)
-                except: self.visited = []
-
     def init_meta(self):
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "3.4",
+            "versao": "3.5",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
-            "estado": "ativo",
+            "estado": "consciente",
             "total_blocos": 0,
             "ultimo_ciclo": datetime.now().isoformat()
         }
@@ -66,10 +60,8 @@ class BRXCore:
         """MOTOR DE DECOMPOSIÇÃO ATÔMICA: Analisa cada letra e caractere."""
         text_lower = text.lower()
         char_freq = collections.Counter(text_lower)
-        char_sequence = [c for c in text_lower if c.isalnum()]
         return {
             "freq": dict(char_freq),
-            "seq": char_sequence,
             "len": len(text)
         }
 
@@ -84,83 +76,88 @@ class BRXCore:
                 score += max(0, 2 - (diff / 2))
         return score
 
-    def get_response(self, user_input):
-        """Gera uma resposta baseada em análise atômica, contexto e raciocínio."""
-        # 1. Adicionar ao Contexto (Memória de Curto Prazo)
-        self.context.append({"role": "user", "content": user_input})
-        if len(self.context) > 10: self.context.pop(0) # Mantém as últimas 10 interações
+    def think(self, user_input):
+        """
+        MOTOR DE PENSAMENTO:
+        Analisa a intenção do usuário antes de gerar a resposta.
+        Decide se a resposta deve ser numérica, textual ou baseada em código.
+        """
+        user_input = user_input.lower()
+        intent = "general"
+        
+        # Identificar intenção por padrões de caracteres e palavras
+        if any(c in user_input for c in "+-*/=" ) or any(w in user_input for w in ["quanto", "calcula", "soma"]):
+            intent = "math"
+        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust"]):
+            intent = "programming"
+        elif len(user_input) < 5:
+            intent = "greeting"
+            
+        return intent
 
-        # 2. Analisar Entrada Atômica
+    def synthesize_response(self, intent, blocks, web_result):
+        """
+        MOTOR DE SÍNTESE:
+        Monta a resposta final de forma inteligente, não apenas copiando.
+        """
+        if not blocks and not web_result:
+            return "Estou processando cada letra do que você disse, mas ainda não tenho uma resposta completa. Posso aprender isso?"
+
+        # Se houver resultado da web, prioriza a informação nova
+        if web_result:
+            return f"Pensei sobre isso e encontrei na web: {web_result}"
+
+        # Se houver blocos locais, sintetiza a melhor resposta
+        best_block = blocks[0][1]
+        text = best_block.get('texto', '')
+        
+        # Lógica de síntese baseada na intenção
+        if intent == "math":
+            return f"Analisando os números: {text}"
+        elif intent == "programming":
+            return f"Aqui está a lógica de programação que encontrei: {text}"
+        elif intent == "greeting":
+            return f"Olá! Sou o BRX. Como posso ajudar com meu cérebro atômico hoje?"
+            
+        return text
+
+    def get_response(self, user_input):
+        """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
+        # 1. Atomizar
         user_dna = self.atomize(user_input)
         if user_dna['len'] == 0:
-            return "Olá! Eu sou o BRX. Estou pronto para analisar cada letra e número do que você disser."
+            return "Olá! Eu sou o BRX. Digite algo para eu começar a pensar."
 
-        # 3. Raciocínio Lógico e Busca no Cérebro
+        # 2. Pensar (Intenção)
+        intent = self.think(user_input)
+        
+        # 3. Buscar no Cérebro
         scored_blocks = []
         for block_id, block in self.knowledge.items():
             block_text = block.get('texto', '')
             block_dna = block.get('dna') or self.atomize(block_text)
-            
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
-            # Bônus por palavras-chave e contexto
-            words = re.findall(r'\w+', user_input.lower())
-            for word in words:
-                if word in block.get('palavras', []):
-                    dna_score += 15
-            
-            # Verificar se o bloco se relaciona com o contexto anterior
-            if len(self.context) > 1:
-                prev_input = self.context[-2]["content"].lower()
-                for word in re.findall(r'\w+', prev_input):
-                    if word in block.get('palavras', []):
-                        dna_score += 5
-
+            # Bônus por intenção correta
+            if block.get('categoria') == intent:
+                dna_score += 10
+                
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
 
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
-        # 4. Pesquisa Web
+        # 4. Pesquisa Web (se necessário)
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 25):
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 20):
             web_result = self.search_web(user_input)
 
-        # 5. Gerar Resposta Final
-        if scored_blocks or web_result:
-            top_chars = sorted(user_dna['freq'].items(), key=lambda x: x[1], reverse=True)[:3]
-            char_info = ", ".join([f"'{c}':{n}" for c, n in top_chars])
-            thought_process = f"[BRX Atômico: {user_dna['len']} chars | Contexto: {len(self.context)} | DNA: {char_info}]"
-            
-            if web_result:
-                response = f"{thought_process}\n(Web):\n{web_result}"
-            else:
-                best_block = scored_blocks[0][1]
-                response = f"{thought_process}\n(Cérebro Local - {best_block.get('titulo')}):\n{best_block.get('texto')}"
-            
-            self.context.append({"role": "brx", "content": response})
-            return response
-        else:
-            return "Analisei cada letra e o contexto da nossa conversa, mas ainda não encontrei um padrão correspondente. Posso aprender isso?"
-
-    def add_knowledge(self, block_id, text, category, keywords, title="", topic="", source=""):
-        dna = self.atomize(text)
-        new_block = {
-            "id": block_id, "texto": text, "categoria": category, "fonte": source,
-            "titulo": title, "topico": topic, "palavras": [k.lower() for k in keywords], "dna": dna
-        }
-        cat_path = os.path.join(self.brain_dir, 'knowledge', f"{category}.json")
-        cat_data = {}
-        if os.path.exists(cat_path):
-            with open(cat_path, 'r') as f:
-                try: cat_data = json.load(f)
-                except: pass
-        cat_data[block_id] = new_block
-        self.save_json(cat_path, cat_data)
-        self.knowledge[block_id] = new_block
-        self.meta['total_blocos'] = len(self.knowledge)
-        self.meta['ultimo_ciclo'] = datetime.now().isoformat()
-        self.save_json(os.path.join(self.brain_dir, 'meta.json'), self.meta)
+        # 5. Sintetizar Resposta
+        response = self.synthesize_response(intent, scored_blocks, web_result)
+        
+        # Registrar pensamento no histórico
+        thought_info = f"[BRX Pensando: Intenção '{intent}' | Analisados {user_dna['len']} caracteres]"
+        return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -181,11 +178,11 @@ class BRXCore:
     def sync_to_github(self):
         try:
             subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Base Completa v3.4: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Pensante v3.5: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             return "Sincronizado!"
         except: return "Erro sync."
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("1 + 1"))
+    print(brx.get_response("Olá"))
