@@ -14,7 +14,7 @@ class BRXCore:
         self.brain_dir = brain_dir
         self.meta = {}
         self.knowledge = {}
-        self.context = [] # Memória de Contexto Profunda
+        self.chat_history = [] # Memória de Longo Prazo (Toda a sessão)
         self.web_search_enabled = True
         self.auto_train_enabled = True
         self.system_access_enabled = False
@@ -47,8 +47,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.4.1",
-            "edicao": "Reasoning Edition",
+            "versao": "6.5.1",
+            "edicao": "Global Attention Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -80,108 +80,92 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 5.0 - (diff / 0.5))
+                score += max(0, 5.0 - (diff / 0.4))
         return score
 
+    def get_global_context(self):
+        """Retorna todo o histórico do chat como uma única string de contexto."""
+        return " ".join([f"Usuário: {c['user']} BRX: {c['brx']}" for c in self.chat_history])
+
     def think(self, user_input):
-        """MOTOR DE PENSAMENTO: Analisa a intenção e o contexto."""
-        user_input = user_input.lower()
+        """MOTOR DE PENSAMENTO: Analisa a intenção baseada em TODO o histórico."""
+        global_context = self.get_global_context().lower()
+        full_input = (global_context + " " + user_input).lower()
         
-        # Verificar contexto anterior para continuidade
-        context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
-        full_input = context_str + " " + user_input
-
-        # Diferenciar 'Promocodes' de 'Scripts de Programação'
-        if any(w in user_input for w in ["promocode", "resgate", "ganhar", "recompensa"]):
-            return "promocodes"
-
-        # Programação (Prioridade Alta e Contextual)
         if any(w in full_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "lua", "simulador", "clicker"]):
             return "programming"
-            
-        # Saudações
-        if any(w in user_input for w in ["oi", "olá", "opa", "bom dia", "boa tarde", "boa noite"]):
-            return "greeting"
-        
-        # Arch Linux
-        if any(w in user_input for w in ["pacman", "yay", "aur", "instalar", "atualizar", "remover", "arch"]):
+        if any(w in full_input for w in ["pacman", "yay", "aur", "instalar", "atualizar", "remover", "arch"]):
             return "arch_linux"
-            
+        if any(w in user_input.lower() for w in ["oi", "olá", "opa", "bom dia", "boa tarde", "boa noite"]):
+            return "greeting"
         return "general"
 
     def synthesize_code(self, intent, user_input, web_result):
-        """MOTOR DE SÍNTESE DE CÓDIGO: Constrói scripts reais."""
-        user_input = user_input.lower()
-        context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
-        full_query = context_str + " " + user_input
+        """MOTOR DE SÍNTESE DE CÓDIGO: Constrói scripts reais baseados no contexto global."""
+        global_context = self.get_global_context().lower()
+        full_query = (global_context + " " + user_input).lower()
 
-        # Lógica para Simulador de Click no Roblox
-        if "roblox" in full_query and ("click" in full_query or "simulador" in full_query):
-            return """-- BRX AI: Script de Simulador de Click (Roblox Luau)
-local Players = game:GetService("Players")
-local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        # Lógica Incremental para Roblox
+        if "roblox" in full_query:
+            code = "-- BRX AI: Script Roblox (Luau)\n"
+            code += "local Players = game:GetService('Players')\n"
+            
+            if "click" in full_query or "simulador" in full_query:
+                code += "-- Sistema de Leaderstats e Cliques\n"
+                code += "Players.PlayerAdded:Connect(function(player)\n"
+                code += "    local leaderstats = Instance.new('Folder', player)\n"
+                code += "    leaderstats.Name = 'leaderstats'\n"
+                code += "    local clicks = Instance.new('IntValue', leaderstats)\n"
+                code += "    clicks.Name = 'Clicks'\n"
+                code += "    clicks.Value = 0\n"
+                code += "end)\n"
+            
+            if "vida" in full_query or "health" in full_query:
+                code += "-- Sistema de Vida Customizada\n"
+                code += "Players.PlayerAdded:Connect(function(player)\n"
+                code += "    player.CharacterAdded:Connect(function(char)\n"
+                code += "        local humanoid = char:WaitForChild('Humanoid')\n"
+                code += "        humanoid.MaxHealth = 100\n"
+                code += "        humanoid.Health = 100\n"
+                code += "    end)\n"
+                code += "end)\n"
+            
+            return code
 
--- Criar Leaderstats (Cliques)
-Players.PlayerAdded:Connect(function(player)
-    local leaderstats = Instance.new("Folder")
-    leaderstats.Name = "leaderstats"
-    leaderstats.Parent = player
-
-    local clicks = Instance.new("IntValue")
-    clicks.Name = "Clicks"
-    clicks.Value = 0
-    clicks.Parent = leaderstats
-end)
-
--- Lógica de Clique (Exemplo de Ferramenta)
--- Coloque este script dentro de uma Tool no StarterPack
-local tool = script.Parent
-tool.Activated:Connect(function()
-    local player = Players:GetPlayerFromCharacter(tool.Parent)
-    if player then
-        player.leaderstats.Clicks.Value = player.leaderstats.Clicks.Value + 1
-        print("Clique registrado para: " .. player.Name)
-    end
-end)"""
-
-        # Se não tiver um template, tentar extrair e adaptar da Web
         if web_result:
-            return f"-- Script gerado com base em dados da Web:\n{web_result}\n\n-- Nota: Adapte as variáveis ao seu projeto Roblox Studio."
+            return f"-- Script adaptado via Pesquisa Web:\n{web_result}"
 
-        return "-- Não consegui gerar o código exato. Pode me dar mais detalhes sobre o que o script deve fazer?"
+        return "-- Não consegui gerar o código exato. Pode me dar mais detalhes?"
 
     def synthesize_response(self, intent, blocks, web_result, user_input):
-        """MOTOR DE SÍNTESE: Monta a resposta final de forma assertiva."""
+        """MOTOR DE SÍNTESE: Monta a resposta final considerando o contexto global."""
         if intent == "greeting":
-            return "Olá! Sou o BRX AI. Como posso ajudar com seu código ou sistema hoje?"
-
-        if intent == "promocodes":
-            return "Entendi que você busca códigos de resgate (promocodes). No momento, não tenho uma lista de códigos ativos, mas posso pesquisar os mais recentes para você!"
+            return "Olá! Sou o BRX AI. Estou acompanhando toda a nossa conversa. Como posso continuar te ajudando?"
 
         if intent == "programming":
-            # Se o usuário pediu para 'criar' ou 'fazer' algo, ou se é uma continuação de um pedido de código
-            context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
-            if any(w in (context_str + " " + user_input.lower()) for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker"]):
-                code = self.synthesize_code(intent, user_input, web_result)
-                return f"Aqui está o script que você pediu:\n\n```lua\n{code}\n```\n\nPosso ajudar a configurar isso no seu Roblox Studio?"
+            global_context = self.get_global_context().lower()
+            full_query = (global_context + " " + user_input).lower()
             
-            return f"Lógica de Programação encontrada:\n\n{web_result if web_result else 'Não encontrei detalhes específicos.'}"
+            if any(w in full_query for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker", "vida"]):
+                code = self.synthesize_code(intent, user_input, web_result)
+                return f"Com base em tudo o que conversamos, aqui está o script atualizado:\n\n```lua\n{code}\n```\n\nEste código combina seus pedidos anteriores."
+            
+            return f"Informação técnica encontrada:\n\n{web_result if web_result else 'Não encontrei detalhes específicos.'}"
 
         if not blocks and not web_result:
-            return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica. Posso pesquisar na Web agora?"
+            return "Analisei cada palavra da nossa conversa, mas ainda não tenho uma resposta técnica. Posso pesquisar na Web agora?"
 
         best_block = blocks[0][1]
-        text = best_block.get('texto', '')
-        return text
+        return best_block.get('texto', '')
 
     def get_response(self, user_input):
-        """Gera uma resposta completa com Memória de Contexto."""
+        """Gera uma resposta completa com Atenção Global."""
         user_dna = self.atomize(user_input)
         intent = self.think(user_input)
         
-        # Adicionar ao contexto ANTES de gerar a resposta
-        self.context.append({"user": user_input, "intent": intent})
-        if len(self.context) > 10: self.context.pop(0)
+        # Pesquisa Web usando o contexto acumulado
+        global_context_keywords = " ".join(set(re.findall(r'\w+', self.get_global_context().lower())))
+        search_query = f"{global_context_keywords} {user_input}" if global_context_keywords else user_input
 
         needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado"])
         
@@ -192,10 +176,10 @@ end)"""
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 80
+                dna_score += 100
                 for word in block.get('palavras', []):
                     if word in user_input.lower():
-                        dna_score += 120
+                        dna_score += 150
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -203,13 +187,16 @@ end)"""
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 200):
-            query = f"exemplo de script lua roblox {user_input}" if intent == "programming" else user_input
-            web_result = self.search_web(query)
+        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 250):
+            web_result = self.search_web(search_query[:100])
 
         response = self.synthesize_response(intent, scored_blocks, web_result, user_input)
         
-        thought_info = f"[BRX v6.4.1 | Intenção '{intent}' | {user_dna['len']} chars | Reasoning Mode]"
+        # Salvar no histórico de longo prazo
+        self.chat_history.append({"user": user_input, "brx": response, "intent": intent})
+        if len(self.chat_history) > 50: self.chat_history.pop(0)
+
+        thought_info = f"[BRX v6.5.1 | Atenção Global | {len(self.chat_history)} msgs | Reasoning Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -242,7 +229,7 @@ end)"""
                 subprocess.run(["git", "remote", "add", "origin", "https://github.com/dragonbrxos/BRX_AI.git"], check=True)
 
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.4.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.5.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except Exception as e:
@@ -253,3 +240,5 @@ if __name__ == "__main__":
     print(brx.get_response("cria um codigo roblox"))
     print("-" * 20)
     print(brx.get_response("para um simulador de click"))
+    print("-" * 20)
+    print(brx.get_response("agora faz ele dar 100 de vida"))
