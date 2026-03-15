@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "type": "game_system",
+    "category": "shop_station",
+    "name": "egg_station",
+    "version": "17",
+    "engine": "roblox"
+  },
+
+  "dependencies": {
+    "services": [
+      "RunService"
+    ],
+    "required_objects": [
+      "workspace",
+      "SpawnLocation"
+    ]
+  },
+
+  "config": {
+    "station_name": "EggStation",
+    "egg_price": 100,
+    "colors": {
+      "base": [25,25,30],
+      "neon": [0,255,255],
+      "capsule": [220,245,255],
+      "egg": [255,255,255]
+    },
+    "interaction_key": "E"
+  },
+
+  "components": {
+
+    "model": {
+      "type": "Model",
+      "parent": "workspace"
+    },
+
+    "parts": [
+
+      {
+        "id": "base",
+        "shape": "Cylinder",
+        "material": "Metal",
+        "size": [1.2,5.5,5.5],
+        "color": "config.colors.base"
+      },
+
+      {
+        "id": "top",
+        "shape": "Cylinder",
+        "material": "Neon",
+        "size": [0.9,4.8,4.8],
+        "color": "config.colors.neon"
+      },
+
+      {
+        "id": "capsule",
+        "shape": "Sphere",
+        "material": "Glass",
+        "transparency": 0.85,
+        "size": [4.2,4.2,4.2]
+      },
+
+      {
+        "id": "egg",
+        "shape": "Sphere",
+        "size": [2.4,2.8,2.4],
+        "color": "config.colors.egg"
+      }
+
+    ]
+  },
+
+  "ui": {
+
+    "type": "SurfaceGui",
+
+    "elements": [
+
+      {
+        "type": "text",
+        "id": "price_label",
+        "value": "config.egg_price",
+        "font": "GothamBlack"
+      },
+
+      {
+        "type": "icon",
+        "id": "mouse_indicator",
+        "style": "mouse"
+      }
+
+    ]
+
+  },
+
+  "interaction": {
+
+    "system": "proximity_prompt",
+
+    "settings": {
+      "action_text": "COMPRAR",
+      "object_text": "OVO COMUM",
+      "key": "config.interaction_key"
+    }
+
+  },
+
+  "animations": [
+
+    {
+      "target": "egg",
+      "type": "bobbing",
+      "engine": "RunService.Heartbeat",
+      "amplitude": 0.15
+    },
+
+    {
+      "target": "capsule",
+      "type": "pulse_transparency"
+    }
+
+  ],
+
+  "events": [
+
+    {
+      "trigger": "interaction.activated",
+      "system": "purchase"
+    }
+
+  ],
+
+  "systems": {
+
+    "purchase": {
+
+      "check": "player.coins >= config.egg_price",
+
+      "actions": [
+        "remove_coins",
+        "give_pet"
+      ]
+
+    }
+
+  }
+
+}
