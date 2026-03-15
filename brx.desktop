@@ -8,4 +8,5 @@ Terminal=false
 Categories=Utility;Development;AI;
 Keywords=AI;Arch;Linux;Atomic;
 StartupNotify=true
-EOF
+X-GNOME-Autostart-enabled=true
+GenericName=Assistente de IA

@@ -17,7 +17,7 @@ class BRXCore:
         self.context = []
         self.web_search_enabled = False
         self.auto_train_enabled = True
-        self.system_access_enabled = False # Segurança: Acesso ao sistema desativado por padrão
+        self.system_access_enabled = False
         self.load_brain()
 
     def load_brain(self):
@@ -31,7 +31,6 @@ class BRXCore:
 
         knowledge_dir = os.path.join(self.brain_dir, 'knowledge')
         if os.path.exists(knowledge_dir):
-            # Carregamento sob demanda para economizar RAM em notebooks
             for filename in os.listdir(knowledge_dir):
                 if filename.endswith('.json'):
                     with open(os.path.join(knowledge_dir, filename), 'r') as f:
@@ -42,10 +41,10 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "4.0",
-            "edicao": "Arch Edition",
+            "versao": "6.0",
+            "edicao": "Professional Edition",
             "nascimento": datetime.now().isoformat(),
-            "estado": "operacional",
+            "estado": "consciente",
             "total_blocos": 0,
             "ultimo_ciclo": datetime.now().isoformat()
         }
@@ -75,7 +74,7 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 2.5 - (diff / 1.5)) # Peso aumentado para precisão no Arch
+                score += max(0, 3.0 - (diff / 1.2)) # Peso refinado para maior assertividade
         return score
 
     def think(self, user_input):
@@ -94,30 +93,15 @@ class BRXCore:
             
         return intent
 
-    def execute_system_command(self, command):
-        """Executa comandos do sistema (apenas se autorizado)."""
-        if not self.system_access_enabled:
-            return "Acesso ao sistema desativado. Use o comando 'sys' para ativar."
-        
-        try:
-            # Segurança: Apenas comandos informativos por padrão
-            safe_commands = ["pacman -Qs", "systemctl status", "uname -a", "uptime", "free -h"]
-            if not any(command.startswith(safe) for safe in safe_commands):
-                return f"Comando '{command}' não está na lista de segurança."
-            
-            result = subprocess.run(command.split(), capture_output=True, text=True, timeout=5)
-            return result.stdout if result.stdout else result.stderr
-        except Exception as e:
-            return f"Erro ao executar comando: {e}"
-
     def synthesize_response(self, intent, blocks, web_result):
-        """MOTOR DE SÍNTESE: Monta a resposta final."""
+        """MOTOR DE SÍNTESE: Monta a resposta final de forma assertiva."""
         if not blocks and not web_result:
-            return "Analisei cada letra, mas ainda não tenho uma resposta para o seu Arch. Posso pesquisar na Wiki?"
+            return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica para o seu Arch. Posso pesquisar na Wiki agora?"
 
         if web_result:
-            return f"Encontrei esta informação técnica: {web_result}"
+            return f"Encontrei esta informação técnica atualizada:\n\n{web_result}"
 
+        # Selecionar o melhor bloco com base no DNA e na intenção
         best_block = blocks[0][1]
         text = best_block.get('texto', '')
         
@@ -125,6 +109,8 @@ class BRXCore:
             return f"Dica do Arch: {text}"
         elif intent == "systemd":
             return f"Gerenciamento de Sistema: {text}"
+        elif intent == "programming":
+            return f"Lógica de Programação: {text}"
             
         return text
 
@@ -132,7 +118,7 @@ class BRXCore:
         """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
         user_dna = self.atomize(user_input)
         if user_dna['len'] == 0:
-            return "BRX Arch Edition pronto. Como posso ajudar com seu sistema hoje?"
+            return "BRX Professional Edition pronto. Como posso ajudar com seu sistema hoje?"
 
         intent = self.think(user_input)
         
@@ -143,7 +129,7 @@ class BRXCore:
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 20 # Bônus alto para intenção do sistema
+                dna_score += 25 # Bônus de intenção refinado
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -151,14 +137,13 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 30):
-            # Pesquisa focada na Arch Wiki se a intenção for Arch
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 35):
             query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
             web_result = self.search_web(query)
 
         response = self.synthesize_response(intent, scored_blocks, web_result)
         
-        thought_info = f"[BRX Arch: Intenção '{intent}' | {user_dna['len']} chars | RAM Otimizada]"
+        thought_info = f"[BRX v6.0 | Intenção '{intent}' | {user_dna['len']} chars | Otimizado]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -173,17 +158,36 @@ class BRXCore:
                     title = result.find('a', class_='result__a').text
                     snippet = result.find('a', class_='result__snippet').text
                     results.append(f"{title}: {snippet}")
-                return "\n".join(results) if results else "Sem resultados na Arch Wiki."
+                return "\n".join(results) if results else "Sem resultados técnicos."
             return "Erro web."
         except: return "Erro na pesquisa."
 
-    def sync_to_github(self):
+    def check_internet(self):
+        """Verifica se há conexão com a internet."""
         try:
+            requests.get("https://github.com", timeout=5)
+            return True
+        except:
+            return False
+
+    def sync_to_github(self):
+        """Sincronização resiliente com o GitHub."""
+        if not self.check_internet():
+            return "Erro: Sem conexão com a internet para sincronizar."
+        
+        try:
+            # Verificar se é um repositório git
+            if not os.path.exists(".git"):
+                return "Erro: Diretório não é um repositório Git."
+
             subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Arch Edition v4.0: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.0: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
-            return "Sincronizado!"
-        except: return "Erro sync."
+            return "Sincronizado com sucesso!"
+        except subprocess.CalledProcessError as e:
+            return f"Erro no Git: {e}"
+        except Exception as e:
+            return f"Erro inesperado no Sync: {e}"
 
 if __name__ == "__main__":
     brx = BRXCore()

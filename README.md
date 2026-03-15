@@ -1,44 +1,39 @@
-# BRX AI - Inteligência Atômica Nativa (Arch Linux) 🧬🐧
+# BRX AI - Professional Edition (Arch Linux) 🧬🐧
 
-O **BRX AI** é um modelo de inteligência artificial extremamente leve, projetado para rodar nativamente no Arch Linux. Ele utiliza um **Motor de Decomposição Atômica** que analisa cada letra, número e caractere individualmente, processando informações através de arquivos JSON modulares em vez de parâmetros pesados.
+O **BRX AI** é um ecossistema de inteligência artificial nativo para Arch Linux, focado em leveza, transparência e colaboração. Esta versão **Professional Edition (v6.0)** traz um gerenciamento completo de ciclo de vida e um motor de pensamento atômico refinado.
 
 ---
 
-## 🚀 Instalação Rápida (One-Liner)
+## 🚀 Gerenciamento de Ciclo de Vida
 
-Copie e cole o comando abaixo no seu terminal para instalar o BRX AI automaticamente no seu Arch Linux:
+Agora você pode instalar, remover ou atualizar o BRX AI com um único comando profissional:
 
+### Instalação Limpa
 ```bash
-git clone https://github.com/dragonbrxos/BRX_AI.git && cd BRX_AI && chmod +x setup.sh && ./setup.sh
+git clone https://github.com/dragonbrxos/BRX_AI.git && cd BRX_AI && chmod +x brx-manager.sh && sudo ./brx-manager.sh install
+```
+
+### Atualizar para a Versão Mais Recente
+```bash
+sudo brx-manager update
+```
+
+### Remover Completamente do Sistema
+```bash
+sudo brx-manager remove
 ```
 
 ---
 
-## 🧠 Características Principais
+## 🧠 O que há de novo na v6.0:
+*   **Motor Atômico Refinado:** Lógica de DNA de caracteres com maior assertividade nas respostas técnicas.
+*   **Sync Resiliente:** Sistema de sincronização com verificação de internet e tratamento de erros de Git.
+*   **Identidade Visual:** Ícone nativo SVG e integração completa com o menu de aplicativos do Arch.
+*   **Gerenciador de Sistema:** Script `brx-manager.sh` para controle total da instalação no diretório `/opt`.
 
-*   **Motor Atômico v4.0:** Analisa a "assinatura de DNA" de cada frase caractere por caractere.
-*   **Cérebro JSON:** Conhecimento estruturado em arquivos leves e editáveis.
-*   **Especialista em Arch:** Conhecimento integrado de Pacman, Systemd e Arch Wiki.
-*   **Pesquisa Web Nativa:** Busca informações em tempo real via DuckDuckGo (sem API).
-*   **Auto-Treinamento Colaborativo:** Aprende com conversas e sincroniza com o GitHub.
-*   **Otimizado para Notebooks:** Baixíssimo consumo de RAM e processamento.
-
-## 💬 Comandos no Chat
-
-Após a instalação, basta digitar `brx` no terminal. Dentro do chat, você pode usar:
-
-*   `web`: Ativa/Desativa a pesquisa na internet.
-*   `treino`: Ativa/Desativa o aprendizado automático.
-*   `sys`: Ativa/Desativa o acesso a informações do sistema.
-*   `sync`: Sincroniza o conhecimento aprendido com o repositório GitHub.
-*   `sair`: Encerra o chat.
-
-## 🛠️ Estrutura do Projeto
-
-*   `brx.py`: O núcleo da IA (Motor de Pensamento e Síntese).
-*   `cli.py`: Interface de terminal interativa.
-*   `brain/`: Pasta contendo o conhecimento atômico em JSON.
-*   `setup.sh`: Script de instalação automatizada para Arch Linux.
+## 💬 Como Usar
+*   **Interface Gráfica:** Procure por **"BRX AI"** no seu menu ou digite `brx-gui`.
+*   **Terminal:** Digite `brx` para o chat CLI clássico.
 
 ---
-Desenvolvido por **dragonbrxos** com o auxílio do **Manus AI**. Juntos, estamos construindo a inteligência do futuro, caractere por caractere. 🚀
+Desenvolvido por **dragonbrxos** com o auxílio do **Manus AI**. Inteligência nativa, leve e poderosa. 🚀
