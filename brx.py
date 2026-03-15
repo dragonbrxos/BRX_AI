@@ -15,7 +15,7 @@ class BRXCore:
         self.meta = {}
         self.knowledge = {}
         self.context = []
-        self.web_search_enabled = True # Ativado por padrão na Coder Edition
+        self.web_search_enabled = True
         self.auto_train_enabled = True
         self.system_access_enabled = False
         self.load_brain()
@@ -74,7 +74,7 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 4.0 - (diff / 0.8)) # Peso aumentado para precisão máxima
+                score += max(0, 4.0 - (diff / 0.8))
         return score
 
     def think(self, user_input):
@@ -101,7 +101,6 @@ class BRXCore:
         if web_result:
             return f"Encontrei esta informação técnica via Pesquisa Web:\n\n{web_result}"
 
-        # Selecionar o melhor bloco com base no DNA e na intenção
         best_block = blocks[0][1]
         text = best_block.get('texto', '')
         
@@ -122,6 +121,9 @@ class BRXCore:
 
         intent = self.think(user_input)
         
+        # Detectar se a pergunta exige informação recente (ex: datas, novidades)
+        needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado"])
+        
         scored_blocks = []
         for block_id, block in self.knowledge.items():
             block_text = block.get('texto', '')
@@ -140,8 +142,8 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        # Pesquisa web se o conhecimento local for insuficiente ou se for uma pergunta de programação complexa
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 100 or intent == "programming"):
+        # Priorizar pesquisa web se for detectada necessidade de informação recente ou se o conhecimento local for fraco
+        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 120):
             query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
             web_result = self.search_web(query)
 
@@ -159,7 +161,6 @@ class BRXCore:
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 results = []
-                # Extrair os 3 primeiros resultados para maior profundidade
                 for result in soup.find_all('div', class_='result__body')[:3]:
                     title_elem = result.find('a', class_='result__a')
                     snippet_elem = result.find('a', class_='result__snippet')
@@ -201,4 +202,4 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("Como fazer um script de vida no roblox?"))
+    print(brx.get_response("Quais as novidades do Arch Linux em Março de 2026?"))
