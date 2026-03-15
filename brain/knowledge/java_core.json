@@ -1,0 +1,28 @@
+{
+  "java_hello_world": {
+    "id": "java_hello_world",
+    "texto": "Classe Java 'Olá Mundo':\npublic class Main {\n  public static void main(String[] args) {\n    System.out.println('Olá Mundo!');\n  }\n}",
+    "categoria": "programming",
+    "titulo": "Olá Mundo (Java)",
+    "topico": "java core",
+    "palavras": ["java", "classe", "main", "system", "print"],
+    "dna": {
+      "freq": {"j": 1, "a": 2, "v": 1, "c": 1, "l": 1, "s": 1, "e": 1, "m": 1, "i": 1, "n": 1},
+      "seq": ["j", "a", "v", "a", "c", "l", "a", "s", "s", "e", "m", "a", "i", "n"],
+      "len": 14
+    }
+  },
+  "java_loop_for": {
+    "id": "java_loop_for",
+    "texto": "Loop For em Java:\nfor (int i = 0; i < 10; i++) {\n  System.out.println('Contagem: ' + i);\n}",
+    "categoria": "programming",
+    "titulo": "Loop For (Java)",
+    "topico": "java core",
+    "palavras": ["java", "loop", "for", "int", "print"],
+    "dna": {
+      "freq": {"j": 1, "a": 1, "v": 1, "l": 1, "o": 2, "p": 1, "f": 1, "r": 1},
+      "seq": ["j", "a", "v", "a", "l", "o", "o", "p", "f", "o", "r"],
+      "len": 11
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "csharp_unity_jump": {
+    "id": "csharp_unity_jump",
+    "texto": "Sistema de Pulo no Unity (C#):\nusing UnityEngine;\npublic class PlayerJump : MonoBehaviour {\n  public float jumpForce = 5f;\n  private Rigidbody2D rb;\n  void Start() { rb = GetComponent<Rigidbody2D>(); }\n  void Update() {\n    if (Input.GetKeyDown(KeyCode.Space)) {\n      rb.velocity = Vector2.up * jumpForce;\n    }\n  }\n}",
+    "categoria": "programming",
+    "titulo": "Pulo Unity (C#)",
+    "topico": "csharp unity",
+    "palavras": ["csharp", "unity", "pulo", "jump", "rigidbody"],
+    "dna": {
+      "freq": {"c": 1, "s": 1, "h": 1, "a": 1, "r": 1, "p": 1, "u": 1, "n": 1, "i": 1, "t": 1, "y": 1},
+      "seq": ["c", "s", "h", "a", "r", "p", "u", "n", "i", "t", "y", "p", "u", "l", "o"],
+      "len": 15
+    }
+  }
+}

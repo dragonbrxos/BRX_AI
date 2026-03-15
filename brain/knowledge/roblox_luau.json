@@ -1,0 +1,28 @@
+{
+  "roblox_health_script": {
+    "id": "roblox_health_script",
+    "texto": "Script de Vida no Roblox (Luau):\nlocal part = script.Parent\npart.Touched:Connect(function(hit)\n  local character = hit.Parent\n  local humanoid = character:FindFirstChild('Humanoid')\n  if humanoid then\n    humanoid.Health = 100\n  end\nend)",
+    "categoria": "programming",
+    "titulo": "Script de Vida (Roblox)",
+    "topico": "roblox luau",
+    "palavras": ["roblox", "luau", "vida", "health", "touched"],
+    "dna": {
+      "freq": {"r": 1, "o": 1, "b": 1, "l": 1, "x": 1, "u": 1, "a": 1, "v": 1, "i": 1, "d": 1},
+      "seq": ["r", "o", "b", "l", "o", "x", "l", "u", "a", "u", "v", "i", "d", "a"],
+      "len": 14
+    }
+  },
+  "roblox_remote_event": {
+    "id": "roblox_remote_event",
+    "texto": "RemoteEvent no Roblox:\n-- Servidor\ngame.ReplicatedStorage.RemoteEvent.OnServerEvent:Connect(function(player)\n  print(player.Name .. ' disparou o evento!')\nend)\n-- Cliente\ngame.ReplicatedStorage.RemoteEvent:FireServer()",
+    "categoria": "programming",
+    "titulo": "RemoteEvent (Roblox)",
+    "topico": "roblox luau",
+    "palavras": ["roblox", "remote", "event", "server", "client"],
+    "dna": {
+      "freq": {"r": 2, "o": 1, "b": 1, "l": 1, "x": 1, "e": 2, "m": 1, "t": 1, "v": 1, "n": 1},
+      "seq": ["r", "o", "b", "l", "o", "x", "r", "e", "m", "o", "t", "e", "e", "v", "e", "n", "t"],
+      "len": 17
+    }
+  }
+}

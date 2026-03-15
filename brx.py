@@ -15,7 +15,7 @@ class BRXCore:
         self.meta = {}
         self.knowledge = {}
         self.context = []
-        self.web_search_enabled = False
+        self.web_search_enabled = True # Ativado por padrão na Coder Edition
         self.auto_train_enabled = True
         self.system_access_enabled = False
         self.load_brain()
@@ -41,8 +41,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.0",
-            "edicao": "Professional Edition",
+            "versao": "6.1",
+            "edicao": "Coder Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -74,7 +74,7 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 3.0 - (diff / 1.2)) # Peso refinado para maior assertividade
+                score += max(0, 4.0 - (diff / 0.8)) # Peso aumentado para precisão máxima
         return score
 
     def think(self, user_input):
@@ -88,7 +88,7 @@ class BRXCore:
             intent = "systemd"
         elif any(c in user_input for c in "+-*/=" ) or "quanto" in user_input:
             intent = "math"
-        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust"]):
+        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script"]):
             intent = "programming"
             
         return intent
@@ -96,10 +96,10 @@ class BRXCore:
     def synthesize_response(self, intent, blocks, web_result):
         """MOTOR DE SÍNTESE: Monta a resposta final de forma assertiva."""
         if not blocks and not web_result:
-            return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica para o seu Arch. Posso pesquisar na Wiki agora?"
+            return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica. Posso pesquisar na Web agora?"
 
         if web_result:
-            return f"Encontrei esta informação técnica atualizada:\n\n{web_result}"
+            return f"Encontrei esta informação técnica via Pesquisa Web:\n\n{web_result}"
 
         # Selecionar o melhor bloco com base no DNA e na intenção
         best_block = blocks[0][1]
@@ -110,7 +110,7 @@ class BRXCore:
         elif intent == "systemd":
             return f"Gerenciamento de Sistema: {text}"
         elif intent == "programming":
-            return f"Lógica de Programação: {text}"
+            return f"Lógica de Programação:\n\n{text}"
             
         return text
 
@@ -118,7 +118,7 @@ class BRXCore:
         """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
         user_dna = self.atomize(user_input)
         if user_dna['len'] == 0:
-            return "BRX Professional Edition pronto. Como posso ajudar com seu sistema hoje?"
+            return "BRX Coder Edition pronto. Como posso ajudar com seu código hoje?"
 
         intent = self.think(user_input)
         
@@ -129,7 +129,10 @@ class BRXCore:
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 25 # Bônus de intenção refinado
+                dna_score += 40
+                for word in block.get('palavras', []):
+                    if word in user_input.lower():
+                        dna_score += 60
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -137,30 +140,38 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 35):
+        # Pesquisa web se o conhecimento local for insuficiente ou se for uma pergunta de programação complexa
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 100 or intent == "programming"):
             query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
             web_result = self.search_web(query)
 
         response = self.synthesize_response(intent, scored_blocks, web_result)
         
-        thought_info = f"[BRX v6.0 | Intenção '{intent}' | {user_dna['len']} chars | Otimizado]"
+        thought_info = f"[BRX v6.1 | Intenção '{intent}' | {user_dna['len']} chars | Web Ativa]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
-        headers = {"User-Agent": "Mozilla/5.0"}
+        """MOTOR DE PESQUISA WEB: Busca e extrai conteúdo técnico."""
+        headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
         url = f"https://html.duckduckgo.com/html/?q={query}"
         try:
             response = requests.get(url, headers=headers, timeout=10)
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, 'html.parser')
                 results = []
-                for result in soup.find_all('div', class_='result__body')[:2]:
-                    title = result.find('a', class_='result__a').text
-                    snippet = result.find('a', class_='result__snippet').text
-                    results.append(f"{title}: {snippet}")
-                return "\n".join(results) if results else "Sem resultados técnicos."
-            return "Erro web."
-        except: return "Erro na pesquisa."
+                # Extrair os 3 primeiros resultados para maior profundidade
+                for result in soup.find_all('div', class_='result__body')[:3]:
+                    title_elem = result.find('a', class_='result__a')
+                    snippet_elem = result.find('a', class_='result__snippet')
+                    if title_elem and snippet_elem:
+                        title = title_elem.text.strip()
+                        snippet = snippet_elem.text.strip()
+                        results.append(f"--- {title} ---\n{snippet}")
+                
+                return "\n\n".join(results) if results else "Sem resultados técnicos encontrados na Web."
+            return "Erro ao acessar a Web (Status: " + str(response.status_code) + ")."
+        except Exception as e:
+            return f"Erro na pesquisa Web: {str(e)}"
 
     def check_internet(self):
         """Verifica se há conexão com a internet."""
@@ -176,12 +187,11 @@ class BRXCore:
             return "Erro: Sem conexão com a internet para sincronizar."
         
         try:
-            # Verificar se é um repositório git
             if not os.path.exists(".git"):
                 return "Erro: Diretório não é um repositório Git."
 
             subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.0: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except subprocess.CalledProcessError as e:
@@ -191,4 +201,4 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("Como atualizar o arch?"))
+    print(brx.get_response("Como fazer um script de vida no roblox?"))
