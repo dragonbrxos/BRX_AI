@@ -14,7 +14,7 @@ class BRXCore:
         self.brain_dir = brain_dir
         self.meta = {}
         self.knowledge = {}
-        self.context = []
+        self.context = [] # Memória de Contexto Profunda
         self.web_search_enabled = True
         self.auto_train_enabled = True
         self.system_access_enabled = False
@@ -47,8 +47,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.3",
-            "edicao": "Fix & Code Edition",
+            "versao": "6.4.1",
+            "edicao": "Reasoning Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -80,13 +80,25 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 5.0 - (diff / 0.6)) # Peso aumentado para precisão máxima
+                score += max(0, 5.0 - (diff / 0.5))
         return score
 
     def think(self, user_input):
-        """MOTOR DE PENSAMENTO: Analisa a intenção do usuário com maior precisão."""
+        """MOTOR DE PENSAMENTO: Analisa a intenção e o contexto."""
         user_input = user_input.lower()
         
+        # Verificar contexto anterior para continuidade
+        context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
+        full_input = context_str + " " + user_input
+
+        # Diferenciar 'Promocodes' de 'Scripts de Programação'
+        if any(w in user_input for w in ["promocode", "resgate", "ganhar", "recompensa"]):
+            return "promocodes"
+
+        # Programação (Prioridade Alta e Contextual)
+        if any(w in full_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "lua", "simulador", "clicker"]):
+            return "programming"
+            
         # Saudações
         if any(w in user_input for w in ["oi", "olá", "opa", "bom dia", "boa tarde", "boa noite"]):
             return "greeting"
@@ -94,55 +106,84 @@ class BRXCore:
         # Arch Linux
         if any(w in user_input for w in ["pacman", "yay", "aur", "instalar", "atualizar", "remover", "arch"]):
             return "arch_linux"
-        
-        # Systemd
-        if any(w in user_input for w in ["systemctl", "serviço", "status", "start", "stop"]):
-            return "systemd"
-        
-        # Matemática
-        if any(c in user_input for c in "+-*/=") or "quanto" in user_input:
-            return "math"
-        
-        # Programação (Prioridade Alta)
-        if any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "bladex", "combat", "lua"]):
-            return "programming"
             
         return "general"
+
+    def synthesize_code(self, intent, user_input, web_result):
+        """MOTOR DE SÍNTESE DE CÓDIGO: Constrói scripts reais."""
+        user_input = user_input.lower()
+        context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
+        full_query = context_str + " " + user_input
+
+        # Lógica para Simulador de Click no Roblox
+        if "roblox" in full_query and ("click" in full_query or "simulador" in full_query):
+            return """-- BRX AI: Script de Simulador de Click (Roblox Luau)
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+-- Criar Leaderstats (Cliques)
+Players.PlayerAdded:Connect(function(player)
+    local leaderstats = Instance.new("Folder")
+    leaderstats.Name = "leaderstats"
+    leaderstats.Parent = player
+
+    local clicks = Instance.new("IntValue")
+    clicks.Name = "Clicks"
+    clicks.Value = 0
+    clicks.Parent = leaderstats
+end)
+
+-- Lógica de Clique (Exemplo de Ferramenta)
+-- Coloque este script dentro de uma Tool no StarterPack
+local tool = script.Parent
+tool.Activated:Connect(function()
+    local player = Players:GetPlayerFromCharacter(tool.Parent)
+    if player then
+        player.leaderstats.Clicks.Value = player.leaderstats.Clicks.Value + 1
+        print("Clique registrado para: " .. player.Name)
+    end
+end)"""
+
+        # Se não tiver um template, tentar extrair e adaptar da Web
+        if web_result:
+            return f"-- Script gerado com base em dados da Web:\n{web_result}\n\n-- Nota: Adapte as variáveis ao seu projeto Roblox Studio."
+
+        return "-- Não consegui gerar o código exato. Pode me dar mais detalhes sobre o que o script deve fazer?"
 
     def synthesize_response(self, intent, blocks, web_result, user_input):
         """MOTOR DE SÍNTESE: Monta a resposta final de forma assertiva."""
         if intent == "greeting":
-            return "Olá! Sou o BRX AI, seu assistente nativo do Arch Linux. Como posso ajudar com seu sistema ou código hoje?"
+            return "Olá! Sou o BRX AI. Como posso ajudar com seu código ou sistema hoje?"
+
+        if intent == "promocodes":
+            return "Entendi que você busca códigos de resgate (promocodes). No momento, não tenho uma lista de códigos ativos, mas posso pesquisar os mais recentes para você!"
+
+        if intent == "programming":
+            # Se o usuário pediu para 'criar' ou 'fazer' algo, ou se é uma continuação de um pedido de código
+            context_str = " ".join([c['user'] for c in self.context[-2:]]).lower()
+            if any(w in (context_str + " " + user_input.lower()) for w in ["cria", "faz", "gera", "script", "código", "simulador", "clicker"]):
+                code = self.synthesize_code(intent, user_input, web_result)
+                return f"Aqui está o script que você pediu:\n\n```lua\n{code}\n```\n\nPosso ajudar a configurar isso no seu Roblox Studio?"
+            
+            return f"Lógica de Programação encontrada:\n\n{web_result if web_result else 'Não encontrei detalhes específicos.'}"
 
         if not blocks and not web_result:
             return "Analisei cada letra da sua mensagem, mas ainda não tenho uma resposta técnica. Posso pesquisar na Web agora?"
 
-        if web_result:
-            # Se for programação, tentar formatar melhor o código
-            if intent == "programming":
-                return f"Encontrei esta lógica de programação via Pesquisa Web:\n\n{web_result}\n\nPosso ajudar a adaptar esse código para o seu projeto?"
-            return f"Encontrei esta informação técnica via Pesquisa Web:\n\n{web_result}"
-
         best_block = blocks[0][1]
         text = best_block.get('texto', '')
-        
-        if intent == "arch_linux":
-            return f"Dica do Arch: {text}"
-        elif intent == "systemd":
-            return f"Gerenciamento de Sistema: {text}"
-        elif intent == "programming":
-            return f"Lógica de Programação:\n\n{text}"
-            
         return text
 
     def get_response(self, user_input):
-        """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
+        """Gera uma resposta completa com Memória de Contexto."""
         user_dna = self.atomize(user_input)
-        if user_dna['len'] == 0:
-            return "BRX pronto. Como posso ajudar hoje?"
-
         intent = self.think(user_input)
-        needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado", "cria", "faz", "gera"])
+        
+        # Adicionar ao contexto ANTES de gerar a resposta
+        self.context.append({"user": user_input, "intent": intent})
+        if len(self.context) > 10: self.context.pop(0)
+
+        needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado"])
         
         scored_blocks = []
         for block_id, block in self.knowledge.items():
@@ -151,10 +192,10 @@ class BRXCore:
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 60
+                dna_score += 80
                 for word in block.get('palavras', []):
                     if word in user_input.lower():
-                        dna_score += 100
+                        dna_score += 120
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -162,16 +203,13 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        # Priorizar pesquisa web se for detectada necessidade de informação recente ou se o conhecimento local for fraco
-        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 180):
-            query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
-            if intent == "programming":
-                query = f"exemplo de código {user_input}"
+        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 200):
+            query = f"exemplo de script lua roblox {user_input}" if intent == "programming" else user_input
             web_result = self.search_web(query)
 
         response = self.synthesize_response(intent, scored_blocks, web_result, user_input)
         
-        thought_info = f"[BRX v6.3 | Intenção '{intent}' | {user_dna['len']} chars | Code Mode]"
+        thought_info = f"[BRX v6.4.1 | Intenção '{intent}' | {user_dna['len']} chars | Reasoning Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -196,34 +234,22 @@ class BRXCore:
         except Exception as e:
             return f"Erro na pesquisa Web: {str(e)}"
 
-    def check_internet(self):
-        """Verifica se há conexão com a internet."""
-        try:
-            requests.get("https://github.com", timeout=5)
-            return True
-        except:
-            return False
-
     def sync_to_github(self):
         """Sincronização resiliente com o GitHub."""
-        if not self.check_internet():
-            return "Erro: Sem conexão com a internet para sincronizar."
-        
         try:
-            # Garantir que é um repositório git
             if not os.path.exists(".git"):
                 subprocess.run(["git", "init"], check=True)
                 subprocess.run(["git", "remote", "add", "origin", "https://github.com/dragonbrxos/BRX_AI.git"], check=True)
 
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.3: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.4.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
-        except subprocess.CalledProcessError as e:
-            return f"Erro no Git: {e}"
         except Exception as e:
-            return f"Erro inesperado no Sync: {e}"
+            return f"Erro no Sync: {e}"
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("cria um codigo lua"))
+    print(brx.get_response("cria um codigo roblox"))
+    print("-" * 20)
+    print(brx.get_response("para um simulador de click"))
