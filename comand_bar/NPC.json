@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "type": "npc_character",
+    "category": "standard_npc",
+    "name": "NPC_Normal",
+    "engine": "roblox",
+    "rig_type": "R6"
+  },
+
+  "spawn_system": {
+    "spawn_position": [5,0,0],
+    "ground_detection": {
+      "method": "raycast",
+      "origin_offset": [0,50,0],
+      "direction": [0,-100,0]
+    }
+  },
+
+  "npc_model": {
+    "type": "Model",
+    "parent": "workspace",
+    "primary_part": "HumanoidRootPart"
+  },
+
+  "humanoid": {
+    "health": 100,
+    "max_health": 100,
+    "walk_speed": 0,
+    "jump_power": 0
+  },
+
+  "body_proportions": {
+
+    "root_part": {
+      "size": [2,2,1],
+      "transparency": 1,
+      "anchored": true
+    },
+
+    "legs": {
+      "size": [1,2,1],
+      "left_offset": [-0.5,-1,0],
+      "right_offset": [0.5,-1,0]
+    },
+
+    "torso": {
+      "size": [2,2,1],
+      "offset": [0,1,0]
+    },
+
+    "arms": {
+      "size": [1,2,1],
+      "left_offset": [-1.5,1,0],
+      "right_offset": [1.5,1,0]
+    },
+
+    "head": {
+      "size": [2,1,1],
+      "offset": [0,2.5,0],
+      "mesh_type": "Head",
+      "mesh_scale": [1.25,1.25,1.25]
+    }
+  },
+
+  "appearance": {
+
+    "skin_color": "Light orange",
+
+    "clothes_color": "Medium stone grey",
+
+    "material": "SmoothPlastic"
+  },
+
+  "face_system": {
+
+    "type": "SurfaceGui",
+
+    "eyes": {
+      "count": 2,
+      "color": [0,0,0],
+      "pupil_color": [255,255,255],
+      "style": "simple_npc"
+    }
+
+  },
+
+  "extra_components": {
+
+    "wings": {
+      "type": "decorative_structure",
+      "system": "procedural_wings",
+      "layers": [
+        "inner_feathers",
+        "primary_feathers"
+      ],
+      "material": "Fabric",
+      "color": "Medium stone grey"
+    }
+
+  },
+
+  "structure_logic": {
+
+    "body_creation_method": "procedural_parts",
+
+    "limb_factory_function": {
+      "name": "newLimb",
+      "purpose": "create body parts with consistent proportions"
+    }
+
+  }
+
+}
