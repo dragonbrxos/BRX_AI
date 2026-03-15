@@ -1,0 +1,54 @@
+{
+  "arch_pacman_sync": {
+    "id": "arch_pacman_sync",
+    "texto": "Para atualizar o sistema no Arch Linux, use 'sudo pacman -Syu'. Este comando sincroniza os repositórios e atualiza todos os pacotes instalados.",
+    "categoria": "arch_linux",
+    "titulo": "Atualização do Sistema (Pacman)",
+    "topico": "gerenciamento de pacotes",
+    "palavras": ["arch", "pacman", "atualizar", "syu", "sistema"],
+    "dna": {
+      "freq": {"a": 3, "r": 1, "c": 1, "h": 1, "p": 1, "m": 1, "n": 1, "s": 2, "t": 1, "u": 1, "y": 1},
+      "seq": ["a", "r", "c", "h", "p", "a", "c", "m", "a", "n", "s", "y", "u"],
+      "len": 13
+    }
+  },
+  "arch_pacman_install": {
+    "id": "arch_pacman_install",
+    "texto": "Para instalar um novo pacote, use 'sudo pacman -S nome_do_pacote'. Para remover mantendo dependências, use 'sudo pacman -R nome_do_pacote'.",
+    "categoria": "arch_linux",
+    "titulo": "Instalação e Remoção (Pacman)",
+    "topico": "gerenciamento de pacotes",
+    "palavras": ["arch", "pacman", "instalar", "remover", "pacote"],
+    "dna": {
+      "freq": {"a": 3, "r": 1, "c": 1, "h": 1, "p": 1, "m": 1, "n": 1, "i": 1, "s": 1},
+      "seq": ["a", "r", "c", "h", "p", "a", "c", "m", "a", "n", "i", "n", "s", "t", "a", "l", "l"],
+      "len": 17
+    }
+  },
+  "arch_systemd_status": {
+    "id": "arch_systemd_status",
+    "texto": "O systemd gerencia serviços no Arch. Use 'systemctl status nome_do_servico' para verificar o estado, e 'systemctl start/stop' para iniciar ou parar.",
+    "categoria": "arch_linux",
+    "titulo": "Gerenciamento de Serviços (Systemd)",
+    "topico": "administração do sistema",
+    "palavras": ["arch", "systemd", "systemctl", "serviço", "status"],
+    "dna": {
+      "freq": {"a": 1, "r": 1, "c": 1, "h": 1, "s": 3, "y": 1, "t": 2, "e": 1, "m": 1, "d": 1, "l": 1},
+      "seq": ["a", "r", "c", "h", "s", "y", "s", "t", "e", "m", "d", "s", "t", "a", "t", "u", "s"],
+      "len": 17
+    }
+  },
+  "arch_aur_yay": {
+    "id": "arch_aur_yay",
+    "texto": "O AUR (Arch User Repository) contém pacotes da comunidade. O 'yay' é um ajudante popular para instalar pacotes do AUR facilmente.",
+    "categoria": "arch_linux",
+    "titulo": "AUR e Yay",
+    "topico": "repositórios comunitários",
+    "palavras": ["arch", "aur", "yay", "comunidade", "ajudante"],
+    "dna": {
+      "freq": {"a": 2, "r": 1, "c": 1, "h": 1, "u": 1, "y": 1},
+      "seq": ["a", "r", "c", "h", "a", "u", "r", "y", "a", "y"],
+      "len": 10
+    }
+  }
+}
