@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "type": "weapon_system",
+    "category": "melee_weapon",
+    "name": "Energy_Sword",
+    "engine": "roblox",
+    "version": "8.8"
+  },
+
+  "core_system": {
+    "system_folder": "DragonBladeSystem",
+    "assets_folder": "Assets",
+    "weapons_folder": "Weapons",
+    "drop_folder": "DropsFolder"
+  },
+
+  "weapon": {
+    "type": "Tool",
+    "name": "EnergySword",
+    "requires_handle": true,
+    "can_be_dropped": true
+  },
+
+  "model_generation": {
+
+    "method": "procedural_parts",
+
+    "components": {
+
+      "handle": {
+        "material": "Fabric",
+        "shape": "Cylinder",
+        "color": [30,20,12]
+      },
+
+      "leather_wrap": {
+        "material": "Leather",
+        "color": [65,40,25]
+      },
+
+      "pommel": {
+        "material": "DiamondPlate",
+        "color": [180,150,40],
+        "gem": {
+          "material": "Neon",
+          "color": [0,200,255]
+        }
+      },
+
+      "guard": {
+        "structure": [
+          "horizontal_bar",
+          "vertical_bar",
+          "curved_edges"
+        ],
+        "material": "DiamondPlate"
+      },
+
+      "blade": {
+        "material": "Glass",
+        "reflectance": 0.85,
+        "transparency": 0.1
+      },
+
+      "edge": {
+        "material": "Metal",
+        "reflectance": 0.95
+      },
+
+      "core_energy": {
+        "layers": [
+          "core_base",
+          "core_mid",
+          "core_top",
+          "core_bright"
+        ],
+        "material": "Neon"
+      }
+
+    }
+
+  },
+
+  "procedural_texture_system": {
+
+    "method": "surface_gui_symbols",
+
+    "runes": {
+
+      "count": 14,
+      "symbols": [
+        "龍",
+        "神",
+        "刃",
+        "魔",
+        "霊",
+        "聖",
+        "破"
+      ],
+
+      "material": "Neon",
+
+      "light_effect": {
+        "type": "PointLight"
+      }
+
+    }
+
+  },
+
+  "visual_effects": {
+
+    "particles": {
+      "type": "sparkles_particle",
+      "texture": "sparkles_main"
+    },
+
+    "trail": {
+      "lifetime": 0.7
+    },
+
+    "lights": {
+      "blade_light": true,
+      "tip_light": true
+    }
+
+  },
+
+  "audio": {
+
+    "equip_sound": true,
+    "ambient_sound": true
+  },
+
+  "skill_system": {
+
+    "total_skills": 9,
+
+    "skills": [
+
+      {
+        "name": "QuickCut",
+        "type": "melee_slash",
+        "damage": 20
+      },
+
+      {
+        "name": "PowerSurge",
+        "type": "energy_wave",
+        "damage": 30
+      },
+
+      {
+        "name": "LightBurst",
+        "type": "area_damage",
+        "damage": 25
+      },
+
+      {
+        "name": "HeavyHit",
+        "type": "strong_melee",
+        "damage": 50
+      },
+
+      {
+        "name": "DefenseWall",
+        "type": "shield",
+        "duration": 5
+      },
+
+      {
+        "name": "RapidStrikes",
+        "type": "multi_attack"
+      },
+
+      {
+        "name": "HealthBoost",
+        "type": "heal",
+        "heal_amount": 50
+      },
+
+      {
+        "name": "EnergyRay",
+        "type": "beam_attack",
+        "damage": 40
+      },
+
+      {
+        "name": "BigBlast",
+        "type": "explosion",
+        "max_damage": 100
+      }
+
+    ]
+
+  },
+
+  "network_system": {
+
+    "communication": "RemoteEvents",
+
+    "structure": {
+      "client": "visual_effects",
+      "server": "damage_logic"
+    }
+
+  },
+
+  "interface": {
+
+    "type": "ScreenGui",
+
+    "skill_bar": {
+      "buttons": 9,
+      "position": "bottom_center",
+      "activation": "mouse_click"
+    }
+
+  },
+
+  "drop_system": {
+
+    "method": "global_function",
+
+    "function_name": "_G.DropSword",
+
+    "lifetime_seconds": 90
+  }
+
+}
