@@ -1,6 +1,6 @@
 # BRX AI - Professional Edition (Arch Linux) 🧬🐧
 
-O **BRX AI** é um ecossistema de inteligência artificial nativo para Arch Linux, focado em leveza, transparência e colaboração. Esta versão **Professional Edition (v6.0)** traz um gerenciamento completo de ciclo de vida e um motor de pensamento atômico refinado.
+O **BRX AI** é um ecossistema de inteligência artificial nativo para Arch Linux, focado em leveza, transparência e colaboração. Esta versão **Professional Edition (v6.8)** traz um gerenciamento completo de ciclo de vida, um motor de pensamento atômico refinado e capacidades de programação drasticamente expandidas.
 
 ---
 
@@ -25,11 +25,15 @@ sudo brx-manager remove
 
 ---
 
-## 🧠 O que há de novo na v6.0:
+## 🧠 O que há de novo na v6.8:
 *   **Motor Atômico Refinado:** Lógica de DNA de caracteres com maior assertividade nas respostas técnicas.
 *   **Sync Resiliente:** Sistema de sincronização com verificação de internet e tratamento de erros de Git.
 *   **Identidade Visual:** Ícone nativo SVG e integração completa com o menu de aplicativos do Arch.
 *   **Gerenciador de Sistema:** Script `brx-manager.sh` para controle total da instalação no diretório `/opt`.
+*   **Capacidades de Programação Avançadas:**
+    *   **Base de Conhecimento Expandida:** Mais de 100KB de exemplos de código e documentação para linguagens como Lua (Roblox Studio), Python, JavaScript, C#, Java, Rust, HTML/CSS e SQL.
+    *   **Síntese de Código Dinâmica:** Geração de scripts completos e adaptados à sua necessidade, utilizando múltiplos blocos de conhecimento para criar soluções robustas.
+    *   **Suporte a Múltiplas Linguagens:** Capacidade de responder perguntas e criar códigos em diversas linguagens de programação, com foco em soluções práticas e funcionais.
 
 ## 💬 Como Usar
 *   **Interface Gráfica:** Procure por **"BRX AI"** no seu menu ou digite `brx-gui`.

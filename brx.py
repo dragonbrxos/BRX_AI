@@ -47,7 +47,7 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.8",
+            "versao": "6.8.1",
             "edicao": "Coder Pro Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
