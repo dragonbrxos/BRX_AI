@@ -1,0 +1,32 @@
+{
+  "js_syntax_001": {
+    "id": "js_syntax_001",
+    "texto": "JavaScript usa 'let' e 'const' para declarar variáveis. 'let x = 5;' permite reatribuição, enquanto 'const y = 6;' é para valores fixos. O ponto e vírgula (;) é opcional mas recomendado.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Sintaxe JavaScript",
+    "topico": "javascript syntax let const",
+    "palavras": ["javascript", "let", "const", "variáveis", "sintaxe"],
+    "char_map": {}
+  },
+  "js_funcs_001": {
+    "id": "js_funcs_001",
+    "texto": "Funções em JS: 'function minhaFuncao(p1, p2) { return p1 * p2; }'. Também existem Arrow Functions: 'const x = (a, b) => a * b;'.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Funções em JavaScript",
+    "topico": "javascript functions arrow",
+    "palavras": ["javascript", "function", "arrow", "retorno"],
+    "char_map": {}
+  },
+  "js_dom_001": {
+    "id": "js_dom_001",
+    "texto": "Manipulação do DOM: 'document.getElementById('demo').innerHTML = 'Olá';' altera o conteúdo de um elemento HTML via JavaScript.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "JavaScript DOM",
+    "topico": "javascript dom manipulation",
+    "palavras": ["javascript", "dom", "html", "document"],
+    "char_map": {}
+  }
+}

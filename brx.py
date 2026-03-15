@@ -77,7 +77,7 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "3.0",
+            "versao": "3.1",
             "nascimento": datetime.now().isoformat(),
             "ciclos": 0,
             "estado": "ativo",
@@ -128,8 +128,7 @@ class BRXCore:
             return f"Erro na pesquisa web: {e}"
 
     def anonymize(self, text):
-        """Remove possíveis dados pessoais (emails, telefones, nomes próprios comuns)."""
-        # Regex simples para emails e telefones
+        """Remove possíveis dados pessoais."""
         text = re.sub(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '[EMAIL]', text)
         text = re.sub(r'\b\d{2,3}[-.\s]??\d{4,5}[-.\s]??\d{4}\b', '[TELEFONE]', text)
         return text
@@ -137,15 +136,13 @@ class BRXCore:
     def sync_to_github(self):
         """Sincroniza novos conhecimentos com o repositório GitHub."""
         try:
-            # Verificar se estamos em um repositório git
             if not os.path.exists('.git'):
                 return "Erro: Não é um repositório Git."
             
             subprocess.run(["git", "add", "brain/"], check=True)
-            # Commit apenas se houver mudanças
             status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
             if status:
-                subprocess.run(["git", "commit", "-m", f"BRX Auto-Treinamento: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+                subprocess.run(["git", "commit", "-m", f"BRX Programador: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
                 subprocess.run(["git", "push", "origin", "main"], check=True)
                 return "Sincronização concluída com sucesso!"
             return "Nenhuma mudança para sincronizar."
@@ -159,17 +156,19 @@ class BRXCore:
         if not words and not char_analysis:
             return "Olá! Eu sou o BRX. Estou pronto para analisar cada letra do que você disser."
 
-        # 1. Buscar no Cérebro JSON Local
+        # 1. Buscar no Cérebro JSON Local (Foco em Programação)
         scored_blocks = []
         for block_id, block in self.knowledge.items():
             score = 0
             block_text = block.get('texto', '').lower()
             block_words = set(block.get('palavras', []))
             
+            # Peso maior para palavras-chave de programação
             for word in words:
-                if word in block_words: score += 10
-                elif word in block_text: score += 5
+                if word in block_words: score += 15
+                elif word in block_text: score += 8
             
+            # Análise de caracteres (Micro-inteligência)
             block_char_analysis = self.analyze_chars(block_text)
             for char, count in char_analysis.items():
                 if char in block_char_analysis:
@@ -183,25 +182,25 @@ class BRXCore:
 
         # 2. Decidir se usa Pesquisa Web
         web_result = ""
-        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 15):
+        if self.web_search_enabled and (not scored_blocks or scored_blocks[0][0] < 20):
             web_result = self.search_web(user_input)
 
-        # 3. Auto-Treinamento (Aprender com a Web ou com o Usuário)
+        # 3. Auto-Treinamento
         if self.auto_train_enabled and web_result and "Erro" not in web_result:
             new_id = str(uuid.uuid4())
             clean_text = self.anonymize(web_result)
             self.add_knowledge(
                 block_id=new_id,
                 text=clean_text,
-                category="training",
+                category="programming_learned",
                 keywords=words[:5],
-                title=f"Aprendizado Web: {user_input[:20]}...",
-                topic="auto-treinamento",
+                title=f"Lógica Aprendida: {user_input[:20]}...",
+                topic="programação",
                 source="duckduckgo"
             )
 
         if scored_blocks or web_result:
-            thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres]"
+            thought_process = f"[BRX Pensando: Analisei {len(user_input)} caracteres e padrões de código]"
             
             if web_result:
                 response = f"{thought_process}\n(Informação da Web):\n{web_result}"

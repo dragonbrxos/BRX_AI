@@ -1,0 +1,32 @@
+{
+  "py_syntax_001": {
+    "id": "py_syntax_001",
+    "texto": "Em Python, a indentação é obrigatória e define blocos de código. Exemplo: if 5 > 2: print('Cinco é maior que dois!'). O uso de 4 espaços é o padrão recomendado pela PEP 8.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Sintaxe e Indentação Python",
+    "topico": "python syntax indentation",
+    "palavras": ["python", "indentação", "sintaxe", "if", "bloco"],
+    "char_map": {}
+  },
+  "py_vars_001": {
+    "id": "py_vars_001",
+    "texto": "Variáveis em Python são criadas no momento da atribuição. Exemplo: x = 5; y = 'Olá'. Não é necessário declarar o tipo explicitamente (tipagem dinâmica).",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Variáveis em Python",
+    "topico": "python variables assignment",
+    "palavras": ["python", "variáveis", "atribuição", "dinâmica"],
+    "char_map": {}
+  },
+  "py_loops_001": {
+    "id": "py_loops_001",
+    "texto": "Loops em Python: 'for x in range(6): print(x)' executa de 0 a 5. 'while x < 5:' executa enquanto a condição for verdadeira.",
+    "categoria": "programming",
+    "fonte": "w3schools",
+    "titulo": "Estruturas de Repetição Python",
+    "topico": "python loops for while",
+    "palavras": ["python", "for", "while", "loop", "range"],
+    "char_map": {}
+  }
+}

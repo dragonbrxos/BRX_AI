@@ -1,0 +1,32 @@
+{
+  "rust_syntax_001": {
+    "id": "rust_syntax_001",
+    "texto": "Rust é uma linguagem focada em segurança de memória. 'fn main() { println!(\"Hello World!\"); }' é o ponto de entrada. 'println!' é uma macro.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Sintaxe Rust",
+    "topico": "rust syntax main println",
+    "palavras": ["rust", "fn", "main", "println", "macro"],
+    "char_map": {}
+  },
+  "rust_vars_001": {
+    "id": "rust_vars_001",
+    "texto": "Em Rust, variáveis são imutáveis por padrão. 'let x = 5;' não pode ser alterado. Use 'let mut x = 5;' para permitir mudanças.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Variáveis em Rust",
+    "topico": "rust variables mutability",
+    "palavras": ["rust", "let", "mut", "imutável", "variáveis"],
+    "char_map": {}
+  },
+  "rust_ownership_001": {
+    "id": "rust_ownership_001",
+    "texto": "Ownership é o conceito central de Rust para gerenciar memória sem garbage collector. Cada valor tem um dono único.",
+    "categoria": "programming",
+    "fonte": "rust-by-example",
+    "titulo": "Rust Ownership",
+    "topico": "rust memory ownership",
+    "palavras": ["rust", "ownership", "memória", "segurança"],
+    "char_map": {}
+  }
+}
