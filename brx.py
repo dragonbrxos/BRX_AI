@@ -41,8 +41,8 @@ class BRXCore:
         """Inicializa os metadados do cérebro."""
         meta = {
             "nome": "BRX",
-            "versao": "6.1",
-            "edicao": "Coder Edition",
+            "versao": "6.2",
+            "edicao": "Combat Edition",
             "nascimento": datetime.now().isoformat(),
             "estado": "consciente",
             "total_blocos": 0,
@@ -74,7 +74,7 @@ class BRXCore:
         for char in all_chars:
             if char in f1 and char in f2:
                 diff = abs(f1[char] - f2[char])
-                score += max(0, 4.0 - (diff / 0.8))
+                score += max(0, 4.5 - (diff / 0.7)) # Peso aumentado para precisão máxima
         return score
 
     def think(self, user_input):
@@ -88,7 +88,7 @@ class BRXCore:
             intent = "systemd"
         elif any(c in user_input for c in "+-*/=" ) or "quanto" in user_input:
             intent = "math"
-        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script"]):
+        elif any(w in user_input for w in ["como", "programar", "código", "python", "js", "rust", "java", "roblox", "luau", "c#", "unity", "script", "bladex", "combat"]):
             intent = "programming"
             
         return intent
@@ -109,7 +109,7 @@ class BRXCore:
         elif intent == "systemd":
             return f"Gerenciamento de Sistema: {text}"
         elif intent == "programming":
-            return f"Lógica de Programação:\n\n{text}"
+            return f"Lógica de Programação e Motores de Combate:\n\n{text}"
             
         return text
 
@@ -117,11 +117,9 @@ class BRXCore:
         """Gera uma resposta completa: Atomizar -> Pensar -> Buscar -> Sintetizar."""
         user_dna = self.atomize(user_input)
         if user_dna['len'] == 0:
-            return "BRX Coder Edition pronto. Como posso ajudar com seu código hoje?"
+            return "BRX Combat Edition pronto. Como posso ajudar com seu script hoje?"
 
         intent = self.think(user_input)
-        
-        # Detectar se a pergunta exige informação recente (ex: datas, novidades)
         needs_web = any(w in user_input.lower() for w in ["novidade", "recente", "hoje", "2026", "março", "atualizado"])
         
         scored_blocks = []
@@ -131,10 +129,10 @@ class BRXCore:
             dna_score = self.calculate_dna_similarity(user_dna, block_dna)
             
             if block.get('categoria') == intent:
-                dna_score += 40
+                dna_score += 50
                 for word in block.get('palavras', []):
                     if word in user_input.lower():
-                        dna_score += 60
+                        dna_score += 80
                 
             if dna_score > 0:
                 scored_blocks.append((dna_score, block))
@@ -142,14 +140,13 @@ class BRXCore:
         scored_blocks.sort(key=lambda x: x[0], reverse=True)
 
         web_result = ""
-        # Priorizar pesquisa web se for detectada necessidade de informação recente ou se o conhecimento local for fraco
-        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 120):
+        if self.web_search_enabled and (needs_web or not scored_blocks or scored_blocks[0][0] < 150):
             query = f"site:wiki.archlinux.org {user_input}" if intent in ["arch_linux", "systemd"] else user_input
             web_result = self.search_web(query)
 
         response = self.synthesize_response(intent, scored_blocks, web_result)
         
-        thought_info = f"[BRX v6.1 | Intenção '{intent}' | {user_dna['len']} chars | Web Ativa]"
+        thought_info = f"[BRX v6.2 | Intenção '{intent}' | {user_dna['len']} chars | Combat Mode]"
         return f"{thought_info}\n\n{response}"
 
     def search_web(self, query):
@@ -192,7 +189,7 @@ class BRXCore:
                 return "Erro: Diretório não é um repositório Git."
 
             subprocess.run(["git", "add", "brain/"], check=True)
-            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.1: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
+            subprocess.run(["git", "commit", "-m", f"BRX Sync v6.2: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             return "Sincronizado com sucesso!"
         except subprocess.CalledProcessError as e:
@@ -202,4 +199,4 @@ class BRXCore:
 
 if __name__ == "__main__":
     brx = BRXCore()
-    print(brx.get_response("Quais as novidades do Arch Linux em Março de 2026?"))
+    print(brx.get_response("O que é o BladeX Combat Engine?"))

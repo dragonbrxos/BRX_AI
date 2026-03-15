@@ -1,0 +1,28 @@
+{
+  "roblox_bladex_engine": {
+    "id": "roblox_bladex_engine",
+    "texto": "BladeX Combat Engine (Roblox Luau):\nUm motor de combate avançado que utiliza serviços como TweenService, UserInputService e RunService para criar sistemas de AutoFarm, KillAura e AutoSkill.\n\nExemplo de Estrutura de Dados de Armas:\nlocal WEAPONS_DATA = {\n  Soul_Reaper_Blade = {\n    Name = 'Soul Reaper Blade',\n    Rarity = 'Mythic',\n    BaseDamage = 460,\n    SwingSpeed = 1.6,\n    Special = 'Lifesteal + Instakill <20% HP'\n  }\n}\n\nExemplo de Lógica de Inimigos:\nlocal ENEMY_TYPES = {\n  Boss = { HP = '>2000', Strategy = 'Parries precisas, evitar AOE' }\n}",
+    "categoria": "programming",
+    "titulo": "BladeX Combat Engine",
+    "topico": "roblox combat engine",
+    "palavras": ["roblox", "bladex", "combat", "engine", "luau", "script", "farm", "aura"],
+    "dna": {
+      "freq": {"b": 1, "l": 1, "a": 1, "d": 1, "e": 1, "x": 1, "c": 1, "o": 1, "m": 1, "t": 1},
+      "seq": ["b", "l", "a", "d", "e", "x", "c", "o", "m", "b", "a", "t"],
+      "len": 12
+    }
+  },
+  "roblox_service_setup": {
+    "id": "roblox_service_setup",
+    "texto": "Configuração de Serviços Roblox:\nlocal Players = game:GetService('Players')\nlocal RunService = game:GetService('RunService')\nlocal TweenService = game:GetService('TweenService')\nlocal HttpService = game:GetService('HttpService')\nlocal UserInputService = game:GetService('UserInputService')",
+    "categoria": "programming",
+    "titulo": "Roblox Services",
+    "topico": "roblox luau",
+    "palavras": ["roblox", "service", "getservice", "players", "runservice"],
+    "dna": {
+      "freq": {"r": 1, "o": 1, "b": 1, "l": 1, "x": 1, "s": 1, "e": 1, "v": 1, "i": 1, "c": 1},
+      "seq": ["r", "o", "b", "l", "o", "x", "s", "e", "r", "v", "i", "c", "e"],
+      "len": 13
+    }
+  }
+}
