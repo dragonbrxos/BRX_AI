@@ -1,0 +1,326 @@
+{
+  "narrative_framework": {
+    "version": "1.0",
+    "type": "Universal Story Architecture",
+    "purpose": "Base estrutural para criação de histórias de alto nível em qualquer gênero",
+    "philosophy": "A história é um organismo vivo. Estrutura é esqueleto, não prisão."
+  },
+
+  "core_systems": {
+
+    "protagonist_engine": {
+      "description": "Sistema de construção de protagonistas com profundidade psicológica e arco de transformação",
+
+      "foundation_layers": [
+        {
+          "layer": "superficial",
+          "elements": ["nome", "idade", "aparência", "ocupação", "habilidades_visíveis"],
+          "function": "Primeiro contato do leitor. Gancho inicial."
+        },
+        {
+          "layer": "social",
+          "elements": ["relações_familiares", "amizades", "inimigos", "posição_social", "reputação"],
+          "function": "Contexto de conflito externo. Dinâmicas interpessoais."
+        },
+        {
+          "layer": "psicológica",
+          "elements": ["trauma_fundamental", "medo_oculto", "desejo_proibido", "crença_limitante", "máscara_social"],
+          "function": "Motor interno do personagem. O que ele esconde de si mesmo."
+        },
+        {
+          "layer": "existencial",
+          "elements": ["filosofia_pessoal", "visão_morte", "sentido_vida", "legado_desejado", "identidade_verdadeira"],
+          "function": "Resolução do arco. Transformação profunda."
+        }
+      ],
+
+      "transformation_arcs": {
+        "type_1_positive": "De fraqueza reconhecida à força integrada (herói clássico)",
+        "type_2_tragic": "De grandeza aparente à queda inevitável (tragédia)",
+        "type_3_ironic": "De busca consciente à descoberta inconsciente (revelação)",
+        "type_4_circular": "Retorno ao ponto inicial, mas transformado (eterno retorno)",
+        "type_5_fragmented": "Múltiplos arcos interrompidos, resolução coletiva (épico)"
+      },
+
+      "construction_rules": [
+        "Cada camada deve contradizer parcialmente a anterior",
+        "O trauma da camada 3 deve explicar a máscara da camada 2",
+        "A resolução na camada 4 deve invalidar a crença da camada 3",
+        "Habilidades visíveis (camada 1) devem ser consequência da filosofia (camada 4)"
+      ]
+    },
+
+    "conflict_topology": {
+      "description": "Sistema de mapeamento de conflitos em múltiplas dimensões",
+
+      "dimensions": {
+        "interno": {
+          "description": "Conflito psicológico do protagonista",
+          "manifestations": ["dúvida_moral", "medo_paralisante", "desejo_conflitante", "identidade_fraturada"],
+          "resolution_mechanism": "Aceitação, integração ou transcendência"
+        },
+        "interpersonal": {
+          "description": "Conflitos entre personagens",
+          "manifestations": ["traição", "rivalidade", "mal_entendido", "amor_impossível", "dever_vs_desejo"],
+          "resolution_mechanism": "Confronto, reconciliação ou separação definitiva"
+        },
+        "social": {
+          "description": "Conflito com estruturas de poder",
+          "manifestations": ["opressão_sistemica", "discriminação", "corrupção", "tradição_vs_mudança"],
+          "resolution_mechanism": "Revolução, reforma ou fuga"
+        },
+        "existencial": {
+          "description": "Conflito com a própria existência/morte/sentido",
+          "manifestations": ["mortalidade", "absurdo", "destino_vs_livre_arbítrio", "legado"],
+          "resolution_mechanism": "Encontro de sentido, aceitação do absurdo ou negação"
+        },
+        "cosmico": {
+          "description": "Conflito com forças além da compreensão humana",
+          "manifestations": ["deuses_indiferentes", "caos_primordial", "tempo_entrópico", "vazio_absoluto"],
+          "resolution_mechanism": "Harmonia, destruição mútua ou transcendência"
+        }
+      },
+
+      "weaving_rules": [
+        "Todo conflito externo deve espelhar um conflito interno",
+        "Conflitos de dimensões mais altas devem influenciar os inferiores",
+        "A resolução de dimensões inferiores prepara terreno para superiores",
+        "O clímax deve ativar conflitos em todas as dimensões simultaneamente"
+      ]
+    },
+
+    "world_architecture": {
+      "description": "Sistema de construção de mundos com profundidade histórica e lógica interna",
+
+      "layers": {
+        "físico": {
+          "elements": ["geografia", "clima", "ecossistemas", "recursos", "arquitetura"],
+          "rule": "Deve influenciar comportamento social e conflitos"
+        },
+        "histórico": {
+          "elements": ["eventos_fundadores", "guerras_passadas", "figuras_lendárias", "traumas_coletivos"],
+          "rule": "Deve explicar preconceitos, alianças e estruturas de poder atuais"
+        },
+        "cultural": {
+          "elements": ["religiões", "rituais", "tabus", "arte", "língua", "hierarquias"],
+          "rule": "Deve contradizer ou reforçar conflitos do protagonista"
+        },
+        "mágico_tecnológico": {
+          "elements": ["sistemas_de_poder", "limitações", "custos", "evolução_histórica", "acessibilidade"],
+          "rule": "Deve ter regras claras que criam limitações dramáticas"
+        },
+        "econômico": {
+          "elements": ["sistemas_de_troca", "desigualdade", "dependências", "crises_estruturais"],
+          "rule": "Deve gerar motivações realistas para antagonistas e aliados"
+        }
+      },
+
+      "coherence_principles": [
+        "Cada elemento deve ter consequência em pelo menos duas outras camadas",
+        "Limitações são mais importantes que capacidades",
+        "O passado deve ser palpável no presente através de ruínas, tradições ou traumas",
+        "O mundo deve parecer maior que a história contada"
+      ]
+    },
+
+    "narrative_structure": {
+      "description": "Sistema de arquitetura de enredo com múltiplos padrões configuráveis",
+
+      "patterns": {
+        "hero_journey": {
+          "stages": ["mundano", "chamado", "recusa", "mentor", "passagem", "provas", "crise", "ressurreição", "retorno"],
+          "best_for": "Fantasia, aventura, coming-of-age",
+          "variation": "O retorno pode ser recusa do mundano, não aceitação"
+        },
+        "tragedy_arc": {
+          "stages": ["grandeza_aparente", "hybris", "peripécia", "anagnórise", "catástrofe", "catarse"],
+          "best_for": "Drama histórico, thriller psicológico, noir",
+          "variation": "A anagnórise pode vir tarde demais ou ser falsa"
+        },
+        "mystery_structure": {
+          "stages": ["crime_pergunta", "investigação", "falsas_pistas", "revelação_parcial", "crise_de_certeza", "solução", "consequência_moral"],
+          "best_for": "Policial, thriller, horror",
+          "variation": "O detetive pode ser culpado, a solução pode ser pior que o mistério"
+        },
+        "romance_arc": {
+          "stages": ["encontro", "atração", "obstáculo", "aproximação", "crise_de_confiança", "sacrifício", "união_ou_separação"],
+          "best_for": "Romance, drama, comédia romântica",
+          "variation": "A união pode ser amarga, a separação pode ser libertadora"
+        },
+        "slice_of_life": {
+          "stages": ["cotidiano", "micro_conflito", "reflexão", "mudança_sutil", "novo_cotidiano"],
+          "best_for": "Drama realista, literatura contemporânea",
+          "variation": "A mudança pode ser imperceptível para o personagem, visível para o leitor"
+        },
+        "epic_cycle": {
+          "stages": ["ordem_cosmica", "perturbação", "jornada_múltipla", "convergência", "cataclismo", "nova_ordem"],
+          "best_for": "Fantasia épica, space opera, saga histórica",
+          "variation": "Múltiplos protagonistas com arcos interdependentes"
+        }
+      },
+
+      "modular_assembly": [
+        "Início pode ser em qualquer estágio (in media res)",
+        "Estágios podem ser comprimidos (flashbacks) ou expandidos (subtramas)",
+        "Múltiplos padrões podem ser entrelaçados (romance + mystery, hero_journey + tragedy)",
+        "O final pode subverter o padrão estabelecido (expectativa vs. realidade)"
+      ]
+    },
+
+    "thematic_engine": {
+      "description": "Sistema de construção e desenvolvimento de temas universais",
+
+      "core_themes": {
+        "power": {
+          "questions": ["Quem deve ter poder?", "Como o poder corrompe?", "Pode existir poder legítimo?"],
+          "variations": ["poder_político", "poder_mágico", "poder_social", "poder_pessoal"]
+        },
+        "identity": {
+          "questions": ["Quem somos realmente?", "Somos definidos por escolha ou circunstância?", "Identidade é fixa ou fluida?"],
+          "variations": ["identidade_familiar", "identidade_social", "identidade_sexual", "identidade_existencial"]
+        },
+        "mortality": {
+          "questions": ["Como viver sabendo que morreremos?", "O que permanece após a morte?", "Morte é fim ou transformação?"],
+          "variations": ["morte_física", "morte_social", "morte_simbólica", "imortalidade"]
+        },
+        "love": {
+          "questions": ["Amor é escolha ou destino?", "Amor justifica qualquer coisa?", "Amor e liberdade são compatíveis?"],
+          "variations": ["amor_romântico", "amor_familiar", "amor_platônico", "amor_cósmico"]
+        },
+        "justice": {
+          "questions": ["Justiça é universal ou cultural?", "Vingança é justiça?", "Sistema ou indivíduo: quem julga?"],
+          "variations": ["justiça_legal", "justiça_moral", "justiça_divina", "justiça_pessoal"]
+        },
+        "truth": {
+          "questions": ["Existe verdade objetiva?", "Ignorância é bliss?", "Quem controla a narrativa controla a realidade?"],
+          "variations": ["verdade_histórica", "verdade_científica", "verdade_emocional", "verdade_política"]
+        }
+      },
+
+      "thematic_weaving": [
+        "Cada cena deve tocar em pelo menos um tema principal",
+        "Temas devem evoluir através de contradição, não apenas repetição",
+        "O climax deve forçar uma escolha entre dois temas conflitantes",
+        "A resolução pode afirmar, negar ou transcender o tema inicial"
+      ]
+    },
+
+    "stylistic_signature": {
+      "description": "Sistema de construção de voz narrativa única e reconhecível",
+
+      "components": {
+        "rhythm": {
+          "options": ["prosa_lyrica_lenta", "prosa_seca_rápida", "ritmo_binarístico", "fluxo_consciente", "fragmentado_poético"],
+          "rule": "Deve refletir estado psicológico do protagonista ou atmosfera da cena"
+        },
+        "perspective": {
+          "options": ["primeira_pessoa_intima", "primeira_pessoa_distanciada", "terceira_limitada", "terceira_onisciente", "multiperspectiva"],
+          "rule": "Limitações de perspectiva = oportunidades de suspense"
+        },
+        "time": {
+          "options": ["linear_cronológico", "flashbacks_estruturais", "flashforwards", "tempo_circular", "tempo_subjetivo"],
+          "rule": "Manipulação temporal deve revelar, não confundir"
+        },
+        "sensory_focus": {
+          "options": ["visual_dominante", "auditivo_dominante", "tátil_dominante", "olfativo_dominante", "gustativo_dominante", "sinestésico"],
+          "rule": "Cada cena deve ter um sentido dominante específico"
+        },
+        "dialogue_style": {
+          "options": ["realista_indireto", "teatral_direto", "minimalista_elíptico", "filosófico_expansivo", "codificado_subtextual"],
+          "rule": "O que não é dito deve ser mais importante que o dito"
+        }
+      },
+
+      "coherence_rules": [
+        "Estilo pode mudar para refletir mudança de personagem ou realidade",
+        "Repetições rítmicas criam hipnose; variações criam tensão",
+        "A distância entre narrador e personagem é dialética do leitor"
+      ]
+    }
+  },
+
+  "generation_rules": {
+
+    "character_creation": [
+      "Começar pela camada existencial (o que o personagem busca no fim da vida)",
+      "Construir trauma que explique por que ele não busca isso (camada 3)",
+      "Criar máscara social que esconda o trauma (camada 2)",
+      "Definir habilidades como consequência da filosofia (camada 4 → camada 1)"
+    ],
+
+    "plot_generation": [
+      "Escolher tema central primeiro (o que a história questiona)",
+      "Definir conflito existencial do protagonista (o que ele questiona)",
+      "Criar antagonista que personifique a resposta oposta à do protagonista",
+      "Construir mundo onde ambas as respostas pareçam válidas",
+      "Entrelaçar conflitos em todas as dimensões até o clímax",
+      "Resolver com transformação do protagonista, não apenas vitória"
+    ],
+
+    "world_generation": [
+      "Começar por limitação dramática (o que não pode ser feito no mundo)",
+      "Criar sistema de poder que explique essa limitação",
+      "Construir história que justifique por que o sistema existe",
+      "Desenvolver cultura que reaja ao sistema de poder",
+      "Adicionar elementos mágicos/tecnológicos que criem novas limitações"
+    ],
+
+    "scene_construction": [
+      "Definir função dramática (revelar, tensionar, transformar, contrastar)",
+      "Escolher sentido dominante para imersão sensorial",
+      "Posicionar personagens em relação ao tema da cena",
+        "Incluir subtexto que contradiga o texto aparente",
+      "Terminar com mudança mínima mas significativa (status quo perturbado)"
+    ]
+  },
+
+  "quality_assurance": {
+
+    "narrative_tests": [
+      "Teste do protagonista: Se trocar o protagonista, a história colapsa?",
+      "Teste do antagonista: O antagonista acredita ser o herói de sua própria história?",
+      "Teste do tema: A história funciona mesmo sem entender o tema explicitamente?",
+      "Teste do mundo: O leitor consegue prever consequências lógicas do mundo apresentado?",
+      "Teste emocional: A reviravolta final é surpreendente mas inevitável em retrospecto?"
+    ],
+
+    "revision_checklist": [
+      "Cada personagem secundário tem desejo próprio independente do protagonista?",
+      "Cada cena muda alguma coisa de forma irreversível?",
+      "O início promete o que o final entrega (ou subverte de forma intencional)?",
+      "O meio não é apenas enchimento entre início e fim?",
+      "O estilo serve à história, não vice-versa?"
+    ]
+  },
+
+  "adaptation_guidelines": {
+    "genre_modifiers": {
+      "fantasy": "Enfatizar world_architecture (mágico) + hero_journey + tema do poder",
+      "sci-fi": "Enfatizar world_architecture (tecnológico) + mystery_structure + tema da verdade",
+      "romance": "Enfatizar romance_arc + conflito_interpersonal + tema do amor",
+      "thriller": "Enfatizar mystery_structure + rhythm_rápido + conflito_existencial",
+      "horror": "Enfatizar conflito_cósmico + sensory_focus (tátil/olfativo) + tema da mortalidade",
+      "literary": "Enfatizar slice_of_life + style_distinctive + tema da identidade",
+      "epic": "Enfatizar epic_cycle + multiple_protagonists + tema da justiça/história"
+    },
+
+    "length_modifiers": {
+      "short_story": "Um conflito, uma revelação, uma transformação. Estrutura comprimida.",
+      "novella": "Arco completo com subtrama mínima. Foco em transformação psicológica.",
+      "novel": "Múltiplos arcos entrelaçados. Mundo expansivo. Tema desenvolvido dialecticamente.",
+      "series": "Arco por volume + arco metanarrativo. Personagens que crescem entre volumes."
+    }
+  },
+
+  "generation_capability": {
+    "description": "Combinando sistemas permite geração infinita de histórias únicas",
+
+    "examples": [
+      "protagonist_engine (tragédia) + conflict_topology (existencial) + tragedy_arc = protagonista que busca imortalidade, descobre que já é imortal espiritualmente, mas perde humanidade no processo",
+      "world_architecture (tecnológico limitado) + mystery_structure + theme_truth = sci-fi noir onde memórias são moeda e protagonista descobre que suas memórias são falsas",
+      "romance_arc + conflict_topology (social) + theme_love = romance proibido em sociedade estratificada onde amor é visto como doença",
+      "hero_journey + epic_cycle + multiple_protagonists = fantasia com 3 protagonistas de nações inimigas que descobrem que são reencarnações do mesmo herói",
+      "slice_of_life + sensory_focus (olfativo) + theme_mortality = narrativa de perfumista idoso que recria cheiros de momentos perdidos antes de morrer"
+    ]
+  }
+}
