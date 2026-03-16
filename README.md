@@ -23,6 +23,11 @@ sudo brx-manager update
 sudo brx-manager remove
 ```
 
+### REMOVER REPOSITÓRIO BAIXADO 
+```bash
+rm -rf BRX_AI
+git clone https://github.com/dragonbrxos/BRX_AI.git && cd BRX_AI && chmod +x brx-manager.sh && sudo ./brx-manager.sh install
+```
 ---
 
 ## 🧠 O que há de novo na v6.8:
