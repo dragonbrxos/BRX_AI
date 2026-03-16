@@ -1,0 +1,498 @@
+{
+  "knowledge_base": {
+    "engine": "Roblox Executor",
+    "language": "Lua",
+    "purpose": "Scripts de exploração/análise para executores Lua (Delta, Ronix, Synapse, etc.)",
+    "execution_context": "Cliente-side injection",
+    "version": "1.0",
+    "last_updated": "2026-03-16"
+  },
+
+  "systems": {
+
+    "executor_compatibility": {
+
+      "description": "Sistema de detecção e adaptação para diferentes executores Lua",
+
+      "components": [
+        "Capability detection",
+        "Function wrappers",
+        "Environment checks",
+        "Fallback implementations"
+      ],
+
+      "capabilities_detected": [
+        "hookmetamethod",
+        "getnamecallmethod",
+        "setclipboard",
+        "writefile",
+        "readfile",
+        "task library",
+        "getfenv",
+        "pcall wrapping"
+      ],
+
+      "code_examples": {
+
+        "detect_capability": "local function hasFunc(name) local ok, val = pcall(function() return _G[name] end); if ok and val ~= nil then return true end; if getfenv then local ok2, val2 = pcall(function() return getfenv()[name] end); if ok2 and val2 ~= nil then return true end end; return false end",
+
+        "wrapper_task": "local function xWait(n) if CAPS.tasklib then task.wait(n or 0) else wait(n or 0) end end",
+
+        "wrapper_spawn": "local function xSpawn(fn) if CAPS.tasklib then task.spawn(fn) else spawn(fn) end end",
+
+        "wrapper_delay": "local function xDelay(n, fn) if CAPS.tasklib then task.delay(n, fn) else delay(n, fn) end end"
+      },
+
+      "assembly_logic": [
+        "detectar capacidades do executor via pcall",
+        "criar tabela CAPS com booleanos",
+        "implementar wrappers para funções críticas",
+        "usar fallbacks para executores limitados",
+        "validar ambiente antes de usar funções avançadas"
+      ],
+
+      "executor_types": [
+        "Delta Executor",
+        "Ronix Executor", 
+        "Synapse X (legacy)",
+        "Script-Ware",
+        "KRNL",
+        "Fluxus",
+        "Codex",
+        "Hydrogen",
+        "Electron",
+        "Comet"
+      ]
+    },
+
+    "crypto_system": {
+
+      "description": "Sistema de criptografia e descriptografia automática de dados",
+
+      "components": [
+        "Base64 decoder",
+        "Hex decoder", 
+        "ROT13 cipher",
+        "Caesar brute force",
+        "URL decoder",
+        "XOR decoder",
+        "Reverse text",
+        "Auto-detection"
+      ],
+
+      "algorithms": {
+        "base64": "decodificação padrão Base64 com padding handling",
+        "hex": "conversão hexadecimal para ASCII",
+        "rot13": "cifra de César com shift fixo de 13",
+        "caesar": "força bruta em todos os 25 shifts possíveis",
+        "url": "decodificação de percent-encoding",
+        "xor": "decodificação com chave repetida",
+        "reverse": "inversão de string simples"
+      },
+
+      "code_examples": {
+
+        "base64_decode": "function Crypto.Base64Decode(str) local chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'; ... end",
+
+        "hex_decode": "function Crypto.HexDecode(hex) if not hex:match('^[0-9A-Fa-f]*$') or (#hex % 2) ~= 0 then return nil end ... end",
+
+        "rot13": "function Crypto.ROT13(str) return str:gsub('[A-Za-z]', function(c) local base = (c:byte() < 97) and 65 or 97; return string.char(((c:byte() - base + 13) % 26) + base) end) end",
+
+        "auto_decrypt": "function Crypto.AutoDecrypt(str) ... tenta todos os métodos e retorna o primeiro válido ... end"
+      },
+
+      "use_cases": [
+        "decodificar códigos de resgate de jogos",
+        "revelar strings ofuscadas em scripts",
+        "analisar comunicação criptografada",
+        "bypass de proteções simples",
+        "extração de dados sensíveis"
+      ]
+    },
+
+    "logging_system": {
+
+      "description": "Sistema avançado de logging com categorização, cores e persistência",
+
+      "components": [
+        "Log entries storage",
+        "Category-based filtering",
+        "Color-coded output",
+        "Timestamp formatting",
+        "Export capabilities",
+        "File persistence",
+        "Auto-cleanup",
+        "Listener pattern"
+      ],
+
+      "log_levels": [
+        "DEBUG",
+        "INFO", 
+        "WARNING",
+        "ERROR",
+        "SUCCESS",
+        "REMOTE",
+        "OBJECT",
+        "NPC",
+        "ANIMATION",
+        "MONEY",
+        "CODE",
+        "CRYPTO",
+        "SYSTEM"
+      ],
+
+      "code_examples": {
+
+        "log_entry": "function Logger:Log(level, category, message, data) ... table.insert(State.entries, entry) ... NotifyListeners(entry) end",
+
+        "categorized_log": "function Logger:Remote(msg, data) return self:Log('REMOTE', 'REMOTE', msg, data) end",
+
+        "export_json": "function Logger:Export(format) ... return HttpService:JSONEncode({meta={...}, entries=State.entries}) end",
+
+        "save_file": "function Logger:SaveToFile(filename) if not CAPS.writefile then return false end; writefile(filename, self:Export('txt')) end"
+      },
+
+      "features": [
+        "limite configurável de entradas (max 1000)",
+        "truncamento automático de mensagens longas",
+        "estatísticas por categoria e nível",
+        "filtros de busca e filtragem",
+        "exportação em múltiplos formatos (JSON, TXT)",
+        "persistência em arquivo se suportado",
+        "auto-cleanup periódico",
+        "sistema de listeners para UI"
+      ]
+    },
+
+    "remote_spy": {
+
+      "description": "Sistema de interceptação e análise de RemoteEvents/RemoteFunctions",
+
+      "components": [
+        "__namecall hook",
+        "Remote registry",
+        "Call queue system",
+        "Argument serialization",
+        "Throttling system",
+        "Filtering system",
+        "Batch processing"
+      ],
+
+      "hook_methods": {
+        "__namecall": "interceptação de FireServer e InvokeServer",
+        "OnClientEvent": "captura de eventos servidor->cliente",
+        "DescendantAdded": "registro automático de novos remotes"
+      },
+
+      "code_examples": {
+
+        "hook_namecall": "oldNamecall = hookmetamethod(game, '__namecall', function(self, ...) local method = getnamecallmethod(); ... return oldNamecall(self, ...) end)",
+
+        "serialize_args": "function SerializeArgs(args) ... converte tipos complexos para string representativa ... end",
+
+        "queue_system": "table.insert(State.queue, function() local entry = CreateCallEntry(selfRef, method, args); ProcessCall(entry) end)",
+
+        "fire_remote": "function Remotes.FireRemote(remoteName, ...) ... remote:FireServer(...) ou remote:InvokeServer(...) end"
+      },
+
+      "protection_bypasses": [
+        "throttling para evitar detecção por frequência",
+        "ignore list para remotes do sistema (anti-cheat)",
+        "whitelist/blacklist configurável",
+        "queue processing para não bloquear thread principal"
+      ],
+
+      "detection_evasion": {
+        "throttle_ms": 25,
+        "batch_size": 25,
+        "queue_interval": 0.04,
+        "system_remotes_ignore": [
+          "CharacterSoundEvent",
+          "DefaultChatSystemChatEvents", 
+          "ClientBridge",
+          "ServerBridge",
+          "__datamodel"
+        ]
+      }
+    },
+
+    "game_scanner": {
+
+      "description": "Sistema de varredura contínua do workspace para extração de dados",
+
+      "scan_types": {
+        "npc_scan": "detecção de NPCs via Humanoid não-jogador",
+        "animation_scan": "captura de AnimationTracks e Animation objects",
+        "money_scan": "busca por ValueObjects relacionados a economia",
+        "code_scan": "procura por strings e atributos com padrões de código"
+      },
+
+      "npc_detection": {
+        "criteria": "Model + Humanoid + não é Character de Player",
+        "data_extracted": [
+          "Nome e caminho completo",
+          "Saúde atual/máxima",
+          "Velocidade de movimento",
+          "Posição (HumanoidRootPart)",
+          "Estado (vivo/morto)",
+          "Animações em execução",
+          "Tools equipadas"
+        ]
+      },
+
+      "money_detection": {
+        "patterns": [
+          "Money", "Cash", "Coins", "Gold", "Gems",
+          "Points", "Credits", "Tokens", "XP", "Robux"
+        ],
+        "locations": [
+          "Player direct children",
+          "leaderstats folder",
+          "PlayerGui text labels",
+          "ReplicatedStorage values"
+        ]
+      },
+
+      "code_detection": {
+        "patterns": [
+          "CODE", "PROMO", "REDEEM", "KEY", "SECRET",
+          "ADMIN", "VIP", "PREMIUM", "GIFT", "COUPON"
+        ],
+        "search_locations": [
+          "StringValues no Workspace",
+          "TextLabels/Buttons no PlayerGui",
+          "Attributes de instâncias"
+        ]
+      },
+
+      "code_examples": {
+
+        "scan_npcs": "function Scanner.ScanNPCs() ... for _, obj in ipairs(Workspace:GetDescendants()) do if obj:IsA('Model') then ... end end end",
+
+        "scan_money": "function Scanner.ScanMoney() ... busca em LocalPlayer, leaderstats, PlayerGui, ReplicatedStorage ... end",
+
+        "continuous_scan": "function Scanner.StartContinuous(config) ... while State.isScanning do ... xWait(config.ScanInterval) end end"
+      }
+    },
+
+    "ui_framework": {
+
+      "description": "Framework de interface gráfica customizada para executores",
+
+      "components": [
+        "ScreenGui creation",
+        "Frame hierarchy",
+        "Tab system",
+        "Scrollable lists",
+        "Buttons and labels",
+        "Text inputs",
+        "Toggles",
+        "Theme system",
+        "Drag functionality",
+        "Minimize/Close controls"
+      ],
+
+      "design_system": {
+        "colors": {
+          "Background": "Color3.fromRGB(15, 15, 20)",
+          "BackgroundSecondary": "Color3.fromRGB(25, 25, 35)",
+          "Primary": "Color3.fromRGB(220, 50, 50)",
+          "Secondary": "Color3.fromRGB(50, 150, 220)",
+          "Success": "Color3.fromRGB(50, 220, 100)",
+          "Error": "Color3.fromRGB(220, 50, 50)"
+        },
+        "typography": {
+          "Font": "Enum.Font.Gotham/GothamSemibold/GothamBold",
+          "Sizes": [10, 11, 12, 14, 16, 18]
+        },
+        "effects": {
+          "CornerRadius": "UICorner",
+          "Shadows": "ImageLabel with slice scaling",
+          "Strokes": "UIStroke",
+          "Tweens": "TweenService para animações suaves"
+        }
+      },
+
+      "code_examples": {
+
+        "create_window": "function UI.Create(config) ... ScreenGui -> MainFrame -> Header/Sidebar/Content ... end",
+
+        "create_button": "function CreateButton(config) ... TextButton com hover effects e callbacks ... end",
+
+        "create_toggle": "function CreateToggle(config) ... Frame com botão deslizante e callback de estado ... end",
+
+        "drag_system": "header.InputBegan/Changed/Ended com cálculo de delta de posição"
+      },
+
+      "tabs_implemented": [
+        "Dashboard (status geral)",
+        "Remotes (captura de eventos)",
+        "NPCs (personagens detectados)",
+        "Animações (tracks ativas)",
+        "Money (valores econômicos)",
+        "Codes (códigos encontrados)",
+        "Logs (console em tempo real)",
+        "Settings (configurações)"
+      ]
+    },
+
+    "keybind_system": {
+
+      "description": "Sistema de atalhos de teclado para controle rápido",
+
+      "keybinds": {
+        "Insert": "Toggle UI visibility",
+        "F3": "Clear all data (remotes, scanner, logs)",
+        "F4": "Pause/Resume operations"
+      },
+
+      "implementation": "UserInputService.InputBegan com verificação de gameProcessed",
+
+      "code_example": "UserInputService.InputBegan:Connect(function(input, gameProcessed) if gameProcessed then return end; if input.KeyCode == Enum.KeyCode.Insert then UI.Toggle() end end)"
+    },
+
+    "state_management": {
+
+      "description": "Gerenciamento centralizado de estado da aplicação",
+
+      "components": [
+        "EZZ main table",
+        "Stats tracking",
+        "Running state",
+        "Pause functionality",
+        "Uptime tracking"
+      ],
+
+      "code_example": "local EZZ = { Version = '5.2 ULTIMATE', Creator = 'DragonSCPOFICIAL', IsRunning = false, IsPaused = false, StartTime = os.time(), Stats = {...} }"
+    }
+  },
+
+  "generation_rules": {
+
+    "executor_specific": [
+      "sempre verificar capacidades antes de usar funções avançadas",
+      "usar pcall em todas as chamadas de API do executor",
+      "implementar fallbacks para funções não suportadas",
+      "evitar detecção por anti-cheats com throttling",
+      "nunca assumir que writefile/readfile estão disponíveis",
+      "usar getfenv() apenas quando necessário para compatibilidade",
+      "validar ambiente antes de hookmetamethod"
+    ],
+
+    "security_patterns": [
+      "usar throttling em hooks para evitar detecção",
+      "ignorar remotes do sistema em logs",
+      "implementar whitelist/blacklist de remotes",
+      "evitar chamadas excessivas que triggueram anti-cheats",
+      "usar queue systems para processamento assíncrono",
+      "mascarar nomes de funções críticas quando possível"
+    ],
+
+    "ui_patterns": [
+      "usar ResetOnSpawn = false em ScreenGuis",
+      "implementar DisplayOrder alto (999999) para sobreposição",
+      "usar ZIndexBehavior.Sibling para layering correto",
+      "adicionar UICorner para estética moderna",
+      "implementar UIStroke para bordas definidas",
+      "usar TweenService para animações fluidas",
+      "suportar drag em headers para mobilidade",
+      "implementar minimize/close functionality"
+    ],
+
+    "data_handling": [
+      "serializar argumentos complexos antes de exibir",
+      "limitar tamanho de strings em logs (truncamento)",
+      "implementar max entries em scrolls (500-1000)",
+      "usar JSONEncode para exportação estruturada",
+      "validar dados antes de salvar em arquivo",
+      "implementar auto-cleanup de memória"
+    ],
+
+    "async_patterns": [
+      "usar xSpawn/xDelay wrappers para compatibilidade",
+      "implementar queue processing para operações pesadas",
+      "usar task.wait em loops de scan para não travar",
+      "separar UI creation em threads assíncronas",
+      "delay em hooks para evitar race conditions"
+    ]
+  },
+
+  "generation_capability": {
+
+    "description": "Combinação de sistemas para criar ferramentas de análise/exploração",
+
+    "examples": [
+
+      "executor_compatibility + logging_system = base para qualquer script de executor",
+
+      "remote_spy + logging_system = remote spy completo com logs persistentes",
+
+      "game_scanner + crypto_system = finder de códigos de resgate automático",
+
+      "ui_framework + remote_spy = interface gráfica de remote spy",
+
+      "game_scanner + ui_framework = ESP/Scanner visual",
+
+      "crypto_system + game_scanner = decodificador automático de segredos do jogo",
+
+      "logging_system + file_io = sistema de persistência de dados",
+
+      "remote_spy + game_scanner = ferramenta completa de análise de jogo"
+    ],
+
+    "advanced_combinations": [
+      "remote_spy + auto_fire + ui = remote executor com interface",
+      "game_scanner + pathfinding + ui = NPC tracker visual",
+      "crypto_system + network_intercept = MITM para jogos",
+      "logging_system + analytics + ui = dashboard de estatísticas",
+      "executor_compat + obfuscation = script universal ofuscado",
+      "ui_framework + draggable + theming = library de UI para executores"
+    ]
+  },
+
+  "anti_detection": {
+    "methods": [
+      "throttling de hooks (25ms entre calls)",
+      "ignorar remotes de sistema conhecidos",
+      "batch processing para não sobrecarregar",
+      "queue assíncrona para processamento",
+      "pcall wrapping em todas as operações críticas",
+      "verificação de gameProcessed em inputs"
+    ],
+    "system_remotes": [
+      "CharacterSoundEvent",
+      "DefaultChatSystemChatEvents",
+      "ClientBridge",
+      "ServerBridge",
+      "__datamodel",
+      "RemoteEvent",
+      "RemoteFunction"
+    ]
+  },
+
+  "best_practices": [
+    "sempre verificar capacidades do executor antes de usar funções avançadas",
+    "usar pcall em todas as operações que podem falhar",
+    "implementar fallbacks para executores limitados",
+    "evitar detecção com throttling e ignorar remotes do sistema",
+    "manter UI responsiva com processamento assíncrono",
+    "limpar dados periodicamente para evitar memory leaks",
+    "usar temas consistentes e profissionais na UI",
+    "implementar atalhos de teclado para usabilidade",
+    "documentar versão e criador no script",
+    "testar em múltiplos executores antes de distribuir"
+  ],
+
+  "common_libraries": [
+    "Drawing (para ESP)",
+    "getgc (garbage collector access)",
+    "getconnections (signal connections)",
+    "getrawmetatable (metatable access)",
+    "setreadonly (modify metatables)",
+    "hookfunction (function hooking)",
+    "newcclosure (C closure creation)",
+    "checkcaller (identificar chamadas do executor)",
+    "getnamecallmethod (nome do método chamado)",
+    "getconstants/getupvalues (debugging)"
+  ]
+}
