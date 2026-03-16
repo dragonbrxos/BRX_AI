@@ -1,0 +1,347 @@
+{
+  "narrative_framework": {
+    "version": "5.1",
+    "type": "Universal Story Architecture — Protagonist Archetypes: Presence, Dominance & Moral Spectrum",
+    "purpose": "Catálogo completo de arquétipos de protagonistas categorizados por moralidade, método de dominação, fonte de respeito e comportamento",
+    "philosophy": "O protagonista é definido não pelo que tem, mas pelo que impõe. Sua moralidade é método, sua presença é mensagem, sua vitória é declaração."
+  },
+
+  "moral_spectrum": {
+
+    "the_paragon": {
+      "alignment": "Bom puro",
+      "core_belief": "A bondade é escolida, não imposta. Protege os fracos, perdoa inimigos, inspira pelo exemplo.",
+      "domination_style": "Não domina — eleva. Vitória que dignifica o derrotado.",
+      "presence": "Luz que aquece sem queimar. Aproximação que convida, não exige.",
+      "conflict": "Internal: custo da bondade em mundo cruel. External: exploração de sua moralidade por outros.",
+      "examples": "All Might (início), Shirou Emiya (aspectos), clássicos shounen heroicos"
+    },
+
+    "the_pragmatic_hero": {
+      "alignment": "Bom prático",
+      "core_belief": "Resultado bom justifica métodos questionáveis. Mão suja para mundo limpo.",
+      "domination_style": "Eficiência sem crueldade. Interrompe ameaças, não humilha desnecessariamente.",
+      "presence": "Confiança de quem já tomou decisões difíceis. Olhar que avalia, não julga.",
+      "conflict": "Internal: linha entre pragmatismo e cinismo. External: julgamento por métodos.",
+      "examples": "Itachi Uchiha, Lelouch (aspectos), Batman, Dragon (O Verdadeiro Soberano em momentos)"
+    },
+
+    "the_vessel": {
+      "alignment": "Neutro instrumental",
+      "core_belief": "Meio sem posição própria. Ferramenta de forças maiores, causa, ou própria sobrevivência.",
+      "domination_style": "Depende do que serve. Pode ser brutal ou gentil conforme necessidade.",
+      "presence": "Espelho que reflete quem o usa. Ausência de centro próprio.",
+      "conflict": "Internal: busca de identidade além da função. External: manipulação por aqueles que o usam.",
+      "examples": "Guts (fases), protagonistas de jogos silentes, certos assassinos"
+    },
+
+    "the_calculator": {
+      "alignment": "Neutro racional",
+      "core_belief": "Emoção é ruído. Lógica pura, custo-benefício, resultado ótimo.",
+      "domination_style": "Precisão máxima, desperdício zero. Humilhação só se eficiente.",
+      "presence": "Frieza que isola. Dificuldade de conexão, facilidade de comando.",
+      "conflict": "Internal: custo da desconexão emocional. External: imprevisibilidade humana.",
+      "examples": "Ayanokouji, L (aspectos), Light Yagami (início), Dragon (fases calculistas)"
+    },
+
+    "the_predator": {
+      "alignment": "Neutro animal",
+      "core_belief": "Mundo é caça. Não malícia, não bondade — instinto.",
+      "domination_style": "Violência limpa, sem sadismo. Vitória rápida, morte sem tortura.",
+      "presence": "Perigo que não se esconde. Respeito do forte pelo forte.",
+      "conflict": "Internal: humanidade vs. natureza. External: civilização como gaiola ou presa.",
+      "examples": "Guts (modo Berserker), Hisoka (aspectos), protagonistas de survival"
+    },
+
+    "the_anti_hero": {
+      "alignment": "Moralidade própria",
+      "core_belief": "Sistema é corrupto. Cria próprio código, mesmo que ilegal/imoral para outros.",
+      "domination_style": "Punição que sistema não dá. Vingança como justiça.",
+      "presence": "Sombra que protege. Medo dos maus, alívio dos bons.",
+      "conflict": "Internal: linha entre justiça própria e tirania. External: perseguição por dois lados.",
+      "examples": "Punisher, Dexter, Eren Yeager (fases), Lelouch (pleno)"
+    },
+
+    "the_sovereign_villain": {
+      "alignment": "Mal funcional",
+      "core_belief": "Ordem através de dominação. Crueldade como ferramenta, não prazer.",
+      "domination_style": "Eficiência máxima, terror calculado. Respeito nascido de medo racional.",
+      "presence": "Trono que pesa. Solidão do comando absoluto.",
+      "conflict": "Internal: custo da desumanização. External: rebelião inevitável.",
+      "examples": "Ainz Ooal Gown, certos imperadores, protagonistas de dark management"
+    },
+
+    "the_destroyer": {
+      "alignment": "Mal puro",
+      "core_belief": "Destruição como propósito. Caos como liberdade, aniquilação como arte.",
+      "domination_style": "Humilhação máxima, sofrimento prolongado, desmontagem psicológica.",
+      "presence": "Vazio que consome. Atração e repulsa, fascínio mortal.",
+      "conflict": "Internal: vazio por trás do caos. External: coalizão contra ele.",
+      "examples": "Johan Liebert, Griffith (fases), certos protagonistas de horror psicológico"
+    },
+
+    "the_trickster": {
+      "alignment": "Caótico neutro",
+      "core_belief": "Regras são para quebrar. Caos como criatividade, trapaça como arte.",
+      "domination_style": "Humilhação através de engano. Derrota que expõe estupidez.",
+      "presence": "Impossibilidade de previsão. Tensão e alívio constantes.",
+      "conflict": "Internal: autenticidade vs. performance. External: consequências do caos.",
+      "examples": "Hisoka, Joker, Loki, protagonistas de trickster tales"
+    }
+  },
+
+  "domination_methodology": {
+
+    "by_presence_pure": {
+      "description": "Respeito/medo sem ação. Apenas existir é dominação.",
+      "mechanics": "Aura que silencia, olhar que fixa, espaço que cede, tempo que desacelera na proximidade.",
+      "subtypes": {
+        "the_sovereign": "Calma que impõe submissão natural. Resistir parece absurdo.",
+        "the_predator": "Perigo que desperta instinto de presa. Nervosismo animal.",
+        "the_void": "Ausência que pesa. Invisível até ser notado, então inesquecível.",
+        "the_monument": "História que carrega. Cada cicatriz é legível, cada silêncio é biblioteca."
+      },
+      "narrative_effect": "Antecipação máxima. Oponente derrotado antes do confronto começar."
+    },
+
+    "by_action_silent": {
+      "description": "Dominação através do que faz, não do que diz. Gestos como declarações.",
+      "mechanics": "Interromper transformação do vilão, ignorar oponente enquanto vence, vitória em um movimento, não olhar para explosão.",
+      "subtypes": {
+        "the_interrupter": "Não espera. Ação imediata que nega espetacularidade alheia.",
+        "the_minimalist": "Mínimo esforço, máximo efeito. Economia como humilhação.",
+        "the_brutalist": "Violência sem adorno. Obstáculo, não oponente.",
+        "the_pedagogue": "Ensina enquanto destrói. Demonstra superioridade em etapas."
+      },
+      "narrative_effect": "Realismo brutal, eficiência como estética, anti-climax intencional."
+    },
+
+    "by_word_precise": {
+      "description": "Dominação através da linguagem. Palavras como lâminas.",
+      "mechanics": "Monossílabos que terminam discussões, perguntas que expõem absurdos, sarcasmo que sangra, ironia letal.",
+      "subtypes": {
+        "the_silencer": "Fala mínima, impacto máximo. Silêncio como estratégia.",
+        "the_blade": "Precisão verbal que corta. Redução de oponente em uma frase.",
+        "the_tide": "Verbalização que arrasta. Discurso que mobiliza, charme que seduz.",
+        "the_mirror": "Reflete outro para expor. Eco que revela contradição."
+      },
+      "narrative_effect": "Humilhação intelectual, destruição de autoridade, riso que exclui."
+    },
+
+    "by_power_comparison": {
+      "description": "Dominação através da demonstração escalonada de capacidade. Nunca mostra tudo de uma vez.",
+      "mechanics": "Vitória sobre subordinado, vitória sobre comandante, vitória sobre mestre — cada escalão revela nova camada.",
+      "subtypes": {
+        "the_iceberg": "Mostra 10%, derrota oponente que mostrou 100%. Mistério como poder.",
+        "the_escalator": "Aumenta gradualmente, forçando oponente a revelar tudo primeiro.",
+        "the_revealer": "Demonstra técnica que oponente não sabia que existia.",
+        "the_nullifier": "Anula poder do outro — não vence, faz vitória impossível."
+      },
+      "narrative_effect": "Expectativa que só cresce, subestimação que vira obsessão, revelação tardia."
+    },
+
+    "by_psychological_dismantling": {
+      "description": "Dominação que destrói quem o oponente pensa ser. Vitória que continua após o combate.",
+      "mechanics": "Expôr fraqueza que oponente escondia, invalidar esforço como irrelevante, demonstrar que nunca teve chance.",
+      "subtypes": {
+        "the_unmaker": "Desmonta identidade do oponente. 'Você nunca foi o que pensava.'",
+        "the_belittler": "Reduz realização como trivial. 'Isso foi... fácil.'",
+        "the_forgetter": "Não lembra do oponente depois. Indiferência como insulto máximo.",
+        "the_corruptor": "Transforma vitória em obsessão do derrotado. Dominação que cria dependência."
+      },
+      "narrative_effect": "Trauma do derrotado, obsessão por revanche, ou abandono completo da luta."
+    }
+  },
+
+  "sources_of_respect": {
+
+    "the_fist": {
+      "description": "Respeito nascido da capacidade de destruir fisicamente.",
+      "variants": {
+        "raw_power": "Força bruta, destruição de barreiras físicas",
+        "technical_mastery": "Precisão, economia, arte do combate",
+        "endurance": "Resistência ao dano, persistência além do limite",
+        "adaptation": "Aprendizado em combate, evolução durante luta"
+      },
+      "narrative_markers": "Impacto que ecoa, destruição de ambiente como efeito colateral, silêncio após golpe"
+    },
+
+    "the_spell": {
+      "description": "Respeito nascido da capacidade de manipular realidade.",
+      "variants": {
+        "destructive": "Magia como arma, destruição em escala",
+        "creative": "Magia como construção, possibilidade ilimitada",
+        "subtle": "Magia invisível, manipulação sem detecção",
+        "forbidden": "Magia que não deveria existir, anomalia"
+      },
+      "narrative_markers": "Alteração de ambiente, regras quebradas, testemunhas que não compreendem"
+    },
+
+    "the_mind": {
+      "description": "Respeito nascido da superioridade intelectual.",
+      "variants": {
+        "strategic": "Planejamento em camadas, xadrez humano",
+        "tactical": "Leitura de campo de batalha, adaptação instantânea",
+        "manipulative": "Controle de outros como peças, engenharia social",
+        "analytical": "Percepção de padrões invisíveis, dedução"
+      },
+      "narrative_markers": "Revelação de plano, oponente que descobre foi jogado, vitória sem movimento físico"
+    },
+
+    "the_will": {
+      "description": "Respeito nascido da recusa em ceder, independente de capacidade.",
+      "variants": {
+        "defiance": "Resistência à autoridade, rejeição de destino",
+        "persistence": "Continuação após derrota, levantar-se infinito",
+        "sacrifice": "Pagamento de preço real, custo sem limite",
+        "integrity": "Manutenção de código próprio, custo de ser quem é"
+      },
+      "narrative_markers": "Levantar-se de ferimento fatal, continuar sem esperança, recusa de concessão"
+    },
+
+    "the_legend": {
+      "description": "Respeito nascido do que representa, não do que é.",
+      "variants": {
+        "symbolic": "Encarnação de ideia, movimento, causa",
+        "historical": "Feitos acumulados, peso do passado",
+        "mythic": "Proporção além do humano, arquétipo vivo",
+        "prophetic": "Destino que cumpre, inevitabilidade"
+      },
+      "narrative_markers": "Nome que para exércitos, presença que muda moral de batalha, expectativa antes dação"
+    }
+  },
+
+  "behavioral_archetypes": {
+
+    "the_cabuloso": {
+      "description": "Impacto cênico máximo. Cada aparição é evento.",
+      "traits": ["Entrada que silencia", "Aura que impõe", "Ação que reverbera", "Saída que marca"],
+      "method": "Combinar presença pura + ação silenciosa + poder comparativo",
+      "examples": "Ainz Ooal Gown, Madara Uchiha, Dragon (fases avançadas)"
+    },
+
+    "the_humiliator": {
+      "description": "Derrota que degrada. Vitória não basta — precisa destruir dignidade.",
+      "traits": ["Precisão verbal cruel", "Demonstração de superioridade desnecessária", "Indiferência ao esforço alheio", "Lembrança que persiste"],
+      "method": "Combinar palavra precisa + desmontagem psicológica + ação que nega esperança",
+      "subtypes": {
+        "verbal": "Patadas que sangram, sarcasmo letal",
+        "action": "Ignorar oponente, interromper, desprezar",
+        "existential": "Demonstrar que esforço foi irrelevante",
+        "social": "Humilhar em público, destruir status"
+      },
+      "examples": "Hisoka, certos vilões teatrais, Dragon em confrontos específicos"
+    },
+
+    "the_silent_titan": {
+      "description": "Imposição sem palavras. Economia total.",
+      "traits": ["Silêncio que pesa", "Movimento que fala", "Olhar que fixa", "Ausência de explicação"],
+      "method": "Presença pura + ação silenciosa + fonte de respeito física",
+      "examples": "Saitama (em momentos), Guts, protagonistas de poucas palavras"
+    },
+
+    "the_charismatic_devil": {
+      "description": "Admiração e medo simultâneos. Charme que seduz, poder que aterroriza.",
+      "traits": ["Sorriso que não alcança olhos", "Generosidade calculada", "Humor que desarma", "Violência que surpreende"],
+      "method": "Presença de conflagração + palavra de tide + método de comparação escalonada",
+      "examples": "Hisoka, Loki, Joker, certos anti-heróis carismáticos"
+    },
+
+    "the_pragmatic_efficiency": {
+      "description": "Resultado sobre espetacularidade. Fim sobre meio.",
+      "traits": ["Interrupção de dramaticidade", "Economia de movimento", "Ausência de monólogo", "Vitória sem testemunhas"],
+      "method": "Ação de interrupção + método comparativo de nullificação + fonte de respeito intelectual",
+      "examples": "Ayanokouji, Dragon (O Verdadeiro Soberano), protagonistas de seinen realista"
+    },
+
+    "the_beast_masked": {
+      "description": "Civilidade superficial sobre predador real. Máscara que escorrega.",
+      "traits": ["Normalidade aparente", "Olhar que muda em perigo", "Violência que surpreende por contraste", "Retorno à calma que assusta"],
+      "method": "Presença de predador + ação de brutalista + fonte de respeito de vontade",
+      "examples": "Hisoka, Johan Liebert, Guts em momentos de controle"
+    },
+
+    "the_pedagogical_overlord": {
+      "description": "Ensina enquanto destrói. Superioridade que educa.",
+      "traits": ["Explicação durante combate", "Demonstração de técnica", "Permitir que oponente 'aprenda'", "Julgamento final como nota"],
+      "method": "Ação de pedagogo + palavra de blade + método comparativo de revelador",
+      "examples": "Gojo Satoru, Saitama (em momentos), mestres que demonstram diferença de escala"
+    },
+
+    "the_untouchable": {
+      "description": "Inatingível em todos os sentidos. Distância como poder.",
+      "traits": ["Ausência física", "Manipulação por procuração", "Conhecimento sem contato", "Vitória sem presença"],
+      "method": "Presença de void + método de ausente + fonte de respeito de mente",
+      "examples": "Light Yagami, Aizen, manipuladores de trono"
+    }
+  },
+
+  "hybrid_configurations": {
+
+    "the_sovereign_pragmatist": {
+      "combination": "Sovereign presence + Pragmatic efficiency + Fist/Mind",
+      "behavior": "Imposição silenciosa, ação imediata, sem espetacularidade desnecessária",
+      "example": "Dragon (O Verdadeiro Soberano) — calma que impõe, não espera vilão se transformar, eficiência brutal"
+    },
+
+    "the_charismatic_predator": {
+      "combination": "Predator presence + Charismatic devil + Spell/Fist",
+      "behavior": "Perigo que atrai, violência que seduz, admiração e medo fundidos",
+      "example": "Hisoka — presença que excita, ação que destrói, humor que desarma"
+    },
+
+    "the_calculated_destroyer": {
+      "combination": "Calculator alignment + Destroyer potential + Mind/Will",
+      "behavior": "Lógica fria aplicada à destruição, eficiência máxima de aniquilação",
+      "example": "Light Yagami (fases finais), certos protagonistas de thriller psicológico"
+    },
+
+    "the_ascendant_monument": {
+      "combination": "Anti-fated origin + Monument presence + Will/Fist",
+      "behavior": "Sofrimento acumulado que pesa, presença que respeita, persistência que intimida",
+      "example": "Guts — cada cicatriz é história, cada silêncio é biblioteca"
+    },
+
+    "the_trickster_sovereign": {
+      "combination": "Trickster alignment + Sovereign presence + Legend source",
+      "behavior": "Impossibilidade de previsão combinada com imposição natural, caos controlado",
+      "example": "Hisoka em momentos de seriedade, Loki em momentos de poder"
+    }
+  },
+
+  "narrative_applications": {
+
+    "for_underdog_story": {
+      "start": "Ascendant + Will source + Persistence behavior",
+      "middle": "Accumulation of scars, each defeat adds Monument presence",
+      "climax": "Revelation of true scale, opponent realizes underestimated",
+      "end": "Sovereign emergence, no longer underdog but legend"
+    },
+
+    "for_overwhelming_story": {
+      "start": "Sovereign presence immediately established",
+      "conflict": "Not 'can he win?' but 'what is victory cost?' or 'why does he fight?'",
+      "development": "Gradual humanization through relationships, not power gain",
+      "climax": "Sacrifice or choice that defines, not power escalation"
+    },
+
+    "for_psychological_dominance": {
+      "method": "Psychological dismantling + Word precise + Presence void",
+      "key_scenes": "First encounter establishes scale, second breaks confidence, third eliminates will to resist",
+      "aftermath": "Opponent transformed — either obsessed, broken, or devoted"
+    },
+
+    "for_pragmatic_realism": {
+      "method": "Action silent + Pragmatic hero alignment + Fist/Mind sources",
+      "key_moments": "Interruption of transformation, efficiency over dramatic pause, consequence over spectacle",
+      "tone": "Consequences matter, no free power, effort has cost"
+    }
+  },
+
+  "integration_notes": {
+    "framework_1": "Moralidade determina arco psicológico — Paragon luta com custo da bondade, Destroyer com vazio do caos",
+    "framework_2": "Método de dominação afeta evolução — Interrupção cria absorção rápida, presença pura cria compressão temporal",
+    "framework_3": "Fonte de respeito determina dinâmica relacional — Fist cria friction, Mind cria orbit",
+    "framework_4": "Comportamento arquétipo é performance da origem — Cabuloso performa Overwhelming, Pragmatic performa Ascendant"
+  }
+}
