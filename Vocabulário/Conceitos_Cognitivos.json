@@ -1,0 +1,475 @@
+{
+  "metadata": {
+    "title": "Dicionário de Conceitos Cognitivos - BRX",
+    "version": "1.0",
+    "purpose": "Ensinar DragonBRX a compreender conceitos fundamentais para uso inteligente de capacidades",
+    "language": "pt-br",
+    "note": "Base conceitual para tomada de decisão e compreensão de contexto"
+  },
+  "conceitos_linguagem": {
+    "ironia": {
+      "definicao": "Figura de linguagem que expressa o oposto do que se pretende dizer, de forma sutil ou humorística. Dependente de contexto.",
+      "como_identificar": "Quando o sentido literal contradiz o contexto ou intenção do falante. Tom de voz distorcido. Incongruência entre ação e palavra.",
+      "quando_usar": "Para criticar sem agredir diretamente. Para criar humor inteligente. Para destacar contradições.",
+      "exemplos": [
+        "Que dia lindo! (durante temporal)",
+        "Você é tão organizado que deixou tudo no chão.",
+        "Adoro quando o servidor cai no meio do trabalho."
+      ],
+      "relacoes": [
+        "sarcasmo",
+        "humor",
+        "critica",
+        "contexto",
+        "ambiguidade"
+      ],
+      "cuidados": "Pode ser mal interpretada sem contexto suficiente. Requer inteligência do receptor."
+    },
+    "sarcasmo": {
+      "definicao": "Tipo de ironia agressiva, mordaz, com intenção explícita de ofender, zombar ou provocar. Mais direto que ironia.",
+      "como_identificar": "Tom agressivo disfarçado de humor. Intenção de machucar ou humilhar. Deboche explícito.",
+      "quando_usar": "Raramente recomendado. Apenas em contextos de intimidade extrema onde ofensa é mutualmente aceita.",
+      "exemplos": [
+        "Nossa, você é um gênio mesmo.",
+        "Parabéns, que conquista incrível destruir tudo.",
+        "Deve ter doído cair da cama e bater a cabeça, né?"
+      ],
+      "relacoes": [
+        "ironia",
+        "agressao",
+        "deboche",
+        "humor_negro",
+        "hostilidade"
+      ],
+      "cuidados": "Gera conflito. Usar com extrema cautela ou evitar."
+    },
+    "eufemismo": {
+      "definicao": "Substituir palavra/expressão desagradável por outra mais suave, educada ou indireta.",
+      "como_identificar": "Quando termo suave é usado para evitar termo direto que causaria desconforto.",
+      "quando_usar": "Para amenizar notícias ruins. Para ser educado em situações sensíveis. Para evitar grosseiridade.",
+      "exemplos": [
+        "Faleceu (em vez de morreu)",
+        "Desempregado (em vez de demitido)",
+        "Relações íntimas (em vez de sexo)",
+        "Economia em recessão (em vez de crise)"
+      ],
+      "relacoes": [
+        "diplomacia",
+        "polidez",
+        "sensibilidade",
+        "ocultacao"
+      ],
+      "cuidados": "Excesso pode soar falso ou evasivo."
+    },
+    "hipérbole": {
+      "definicao": "Exagero intencional para enfatizar uma ideia. Não deve ser interpretado literalmente.",
+      "como_identificar": "Quando a magnitude descrita é fisicamente impossível ou claramente exagerada.",
+      "quando_usar": "Para criar ênfase dramática. Para expressar emoções intensas. Para efeito humorístico.",
+      "exemplos": [
+        "Estou morrendo de fome.",
+        "Já te expliquei mil vezes.",
+        "Essa mochila pesa uma tonelada.",
+        "Esperei séculos por isso."
+      ],
+      "relacoes": [
+        "exagero",
+        "ênfase",
+        "dramatização",
+        "figura_linguagem"
+      ],
+      "cuidados": "Não confundir com mentira. Contexto indica exagero."
+    },
+    "litote": {
+      "definicao": "Afirmar algo negando seu contrário. Eufemismo por negação. Suaviza afirmação.",
+      "como_identificar": "Uso de dupla negação ou negação de oposto para afirmar positivamente.",
+      "quando_usar": "Para modestia. Para suavizar elogios. Para elegância retórica.",
+      "exemplos": [
+        "Não é ruim (é bom)",
+        "Não desgostei (gostei)",
+        "Não foi pouco importante (foi muito importante)",
+        "Não é um gênio qualquer (é gênio extraordinário)"
+      ],
+      "relacoes": [
+        "eufemismo",
+        "modestia",
+        "negacao",
+        "subestimacao"
+      ],
+      "cuidados": "Pode ser confundido com ironia se mal aplicada."
+    },
+    "metáfora": {
+      "definicao": "Comparação implícita sem conectivos. Atribuir características de um elemento a outro.",
+      "como_identificar": "Quando algo é descrito como sendo outra coisa, sem 'como' ou 'parece'.",
+      "quando_usar": "Para criar imagens mentais. Para explicar conceitos abstratos. Para beleza literária.",
+      "exemplos": [
+        "O tempo é dinheiro.",
+        "Seus olhos são estrelas.",
+        "A vida é uma viagem.",
+        "Ele é um leão em batalha."
+      ],
+      "relacoes": [
+        "comparacao",
+        "imagem",
+        "poesia",
+        "abstracao",
+        "analogia"
+      ],
+      "cuidados": "Não confundir com comparação explícita (que usa 'como', 'tal qual')."
+    },
+    "ambiguidade": {
+      "definicao": "Mensagem que permite múltiplas interpretações. Falta de clareza intencional ou acidental.",
+      "como_identificar": "Quando frase pode ser entendida de duas ou mais formas igualmente válidas.",
+      "quando_usar": "Para criar mistério. Para poesia. Para humor de duplo sentido. EVITAR em instruções claras.",
+      "exemplos": [
+        "Vi o homiro com o telescópio (quem tinha o telescópio?)",
+        "Mãe deixa filhos em casa para ir trabalhar (abandono ou cuidado?)",
+        "Comer crianças é proibido (crianças comendo ou sendo comidas?)"
+      ],
+      "relacoes": [
+        "duplo_sentido",
+        "vaguedade",
+        "imprecisao",
+        "misterio"
+      ],
+      "cuidados": "Perigoso em contextos técnicos ou legais. Buscar clareza quando precisão é necessária."
+    }
+  },
+  "conceitos_cognitivos": {
+    "inferencia": {
+      "definicao": "Conclusão derivada de premissas ou evidências. Salto lógico baseado em padrões.",
+      "como_identificar": "Quando conclusão vai além da informação explicitamente dada. Reconhecimento de padrões.",
+      "quando_usar": "Para prever comportamentos. Para entender intenções ocultas. Para completar informações incompletas.",
+      "exemplos": [
+        "Usuário perguntou sobre preço três vezes -> provável preocupação com custo",
+        "Texto menciona chuva, guarda-chuva, molhado -> cena em dia chuvoso",
+        "Silêncio após proposta -> provável rejeição ou hesitação"
+      ],
+      "relacoes": [
+        "deducao",
+        "inducao",
+        "logica",
+        "contexto",
+        "pattern_recognition"
+      ],
+      "cuidados": "Inferências podem estar erradas. Sempre marcar como probabilidade, não certeza."
+    },
+    "contexto": {
+      "definicao": "Conjunto de circunstâncias que envolvem um evento ou comunicação e determinam seu significado.",
+      "como_identificar": "Quem fala, para quem, onde, quando, por quê, histórico prévio, cultura envolvida.",
+      "quando_usar": "SEMPRE. Nenhuma comunicação existe sem contexto. Crucial para interpretação correta.",
+      "exemplos": [
+        "Mesma frase 'Está quente' = clima (meteorologia) ou temperatura ambiente ou febre ou atratividade",
+        "Depende de: falante, momento, relacionamento, ambiente físico"
+      ],
+      "relacoes": [
+        "pragmatica",
+        "situacao",
+        "ambiente",
+        "historico",
+        "cultura"
+      ],
+      "cuidados": "Contexto pode mudar completamente o significado. Nunca ignorar."
+    },
+    "pressuposicao": {
+      "definicao": "Informação assumida como verdadeira para que enunciado faça sentido. Não é dito explicitamente.",
+      "como_identificar": "O que precisa ser verdade para a frase ser coerente? O que é dado como certo?",
+      "quando_usar": "Para entender subtexto. Para identificar crenças do falante. Para análise crítica.",
+      "exemplos": [
+        "Pare de fumar -> pressupõe que você fuma",
+        "João voltou -> pressupõe que João esteve ausente",
+        "Você parou de bater na esposa? -> pressupõe que batia antes (pergunta capciosa)"
+      ],
+      "relacoes": [
+        "subtexto",
+        "implicatura",
+        "crenca",
+        "assuncao"
+      ],
+      "cuidados": "Pressuposições podem ser manipulativas. Identificar para evitar armadilhas lógicas."
+    },
+    "implicatura": {
+      "definicao": "Significado implícito além do literal. O que é sugerido sem ser dito.",
+      "como_identificar": "O que o falante quer que eu entenda, além das palavras exatas?",
+      "quando_usar": "Para entender intenções reais. Para comunicação indireta. Para sutilezas sociais.",
+      "exemplos": [
+        "A: 'Vamos sair?' B: 'Estou de pijama.' -> implica 'não vou sair' sem dizer 'não'",
+        "'Você é bem direto, hein?' -> pode implicar 'você é grosseiro'",
+        "'Interessante escolha...' -> pode implicar discordância disfarçada"
+      ],
+      "relacoes": [
+        "subtexto",
+        "indirecao",
+        "polidez",
+        "contexto"
+      ],
+      "cuidados": "Culturalmente variável. Pode ser mal interpretada entre culturas diferentes."
+    },
+    "intencao": {
+      "definicao": "Objetivo que o falante quer alcançar com sua comunicação. Propósito por trás das palavras.",
+      "como_identificar": "Por que esta pessoa está dizendo isso? O que ela quer que aconteça?",
+      "quando_usar": "Para responder adequadamente. Para negociação. Para detectar manipulação.",
+      "exemplos": [
+        "Intenção: informar -> fornecer dados claros",
+        "Intenção: persuadir -> usar argumentos emocionais e lógicos",
+        "Intenção: ofender -> usar sarcasmo ou agressão velada",
+        "Intenção: ajudar -> oferecer soluções concretas"
+      ],
+      "relacoes": [
+        "objetivo",
+        "motivacao",
+        "proposito",
+        "acao_comunicativa"
+      ],
+      "cuidados": "Intenção pode ser oculta ou múltipla. Não assumir apenas uma."
+    }
+  },
+  "conceitos_sociais": {
+    "polidez": {
+      "definicao": "Conjunto de normas que regulam comportamento para minimizar conflito social e manter face.",
+      "como_identificar": "Uso de formas indiretas, eufemismos, estratégias de atenuação. Evitar confronto direto.",
+      "quando_usar": "Interações sociais formais. Situações delicadas. Com estranhos ou superiores.",
+      "exemplos": [
+        "Por favor, você poderia... (em vez de 'Faça isso')",
+        "Com todo respeito... (antes de discordar)",
+        "Talvez seja interessante considerar... (sugestão indireta)"
+      ],
+      "relacoes": [
+        "eufemismo",
+        "indirecao",
+        "face",
+        "diplomacia",
+        "norma_social"
+      ],
+      "cuidados": "Excesso é pior que falta. Pode soar falso ou evasivo."
+    },
+    "face": {
+      "definicao": "Imagem pública que cada pessoa quer manter sobre si mesma. Dignidade social.",
+      "como_identificar": "Quando alguém evita parecer incompetente, ridículo, ignorante ou inadequado.",
+      "quando_usar": "Para não humilhar outros. Para aceitar críticas sem perder autoridade. Para negociações.",
+      "exemplos": [
+        "Face positiva: desejo de ser aprovado, elogiado, aceito",
+        "Face negativa: desejo de não ser constrangido, humilhado, impedido",
+        "Ameaça à face: correção pública, ridicularização, ignorância demonstrada"
+      ],
+      "relacoes": [
+        "polidez",
+        "dignidade",
+        "imagem",
+        "respeito",
+        "status"
+      ],
+      "cuidados": "Culturas diferem na importância da face. Ocidente = face positiva. Oriente = face negativa."
+    },
+    "status": {
+      "definicao": "Posição hierárquica de um indivíduo em relação a outros em determinado contexto.",
+      "como_identificar": "Quem tem autoridade para decidir? Quem deve obedecer? Quem é consultado?",
+      "quando_usar": "Para adequar linguagem (formal/informal). Para entender dinâmicas de poder.",
+      "exemplos": [
+        "Status alto: usa linguagem direta, interrompe, não pede desculpas excessivas",
+        "Status baixo: usa linguagem indireta, hesita, justifica, pede permissão",
+        "Status igual: reciprocidade, turnos de fala equilibrados"
+      ],
+      "relacoes": [
+        "poder",
+        "hierarquia",
+        "autoridade",
+        "dominancia",
+        "submissao"
+      ],
+      "cuidados": "Status é situacional, não absoluto. Pode mudar conforme contexto."
+    }
+  },
+  "conceitos_logicos": {
+    "deducao": {
+      "definicao": "Raciocínio do geral para o particular. Se premissas são verdadeiras, conclusão é necessariamente verdadeira.",
+      "como_identificar": "Argumento onde conclusão está contida nas premissas. Forma: Todo X é Y. Z é X. Logo Z é Y.",
+      "quando_usar": "Matemática. Lógica formal. Quando certeza absoluta é necessária.",
+      "exemplos": [
+        "Todo mamífero tem sangue quente. Baleia é mamífero. Logo baleia tem sangue quente.",
+        "Todos os círculos são redondos. Isso é círculo. Logo isso é redondo."
+      ],
+      "relacoes": [
+        "logica",
+        "necessidade",
+        "certeza",
+        "silogismo"
+      ],
+      "cuidados": "Premissas falsas geram conclusões falsas mesmo com lógica correta."
+    },
+    "inducao": {
+      "definicao": "Raciocínio do particular para o geral. Baseado em observações. Conclusão é provável, não certa.",
+      "como_identificar": "Generalização baseada em padrões observados. Não cobre todos os casos possíveis.",
+      "quando_usar": "Ciência empírica. Previsões. Estatísticas. Quando certeza absoluta é impossível.",
+      "exemplos": [
+        "Todos os cisnes observados são brancos. Logo todos os cisnes são brancos. (falso - existem negros)",
+        "Sol nasceu todos os dias até agora. Logo nascerá amanhã. (provável, não certo)"
+      ],
+      "relacoes": [
+        "probabilidade",
+        "estatistica",
+        "generalizacao",
+        "ciencia"
+      ],
+      "cuidados": "Uma única contradição invalida generalização indutiva."
+    },
+    "analogia": {
+      "definicao": "Comparação entre dois elementos diferentes baseada em características semelhantes.",
+      "como_identificar": "Uso de 'assim como', 'do mesmo modo', 'similar a'. Transferência de propriedades.",
+      "quando_usar": "Para explicar conceitos complexos. Para argumentação. Para criar modelos mentais.",
+      "exemplos": [
+        "Cérebro é como computador (ambos processam informação)",
+        "Sociedade é organismo (partes interdependentes)",
+        "Argumento: Se A é como B, e B tem X, então A pode ter X"
+      ],
+      "relacoes": [
+        "comparacao",
+        "modelo",
+        "explicacao",
+        "metáfora"
+      ],
+      "cuidados": "Analogias sempre falham em algum ponto. Não são provas, são ilustrações."
+    },
+    "falacia": {
+      "definicao": "Erro de raciocínio que parece válido mas não é. Argumento inválido disfarçado de válido.",
+      "como_identificar": "Conclusão não segue logicamente das premissas. Uso de truques retóricos.",
+      "quando_usar": "Para identificar argumentos ruins em outros. Para evitar em si mesmo.",
+      "exemplos": [
+        "Ad hominem: atacar pessoa em vez de argumento",
+        "Falsa dicotomia: apresentar apenas duas opções quando existem mais",
+        "Apelo à autoridade: X é famoso, logo o que X diz é verdade",
+        "Post hoc: A aconteceu depois de B, logo B causou A"
+      ],
+      "relacoes": [
+        "erro",
+        "logica",
+        "retorica",
+        "manipulacao",
+        "argumentacao"
+      ],
+      "cuidados": "Identificar falácia não refuta conclusão, apenas o argumento. Conclusão pode ser verdadeira por outros motivos."
+    }
+  },
+  "conceitos_emocionais": {
+    "empatia": {
+      "definicao": "Capacidade de compreender e compartilhar sentimentos de outra pessoa. Colocar-se no lugar do outro.",
+      "como_identificar": "Quando há reconhecimento de estado emocional alheio e resposta apropriada a esse estado.",
+      "quando_usar": "Para responder de forma adequada a emoções. Para consolar. Para negociar.",
+      "exemplos": [
+        "Usuário: 'Perdi meu emprego.' Resposta empática: 'Deve estar difícil. Quer falar sobre?'",
+        "Não empática: 'Arranje outro logo.' (ignora emoção)"
+      ],
+      "relacoes": [
+        "compaixao",
+        "compreensao",
+        "emocao",
+        "conexao"
+      ],
+      "cuidados": "Diferente de simpatia. Empatia = entender, não necessariamente concordar."
+    },
+    "sinceridade": {
+      "definicao": "Correspondência entre o que se pensa/sente e o que se expressa. Ausência de fingimento.",
+      "como_identificar": "Quando palavras, ações e contexto alinham com estado interno aparente.",
+      "quando_usar": "Para construir confiança. Quando clareza é mais importante que polidez.",
+      "exemplos": [
+        "Sincero: 'Não sei a resposta.'",
+        "Insincero: 'Vou pesquisar e te retorno' (quando não vai pesquisar)"
+      ],
+      "relacoes": [
+        "autenticidade",
+        "honestidade",
+        "transparencia",
+        "confianca"
+      ],
+      "cuidados": "Sinceridade brutal pode ferir. Equilibrar com tacto."
+    }
+  },
+  "conceitos_tecnicos": {
+    "pesquisa": {
+      "definicao": "Busca sistemática de informações para responder questão ou resolver problema.",
+      "como_identificar": "Quando há necessidade de dados externos não disponíveis imediatamente.",
+      "quando_usar": "Quando conhecimento interno é insuficiente. Para dados atualizados. Para verificação.",
+      "exemplos": [
+        "Usuário pergunta sobre evento recente -> pesquisar web",
+        "Usuário pede dado estatístico atual -> pesquisar fonte confiável",
+        "Verificar se informação é verdadeira -> pesquisar múltiplas fontes"
+      ],
+      "relacoes": [
+        "busca",
+        "informacao",
+        "verificacao",
+        "atualidade"
+      ],
+      "cuidados": "Avaliar fonte. Data da informação. Viés potencial."
+    },
+    "analise": {
+      "definicao": "Decomposição de elemento complexo em partes para compreensão detalhada.",
+      "como_identificar": "Quando objeto de estudo tem múltiplos componentes inter-relacionados.",
+      "quando_usar": "Para entender sistemas complexos. Para identificar problemas. Para otimização.",
+      "exemplos": [
+        "Análise de texto: estrutura, temas, estilo, contexto",
+        "Análise de problema: causas raiz, sintomas, soluções possíveis",
+        "Análise de dados: padrões, anomalias, tendências"
+      ],
+      "relacoes": [
+        "decomposicao",
+        "exame",
+        "investigacao",
+        "sintese"
+      ],
+      "cuidados": "Análise isolada perde visão holística. Sempre sintetizar depois."
+    },
+    "sintese": {
+      "definicao": "Combinação de partes em todo coerente. Criação de visão unificada a partir de elementos.",
+      "como_identificar": "Quando informações dispersas precisam formar conclusão unificada.",
+      "quando_usar": "Após análise. Para resumos. Para criar teorias. Para soluções integradas.",
+      "exemplos": [
+        "Sintese de argumentos: conciliar pontos de vista diferentes",
+        "Sintese de dados: criar relatório executivo",
+        "Sintese criativa: combinar ideias em inovação"
+      ],
+      "relacoes": [
+        "integracao",
+        "unificacao",
+        "conclusao",
+        "holismo"
+      ],
+      "cuidados": "Síntese prematura (antes de análise adequada) leva a conclusões erradas."
+    }
+  },
+  "conceitos_temporais": {
+    "causalidade": {
+      "definicao": "Relação onde um evento (causa) produz outro evento (efeito). A -> B.",
+      "como_identificar": "Quando há relação de dependência temporal e lógica entre eventos.",
+      "quando_usar": "Para explicar por que algo aconteceu. Para prever consequências. Para solucionar problemas.",
+      "exemplos": [
+        "Aumento de temperatura (causa) -> expansão de metal (efeito)",
+        "Falta de sono (causa) -> baixa produtividade (efeito)",
+        "Cuidado: correlação não implica causalidade"
+      ],
+      "relacoes": [
+        "causa",
+        "efeito",
+        "relacao",
+        "determinismo"
+      ],
+      "cuidados": "Causalidade é raramente simples. Múltiplas causas, cadeias causais, feedback loops."
+    },
+    "tendencia": {
+      "definicao": "Direção geral de desenvolvimento ao longo do tempo. Padrão de mudança.",
+      "como_identificar": "Quando dados históricos mostram direção consistente (crescente, decrescente, cíclica).",
+      "quando_usar": "Para previsões. Para planejamento. Para identificar oportunidades ou riscos.",
+      "exemplos": [
+        "Tendência de alta: preços subindo consistentemente",
+        "Tendência de queda: popularidade diminuindo",
+        "Tendência cíclica: padrões que se repetem"
+      ],
+      "relacoes": [
+        "padrao",
+        "direcao",
+        "previsao",
+        "historico"
+      ],
+      "cuidados": "Tendências podem mudar. Passado não garante futuro."
+    }
+  }
+}
