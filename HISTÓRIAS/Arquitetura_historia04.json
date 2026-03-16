@@ -1,0 +1,300 @@
+{
+  "narrative_framework": {
+    "version": "4.0",
+    "type": "Universal Story Architecture — Archetype & Dynamics Catalogue",
+    "purpose": "Mapeamento de arquétipos de protagonistas e dinâmicas narrativas para escolha consciente de abordagem",
+    "philosophy": "Não existe forma certa de contar. Existe forma consciente. Este arquivo é o menu, não a receita."
+  },
+
+  "protagonist_archetypes": {
+
+    "origin_patterns": {
+      "the_overwhelming": {
+        "description": "Nasce com poder que transcende o mundo. O drama não é 'como fica forte', mas 'como vive com isso'.",
+        "variants": {
+          "the_bored_god": "Tão poderoso que tudo é trivial — busca significado, não vitória",
+          "the_restrained": "Limita-se propositalmente — o drama é a autocontenção",
+          "the_corrupted": "Poder que consome — luta contra a própria natureza",
+          "the_misunderstood": "Poder invisível aos outros — visto como fraco, age como forte"
+        },
+        "narrative_focus": "Escala, isolamento, responsabilidade, definição de propósito próprio",
+        "example_stories": "One Punch Man, Mob Psycho 100, The Misfit of Demon King Academy"
+      },
+
+      "the_ascendant": {
+        "description": "Nasce fraco, comum ou limitado. Constrói poder através de esforço, sofrimento, escolhas acumuladas.",
+        "variants": {
+          "the_grinder": "Esforço brutal, repetitivo, sem atalhos — cada ganho é custo real",
+          "the_adaptive": "Aprende e evolui em tempo real — transforma derrota em dados",
+          "the_sacrificial": "Paga preço permanente por cada avanço — troca justa, mas cruel",
+          "the_accumulator": "Poder que cresce silenciosamente — subestimado até ser tarde demais"
+        },
+        "narrative_focus": "Progressão visível, custo explícito, satisfação do mérito, transformação física/mental",
+        "example_stories": "O Verdadeiro Soberano, Solo Leveling, Re:Zero (primeira fase), Mushoku Tensei"
+      },
+
+      "the_anti_fated": {
+        "description": "Mundo, destino ou sistema está contra ele. Cada passo é resistência ativa.",
+        "variants": {
+          "the_cursed": "Azar, fraqueza ou marca que impede — vence apesar de, não por causa de",
+          "the_rejected": "Sistema, sociedade ou natureza o exclui — cria próprio caminho",
+          "the_doomed": "Sabe que falhará, mas continua — tragédia como escolida, não imposta",
+          "the_unclassified": "Não cabe em nenhuma categoria — invisível aos sistemas de medição"
+        },
+        "narrative_focus": "Resistência, definição própria de valor, rejeição de classificações, sobrevivência como vitória",
+        "example_stories": "O Verdadeiro Soberano, Tate no Yuusha (início), Berserk, Vagabond"
+      },
+
+      "the_fortunate": {
+        "description": "Sorte extrema como traço definidor. O mundo conspira a favor, ou ele manipula a probabilidade.",
+        "variants": {
+          "the_charmed": "Sorte passiva — acidentes sempre favorecem, sem controle consciente",
+          "the_gambler": "Sorte ativa — arrisca calculadamente, confiando na variável",
+          "the_cheater": "Percebe padrões ou manipula sistemas — 'sorte' é habilidade disfarçada",
+          "the_blessed": "Proteção divina ou destino — não pode morrer, mas pode sofrer"
+        },
+        "narrative_focus": "Ironia, imprevisibilidade, comédia ou horror da aleatoriedade, justiça do acaso",
+        "example_stories": "KonoSuba (Kazuma), Kakegurui, certos isekai de comédia"
+      },
+
+      "the_cursed_dice": {
+        "description": "Azar extremo como condição. O mundo conspira contra, mas ele persiste.",
+        "variants": {
+          "the_jinxed": "Azar passivo — desastres acontecem, sobrevive apesar de tudo",
+          "the_martyr": "Azar como atração — atrai problemas para proteger outros",
+          "the_counter": "Transforma azar em vantagem — 'se tudo dá errado, sei o que não fazer'",
+          "the_sacrificial_lamb": "Azar que redime — sofre para que outros não sofram"
+        },
+        "narrative_focus": "Resiliência, humor negro, tragédia, valor do esforço em condições impossíveis",
+        "example_stories": "Re:Zero (Subaru), certos protagonistas de histórias de horror de sobrevivência"
+      },
+
+      "the_cognitive": {
+        "description": "Inteligência, estratégia ou conhecimento como principal ferramenta.",
+        "variants": {
+          "the_analyst": "Processa informação em velocidade superior — vê padrões invisíveis",
+          "the_schemer": "Planeja camadas à frente — xadrez humano, manipulação ética ou não",
+          "the_synthesist": "Conecta informações aparentemente irrelevantes — insight como poder",
+          "the_calculator": "Emoções suprimidas, lógica pura — eficiência máxima, custo humano"
+        },
+        "narrative_focus": "Mistério, estratégia, revelação de padrões, conflito de inteligências, isolamento racional",
+        "example_stories": "Death Note (L e Light), No Game No Life, O Verdadeiro Soberano (Dragon), Monster"
+      },
+
+      "the_intuitive": {
+        "description": "Ação baseada em instinto, emoção ou percepção não-racional.",
+        "variants": {
+          "the_beast": "Instinto animal — luta, fuga, proteção sem mediação cognitiva",
+          "the_empath": "Sente emoções alheias — poder e vulnerabilidade da conexão",
+          "the_prophet": "Vislumbres sem lógica — acerta sem saber porquê, ou erra fatalmente",
+          "the_pure_heart": "Bondade como força — ingenuidade que protege ou destrói"
+        },
+        "narrative_focus": "Autenticidade, vulnerabilidade, contraste com racionalidade, perigo e beleza do impulso",
+        "example_stories": "Gon (Hunter x Hunter), Edward Elric (aspectos), muitos shounen clássicos"
+      }
+    },
+
+    "hybrid_combinations": {
+      "the_pragmatic_ascendant": "Nasce fraco + rejeita sistemas + calculador + age sem esperar — O Verdadeiro Soberano",
+      "the_overwhelming_bored": "Nasce forte + procura significado + ação mínima eficiente — One Punch Man",
+      "the_cursed_calculator": "Azar extremo + inteligência máxima + sofrimento real — Re:Zero (fases avançadas)",
+      "the_fortunate_beast": "Sorte + instinto — sobrevive sem entender como — certos protagonistas de comédia",
+      "the_anti_fated_overwhelming": "Rejeitado pelo sistema + poder oculto massivo — The Misfit of Demon King Academy",
+      "the_sacrificial_intuitive": "Paga preço real + age por emoção + cresce através de perda — shounen dramáticos"
+    }
+  },
+
+  "action_dynamics": {
+
+    "temporal_approaches": {
+      "the_dramatic_pause": {
+        "description": "Espera o momento certo, deixa o oponente completar transformação, discurso ou preparação.",
+        "effect": "Tensão máxima, espetacularidade, risco calculado ou ingênuo",
+        "narrative_function": "Honra, arrogância, ou confiança em poder superior",
+        "examples": "Goku deixando Freeza atingir 100%, heróis ouvindo plano do vilão antes de agir"
+      },
+
+      "the_interruption": {
+        "description": "Não espera. Age imediatamente. Transformação é interrompida, discurso é cortado, preparação é sabotada.",
+        "effect": "Eficiência, pragmatismo, anti-climax intencional, humor negro ou horror",
+        "narrative_function": "Realismo brutal, rejeição de convenções, inteligência tática",
+        "examples": "O Verdadeiro Soberano (Dragon), Ainz Ooal Gown (Overlord), certos protagonistas de seinen"
+      },
+
+      "the_preemption": {
+        "description": "Age antes mesmo do início do conflito — assassina no sono, destrói recurso antes de ser usado.",
+        "effect": "Moralidade ambígua, vitória garantida, perda de dramaticidade tradicional",
+        "narrative_function": "Anti-heroísmo, pragmatismo extremo, terror preventivo",
+        "examples": "Light Yagami, certos protagonistas de histórias políticas ou de espionagem"
+      },
+
+      "the_escalation": {
+        "description": "Permite que oponente fique mais forte para testar seus próprios limites — busca desafio, não apenas vitória.",
+        "effect": "Risco real, satisfação do mérito, possibilidade de derrota",
+        "narrative_function": "Busca de significado, validação de crescimento, masoquismo competitivo",
+        "examples": "Saitama deixando oponente atacar primeiro, Vegeta permitindo evolução do Cell"
+      }
+    },
+
+    "ethical_spectrums": {
+      "the_idealist": {
+        "principle": "Segue código moral independente de conveniência — honra, justiça, promessa",
+        "cost": "Desvantagem tática, previsibilidade, sofrimento por princípio",
+        "narrative_power": "Inspiração, tragédia quando código falha, redenção"
+      },
+
+      "the_pragmatist": {
+        "principle": "Resultado justifica meios — eficiência sobre moralidade procedural",
+        "cost": "Isolamento, culpa acumulada, perda de humanidade",
+        "narrative_power": "Realismo, tensão moral, questionamento do leitor"
+      },
+
+      "the_nihilist": {
+        "principle": "Sem código — ação baseada em capricho, sobrevivência ou ausência de crença",
+        "cost": "Sem lealdade previsível, impossibilidade de relacionamento genuíno",
+        "narrative_power": "Imprevisibilidade, horror, liberdade absoluta"
+      },
+
+      "the_constructivist": {
+        "principle": "Cria próprio código através da experiência — moralidade em evolução",
+        "cost": "Inconsistência aparente, erros dolorosos, períodos de dúvida",
+        "narrative_power": "Crescimento genuíno, relatividade ética, arco complexo"
+      }
+    },
+
+    "convention_relationships": {
+      "the_conformist": {
+        "approach": "Segue estruturas narrativas esperadas — honra, amizade, redenção, sacrifício",
+        "effect": "Satisfação emocional previsível, conforto do familiar",
+        "use_case": "Obras de apelo massivo, confirmação de valores compartilhados"
+      },
+
+      "the_subversive": {
+        "approach": "Quebra expectativas de forma intencional — herói falha, vilão vence, sacrifício é inútil",
+        "effect": "Choque, reavaliação, possível frustração ou profundidade",
+        "use_case": "Crítica de gênero, deconstrução, comentário metanarrativo"
+      },
+
+      "the_pragmatic": {
+        "approach": "Ignora convenições não por rebeldia, mas por irrelevância — age como 'pessoa real' agiria",
+        "effect": "Realismo brutal, humor inesperado, eficiência narrativa",
+        "use_case": "Seinen, obras de tom 'realista', protagonistas calculistas"
+      },
+
+      "the_transcendent": {
+        "approach": "Reconhece convenções e as usa conscientemente — metaficção, controle narrativo",
+        "effect": "Jogo com o leitor, arquitetura complexa, possível distanciamento",
+        "use_case": "Obras experimentais, metaficção, narradores não-confiáveis"
+      }
+    }
+  },
+
+  "narrative_rhythms": {
+
+    "pacing_profiles": {
+      "the_sprint": "Ação contínua, pouca reflexão, reação imediata a estímulo — adrenalina pura",
+      "the_marathon": "Ação sustentada, ritmo controlado, resistência sobre explosão",
+      "the_interval": "Ciclos de intensidade e recuperação — pulsação narrativa",
+      "the_explosion": "Calma longa seguida de cataclismo — tensão acumulada",
+      "the_flow": "Sem picos óbvios, intensidade constante e crescente — hipnose narrativa",
+      "the_fragment": "Cenas curtas, descontinuas, montagem — colagem de significados"
+    },
+
+    "intensity_modulations": {
+      "physical": "Conflito corporal, violência, movimento — impacto sensorial",
+      "emotional": "Relacional, introspectivo, de perda ou ganho — ressonância afetiva",
+      "intellectual": "Estratégico, de revelação, de decisão — satisfação cognitiva",
+      "existential": "De escala, de consequência, de significado — elevação ou queda",
+      "void": "Ausência intencional — silêncio, espera, não-ação como tensão máxima"
+    }
+  },
+
+  "comparative_matrix": {
+
+    "traditional_vs_pragmatic": {
+      "scenario": "Vilão iniciando transformação de 3 minutos",
+      "traditional": "Protagonista espera, observa, prepara-se — tensão espetacular, risco aceito",
+      "pragmatic": "Protagonista interrompe imediatamente — eficiência, anti-climax, realismo",
+      "narrative_effect": "Primeiro: satisfação do confronto máximo. Segundo: satisfação da inteligência/logicidade",
+      "examples": "Dragon Ball vs O Verdadeiro Soberano"
+    },
+
+    "growth_vs_gift": {
+      "scenario": "Protagonista precisa de novo poder para desafio",
+      "growth": "Treina, sofre, perde, aprende — poder conquistado, custo real, satisfação do mérito",
+      "gift": "Recebe poder de fonte externa — espetacularidade imediata, possível devaluação",
+      "narrative_effect": "Primeiro: identificação, inspiração, arco emocional. Segundo: escapismo, poder fantasia",
+      "examples": "Rock Lee vs protagonistas de isekai genérico"
+    },
+
+    "system_vs_anomaly": {
+      "scenario": "Mundo com regras claras de poder/ranking",
+      "system_conformist": "Protagonista navega sistema, sobe hierarquia — clareza, progressão visível",
+      "system_rejector": "Protagonista quebra ou ignora sistema — imprevisibilidade, definição própria",
+      "anomaly": "Protagonista é invisível ao sistema — mistério, subestimação, revelação tardia",
+      "narrative_effect": "Primeiro: satisfação de game-like. Segundo: satisfação de rebeldia. Terceiro: satisfação de superioridade oculta",
+      "examples": "Naruto (conformista) vs O Verdadeiro Soberano (rejector) vs One Punch Man (anomaly)"
+    },
+
+    "community_vs_isolation": {
+      "scenario": "Protagonista em jornada",
+      "community": "Equipe, amizades, mentor — calor humano, dependência, crescimento relacional",
+      "isolation": "Sozinho, voz interna, autonomia — frieza, profundidade introspectiva, autossuficiência",
+      "narrative_effect": "Primeiro: shounen clássico, power of friendship. Segundo: seinen, existencialismo, força individual",
+      "examples": "Fairy Tail vs O Verdadeiro Soberano, Vagabond"
+    },
+
+    "emotion_vs_calculation": {
+      "scenario": "Decisão crucial em combate",
+      "emotion": "Raiva, amor, desespero impulsionam — poder de explosão, risco, humanidade",
+      "calculation": "Lógica, eficiência, minimização de risco — precisão, frieza, possível desumanização",
+      "narrative_effect": "Primeiro: catarse, identificação, shounen. Segundo: tensão intelectual, horror, seinen",
+      "examples": "Gon vs Meruem (Hunter x Hunter mistura ambos) vs Dragon (O Verdadeiro Soberano)"
+    }
+  },
+
+  "selection_guidelines": {
+
+    "for_intense_emotional_journey": {
+      "protagonist": "the_ascendant (sacrificial) + the_intuitive (empath)",
+      "dynamics": "the_escalation + the_idealist",
+      "rhythm": "the_interval + emotional peaks",
+      "convention": "the_conformist or the_constructivist"
+    },
+
+    "for_intellectual_satisfaction": {
+      "protagonist": "the_cognitive (analyst or schemer)",
+      "dynamics": "the_preemption + the_pragmatist",
+      "rhythm": "the_flow + intellectual peaks",
+      "convention": "the_pragmatic or the_transcendent"
+    },
+
+    "for_pragmatic_realism": {
+      "protagonist": "the_pragmatic_ascendant (hybrid) or the_cognitive (calculator)",
+      "dynamics": "the_interruption + the_pragmatist",
+      "rhythm": "the_sprint or the_flow",
+      "convention": "the_pragmatic"
+    },
+
+    "for_existential_exploration": {
+      "protagonist": "the_overwhelming (bored) + the_anti_fated (doomed)",
+      "dynamics": "varied, focus on cost",
+      "rhythm": "the_explosion + void moments",
+      "convention": "the_subversive or the_transcendent"
+    },
+
+    "for_pure_entertainment": {
+      "protagonist": "the_fortunate (charmed) + the_intuitive (beast)",
+      "dynamics": "the_dramatic_pause + the_escalation",
+      "rhythm": "the_sprint + physical peaks",
+      "convention": "the_conformist"
+    }
+  },
+
+  "integration_notes": {
+    "with_framework_1": "Use arquétipos para definir camadas psicológicas do protagonista — origem determina trauma e máscara",
+    "with_framework_2": "Use dinâmicas de ação para definir como o protagonista evolui — interrupção vs espera afeta ritmo de absorção",
+    "with_framework_3": "Use matriz comparativa para definir relações — pragmático vs emocional cria fricção dramática",
+    "cross_framework_rule": "Protagonista pragmático (Framework 4) + rejeição de sistema (Framework 2) + revelação que recontextualiza (Framework 3) = arco tipo O Verdadeiro Soberano"
+  }
+}
