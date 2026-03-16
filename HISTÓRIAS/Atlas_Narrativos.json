@@ -1,0 +1,949 @@
+{
+  "narrative_atlas": {
+    "version": "1.1",
+    "type": "Narrative World Architecture — Expanded Settings, Transitions & Territories",
+    "purpose": "Catálogo completo e expandido de tipos de mundos, métodos de transição, subgêneros e configurações espaciais para narrativas de qualquer formato",
+    "philosophy": "O mundo não é cenário. É personagem. É regra. É possibilidade. Cada território narrativo carrega leis próprias de existência."
+  },
+  "world_origins": {
+    "native_born": {
+      "description": "Protagonista nasce e cresce no mundo. Não há transição, choque cultural, ou adaptação forçada.",
+      "variants": {
+        "destined_heritage": "Nascido em linhagem especial, destino marcado desde origem",
+        "commoner_rise": "Nascido sem privilégios, mundo natural é obstáculo a superar",
+        "hidden_potential": "Nascido com capacidade oculta, descobre gradualmente",
+        "cursed_origin": "Nascido com marca, profecia, ou condição que define relação com mundo",
+        "forgotten_royalty": "Nascido em obscuridade, mas de sangue nobre ou divino esquecido",
+        "artificial_origin": "Criado, não nascido — clone, constructo, homúnculo, IA embodied"
+      },
+      "narrative_effects": {
+        "immersion": "Mundo explicado organicamente, não por contraste",
+        "authenticity": "Conhecimento profundo de cultura, política, história",
+        "limitation": "Sem 'vantagem de conhecimento externo', cresce com mundo",
+        "belonging": "Raízes que prendem ou sustentam, conexões que limitam ou fortalecem"
+      },
+      "examples": [
+        "O Verdadeiro Soberano",
+        "Naruto",
+        "One Piece",
+        "A Song of Ice and Fire",
+        "Mistborn",
+        "The Witcher"
+      ]
+    },
+    "transferred": {
+      "description": "Protagonista transportado de mundo natal para outro. Consciência intacta, corpo pode variar.",
+      "variants": {
+        "portal_transition": "Portal físico, gate, convocação ritualística — entrada ativa",
+        "death_rebirth": "Morte no mundo natal, nascimento/reencarnação no novo — entrada passiva",
+        "summoned": "Chamado por habitantes do novo mundo — entrada forçada, propósito atribuído",
+        "merged_worlds": "Mundo natal invadido por outro — mundo que muda, não protagonista",
+        "digital_transition": "Transporte para mundo virtual, game, simulação — regras codificadas",
+        "abduction": "Capturado por entidade, alienígena, ou força desconhecida — sem consentimento",
+        "contractual": "Acordo consciente para transferência — troca, venda de alma, aposta"
+      },
+      "narrative_effects": {
+        "contrast": "Choque cultural, comparação entre mundos, saudade ou rejeição",
+        "advantage": "Conhecimento externo como recurso (ciência, filosofia, estratégia)",
+        "identity": "Crise de quem é — nativo ou forasteiro? pertence aonde?",
+        "adaptation": "Curva de aprendizado, erros de novato, maestria híbrida",
+        "nostalgia": "Saudade destrutiva ou motivadora, mundo perdido que nunca volta"
+      },
+      "examples": [
+        "Mushoku Tensei",
+        "Re:Zero",
+        "Tate no Yuusha",
+        "Sword Art Online",
+        "Solo Leveling",
+        "The Chronicles of Narnia",
+        "The Wizard of Oz"
+      ]
+    },
+    "reincarnated": {
+      "description": "Protagonista morre e renasce, geralmente com memórias intactas, frequentemente em corpo diferente.",
+      "variants": {
+        "human_reincarnation": "Renasce como humano, geralmente bebê, cresce com consciência adulta",
+        "non_human_reincarnation": "Renasce como monstro, animal, planta, objeto — desumanização",
+        "parallel_self": "Renasce em versão alternativa de si mesmo — correção de vida",
+        "villain_reincarnation": "Renasce como vilão de história que conhecia — conhecimento de 'futuro'",
+        "world_hopping": "Reencarna sequencialmente em múltiplos mundos — acúmulo de vidas",
+        "regression": "Retorna ao próprio passado, no próprio corpo — segunda chance total"
+      },
+      "narrative_effects": {
+        "second_chance": "Redenção, correção de arrependimentos, aproveitamento de oportunidades perdidas",
+        "temporal_advantage": "Conhecimento de eventos futuros, manipulação de causa-efeito",
+        "embodiment_crisis": "Conflito entre identidade passada e presente, humanidade vs. nova forma",
+        "accelerated_growth": "Maturidade mental em corpo infantil, prodígio inexplicável",
+        "knowledge_accumulation": "Múltiplas vidas = múltiplas habilidades, saberes, traumas"
+      },
+      "examples": [
+        "That Time I Got Reincarnated as a Slime",
+        "Re:Monster",
+        "Youjo Senki",
+        "Mushoku Tensei",
+        "The Beginning After the End",
+        "Return of the Legendary Spear Knight"
+      ]
+    },
+    "returned": {
+      "description": "Protagonista que esteve no mundo antes, retorna após período de ausência.",
+      "variants": {
+        "time_dilation_return": "Passou dias no outro mundo, anos passaram no natal — ou vice-versa",
+        "exile_return": "Banido, retorna para cumprir promessa ou vingança",
+        "amnesiac_return": "Esteve antes, não lembra — redescobre conexão oculta",
+        "cyclic_return": "Retorna repetidamente, preso em loop entre mundos",
+        "resurrection_return": "Morto no mundo, retorna por magia, acordo, ou força de vontade"
+      },
+      "narrative_effects": {
+        "nostalgia": "Mudança do lugar, pessoas envelhecidas ou mortas, saudade destrutiva",
+        "responsibility": "Dívida com mundo que o criou, obrigação de retorno",
+        "dual_life": "Vida fragmentada entre dois mundos, nunca inteiro em nenhum",
+        "prophecy_fulfillment": "Retorno como evento profetizado, expectativa que pesa",
+        "alienation": "Não pertence mais a nenhum dos dois mundos completamente"
+      },
+      "examples": [
+        "Inuyasha",
+        "Nanatsu no Taizai",
+        "The Dark Tower",
+        "Bran Stark (Game of Thrones)",
+        "Alice in Wonderland (retornos)"
+      ]
+    },
+    "invaded_native": {
+      "description": "Mundo natal do protagonista é invadido por elementos de outro mundo. Ele não vai para o outro mundo — o outro mundo vem até ele.",
+      "variants": {
+        "gate_appearance": "Portais que abrem, liberando monstros, dungeons, ou recursos",
+        "system_arrival": "Regras de jogo impostas ao mundo real, status, níveis, habilidades",
+        "apocalyptic_merger": "Mundos que colidem, realidade que quebra, sobrevivência em fragmentos",
+        "incursion_periodic": "Invasões regulares, sociedade adaptada, defesa como cultura",
+        "infestation": "Criaturas que se espalham silenciosamente, mundo corrompido de dentro",
+        "awakening": "Mundo 'normal' que revela ter sido mágico/tóxico/oculto o tempo todo"
+      },
+      "narrative_effects": {
+        "preservation": "Luta para proteger mundo familiar que se torna estranho",
+        "adaptation": "Sociedade que evolui para lidar com ameaça, nova normalidade",
+        "hybridization": "Tecnologia nativa + recursos/magia invasora — evolução forçada",
+        "origin_mystery": "Busca por causa das invasões, quem abriu os portais, por quê",
+        "survival_community": "Formação de grupos de defesa, guildas, milícias, novo social"
+      },
+      "examples": [
+        "Solo Leveling",
+        "Gate: Thus the JSDF Fought There",
+        "Dungeon ni Deai",
+        "Tokyo Ghoul",
+        "Attack on Titan",
+        "The Mist",
+        "War of the Worlds"
+      ]
+    },
+    "simulated_construct": {
+      "description": "Mundo que é criação artificial — jogo, sonho, simulação, ilusão.",
+      "variants": {
+        "game_world": "MMORPG, mundo com regras codificadas, níveis, habilidades mensuráveis",
+        "dream_construct": "Mundo de sonho coletivo, subconsciente, lógica onírica",
+        "simulation_theory": "Mundo que descobre ser simulação, luta contra criadores/sistema",
+        "pocket_dimension": "Espaço criado por entidade poderosa, regras arbitrárias",
+        "immersion_pod": "Corpo real em pod, mente em mundo virtual — risco físico real",
+        "afterlife_construct": "Mundo pós-morte, inferno/purgatório/céu como sistema burocrático"
+      },
+      "narrative_effects": {
+        "meta_awareness": "Consciência das regras, exploração de mecânicas, gamificação",
+        "existential_doubt": "O que é real? quem sou eu fora daqui? consequências são reais?",
+        "system_interaction": "Hackear, explorar bugs, negociar com administradores",
+        "multiple_lives": "Morte como setback, não fim — consequências diluídas ou intensificadas",
+        "reality_bleed": "Fronteira entre simulação e realidade se dissolve"
+      },
+      "examples": [
+        "Sword Art Online",
+        "Log Horizon",
+        ".hack",
+        "The Matrix",
+        "Red vs Blue",
+        "The Good Place",
+        "Black Mirror (San Junipero)"
+      ]
+    },
+    "liminal_emergence": {
+      "description": "Protagonista descobre ou é atraído para espaços liminais — entre mundos, entre estados, entre o conhecido e o estranho.",
+      "variants": {
+        "the_backrooms": "Espaços infinitos de arquitetura genérica, fora da realidade",
+        "threshold_spaces": "Portais, cruzamentos, entre-lugares de folclore — ponte, encruzilhada, crepúsculo",
+        "abandoned_places": "Locais desocupados que ganham vida própria — escolas à noite, shoppings vazios",
+        "the_uncanny_valley": "Quase familiar, mas estranho o suficiente para desestabilizar",
+        "transit_spaces": "Aeroportos, estações, hotéis — lugares de passagem que se tornam destino"
+      },
+      "narrative_effects": {
+        "disorientation": "Familiaridade que não conforta, estranheza que atrai",
+        "temporal_slip": "Tempo que não flui normalmente, loops, elipses inexplicáveis",
+        "psychological_horror": "Medo que vem de ausência, não de presença ameaçadora",
+        "transformation_space": "Lugar onde mudança é inevitável, metamorfose forçada",
+        "nostalgic_dread": "Saudade de algo que nunca se teve, lugar de sonho que vira pesadelo"
+      },
+      "examples": [
+        "The Backrooms",
+        "Silent Hill",
+        "The Shining (hotel vazio)",
+        "House of Leaves",
+        "Control (jogo)",
+        "Annihilation",
+        "Dark (Netflix)"
+      ]
+    }
+  },
+  "world_temporalities": {
+    "modern_earth": {
+      "era": "Contemporâneo, tecnologia atual, sociedade globalizada",
+      "subgenres": {
+        "Urban Fantasy": "Magia oculta em cidade moderna, sobrenatural escondido",
+        "Paranormal Romance": "Relacionamentos com criaturas sobrenaturais em mundo atual",
+        "Technothriller": "Tecnologia de ponta como motor de suspense",
+        "Contemporary Horror": "Terror em suburbia, metrópole, espaços cotidianos",
+        "Magical Realism": "Elementos mágicos aceitos como natural em mundo realista"
+      },
+      "fantasy_integration": "Magia oculta, sobrenatural escondido, ou invasão que expõe",
+      "protagonist_advantage": "Conhecimento tecnológico, ciência, organização social complexa, acesso a informação",
+      "narrative_tropes": [
+        "Escola como microcosmo",
+        "Sistema escondido",
+        "Invasão que muda normalidade",
+        "Conspiração oculta",
+        "Corporate magic",
+        "Internet como magia"
+      ],
+      "examples": [
+        "Harry Potter (aspectos)",
+        "The Dresden Files",
+        "Buffy the Vampire Slayer",
+        "Supernatural",
+        "Stranger Things",
+        "The Magicians"
+      ]
+    },
+    "near_future": {
+      "era": "Décadas à frente, tecnologia avançada mas reconhecível",
+      "subgenres": {
+        "Cyberpunk": "Alta tecnologia, baixa vida, corporações como Estados, body horror tecnológico",
+        "Solarpunk": "Tecnologia sustentável, futuro esperançoso, ecologia integrada",
+        "Biopunk": "Manipulação genética, biologia como tecnologia, ética da carne",
+        "Nanopunk": "Nanotecnologia como base, escala microscópica mudando macro",
+        "Post-Cyberpunk": "Cyberpunk evoluído, menos niilista, mais complexo socialmente"
+      },
+      "fantasy_integration": "Cyberpunk, biotecnologia, IA, fusão tech-magic",
+      "protagonist_advantage": "Adaptação rápida, nativo digital, hibridização, hacking",
+      "narrative_tropes": [
+        "Distopia",
+        "Corporações como impérios",
+        "Rebelião tech",
+        "Pós-humanismo",
+        "Identidade fragmentada",
+        "Realidade virtual como escape"
+      ],
+      "examples": [
+        "Neuromancer",
+        "Ghost in the Shell",
+        "Altered Carbon",
+        "The Expanse",
+        "Cyberpunk 2077",
+        "Black Mirror",
+        "Psycho-Pass"
+      ]
+    },
+    "post_apocalyptic": {
+      "era": "Após colapso civilizacional, ruínas, reconstrução",
+      "subgenres": {
+        "Nuclear Winter": "Guerra nuclear, radiação, sobrevivência em bunkers",
+        "Zombie Apocalypse": "Pandemia de mortos-vivos, colapso social, comunidades isoladas",
+        "Climate Collapse": "Mudança climática extrema, desertificação, inundação, escassez",
+        "Pandemic Aftermath": "Doença que dizimou, sociedade reconstruída sobre trauma",
+        "Technological Collapse": "Fim da eletricidade/tech, retorno à era pré-industrial",
+        "Alien Aftermath": "Invasão que falhou ou foi parcial, mundo híbrido"
+      },
+      "fantasy_integration": "Magia que emergiu do caos, mutações, novas ecologias, tecnologia como relíquia",
+      "protagonist_advantage": "Sobrevivência, adaptação brutal, conhecimento do 'mundo perdido', engenhosidade",
+      "narrative_tropes": [
+        "Tribos em ruínas de metrópoles",
+        "Tecnologia como magia",
+        "Natureza reconquistando",
+        "Memória do passado como poder",
+        "Escassez como lei",
+        "Reconstrução vs. sobrevivência"
+      ],
+      "examples": [
+        "The Road",
+        "The Last of Us",
+        "Mad Max",
+        "Fallout",
+        "Station Eleven",
+        "Parable of the Sower",
+        "The Walking Dead"
+      ]
+    },
+    "medieval_fantasy": {
+      "era": "Tecnologia pré-industrial, feudalismo, reinos, guildas",
+      "subgenres": {
+        "High Fantasy": "Escala épica, bem vs. mal claro, profecias, heróis lendários",
+        "Grimdark": "Fantasia brutal, moralidade cinzenta, violência realista, mundo indiferente",
+        "Sword and Sorcery": "Aventura pessoal, anti-heróis, magia perigosa, escala menor",
+        "Historical Fantasy": "Eventos históricos com elementos mágicos, verossimilhança",
+        "Feudal Intrigue": "Política, casas nobres, traição, guerra, casamentos",
+        "Cozy Fantasy": "Fantasia sem ameaça existencial, conforto, comunidade, cura"
+      },
+      "fantasy_integration": "Magia como sistema natural, monstros como fauna, aventura como profissão",
+      "protagonist_advantage": "Se nativo: conhecimento profundo. Se transferido: vantagem tecnológica/conceitual",
+      "narrative_tropes": [
+        "Herói de aldeia",
+        "Guilda de aventureiros",
+        "Reino vs. demônios",
+        "Dragão ancestral",
+        "Magia que corrompe",
+        "Profecia e escolha",
+        "Ascensão ao trono"
+      ],
+      "examples": [
+        "The Lord of the Rings",
+        "The First Law Trilogy",
+        "A Song of Ice and Fire",
+        "The Witcher",
+        "Mistborn",
+        "The Kingkiller Chronicle",
+        "Conan the Barbarian"
+      ]
+    },
+    "ancient_mythic": {
+      "era": "Antiguidade, mitos vivos, deuses que andam entre mortais",
+      "subgenres": {
+        "Mythological Fantasy": "Deuses antigos ativos, heróis como semideuses, quests épicas",
+        "Historical Mythic": "Civilizações antigas (Egito, Grécia, Roma) com magia real",
+        "Apotheosis": "Ascensão à divindade, mortal que se torna deus",
+        "Titanomachy": "Guerra entre gerações de deuses, escala cósmica",
+        "Sacred Kingship": "Rei como deus vivo, religião e estado indistinguíveis"
+      },
+      "fantasy_integration": "Divindade como realidade, profecia como lei, herói como escolha dos deuses",
+      "protagonist_advantage": "Interação direta com divino, escala épica, consequência cósmica, favor divino",
+      "narrative_tropes": [
+        "Quest do herói",
+        "Tragédia grega",
+        "Apoteose",
+        "Ragnarok, mito de criação",
+        "Oráculos e profecias",
+        "Sacrifício ao deus",
+        "Descida ao submundo"
+      ],
+      "examples": [
+        "Circe",
+        "The Song of Achilles",
+        "American Gods",
+        "Percy Jackson",
+        "The Epic of Gilgamesh",
+        "Mythos (Stephen Fry)",
+        "God of War"
+      ]
+    },
+    "deep_fantasy_alien": {
+      "era": "Incomensurável com tempo humano, lógica própria, consciência alterada",
+      "subgenres": {
+        "Cosmic Horror": "Entidades além da compreensão, insanidade ao saber, insignificância humana",
+        "Weird Fiction": "Estranheza que não se categoriza, horror sem monstro definido",
+        "New Weird": "Fusão de gêneros sem pureza, cidade estranha, biologia alienígena",
+        "Dying Earth": "Sol morrendo, magia como ciência decadente, últimos dias",
+        "Planetary Romance": "Mundo alienígena vivido como nativo, aventura em escala estranha"
+      },
+      "fantasy_integration": "Mundo vivo, leis físicas como negociação, tempo não-linear, biologia consciente",
+      "protagonist_advantage": "Adaptação radical, perda de humanidade como evolução, simbiose, incompreensão como escudo",
+      "narrative_tropes": [
+        "Mundo que pensa",
+        "Entidades incompreensíveis",
+        "Tempo como território",
+        "Transformação física/mental total",
+        "Conhecimento que corrompe",
+        "Fronteiras da sanidade",
+        "Linguagem impossível"
+      ],
+      "examples": [
+        "The Book of the New Sun",
+        "Annihilation",
+        "House of Leaves",
+        "Perdido Street Station",
+        "Dune (aspectos)",
+        "Bloodborne",
+        "Control (jogo)"
+      ]
+    },
+    "alternate_history": {
+      "era": "Passado divergente, ponto de inflexão histórica que tomou outro caminho",
+      "subgenres": {
+        "Divergence Point": "Momento específico muda (batalha, assassinato, invenção)",
+        "Multiverse Cross": "Viagem entre histórias alternativas, comparação de resultados",
+        "Secret History": "O que pensamos que sabemos é falso, verdade oculta",
+        "Future History": "Visão do futuro escrita no passado, profecia falhada ou acertada",
+        "Allohistorical": "História de mundo onde evento famoso teve resultado oposto"
+      },
+      "fantasy_integration": "Magia que explica divergência, ou divergência que cria magia, ou simplesmente 'o que se' com elementos fantásticos",
+      "protagonist_advantage": "Conhecimento de 'história real', ou ignorância que permite aceitar mundo, ou capacidade de viajar entre linhas",
+      "narrative_tropes": [
+        "Efeito borboleta",
+        "Mundo que poderia ter sido",
+        "Responsabilidade de mudar/restaurar",
+        "Identidade em linha alternativa",
+        "Consequências não-intencionais",
+        "Paradoxo temporal",
+        "Fixação do ponto de divergência"
+      ],
+      "examples": [
+        "The Man in the High Castle",
+        "11/22/63",
+        "The Yiddish Policemen's Union",
+        "Wolfenstein",
+        "Civilization (jogos)",
+        "For All Mankind",
+        "The Plot Against America"
+      ]
+    },
+    "regency_victorian": {
+      "era": "Séculos XVIII-XIX, aristocracia, industrialização incipiente, rigidez social",
+      "subgenres": {
+        "Gaslamp Fantasy": "Fantasia em era vitoriana, magia como ciência emergente",
+        "Steampunk": "Tecnologia a vapor avançada, estética vitoriana, aventura",
+        "Dieselpunk": "Era das máquinas de combustão, guerra, estética noir industrial",
+        "Gothic Romance": "Mansões assombradas, herdeiras, segredos de família, paixão perigosa",
+        "Society Fantasy": "Magia entre a aristocracia, etiqueta com feitiços"
+      },
+      "fantasy_integration": "Magia como curiosidade científica, ou ocultismo aristocrático, ou tecnologia que parece mágica",
+      "protagonist_advantage": "Nascimento, educação, ou transgressão de classe, conhecimento das regras sociais",
+      "narrative_tropes": [
+        "Balls mágicos",
+        "Proposta de casamento com propósito",
+        "Governess com segredo",
+        "Invenção que muda tudo",
+        "Classe social como magia",
+        "Mansão com vida própria",
+        "Contrato com entidade"
+      ],
+      "examples": [
+        "Jonathan Strange & Mr Norrell",
+        "Soulless",
+        "Bioshock Infinite",
+        "The Parasol Protectorate",
+        "Dishonored",
+        "Penny Dreadful",
+        "The Essex Serpent"
+      ]
+    },
+    "prehistoric_primitive": {
+      "era": "Antes da escrita, tribos, megafauna, mundo selvagem primordial",
+      "subgenres": {
+        "Clan of the Cave Bear": "Humanos entre Neandertais, evolução cultural",
+        "Primal Survival": "Sobrevivência pura, natureza como antagonista principal",
+        "Prehistoric Fantasy": "Mundo onde dragões/dinossauros coexistem com humanos primitivos",
+        "Tribal Society": "Estrutura de clãs, xamãs, guerra de recursos",
+        "Ice Age": "Sobrevivência em extremo, migração, caça de megafauna"
+      },
+      "fantasy_integration": "Espíritos como explicação natural, xamanismo real, megafauna como dragões, elementos sobrenaturais aceitos como realidade",
+      "protagonist_advantage": "Força física, conhecimento de plantas/animais, inovação cultural, liderança tribal",
+      "narrative_tropes": [
+        "Invenção do fogo/metal",
+        "Migração da tribo",
+        "Conflito com Neandertais",
+        "Caça ao mamute",
+        "Xamã como líder espiritual",
+        "Primeiro contato com 'outro'",
+        "Sobrevivência do inverno"
+      ],
+      "examples": [
+        "Clan of the Cave Bear",
+        "The Inheritors",
+        "Far Cry Primal",
+        "Alpha",
+        "10,000 BC",
+        "Quest for Fire",
+        "Ember (jogo)"
+      ]
+    }
+  },
+  "world_structures": {
+    "single_world": {
+      "description": "Um mundo coeso, fronteiras geográficas definidas, cosmologia única.",
+      "complexity": "Focado, profundidade em cultura/história, escala controlada",
+      "narrative_use": "Épico localizado, jornada física com propósito claro, exploração detalhada",
+      "examples": [
+        "Middle-earth",
+        "Westeros",
+        "The Witcher Continent",
+        "Roshar (Stormlight Archive)"
+      ]
+    },
+    "multiverse": {
+      "description": "Múltiplos mundos conectados, viagem entre realidades possível.",
+      "complexity": "Variação infinita, regras que mudam, identidade diluída ou multiplicada",
+      "narrative_use": "Consequências em escala cósmica, versões alternativas, busca através de realidades",
+      "variants": {
+        "parallel_earths": "Versões alternativas de nosso mundo com diferenças sutis ou grandes",
+        "dimensional_tiers": "Mundos organizados em camadas de poder/acesso",
+        "bubble_universes": "Cada mundo é 'bolha' isolada, conexões raras",
+        "fractal_realities": "Cada escolha cria bifurcação, infinitos mundos de possibilidade"
+      },
+      "examples": [
+        "The Dark Tower",
+        "Marvel Multiverse",
+        "The Long Earth",
+        "His Dark Materials",
+        "Rick and Morty"
+      ]
+    },
+    "layered_world": {
+      "description": "Mundos sobrepostos no mesmo espaço — físico/espiritual, material/etéreo.",
+      "complexity": "Percepção como chave, duas (ou mais) realidades simultâneas",
+      "narrative_use": "Mistério de camadas ocultas, protagonista que vê ambas, conflito entre planos",
+      "variants": {
+        "physical_spiritual": "Mundo material e mundo dos espíritos/espelho",
+        "material_digital": "Realidade e realidade virtual sobrepostas",
+        "waking_dreaming": "Fronteira entre vigília e sono como território",
+        "past_present": "Ecos do passado visíveis em presente, ou vice-versa"
+      },
+      "examples": [
+        "The Dresden Files",
+        "Buffy the Vampire Slayer",
+        "Stranger Things (Upside Down)",
+        "Silent Hill",
+        "Persona (séries)"
+      ]
+    },
+    "infinite_dungeon": {
+      "description": "Estrutura que se expande indefinidamente, progressão como única direção.",
+      "complexity": "Repetição com variação, escalada de dificuldade, metagame",
+      "narrative_use": "Progressão pura, exploração sistemática, sociedade que vive dentro da estrutura",
+      "variants": {
+        "tower_structure": "Cada andar = novo mundo/dificuldade, subida como meta",
+        "underworld_expansion": "Descida infinita, profundezas desconhecidas",
+        "procedural_generation": "Estrutura que muda, não memorizável, infinitamente novo",
+        "living_dungeon": "Estrutura orgânica, cresce, reage, é personagem ativa"
+      },
+      "examples": [
+        "Tower of God",
+        "Made in Abyss",
+        "Dungeon ni Deai",
+        "The Backrooms",
+        "Darkest Dungeon"
+      ]
+    },
+    "shattered_world": {
+      "description": "Mundo fragmentado, ilhas flutuantes, eras que não se tocam, realidade quebrada.",
+      "complexity": "Diversidade extrema, viagem como desafio, reconexão como meta",
+      "narrative_use": "Busca por unificação, exploração de fragmentos, mistério da quebra",
+      "variants": {
+        "floating_islands": "Territórios suspensos no vazio, navegação aérea",
+        "temporal_shards": "Cada fragmento em era diferente, passado e presente misturados",
+        "dimensional_fragments": "Partes de mundos diferentes coladas juntas",
+        "post_shattering": "Mundo que era inteiro, agora quebrado, busca por restauração"
+      },
+      "examples": [
+        "The Legend of Zelda: Skyward Sword",
+        "World of Warcraft (Outland)",
+        "The Broken Earth trilogy",
+        "Gravity Rush",
+        "Bioshock Infinite (aspectos)"
+      ]
+    },
+    "closed_world": {
+      "description": "Espaço limitado, fronteiras intransponíveis, recursos finitos.",
+      "complexity": "Pressão de confinamento, sociedade que evolui diferente, claustrofobia ou comunidade",
+      "narrative_use": "Sobrevivência em espaço fechado, mistério do que está além, microcosmo social",
+      "variants": {
+        "underground_bunker": "Sobrevivência pós-apocalipse em espaço selado",
+        "generation_ship": "Nave espacial que viaja por séculos, sociedade que esqueceu origem",
+        "isolated_city": "Cidade cercada por perigo, muros intransponíveis",
+        "microcosm_school": "Instituição como mundo completo, regras próprias"
+      },
+      "examples": [
+        "Attack on Titan (muros)",
+        "The 100 (inicialmente)",
+        "Wool",
+        "The Promised Neverland",
+        "Ender's Game (escola)",
+        "Made in Abyss (aspectos)"
+      ]
+    },
+    "living_world": {
+      "description": "Mundo que é organismo, consciência, ou entidade viva.",
+      "complexity": "Relação simbiótica ou parasitária, mundo que reage, evolui, julga",
+      "narrative_use": "Ecologia como personagem, adaptação forçada, comunicação com o inesperado",
+      "variants": {
+        "planetary_consciousness": "Planeta que pensa, Gaia, mundo-mãe",
+        "biomech_world": "Tecnologia e biologia fundidas, carne e metal indistinguíveis",
+        "dreaming_god": "Mundo é sonho de entidade dormindo, acordar = fim",
+        "infected_world": "Mundo doente, corrompido, que precisa de cura ou morte"
+      },
+      "examples": [
+        "Avatar (Pandora)",
+        "Nausicaä",
+        "Solaris",
+        "Warhammer 40k (Terra como cemitério)",
+        "Scorn (jogo)",
+        "The Last of Us (aspectos)"
+      ]
+    }
+  },
+  "transition_mechanics": {
+    "the_gate": {
+      "method": "Portal físico, geralmente bidirecional inicialmente",
+      "characteristics": "Controle limitado, geralmente em local específico, pode ser fechado/aberto",
+      "narrative_function": "Ponto de tensão, defesa/invasão, escolha de passar ou não",
+      "examples": [
+        "Narnia",
+        "Solo Leveling",
+        "Gate",
+        "Stranger Things"
+      ]
+    },
+    "the_summoning": {
+      "method": "Ritual que puxa protagonista contra vontade",
+      "characteristics": "Propósito atribuído pelo invocador, geralmente herói/sacrifício/esperança",
+      "narrative_function": "Conflito de propósito, rebelião contra função imposta, expectativa vs. realidade",
+      "examples": [
+        "Tate no Yuusha",
+        "The Familiar of Zero",
+        "The Vision of Escaflowne",
+        "Summoned Slaughterer"
+      ]
+    },
+    "the_death": {
+      "method": "Morte como porta, reencarnação ou transporte de consciência",
+      "characteristics": "Irreversibilidade, trauma de transição, segunda chance como tema",
+      "narrative_function": "Redenção, aproveitamento de vida perdida, confronto com mortalidade",
+      "examples": [
+        "Mushoku Tensei",
+        "That Time I Got Reincarnated as a Slime",
+        "Youjo Senki",
+        "The Beginning After the End"
+      ]
+    },
+    "the_system": {
+      "method": "Mundo que adquire 'regras de jogo', geralmente com interface visível",
+      "characteristics": "Status mensuráveis, habilidades adquiríveis, progressão gamificada",
+      "narrative_function": "Metagame, otimização, exploração de mecânicas, desumanização ou transcendência",
+      "examples": [
+        "Solo Leveling",
+        "Omniscient Reader's Viewpoint",
+        "The Gamer",
+        "Second Life Ranker"
+      ]
+    },
+    "the_dream": {
+      "method": "Transição através de sono, transe, ou estado alterado",
+      "characteristics": "Fronteira fluida entre realidades, dúvida sobre qual é 'verdadeira'",
+      "narrative_function": "Incerteza existencial, escape como tentação, integração de mundos",
+      "examples": [
+        "The Wizard of Oz (filme)",
+        "Inception",
+        "Paprika",
+        "The Sandman",
+        "Link's Awakening"
+      ]
+    },
+    "the_merger": {
+      "method": "Mundos que colidem, não protagonista que move",
+      "characteristics": "Ambos mundos mudam, hibridização forçada, sobrevivência de choque",
+      "narrative_function": "Adaptação, perda do familiar, nascimento de novo normal",
+      "examples": [
+        "The Mist",
+        "Annihilation",
+        "Final Fantasy (aspectos)",
+        "The Collapsing Empire"
+      ]
+    },
+    "the_regression": {
+      "method": "Retorno ao próprio passado, no próprio corpo, com memórias intactas",
+      "characteristics": "Segunda chance total, conhecimento de 'futuro', alteração de linha do tempo",
+      "narrative_function": "Correção de erros, aproveitamento de oportunidades, paradoxo e consequências",
+      "examples": [
+        "Return of the Legendary Spear Knight",
+        "The Beginning After the End",
+        "11/22/63",
+        "Steins;Gate"
+      ]
+    },
+    "the_awakening": {
+      "method": "Mundo 'normal' revela ter sido mágico/oculto o tempo todo, protagonista 'desperta'",
+      "characteristics": "Mudança de percepção, não de lugar. Mundo era sempre assim, só não via.",
+      "narrative_function": "Revelação de verdade oculta, crise de realidade, pertencimento a mundo maior",
+      "examples": [
+        "The Matrix",
+        "The Dresden Files",
+        "Buffy the Vampire Slayer",
+        "John Wick (aspectos)",
+        "They Live"
+      ]
+    }
+  },
+  "world_personality": {
+    "the_hospitable": {
+      "description": "Mundo que recebe, adapta, oferece possibilidades. Desafios existem, mas não hostilidade fundamental.",
+      "tone": "Aventura, descoberta, pertencimento possível",
+      "protagonist_relationship": "Convidado que pode se tornar nativo",
+      "examples": [
+        "Narnia",
+        "Pandora (Avatar)",
+        "Star Trek (Federação)",
+        "Cozy Fantasy"
+      ]
+    },
+    "the_indifferent": {
+      "description": "Mundo que não se importa com protagonista. Regras são, consequências são, sem malícia.",
+      "tone": "Sobrevivência, adaptação, realismo brutal",
+      "protagonist_relationship": "Organismo em ambiente, evoluir ou morrer",
+      "examples": [
+        "The Road",
+        "Dark Souls",
+        "Subnautica",
+        "The Revenant"
+      ]
+    },
+    "the_hostile": {
+      "description": "Mundo ativamente perigoso, que reage à presença do protagonista como ameaça/intruso.",
+      "tone": "Horror, tensão constante, paranoia",
+      "protagonist_relationship": "Invasor que deve se esconder, dominar, ou ser destruído",
+      "examples": [
+        "Alien",
+        "The Thing",
+        "Warhammer 40k",
+        "Bloodborne",
+        "SCP Foundation"
+      ]
+    },
+    "the_sentient": {
+      "description": "Mundo que pensa, observa, julga. Pode favorecer ou perseguir.",
+      "tone": "Mistério, negociação, destino personificado",
+      "protagonist_relationship": "Jogador em jogo de entidade maior, peça e jogador simultâneo",
+      "examples": [
+        "The Dark Tower",
+        "The Wheel of Time (Padroante)",
+        "Solaris",
+        "Planescape (Sigil)",
+        "The Good Place"
+      ]
+    },
+    "the_maternal": {
+      "description": "Mundo que nutre, transforma, cria. Perigos existem, mas como parte de crescimento.",
+      "tone": "Evolução, simbiose, pertencimento profundo",
+      "protagonist_relationship": "Filho que herda, protege, eventualmente transcende",
+      "examples": [
+        "Avatar (Pandora)",
+        "Nausicaä",
+        "The Earthsea Cycle",
+        "Princess Mononoke",
+        "The Dark Crystal"
+      ]
+    },
+    "the_corrupting": {
+      "description": "Mundo que promete, seduz, mas consome. Beleza que destrói.",
+      "tone": "Seducção, decadência, perda gradual de si mesmo",
+      "protagonist_relationship": "Amante tóxico, dependência, luta para escapar ou sucumbir",
+      "examples": [
+        "The Picture of Dorian Gray",
+        "Warhammer 40k (Caos)",
+        "Annihilation (Zona)",
+        "The Magicians (Fillory)",
+        "Dark Souls (Lordran)"
+      ]
+    },
+    "the_absurd": {
+      "description": "Mundo sem lógica consistente, regras que mudam, causalidade quebrada.",
+      "tone": "Humor negro, surrealismo, horror cósmico leve",
+      "protagonist_relationship": "Narrador em piada que não entende, ou jogador de jogo sem manual",
+      "examples": [
+        "Alice in Wonderland",
+        "Rick and Morty",
+        "The Hitchhiker's Guide to the Galaxy",
+        "Discworld",
+        "The Backrooms"
+      ]
+    }
+  },
+  "genre_synthesis_matrix": {
+    "modern_with_gates": {
+      "combination": "Modern Earth + Invaded Native + Gate appearance + System",
+      "description": "Portais abrem em cidade moderna, monstros emergem, humanos despertam poderes",
+      "protagonist_fit": "Native born ou transferred, geralmente weak-to-strong, system user",
+      "examples": [
+        "Solo Leveling",
+        "Omniscient Reader's Viewpoint",
+        "The Second Coming of Gluttony",
+        "Ranker Who Lives a Second Time"
+      ]
+    },
+    "medieval_isekai": {
+      "combination": "Medieval Fantasy + Transferred/Reincarnated + Summoning",
+      "description": "Protagonista vai para mundo medieval com magia, geralmente com propósito de herói",
+      "protagonist_fit": "Transferred com vantagem de conhecimento, ou reincarnated com segunda chance",
+      "examples": [
+        "Mushoku Tensei",
+        "Re:Zero",
+        "Tate no Yuusha",
+        "The Rising of the Shield Hero",
+        "In Another World with My Smartphone"
+      ]
+    },
+    "post_apocalyptic_cultivation": {
+      "combination": "Post-Apocalyptic + System + Shattered World",
+      "description": "Colapso civilizacional, sistema de poder emerge, fragmentos de realidade",
+      "protagonist_fit": "Native born em mundo quebrado, ou returned após cataclismo",
+      "examples": [
+        "Apocalyptic world + cultivation novels chinesas",
+        "Demon Apocalypse",
+        "The First Order"
+      ]
+    },
+    "digital_trapped": {
+      "combination": "Simulated Construct + Game World + Death as consequence",
+      "description": "Preso em jogo, morte é real, evasão é meta",
+      "protagonist_fit": "Native de mundo real agora em simulação, gamer como vantagem",
+      "examples": [
+        "Sword Art Online",
+        "Log Horizon",
+        ".hack",
+        "Btooom!",
+        "No Game No Life"
+      ]
+    },
+    "ancient_awakening": {
+      "combination": "Ancient Mythic + Layered World + Native Born + Hidden Potential",
+      "description": "Mundo onde deuses dormem, heróis despertam, profecias se cumprem",
+      "protagonist_fit": "Destined heritage ou hidden potential, descoberta gradual de escala cósmica",
+      "examples": [
+        "Percy Jackson",
+        "The Earthsea Cycle",
+        "The Stormlight Archive",
+        "American Gods"
+      ]
+    },
+    "grimdark_medieval": {
+      "combination": "Medieval Fantasy + Grimdark + Native Born + Hostile World",
+      "description": "Fantasia medieval brutal, moralidade cinzenta, violência realista, mundo indiferente à bondade",
+      "protagonist_fit": "Anti-herói ou villain protagonist, pragmatista, sobrevivência sobre idealismo",
+      "examples": [
+        "The First Law Trilogy",
+        "A Song of Ice and Fire",
+        "The Broken Empire",
+        "Prince of Thorns",
+        "The Witcher"
+      ]
+    },
+    "cyberpunk_awakening": {
+      "combination": "Near Future + Cyberpunk + Awakening + System",
+      "description": "Distopia tecnológica onde protagonista descobre mundo oculto de hackers/magos digitais",
+      "protagonist_fit": "Hacker, nativo digital, ou despertado para verdade oculta",
+      "examples": [
+        "The Matrix",
+        "Neuromancer",
+        "Ghost in the Shell",
+        "Altered Carbon",
+        "Cyberpunk 2077"
+      ]
+    },
+    "liminal_horror": {
+      "combination": "Liminal Emergence + Horror + Mystery + Uncanny",
+      "description": "Espaços entre mundos, entre estados, que desestabilizam e transformam",
+      "protagonist_fit": "Explorador, vítima, ou entidade que emerge",
+      "examples": [
+        "The Backrooms",
+        "House of Leaves",
+        "Annihilation",
+        "Control",
+        "Silent Hill"
+      ]
+    },
+    "steampunk_adventure": {
+      "combination": "Regency/Victorian + Steampunk + Transferred/Native + Exploration",
+      "description": "Aventura em era de vapor, tecnologia que parece mágica, exploração de mundos desconhecidos",
+      "protagonist_fit": "Inventor, aventureiro, ou transferido com conhecimento futuro",
+      "examples": [
+        "The Parasol Protectorate",
+        "Bioshock Infinite",
+        "Dishonored",
+        "Leviathan (Westerfeld)",
+        "The Difference Engine"
+      ]
+    },
+    "xianxia_cultivation": {
+      "combination": "Ancient Mythic + Infinite Dungeon (sects) + Native Born + System (cultivation)",
+      "description": "Cultivo de energia vital, ascensão através de estágios, sectas como facções, busca pela imortalidade",
+      "protagonist_fit": "Discípulo com potencial oculto, reincarnado com conhecimento, ou com 'sistema' especial",
+      "examples": [
+        "I Shall Seal the Heavens",
+        "A Will Eternal",
+        "Coiling Dragon",
+        "Martial World",
+        "A Record of a Mortal's Journey to Immortality"
+      ]
+    },
+    "cosmic_horror_mystery": {
+      "combination": "Deep Fantasy Alien + Layered World + Awakening + Hostile World",
+      "description": "Entidades além da compreensão, conhecimento que corrompe, mistério cósmico",
+      "protagonist_fit": "Investigador, ocultista, ou vítima que descobre demais",
+      "examples": [
+        "The Call of Cthulhu",
+        "The Shadow over Innsmouth",
+        "Annihilation",
+        "The Laundry Files",
+        "Bloodborne"
+      ]
+    },
+    "alternate_warfare": {
+      "combination": "Alternate History + Modern/Near Future + War + Technology/Magic",
+      "description": "História que tomou caminho diferente, guerra com tecnologia ou magia alternativa",
+      "protagonist_fit": "Soldado, estrategista, ou viajante entre linhas temporais",
+      "examples": [
+        "The Man in the High Castle",
+        "Wolfenstein",
+        "The Difference Engine",
+        "Leviathan",
+        "11/22/63"
+      ]
+    },
+    "cozy_healing_fantasy": {
+      "combination": "Medieval/Regency + Cozy Fantasy + Hospitable World + Slow Life",
+      "description": "Fantasia sem ameaça existencial, foco em comunidade, cura, vida simples, conforto",
+      "protagonist_fit": "Reformado, cansado de aventura, ou transferido que rejeita heroísmo",
+      "examples": [
+        "The Tea Dragon Society",
+        "Legends & Lattes",
+        "The House in the Cerulean Sea",
+        "Stardew Valley",
+        "Animal Crossing (aspectos)"
+      ]
+    }
+  },
+  "narrative_integration_guide": {
+    "with_protagonist_frameworks": {
+      "note": "Mundo determina quais arquétipos de protagonista funcionam",
+      "examples": [
+        "Modern with Gates favorece Ascendant + System User + Pragmatic",
+        "Medieval Isekai favorece Transferred + Pragmatic ou Overwhelming",
+        "Grimdark favorece Anti-Hero + Pragmatist + Monster",
+        "Cozy Fantasy favorece Any + Relaxed + Community Builder",
+        "Cosmic Horror favorece Investigator + Intuitive + Sacrificial"
+      ]
+    },
+    "with_plot_generation": {
+      "note": "Tipo de transição determina arco narrativo",
+      "mapping": {
+        "Death/Rebirth": "Arco de redenção, aceitação de nova vida, luto pelo antigo",
+        "Gate": "Arco de defesa/expansão, exploração, escolha de retorno ou permanência",
+        "Native": "Arco de crescimento orgânico, pertencimento, mudança de mundo ao redor",
+        "Awakening": "Arco de revelação, crise de realidade, responsabilidade de conhecimento",
+        "System": "Arco de otimização, gamificação da vida, questionamento de humanidade"
+      }
+    },
+    "with_tone_setting": {
+      "note": "Personalidade do mundo determina gênero predominante",
+      "mapping": {
+        "Hospitable": "Aventura, slice-of-life, shounen com esperança",
+        "Hostile": "Horror, survival, seinen com tensão constante",
+        "Indifferent": "Realismo, sobrevivência, documentário fictício",
+        "Sentient": "Mistério, negociação, thriller sobrenatural",
+        "Corrupting": "Tragédia, decadência, horror psicológico",
+        "Absurd": "Comédia, surrealismo, sátira"
+      }
+    }
+  }
+}
