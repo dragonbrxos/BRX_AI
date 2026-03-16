@@ -1,1 +1,325 @@
+{
+  "narrative_framework": {
+    "version": "3.0",
+    "type": "Universal Story Architecture — Relational Dynamics & Revelatory Structure",
+    "purpose": "Base estrutural para construção de tensão dramática, dinâmicas interpessoais, simbolismo operante e arquitetura de revelação",
+    "philosophy": "A história não é o que acontece. É o que é revelado, sentido e transformado através do encontro com o outro. A estrutura é a dança entre o visível e o oculto."
+  },
 
+  "core_systems": {
+
+    "relational_topology": {
+      "description": "Sistema de mapeamento de dinâmicas entre personagens onde o outro é espelho, não apenas obstáculo",
+
+      "relationship_archetypes": {
+        "the_mirror": "Reflete o que o protagonista é, foi ou poderia ser — força igual, caminho diferente",
+        "the_void": "Absorve sem retribuir — o protagonista projeta, nada retorna, revelando ilusões internas",
+        "the_resonance": "Vibra na mesma frequência — entendimento tácito, comunicação além das palavras",
+        "the_friction": "Gera calor através do conflito — o oposto necessário para polir ou destruir",
+        "the_anchor": "Mantém o protagonista ligado ao que ele tenta escapar — raiz, peso, lembrança",
+        "the_catalyst": "Muda tudo ao tocar — não permanece, mas transforma permanentemente",
+        "the_shadow": "Carrega o que o protagonista nega — seu inverso dependente, inseparável"
+      },
+
+      "dynamic_movements": {
+        "convergence": "Dois caminhos que se aproximam — tensão crescente, inevitabilidade",
+        "divergence": "Caminhos que se afastam — perda, nostalgia, irreversibilidade",
+        "parallel": "Caminhos lado a lado sem tocar — proximidade sem conexão, a solidão do perto",
+        "intersection": "Cruzamento momentâneo — impacto, mudança, continuação separada",
+        "entanglement": "Caminhos emaranhados — dependência, confusão de identidade, fusão ou sufocamento",
+        "orbit": "Um caminho dominando o outro — poder, admiração, ressentimento, escravização sutil"
+      },
+
+      "relational_evolution": [
+        "Stage 1: Projeção — cada um vê no outro o que precisa ver",
+        "Stage 2: Colisão — a realidade do outro quebra a projeção",
+        "Stage 3: Negociação — tentativa de moldar o outro ao que se deseja",
+        "Stage 4: Aceitação ou Separação — reconhecimento do outro como é, ou ruptura",
+        "Stage 5: Transformação Mútua — ambos mudaram irreversivelmente pelo encontro"
+      ],
+
+      "construction_rules": [
+        "Cada personagem secundário deve ser protagonista de sua própria história invisível",
+        "O antagonista deve acreditar ser o herói de sua narrativa — não vilão consciente",
+        "Relações não são estáticas — cada encontro muda a dinâmica, mesmo que sutilmente",
+        "O silêncio entre personagens deve carregar mais peso que o diálogo",
+        "A distância física entre personagens no espaço narrativo = distância emocional"
+      ]
+    },
+
+    "dramatic_economy": {
+      "description": "Sistema de construção e liberação de tensão através de investimento narrativo",
+
+      "tension_types": {
+        "suspense": "O leitor sabe algo que o personagem não sabe — angústia pela ignorância do outro",
+        "mystery": "O personagem sabe algo que o leitor não sabe — sedução pela informação oculta",
+        "dramatic_irony": "Ambos sabem, mas personagens não — agonia pela inevitabilidade",
+        "ambiguity": "Ninguém sabe completamente — incerteza como campo de possibilidades",
+        "dread": "Sabe-se que algo ruim virá, mas não quando — ansiedade temporal",
+        "hope": "Sabe-se que algo bom é possível, mas incerto — investimento emocional"
+      },
+
+      "investment_mechanics": {
+        "the_hook": "Promessa implícita de que algo valioso será entregue — o leitor compra o ingresso",
+        "the_stake": "O que pode ser ganho ou perdido — quanto maior, maior o envolvimento",
+        "the_escalation": "Aumento progressivo do que está em jogo — não repetição, amplificação",
+        "the_cost": "Pagamento real exigido — tempo, emoção, atenção, identificação",
+        "the_payoff": "Liberação proporcional ao investimento — promessa cumprida ou subvertida intencionalmente"
+      },
+
+      "rhythm_patterns": {
+        "crescendo": "Tensão que aumenta sem pausa — para climaxes de ação",
+        "pulsation": "Tensão que sobe e desce em ondas — para desenvolvimento emocional",
+        "plateau": "Tensão sustentada em nível alto — para situações de suspense prolongado",
+        "implosion": "Tensão que colapsa abruptamente — para reviravoltas",
+        "resonance": "Tensão que vibra em frequência baixa, constante — para atmosfera de horror/melancolia"
+      },
+
+      "narrative_math": [
+        "Cada cena deve alterar o valor emocional da cena anterior — nenhuma neutra",
+        "A distância entre setup e payoff pode ser longa, mas nunca esquecida",
+        "A subversão de expectativa só funciona se a expectativa foi cuidadosamente construída",
+        "O silêncio após o climax é tão importante quanto o próprio climax",
+        "A resolução deve custar algo — vitória pura é derrota narrativa"
+      ]
+    },
+
+    "symbolic_architecture": {
+      "description": "Sistema onde elementos concretos carregam significados abstratos operantes",
+
+      "symbol_types": {
+        "the_object": "Item físico que condensa relação, memória ou transformação — chave, arma, relógio, flor",
+        "the_space": "Ambiente que externaliza estado psicológico — labirinto, montanha, oceano, quarto",
+        "the_action": "Gesto repetido que se torna ritual — carregar, esperar, olhar, tocar",
+        "the_body": "Marca física que externaliza mudança interna — cicatriz, cabelo, olhos, postura",
+        "the_name": "Designação que carrega poder ou prisão — títulos, apelidos, nomes verdadeiros/falsos",
+        "the_threshold": "Limite físico que é também limite existencial — porta, ponte, fronteira, amanhecer"
+      },
+
+      "symbolic_operations": {
+        "condensation": "Muitos significados em um único símbolo — rico, ambíguo, reverberante",
+        "displacement": "Significado transferido de um símbolo para outro — metonímia, associação",
+        "repetition": "Símbolo que retorna transformado — o mesmo, mas completamente diferente",
+        "inversion": "Símbolo que vira seu oposto — o curativo torna-se veneno, a luz torna-se cegueira",
+        "multiplication": "Símbolo que se propaga — um espelho que vira sala de espelhos",
+        "void": "Símbolo que é ausência — o que falta, o espaço vazio, o silêncio"
+      },
+
+      "layered_meaning": [
+        "Surface: O símbolo como objeto literal — a espada corta, a porta abre",
+        "Personal: O símbolo como memória do protagonista — minha espada, minha porta",
+        "Relational: O símbolo como campo entre personagens — a espada que dividimos, a porta que você fechou",
+        "Thematic: O símbolo como ideia — a violência, a passagem, o poder",
+        "Mythic: O símbolo como arquétipo — Excalibur, as Portas do Inferno, o Olho que Tudo Vê",
+        "Void: O símbolo como pura forma — significado esvaziado, presença sem conteúdo"
+      ],
+
+      "construction_rules": [
+        "Símbolos devem ser concretos, nunca abstratos — 'a justiça' vira 'a balança quebrada'",
+        "Símbolos devem operar antes de serem explicados — o leitor sente antes de entender",
+        "Símbolos devem mudar de significado ao longo da narrativa — ou tornam-se clichês",
+        "Símbolos devem ter peso físico — serem sentidos, tocados, carregados, perdidos",
+        "O símbolo central deve aparecer no início e no fim, transformado irreconhecivelmente"
+      ]
+    },
+
+    "revelation_architecture": {
+      "description": "Sistema de liberação controlada de informação ao leitor",
+
+      "revelation_types": {
+        "the_twist": "Informação que recontextualiza tudo — o passado é outro",
+        "the_reveal": "Informação que confirma suspeitas — o leitor sabia, mas não tinha certeza",
+        "the_unveiling": "Informação que abre novas possibilidades — o mundo é maior",
+        "the_recognition": "Informação que o personagem já tinha, mas o leitor não — anagnórise",
+        "the_epiphany": "Informação que transforma quem a recebe — mudança de consciência",
+        "the_absence": "Informação que nunca vem — o vazio como resposta"
+      },
+
+      "information_states": {
+        "known_known": "Protagonista e leitor sabem — informação compartilhada, base comum",
+        "known_unknown": "Protagonista sabe, leitor não — mistério, sedução, exclusão",
+        "unknown_known": "Leitor sabe, protagonista não — suspense, ironia dramática, angústia",
+        "unknown_unknown": "Ninguém sabe — caos, possibilidade, terror existencial"
+      },
+
+      "narrative_strategies": {
+        "withholding": "Segurar informação estrategicamente — criar fome no leitor",
+        "teasing": "Mostrar fragmentos que sugerem o todo — criar obsessão",
+        "misdirection": "Apontar para informação errada — criar surpresa legítima",
+        "embedding": "Colocar informação crucial em plano secundário — criar recompensa para atenção",
+        "layering": "Múltiplas informações simultâneas — criar profundidade, re-leitura",
+        "echoing": "Informação que retorna com novo significado — criar arquitetura temporal"
+      },
+
+      "revelation_curve": [
+        "Opening: 60% known_known, 30% known_unknown, 10% unknown_known — estabelecer base",
+        "Inciting: 40% known_known, 40% known_unknown, 20% unknown_known — abrir mistérios",
+        "Rising: 30% known_known, 30% known_unknown, 30% unknown_known, 10% unknown_unknown — complexificar",
+        "Climax: 20% known_known, 20% known_unknown, 30% unknown_known, 30% unknown_unknown — máxima tensão",
+        "Resolution: 50% known_known, 20% known_unknown, 20% unknown_known, 10% unknown_unknown — nova base"
+      ],
+
+      "construction_rules": [
+        "Nunca revelar o que pode ser mostrado — dramatize, não narre",
+        "Nunca mostrar o que pode ser sentido — sugestão acima de demonstração",
+        "Cada revelação deve gerar novas perguntas maiores — não fechar, expandir",
+        "A revelação final deve transformar o significado da primeira cena — re-leitura obrigatória",
+        "Informação é poder — quem controla o que se sabe, controla a narrativa"
+      ]
+    },
+
+    "narratorial_presence": {
+      "description": "Sistema de construção da voz que conta a história",
+
+      "narrator_types": {
+        "the_invisible": "Ausência total — apenas os fatos, aparentemente objetivos",
+        "the_shadow": "Presença sentida, nunca vista — comentários sutis, julgamento implícito",
+        "the_confidant": "Voz que sabe mais, compartilha seletivamente — aliada do leitor, não do personagem",
+        "the_archivist": "Voz que documenta, cataloga, preserva — memória como missão",
+        "the_prophet": "Voz que vê o futuro, narra em tempo presente do passado — inevitabilidade",
+        "the_ghost": "Voz de quem já não existe — testemunho póstumo, elegia, advertência"
+      },
+
+      "distance_gradients": {
+        "intimate": "Acesso aos pensamentos mais profundos — fluído, subjetivo, imersivo",
+        "personal": "Acesso a pensamentos conscientes — claridade, identificação",
+        "proximate": "Acesso a expressões e ações — interpretação necessária",
+        "observational": "Acesso apenas ao visível — objetividade, mistério, distanciamento",
+        "historical": "Acesso apenas ao registro — fragmentação, duvida, arqueologia",
+        "cosmic": "Acesso além do humano — insignificância, horror, transcendência"
+      },
+
+      "temporal_positions": {
+        "simultaneous": "Narra enquanto acontece — urgência, imprevisibilidade",
+        "retrospective": "Narra depois de acontecer — reflexão, ironia, melancolia",
+        "anticipatory": "Narra antes de acontecer — profecia, inevitabilidade, dread",
+        "layered": "Múltiplos tempos simultâneos — memória, história, mito"
+      },
+
+      "rhetorical_operations": {
+        "irony": "Dizer o oposto do que se quer — distanciamento crítico",
+        "hyperbole": "Exagerar para revelar verdade — intensificação emocional",
+        "litotes": "Diminuir para amplificar — eufemismo, repressão, potência",
+        "ellipsis": "Omitir para sugerir — silêncio como presença",
+        "repetition": "Repetir para transformar — mantra, obsessão, mudança sutil",
+        "inversion": "Inverter ordem esperada — surpresa, desorientação, revelação"
+      }
+    },
+
+    "narrative_structure": {
+      "description": "Arquiteturas de enredo focadas em revelação e transformação relacional",
+
+      "patterns": {
+        "the_fugue": "Tema que se repete em variações — mesmo encontro, personagens diferentes, resultado transformado",
+        "the_palimpsest": "Nova história escrita sobre antiga — traços do passado visíveis no presente",
+        "the_mosaic": "Fragmentos que só fazem sentido juntos — ordem não-linear, revelação final",
+        "the_echo_chamber": "Ações que reverberam em cadeia — consequências imprevistas, culpa, responsabilidade",
+        "the_descent": "Movimento para dentro/profundo — cada camada revela camada pior/melhor",
+        "the_ascent": "Movimento para fora/amplo — cada expansão revela nova escala de significado"
+      },
+
+      "scene_types": {
+        "transaction": "Troca de informação/poder/emocão — negociação, manipulação, sedução",
+        "confrontation": "Colisão de vontades — conflito explícito, teste de força",
+        "recognition": "Momento de ver/ser visto — anagnórise, vergonha, amor, horror",
+        "departure": "Separação que muda tudo — morte, partida, transformação irreversível",
+        "return": "Chegada que não é mais volta — mudança do lugar, mudança do que voltou",
+        "silence": "Ausência de ação carregada — o não-dito, o não-feito, potência do vazio"
+      },
+
+      "ending_archetypes": {
+        "the_closure": "Círculo fechado — promessa cumprida, ordem restaurada (ou aceita)",
+        "the_aperture": "Círculo aberto — continuação implícita, mundo maior",
+        "the_fracture": "Círculo quebrado — ordem destruída, caos, liberdade ou ruína",
+        "the_moebius": "Círculo que é linha — fim é início, mas transformado irreconhecivelmente",
+        "the_void": "Sem círculo — dispersão, fragmentação, significado esvaziado"
+      }
+    }
+  },
+
+  "generation_rules": {
+
+    "relationship_weaving": [
+      "Criar pelo menos uma relação de cada arquétipo — o protagonista precisa de espelhos, voids, âncoras",
+      "Mapear onde cada relação está no ciclo de evolução — não todas no mesmo estágio",
+      "Garantir que relações mudam a cada encontro — nenhuma estática",
+      "Usar espaço físico entre personagens como linguagem — proximidade, distância, toque, isolamento",
+      "Fazer o antagonista ter relação complexa, não apenas hostil — admiração, inveja, reconhecimento"
+    ],
+
+    "tension_engineering": [
+      "Identificar o que o leitor precisa saber vs. o que quer saber — segurar o segundo",
+      "Construir múltiplas linhas de tensão simultâneas — algumas resolvem, outras escalam",
+      "Usar ritmo de pulsação para desenvolvimento emocional, crescendo para ação",
+      "Garantir que cada payoff custe algo — nenhuma vitória sem perda correspondente",
+      "Deixar silêncios após climaxes — o eco é parte da resolução"
+    ],
+
+    "symbolic_construction": [
+      "Escolher 3 símbolos centrais — um objeto, um espaço, um corpo",
+      "Fazer cada símbolo passar por todas as camadas de significado ao longo da narrativa",
+      "Garantir que símbolos operem antes de serem explicados — sensação antes de compreensão",
+      "Transformar símbolos irreconhecivelmente do início ao fim — mesma forma, outra essência",
+      "Usar símbolos como âncoras emocionais — o leitor se apega a eles, não a explicações"
+    ],
+
+    "revelation_mapping": [
+      "Planejar distribuição de informação nos 5 estados ao longo da curva de revelação",
+      "Garantir que a revelação final recontextualize a primeira cena — re-leitura obrigatória",
+      "Usar estratégia de embedding para pistas cruciais — visíveis mas não notadas",
+      "Criar pelo menos uma revelação que transforme quem a recebe — não apenas contexto",
+      "Deixar uma ausência — informação que nunca vem, vazio como resposta legítima"
+    ],
+
+    "narratorial_construction": [
+      "Escolher tipo de narrador baseado na distância emocional desejada",
+      "Mudar gradiente de distância ao longo da narrativa — aproximar para intimidade, afastar para horror",
+      "Usar operações retóricas como assinatura — ironia para crítica, elipse para sugestão",
+      "Posicionar narrador no tempo para criar efeito — urgência, melancolia, inevitabilidade",
+      "Fazer narrador ter opinião — mesmo o invisível escolhe o que mostrar"
+    ]
+  },
+
+  "quality_assurance": {
+
+    "narrative_tests": [
+      "Teste da relação: Se remover um personagem secundário, a história colapsa emocionalmente?",
+      "Teste da tensão: O leitor sente fome de informação, não confusão?",
+      "Teste do símbolo: O símbolo central funciona sem explicação textual?",
+      "Teste da revelação: A última cena muda a primeira cena retrospectivamente?",
+      "Teste da voz: O narrador tem presença discernível, mesmo que sutil?"
+    ],
+
+    "revision_checklist": [
+      "Cada relação evoluiu de estágio ao longo da narrativa?",
+      "Há tensão sustentada mesmo em cenas 'calmas'?",
+      "Os símbolos retornam transformados, não apenas repetidos?",
+      "A distribuição de informação cria curva de revelação efetiva?",
+      "A voz narrativa é consistente em seu tipo, mesmo que variando em distância?"
+    ]
+  },
+
+  "adaptation_guidelines": {
+    "genre_modifiers": {
+      "romance": "Enfatizar relational_topology (resonance, friction) + dramatic_economy (hope, suspense)",
+      "mystery": "Enfatizar revelation_architecture (withholding, misdirection) + narratorial_presence (confidant)",
+      "thriller": "Enfatizar dramatic_economy (dread, crescendo) + revelation_architecture (unknown_unknown)",
+      "horror": "Enfatizar symbolic_architecture (the_body, the_void) + narratorial_presence (ghost, cosmic)",
+      "literary": "Enfatizar all_systems_integrated — complexidade máxima, operação sutil",
+      "epic": "Enfatizar relational_topology (orbit, entanglement) + narrative_structure (the_echo_chamber)"
+    },
+
+    "length_modifiers": {
+      "short_story": "Um símbolo, uma relação, uma revelação. Foco em inversão e ressonância.",
+      "novella": "Arco relacional completo (5 estágios), símbolo que inverte, tensão de pulsação.",
+      "novel": "Múltiplas relações em diferentes estágios, arquitetura de revelação completa, voz narradora distintiva.",
+      "series": "Relações que evoluem entre volumes, símbolos que acumulam camadas, narrador que se revela."
+    }
+  },
+
+  "generation_examples": {
+    "example_1": "relational_topology (the_mirror) + dramatic_economy (irony) + symbolic_architecture (the_object) = protagonista que encontra versão alternativa de si mesmo, ambos sabem o que o outro fará, objeto compartilhado (arma, relógio) muda significado para cada um",
+    "example_2": "revelation_architecture (the_absence) + narratorial_presence (the_ghost) + narrative_structure (the_palimpsest) = narrador póstomo conta história onde informação crucial nunca é revelada, leitor só entende no fim que narrador é fantasma, passado sobrepõe presente",
+    "example_3": "symbolic_architecture (the_threshold) + dramatic_economy (dread) + relational_topology (the_catalyst) = personagem que atravessa portas que mudam quem ele é, cada passagem custa memória, encontra alguém que já perdeu tudo e ensina a valorizar o vazio"
+  }
+}
