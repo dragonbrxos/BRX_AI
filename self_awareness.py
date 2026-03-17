@@ -6,7 +6,7 @@ import hashlib
 class SelfAwareness:
     """Módulo de introspecção: Permite que o BRX analise sua própria eficácia e aprenda com o erro."""
     
-    def __init__(self, state_file=\'brain/awareness_state.json\'):
+    def __init__(self, state_file='brain/awareness_state.json'):
         self.state_file = state_file
         self.internal_state = {
             "last_thought": "",
@@ -21,13 +21,13 @@ class SelfAwareness:
 
     def load_state(self):
         if os.path.exists(self.state_file):
-            with open(self.state_file, \'r\') as f:
+            with open(self.state_file, 'r') as f:
                 try: self.internal_state.update(json.load(f))
                 except: pass
 
     def save_state(self):
         os.makedirs(os.path.dirname(self.state_file), exist_ok=True)
-        with open(self.state_file, \'w\') as f:
+        with open(self.state_file, 'w') as f:
             json.dump(self.internal_state, f, indent=2, ensure_ascii=False)
 
     def reflect_on_interaction(self, user_input, response, success_score, active_profile_name):
@@ -70,4 +70,5 @@ class SelfAwareness:
         elif conf > 0.5: status = "Analítico e Cauteloso"
         else: status = "Em fase de Re-aprendizado"
         
-        return f"[Estado Interno: {status} | Confiança: {conf:.2f} | Memórias: {len(self.internal_state[\'episodic_memory\'])}]"
+        memories_count = len(self.internal_state["episodic_memory"])
+        return f"[Estado Interno: {status} | Confiança: {conf:.2f} | Memórias: {memories_count}]"

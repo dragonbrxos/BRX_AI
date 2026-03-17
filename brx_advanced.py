@@ -12,7 +12,7 @@ class BRXAdvanced:
     Upgrade completo integrando pesquisa multi-camada ILIMITADA e raciocínio paralelo com a base BRX.
     """
     
-    def __init__(self, brain_dir='brain'):
+    def __init__(self, brain_dir="brain"): # brain_dir is now relative to the root of the repo
         self.brain_dir = brain_dir
         self.meta = {}
         self.knowledge = {}
@@ -32,7 +32,8 @@ class BRXAdvanced:
         self.load_brain()
 
     def load_brain(self):
-        """Carrega os dados do cérebro sem modificar arquivos JSON existentes."""
+        """Carrega os dados do cérebro sem modificar arquivos JSON existentes, incluindo novas pastas."""
+        # Load meta.json (still specific)
         meta_path = os.path.join(self.brain_dir, 'meta.json')
         if os.path.exists(meta_path):
             with open(meta_path, 'r') as f:
@@ -46,13 +47,26 @@ class BRXAdvanced:
         else: 
             self.meta = self.init_meta_in_memory()
 
-        knowledge_dir = os.path.join(self.brain_dir, 'knowledge')
-        if os.path.exists(knowledge_dir):
-            for filename in os.listdir(knowledge_dir):
+        # Load all other JSON files recursively from the repository root
+        repo_root = os.path.dirname(os.path.abspath(__file__)) # Get the directory where brx_advanced.py is located
+        for root, dirs, files in os.walk(repo_root):
+            for filename in files:
                 if filename.endswith('.json'):
-                    with open(os.path.join(knowledge_dir, filename), 'r') as f:
-                        try: self.knowledge.update(json.load(f))
-                        except: pass
+                    filepath = os.path.join(root, filename)
+                    # Exclude meta.json as it's loaded separately
+                    if os.path.basename(filepath) == 'meta.json' and os.path.dirname(filepath) == os.path.join(repo_root, self.brain_dir):
+                        continue
+                    
+                    with open(filepath, 'r') as f:
+                        try:
+                            data = json.load(f)
+                            # Use filename as key or merge into knowledge
+                            # For simplicity, we'll merge. A more complex system might categorize.
+                            self.knowledge.update(data)
+                        except json.JSONDecodeError:
+                            print(f"Warning: Could not decode JSON from {filepath}")
+                        except Exception as e:
+                            print(f"Error loading {filepath}: {e}")
 
     def init_meta_in_memory(self):
         """Inicializa metadados apenas em memória para respeitar a regra de não modificação."""
@@ -103,15 +117,20 @@ class BRXAdvanced:
         return response
 
     def get_status(self):
-        """Retorna o status atual do sistema de raciocínio avançado."""
+        """
+        Retorna o status atual do sistema de raciocínio avançado.
+        Inclui o número de itens de conhecimento carregados.
+        """
         return {
             "versao": self.meta.get("versao"),
             "modo_pesquisa": self.research_mode,
             "agentes_ativos": list(self.advanced_arch.reasoning_engine.styles.keys()),
             "nivel_confianca": self.self_awareness.internal_state.get("confidence_level", 1.0),
-            "capacidade": "Ilimitada (Pesquisa & Resposta)"
+            "capacidade": "Ilimitada (Pesquisa & Resposta)",
+            "total_itens_conhecimento_carregados": len(self.knowledge)
         }
 
 if __name__ == "__main__":
     ai = BRXAdvanced()
     print(f"Sistema {ai.meta['nome']} {ai.meta['versao']} - Arquitetura Ilimitada Inicializada.")
+    print(f"Total de itens de conhecimento carregados: {ai.get_status()['total_itens_conhecimento_carregados']}")
