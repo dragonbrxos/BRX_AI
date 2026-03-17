@@ -23,7 +23,7 @@ class BRXAdvanced:
         self.self_awareness = SelfAwareness()
         
         # Nova Arquitetura de Raciocínio (Pesquisa Ilimitada via DuckDuckGo)
-        self.advanced_arch = BRXAdvancedArchitecture()
+        self.advanced_arch = BRXAdvancedArchitecture(knowledge=self.knowledge)
         
         # Configurações de Pesquisa (Sem Limites)
         self.research_mode = "intensive" # Padrão para máximo aproveitamento
@@ -67,6 +67,10 @@ class BRXAdvanced:
                             print(f"Warning: Could not decode JSON from {filepath}")
                         except Exception as e:
                             print(f"Error loading {filepath}: {e}")
+        
+        # Atualiza o conhecimento na arquitetura de raciocínio após o carregamento
+        if hasattr(self, 'advanced_arch'):
+            self.advanced_arch.knowledge_retriever.knowledge = self.knowledge
 
     def init_meta_in_memory(self):
         """Inicializa metadados apenas em memória para respeitar a regra de não modificação."""
