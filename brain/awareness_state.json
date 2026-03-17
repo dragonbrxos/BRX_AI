@@ -16,11 +16,35 @@
       "success_score": 1.0,
       "was_direct_code": false,
       "profile_used": "Advanced-Unlimited"
+    },
+    {
+      "timestamp": "2026-03-17T09:51:36.729432",
+      "input_hash": "f3129bf6a8b2c11995a9b65c51aeb97a",
+      "success_score": 1.0,
+      "was_direct_code": false,
+      "profile_used": "Advanced-Unlimited"
+    },
+    {
+      "timestamp": "2026-03-17T09:51:56.128020",
+      "input_hash": "f3129bf6a8b2c11995a9b65c51aeb97a",
+      "success_score": 1.0,
+      "was_direct_code": false,
+      "profile_used": "Advanced-Unlimited"
+    },
+    {
+      "timestamp": "2026-03-17T09:52:15.833092",
+      "input_hash": "f3129bf6a8b2c11995a9b65c51aeb97a",
+      "success_score": 1.0,
+      "was_direct_code": false,
+      "profile_used": "Advanced-Unlimited"
     }
   ],
   "self_correction_count": 0,
   "version_evolution": "7.2.0",
   "active_profile_history": [
+    "Advanced-Unlimited",
+    "Advanced-Unlimited",
+    "Advanced-Unlimited",
     "Advanced-Unlimited",
     "Advanced-Unlimited"
   ]
