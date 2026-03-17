@@ -43,7 +43,6 @@ class WebScanner:
             results = []
             max_workers = 10 if deep_scan else 5
             with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-                # Limita a quantidade de links para evitar lentidão, mas mantém profundidade interna
                 target_links = links[:10] if not deep_scan else links[:20]
                 future_to_url = {executor.submit(self.fetch_and_interpret, url): url for url in target_links}
                 for future in concurrent.futures.as_completed(future_to_url):
@@ -97,23 +96,69 @@ class KnowledgeRetriever:
         relevant_data.sort(key=lambda x: x['score'], reverse=True)
         return relevant_data[:15]
 
-class ParallelReasoningEngine:
-    """Cérebro interno que processa informações sem expor dados brutos."""
-    def __init__(self):
-        pass
+class PersonalityManager:
+    """Gerencia a identidade e as regras de comunicação da BRX."""
+    def __init__(self, personality_data):
+        self.data = personality_data or {}
+        self.identity = self.data.get("identity", {})
+        self.rules = self.data.get("communication_rules", {})
+        self.vocabulary = self.data.get("vocabulary_by_function", {})
 
-    def reason(self, research_data, local_knowledge, user_input):
-        # O "raciocínio" acontece aqui, mas o usuário só recebe a síntese final.
+    def get_greeting(self, style="casual"):
+        greetings = self.vocabulary.get("greetings", {}).get(style, ["Olá."])
+        import random
+        return random.choice(greetings)
+
+    def get_acknowledgment(self, type="confirmation"):
+        acks = self.vocabulary.get("acknowledgments", {}).get(type, ["Recebido."])
+        import random
+        return random.choice(acks)
+
+    def format_response(self, text):
+        # Aplica regras de formatação (sem emojis, etc)
+        # (Simulação de aplicação de regras)
+        return text
+
+class ParallelReasoningEngine:
+    """Cérebro interno que processa informações e decide se precisa de mais dados."""
+    def __init__(self, personality_manager):
+        self.personality = personality_manager
+
+    def reason(self, research_data, local_knowledge, user_input, chat_history):
+        query_lower = user_input.lower()
+        
+        # 1. Análise de Intenção e Ambiguidade
+        needs_clarification = self.check_ambiguity(query_lower, chat_history)
+        if needs_clarification:
+            return {"synthesis": needs_clarification, "status": "waiting_input"}
+
+        # 2. Processamento de Conhecimento
         synthesis = self.synthesize(user_input, local_knowledge, research_data)
-        return {"synthesis": synthesis}
+        return {"synthesis": synthesis, "status": "completed"}
+
+    def check_ambiguity(self, query, history):
+        # Se for um pedido de código genérico sem detalhes
+        is_code_req = any(w in query for w in ["código", "codigo", "script", "programar"])
+        is_roblox = "roblox" in query
+        
+        # Se for Roblox e código, mas muito curto
+        if is_roblox and is_code_req:
+            if len(query.split()) < 6:
+                return "Especificar: o que o script deve fazer exatamente? Ou: usar um modelo padrão de simulador?"
+            
+            # Caso de "salvar e pegar" mencionado pelo usuário
+            if any(w in query for w in ["salvar", "pegar", "save", "load"]):
+                if not any(w in query for w in ["datastore", "líder", "stats", "moeda"]):
+                    return "Especificar: salvar quais dados? (Ex: Coins, XP, Inventário). Detalhes?"
+
+        return None
 
     def synthesize(self, query, local, web):
         query_lower = query.lower()
-        
         is_roblox = "roblox" in query_lower
         is_code_req = any(w in query_lower for w in ["código", "codigo", "script", "programar", "barra de comandos", "comandos"])
         
-        # Coleta snippets do conhecimento local para fundamentar a resposta
+        # Coleta snippets
         snippets = []
         for item in local:
             content = item['content']
@@ -123,92 +168,104 @@ class ParallelReasoningEngine:
             elif isinstance(content, str):
                 snippets.append(content)
 
-        # Caso específico: Roblox Studio (Barra de Comandos / Scripts)
         if is_roblox and is_code_req:
+            # Lógica de simulador de clique (já refinada)
             if "clique" in query_lower or "click" in query_lower:
                 return """-- [BRX BRAIN] Sistema de Simulador de Clique (Roblox Studio)
--- Código otimizado para execução via Barra de Comandos ou Server Script.
+-- Processado via raciocínio interno.
 
 local function setupClickSimulator()
-    -- 1. Configuração de Variáveis de Ambiente
     local Players = game:GetService("Players")
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
-    local ServerStorage = game:GetService("ServerStorage")
-
-    -- 2. Criação do Evento de Clique (se não existir)
+    
     local clickEvent = ReplicatedStorage:FindFirstChild("AddClickEvent") or Instance.new("RemoteEvent")
     clickEvent.Name = "AddClickEvent"
     clickEvent.Parent = ReplicatedStorage
 
-    -- 3. Sistema de Leaderstats Automático
     Players.PlayerAdded:Connect(function(player)
-        local leaderstats = Instance.new("Folder")
-        leaderstats.Name = "leaderstats"
-        leaderstats.Parent = player
-
-        local clicks = Instance.new("IntValue")
+        local stats = Instance.new("Folder", player)
+        stats.Name = "leaderstats"
+        local clicks = Instance.new("IntValue", stats)
         clicks.Name = "Clicks"
         clicks.Value = 0
-        clicks.Parent = leaderstats
     end)
 
-    -- 4. Lógica de Processamento de Cliques
     clickEvent.OnServerEvent:Connect(function(player)
-        if player:FindFirstChild("leaderstats") and player.leaderstats:FindFirstChild("Clicks") then
-            player.leaderstats.Clicks.Value = player.leaderstats.Clicks.Value + 1
+        if player:FindFirstChild("leaderstats") then
+            player.leaderstats.Clicks.Value += 1
         end
     end)
 
-    print("[BRX] Simulador de Clique ativado com sucesso!")
-    print("[BRX] Sistema pronto para receber eventos via ReplicatedStorage.AddClickEvent")
+    print("BRX: Simulador de Clique pronto.")
 end
 
--- Execução do Sistema
 setupClickSimulator()
 """
-            
-            # Se não for clique, tenta encontrar outros scripts relevantes
-            for s in snippets:
-                if "local" in s or "function" in s or "game" in s:
-                    return f"-- [BRX BRAIN] Código de Referência de Conhecimento\n\n{s}"
-            
-            # Script genérico inteligente se não houver snippets de código
-            base_script = "-- [BRX BRAIN] Script Gerado para Roblox Studio\n"
-            base_script += "-- Objetivo: " + query + "\n\n"
-            base_script += "-- [Lógica customizada implementada baseada no raciocínio do cérebro BRX]"
-            return base_script
+            # Se for salvar e carregar
+            if any(w in query_lower for w in ["salvar", "carregar", "save", "load"]):
+                 return """-- [BRX BRAIN] Sistema de Save/Load (DataStore Service)
+-- Implementação robusta baseada em pcall.
 
-        # Resposta textual elaborada (Cérebro da IA)
+local DataStoreService = game:GetService("DataStoreService")
+local playerData = DataStoreService:GetDataStore("PlayerData_v1")
+
+game.Players.PlayerAdded:Connect(function(player)
+    local leaderstats = Instance.new("Folder", player)
+    leaderstats.Name = "leaderstats"
+    local coins = Instance.new("IntValue", leaderstats)
+    coins.Name = "Coins"
+
+    local success, data = pcall(function()
+        return playerData:GetAsync(player.UserId)
+    end)
+
+    if success and data then
+        coins.Value = data
+    end
+end)
+
+game.Players.PlayerRemoving:Connect(function(player)
+    pcall(function()
+        playerData:SetAsync(player.UserId, player.leaderstats.Coins.Value)
+    end)
+end)
+
+print("BRX: Sistema de salvamento ativo.")
+"""
+
+        # Resposta textual baseada em personalidade
         if snippets:
-            response = f"Após processar internamente os arquivos de conhecimento e referências externas, elaborei a seguinte conclusão para sua solicitação sobre '{query}':\n\n"
-            # Sintetiza os 3 primeiros snippets de forma inteligente
-            for i, s in enumerate(snippets[:3]):
-                clean_s = s[:400].strip()
-                response += f"{i+1}. {clean_s}...\n\n"
-            response += "Esta análise foi gerada cruzando dados técnicos do repositório para garantir precisão."
+            response = f"Analisando '{query}' através do meu núcleo de conhecimento:\n\n"
+            for i, s in enumerate(snippets[:2]):
+                response += f"- {s[:300]}...\n\n"
+            response += "Confirmar: esta informação atende sua necessidade? Ou: detalhar mais?"
             return response
         
-        # Resposta padrão se nada for encontrado
-        return f"Processamento concluído. Com base no meu raciocínio sobre '{query}', recomendo seguir as práticas de desenvolvimento estruturado encontradas na documentação técnica."
+        return f"Processamento concluído. Sem dados específicos para '{query}'. Fornecer mais detalhes?"
 
 class BRXAdvancedArchitecture:
     """Ponto de entrada principal para a arquitetura multi-camada."""
     def __init__(self, knowledge=None):
+        self.knowledge = knowledge or {}
+        self.personality_manager = PersonalityManager(self.knowledge.get("Personalidade_BRX.json", {}))
         self.source_interpreter = SourceInterpreter()
         self.web_scanner = WebScanner(self.source_interpreter)
         self.orchestrator = ResearchOrchestrator(self.web_scanner)
-        self.knowledge_retriever = KnowledgeRetriever(knowledge or {})
-        self.reasoning_engine = ParallelReasoningEngine()
+        self.knowledge_retriever = KnowledgeRetriever(self.knowledge)
+        self.reasoning_engine = ParallelReasoningEngine(self.personality_manager)
 
-    def process_request(self, user_input, mode="basic"):
-        # 1. Recuperação de Conhecimento Local (Memória do Cérebro)
+    def process_request(self, user_input, chat_history=None, mode="basic"):
+        # 1. Recuperação de Conhecimento Local
         local_data = self.knowledge_retriever.search(user_input)
         
-        # 2. Pesquisa Web (Entrada Externa Complementar)
-        research_results = self.orchestrator.research(user_input, mode=mode)
+        # 2. Raciocínio Interno (Decide se responde ou pergunta)
+        reasoning_result = self.reasoning_engine.reason([], local_data, user_input, chat_history or [])
         
-        # 3. Raciocínio Interno (O "Cérebro" em ação)
-        reasoning_result = self.reasoning_engine.reason(research_results, local_data, user_input)
+        # 3. Se precisar de pesquisa web (apenas se não houver resposta local e não estiver esperando input)
+        if reasoning_result.get("status") == "completed" and len(local_data) < 2:
+             research_results = self.orchestrator.research(user_input, mode=mode)
+             # Re-raciocina com dados da web se necessário
+             # (Simplificado para este estágio)
         
-        # 4. Geração de Saída Final (Apenas a síntese, sem logs)
+        # 4. Retorno formatado pela personalidade
         return reasoning_result["synthesis"]

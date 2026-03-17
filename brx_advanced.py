@@ -109,8 +109,8 @@ class BRXAdvanced:
         })
         
         # 3. Processa usando a arquitetura avançada (Pesquisa Ilimitada + Raciocínio Paralelo)
-        # O sistema pode realizar múltiplas consultas ao DuckDuckGo conforme necessário.
-        response = self.advanced_arch.process_request(user_input, mode=self.research_mode)
+        # Passa o histórico para permitir raciocínio conversacional
+        response = self.advanced_arch.process_request(user_input, chat_history=self.chat_history, mode=self.research_mode)
         
         # 4. Reflexão (Self-Awareness) - Aprendizado com a interação
         self.self_awareness.reflect_on_interaction(user_input, response, 1.0, "Advanced-Unlimited")
