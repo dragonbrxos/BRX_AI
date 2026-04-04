@@ -1341,5 +1341,37 @@
     ],
     "titulo": "Linguagem Lua",
     "topico": "programação"
+  },
+  "464b23d1-a5b6-4660-bf56-ccd06b9ee1be": {
+    "id": "aa7c28cf-3a12-46a7-a0f4-5418e2a0a00d",
+    "texto": "O 'OpenClaw' (também referido como 'Open Clown' em alguns contextos) é um agente de IA de código aberto e local-first que ganhou destaque em 2026. Recentemente, surgiram relatos de vazamentos de dados sensíveis, como chaves de API e credenciais, através de 'skills' (habilidades) mal configuradas ou maliciosas em marketplaces de agentes.",
+    "categoria": "security",
+    "fonte": "pesquisa manus",
+    "titulo": "Vazamento OpenClaw / Open Clown",
+    "topico": "segurança em ia",
+    "palavras": [
+      "openclaw",
+      "open clown",
+      "vazamento",
+      "leak",
+      "segurança",
+      "ia",
+      "api keys"
+    ]
+  },
+  "2da06150-c576-48d8-a69d-81514b50d6e3": {
+    "id": "5f32fb9d-2a04-4384-b43e-23a7b412576e",
+    "texto": "A segurança em agentes de IA locais, como o OpenClaw, é crítica. Vazamentos recentes demonstraram que a automação e o uso de templates podem expor informações se não houver uma auditoria rigorosa das permissões e do código das ferramentas conectadas.",
+    "categoria": "security",
+    "fonte": "pesquisa manus",
+    "titulo": "Segurança em Agentes Locais",
+    "topico": "cibersegurança",
+    "palavras": [
+      "segurança",
+      "agentes",
+      "ia",
+      "local-first",
+      "vulnerabilidade"
+    ]
   }
 }
