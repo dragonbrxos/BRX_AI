@@ -45,9 +45,10 @@ class BRXHarness:
             if tool_name == "bash" or tool_name == "shell":
                 # Execução segura de comandos shell (detecta Windows/Linux)
                 cmd = params.get("command")
-                # No Windows, usa shell=True para comandos como 'dir'
+                # Traduz e executa comandos de forma compatível com o SO
+                translated_cmd = self._translate_command_for_os(cmd)
                 use_shell = True if os.name == 'nt' else False
-                process = subprocess.Popen(cmd, shell=use_shell, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+                process = subprocess.Popen(translated_cmd, shell=use_shell, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
                 stdout, stderr = process.communicate()
                 result = {"stdout": stdout, "stderr": stderr, "exit_code": process.returncode}
             
@@ -100,3 +101,25 @@ class BRXHarness:
             final_output.append(f"Passo {step['id']} ({step['action']}) concluído.")
             
         return "\n".join(final_output)
+
+    def _translate_command_for_os(self, command):
+        """
+        Traduz comandos comuns de Linux para seus equivalentes em Windows, se necessário.
+        """
+        if os.name == 'nt':  # Se for Windows
+            command_map = {
+                "ls": "dir",
+                "rm": "del",
+                "cp": "copy",
+                "mv": "move",
+                "cat": "type",
+                "grep": "findstr"
+            }
+            # Divide o comando em partes para verificar o comando principal
+            parts = command.split(maxsplit=1)
+            if parts and parts[0].lower() in command_map:
+                translated_cmd = command_map[parts[0].lower()]
+                if len(parts) > 1:
+                    translated_cmd += " " + parts[1]
+                return translated_cmd
+        return command

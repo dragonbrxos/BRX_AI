@@ -56,7 +56,7 @@ class BRXCore:
     def add_knowledge(self, key, data):
         """Adiciona novo conhecimento ao cérebro (Mantido para compatibilidade)."""
         self.knowledge[key] = data
-        training_path = os.path.join(self.brain_dir, 'knowledge', 'training.json')
+        training_path = self.brain_dir / 'knowledge' / 'training.json'
         self.save_json(training_path, self.knowledge)
 
     def save_json(self, path, data):
