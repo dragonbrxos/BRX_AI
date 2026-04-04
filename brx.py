@@ -1,4 +1,5 @@
 import os
+import sys
 import re
 import collections
 import requests
@@ -7,8 +8,10 @@ import uuid
 import random
 import json
 from datetime import datetime
+from pathlib import Path
 from bs4 import BeautifulSoup
 from brx_advanced import BRXAdvanced
+from brx_harness import BRXHarness
 
 class BRXCore:
     """
@@ -16,9 +19,17 @@ class BRXCore:
     O núcleo do sistema agora utiliza a arquitetura de pesquisa ilimitada e raciocínio paralelo.
     """
     def __init__(self, brain_dir='brain'):
-        self.brain_dir = brain_dir
+        # Abstração de caminhos para Windows/Linux
+        self.base_path = Path(__file__).parent.resolve()
+        self.brain_dir = self.base_path / brain_dir
+        
         # Inicializa o motor avançado
-        self.advanced_engine = BRXAdvanced(brain_dir=brain_dir)
+        self.advanced_engine = BRXAdvanced(brain_dir=str(self.brain_dir))
+        self.harness = BRXHarness(self)
+        
+        # Detectar Sistema Operacional
+        self.os_type = "Windows" if sys.platform.startswith("win") else "Linux"
+        print(f"[BRX CORE] Sistema detectado: {self.os_type}")
         
         # Compatibilidade com atributos antigos da GUI
         self.web_search_enabled = True
